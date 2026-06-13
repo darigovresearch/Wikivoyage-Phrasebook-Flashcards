@@ -6,43 +6,43 @@ What should you know about the evolution of Greek?|"<p id=""mwFA"">Greek has cha
 "
 What should you konw about Letters and pronounciation in Greek?|"<p id=""mwGQ"">Following are the uppercase and lowercase versions of each letter, followed by its name in English (Latin) and Greek. (You can also see how the transliteration works)</p>
 "
-<dl id=""mwGw""><dt id=""mwHA"">Α/α alpha (άλφα)</dt>|<dd id=""mwHQ"">as in p<b id=""mwHg"">a</b>t</dd>
-<dt id=""mwHw"">Ε/ε epsilon (έψιλον)</dt>|<dd id=""mwIA"">as in p<b id=""mwIQ"">e</b>t</dd>
-<dt id=""mwIg"">Η/η eeta (ήτα)</dt>|<dd id=""mwIw"">as in r<i id=""mwJA"">ee</i>d</dd>
-<dt id=""mwJQ"">Ι/ι iota (ιώτα)</dt>|<dd id=""mwJg"">as in r<i id=""mwJw"">ee</i>d, though when followed by a vowel it can often be pronounced like <b id=""mwKA"">y</b> - example: its very name, it's either said as iota or yota.</dd>
-<dt id=""mwKQ"">Ο/ο omicron (όμικρον)</dt>|<dd id=""mwKg"">as in p<b id=""mwKw"">o</b>t</dd>
-<dt id=""mwLA"">Υ/υ eepsilon (ύψιλον)</dt>|<dd id=""mwLQ"">as in r<i id=""mwLg"">ee</i>d</dd>
-<dt id=""mwLw"">Ω/ω omega (ωμέγα)</dt>|<dd id=""mwMA"">as in p<b id=""mwMQ"">o</b>t</dd></dl>
-<dl id=""mwNA""><dt id=""mwNQ"">ΑΙ/αι alpha-iota</dt>|"<dd id=""mwNg"">as in p<b id=""mwNw"">e</b>t; If you want to pronounce AI as in British English ""<b id=""mwOA"">i</b>con""   use the ϊ; the same rule applies to all other diphthongs with the I letter.</dd>"
-<dt id=""mwOQ"">ΕΙ/ει epsilon-iota</dt>|<dd id=""mwOg"">as in wh<b id=""mwOw"">ea</b>t</dd>
-<dt id=""mwPA"">ΟΙ/οι omicron-iota</dt>|<dd id=""mwPQ"">as in wh<b id=""mwPg"">ea</b>t</dd>
-<dt id=""mwPw"">ΥΙ/υι eepsilon-iota</dt>|<dd id=""mwQA"">as in wh<b id=""mwQQ"">ea</b>t</dd>
-<dt id=""mwQg"">ΟΥ/ου omicron-eepsilon</dt>|<dd id=""mwQw"">as in p<b id=""mwRA"">oo</b>l</dd>
-ΑΥ/αυ alpha-eepsilon,ΕΥ/ευ epsilon-eepsilon|<dd id=""mwRw"">For the last two diphthongs: when followed by a voiceless consonant or a vowel or nothing (end of the word), the upsilon is pronounced as <b id=""mwSA"">f</b> resulting to '<b id=""mwSQ"">af'</b> and '<b id=""mwSg"">ef'</b>; though, when followed by a voiced consonant the <b id=""mwSw"">f</b> is voiced as well making it a <b id=""mwTA"">v</b>.. so we have '<b id=""mwTQ"">av'</b> and '<b id=""mwTg"">ev'</b>. (example: 'aura' and 'tau' in Greek are pronounced as 'avra' and 'taf'.</dd></dl>
-<dl id=""mwUA""><dt id=""mwUQ"">Β/β veeta (βήτα)</dt>|<dd id=""mwUg"">V/v</dd>
-<dt id=""mwUw"">Γ/γ gamma (γάμμα)</dt>|<dd id=""mwVA"">a voiced version of chi, as w in woman, but stronger. Before epsilon (γε) and iota (γι), as in <b id=""mwVQ"">ye</b>t and <b id=""mwVg"">yi</b>ddish. Also see consonant clusters.</dd>
-<dt id=""mwVw"">Δ/δ thelta (δέλτα)</dt>|<dd id=""mwWA"">as in <b id=""mwWQ"">th</b>ose / Spanish ni<b id=""mwWg"">d</b>o / Icelandic Ð/ð</dd>
-<dt id=""mwWw"">Ζ/ζ zeeta (ζήτα)</dt>|<dd id=""mwXA"">as in <b id=""mwXQ"">zone</b></dd>
-<dt id=""mwXg"">Θ/θ theeta (θήτα)</dt>|<dd id=""mwXw"">th as in <b id=""mwYA"">th</b>orn / Icelandic Þ/þ</dd>
-<dt id=""mwYQ"">Κ/κ kappa (κάππα)</dt>|<dd id=""mwYg"">as in <b id=""mwYw"">k</b>ineti<b id=""mwZA"">c</b></dd>
-<dt id=""mwZQ"">Λ/λ lamtha (λάμδα)</dt>|<dd id=""mwZg"">L/l</dd>
-<dt id=""mwZw"">Μ/μ mee (μι)</dt>|<dd id=""mwaA"">M/m</dd>
-<dt id=""mwaQ"">Ν/ν nee (νι)</dt>|<dd id=""mwag"">N/n</dd>
-<dt id=""mwaw"">Ξ/ξ ksee (ξι)</dt>|<dd id=""mwbA"">X/x as in a<b id=""mwbQ"">x</b></dd>
-<dt id=""mwbg"">Π/π pee (πι)</dt>|<dd id=""mwbw"">P/p as in a<b id=""mwcA"">p</b>e</dd>
-<dt id=""mwcQ"">Ρ/ρ rho (ρο)</dt>|<dd id=""mwcg"">Spanish/Scottish R/r</dd>
-<dt id=""mwcw"">Σ/σ/ς sigma (σίγμα)</dt>|<dd id=""mwdA"">S/s as in <b id=""mwdQ"">s</b>ome. Before voiced consonants it gets voiced to <b id=""mwdg"">z</b></dd>
-<dt id=""mwdw"">Τ/τ taf (ταυ)</dt>|<dd id=""mweA"">T/t</dd>
-<dt id=""mweQ"">Φ/φ fee (φι)</dt>|<dd id=""mweg"">F/f</dd>
-<dt id=""mwew"">Χ/χ hee (χι)</dt>|<dd id=""mwfA"">Scottish ch [lo<b id=""mwfQ"">ch</b>] / like an H/h but with the tongue touching the palate</dd>
-<dt id=""mwfg"">Ψ/ψ psi (ψι)</dt>|<dd id=""mwfw"">as in li<b id=""mwgA"">ps</b></dd></dl>
-<dl id=""mwgw""><dt id=""mwhA"">Γκ/γκ gamma-kappa</dt>|<dd id=""mwhQ"">as in <b id=""mwhg"">g</b>o<b id=""mwhw"">ng</b></dd>
-<dt id=""mwiA"">γγ gamma-gamma</dt>|<dd id=""mwiQ"">as in <b id=""mwig"">g</b>o<b id=""mwiw"">ng</b></dd>
-<dt id=""mwjA"">γχ gamma-hee</dt>|<dd id=""mwjQ"">n+hee / like ngh in Buckingham: Μπάκιγχαμ</dd>
-<dt id=""mwjg"">Μπ/μπ mee-pee</dt>|<dd id=""mwjw"">as in <b id=""mwkA"">bumbl</b>e / B/b. At the beginning of the word is read just as b. Inside the word is pronounced like mb</dd>
-<dt id=""mwkQ"">Ντ/ντ nee-taf</dt>|<dd id=""mwkg"">as in <b id=""mwkw"">d</b>a<b id=""mwlA"">nd</b>er / D/d. At the beginning of the word is read just as d. Inside the word is pronounced like nd</dd></dl>
+Α/α alpha (άλφα)|as in p<b id=""mwHg"">a</b>t
+Ε/ε epsilon (έψιλον)|as in p<b id=""mwIQ"">e</b>t
+Η/η eeta (ήτα)|as in r<i id=""mwJA"">ee</i>d
+Ι/ι iota (ιώτα)|as in r<i id=""mwJw"">ee</i>d, though when followed by a vowel it can often be pronounced like <b id=""mwKA"">y</b> - example: its very name, it's either said as iota or yota.
+Ο/ο omicron (όμικρον)|as in p<b id=""mwKw"">o</b>t
+Υ/υ eepsilon (ύψιλον)|as in r<i id=""mwLg"">ee</i>d
+Ω/ω omega (ωμέγα)|as in p<b id=""mwMQ"">o</b>t
+ΑΙ/αι alpha-iota|"as in p<b id=""mwNw"">e</b>t; If you want to pronounce AI as in British English ""<b id=""mwOA"">i</b>con""   use the ϊ; the same rule applies to all other diphthongs with the I letter."
+ΕΙ/ει epsilon-iota|as in wh<b id=""mwOw"">ea</b>t
+ΟΙ/οι omicron-iota|as in wh<b id=""mwPg"">ea</b>t
+ΥΙ/υι eepsilon-iota|as in wh<b id=""mwQQ"">ea</b>t
+ΟΥ/ου omicron-eepsilon|as in p<b id=""mwRA"">oo</b>l
+ΑΥ/αυ alpha-eepsilon,ΕΥ/ευ epsilon-eepsilon|For the last two diphthongs: when followed by a voiceless consonant or a vowel or nothing (end of the word), the upsilon is pronounced as <b id=""mwSA"">f</b> resulting to '<b id=""mwSQ"">af'</b> and '<b id=""mwSg"">ef'</b>; though, when followed by a voiced consonant the <b id=""mwSw"">f</b> is voiced as well making it a <b id=""mwTA"">v</b>.. so we have '<b id=""mwTQ"">av'</b> and '<b id=""mwTg"">ev'</b>. (example: 'aura' and 'tau' in Greek are pronounced as 'avra' and 'taf'.
+Β/β veeta (βήτα)|V/v
+Γ/γ gamma (γάμμα)|a voiced version of chi, as w in woman, but stronger. Before epsilon (γε) and iota (γι), as in <b id=""mwVQ"">ye</b>t and <b id=""mwVg"">yi</b>ddish. Also see consonant clusters.
+Δ/δ thelta (δέλτα)|as in <b id=""mwWQ"">th</b>ose / Spanish ni<b id=""mwWg"">d</b>o / Icelandic Ð/ð
+Ζ/ζ zeeta (ζήτα)|as in <b id=""mwXQ"">zone</b>
+Θ/θ theeta (θήτα)|th as in <b id=""mwYA"">th</b>orn / Icelandic Þ/þ
+Κ/κ kappa (κάππα)|as in <b id=""mwYw"">k</b>ineti<b id=""mwZA"">c</b>
+Λ/λ lamtha (λάμδα)|L/l
+Μ/μ mee (μι)|M/m
+Ν/ν nee (νι)|N/n
+Ξ/ξ ksee (ξι)|X/x as in a<b id=""mwbQ"">x</b>
+Π/π pee (πι)|P/p as in a<b id=""mwcA"">p</b>e
+Ρ/ρ rho (ρο)|Spanish/Scottish R/r
+Σ/σ/ς sigma (σίγμα)|S/s as in <b id=""mwdQ"">s</b>ome. Before voiced consonants it gets voiced to <b id=""mwdg"">z</b>
+Τ/τ taf (ταυ)|T/t
+Φ/φ fee (φι)|F/f
+Χ/χ hee (χι)|Scottish ch [lo<b id=""mwfQ"">ch</b>] / like an H/h but with the tongue touching the palate
+Ψ/ψ psi (ψι)|as in li<b id=""mwgA"">ps</b>
+Γκ/γκ gamma-kappa|as in <b id=""mwhg"">g</b>o<b id=""mwhw"">ng</b>
+γγ gamma-gamma|as in <b id=""mwig"">g</b>o<b id=""mwiw"">ng</b>
+γχ gamma-hee|n+hee / like ngh in Buckingham: Μπάκιγχαμ
+Μπ/μπ mee-pee|as in <b id=""mwkA"">bumbl</b>e / B/b. At the beginning of the word is read just as b. Inside the word is pronounced like mb
+Ντ/ντ nee-taf|as in <b id=""mwkw"">d</b>a<b id=""mwlA"">nd</b>er / D/d. At the beginning of the word is read just as d. Inside the word is pronounced like nd
 What should you note about the Γκ/γκ, γγ, γχ, Μπ/μπ, & Ντ/ντ diphthongs?|<p id=""mwlQ""><i id=""mwlg"">All the above 5 diphthongs can be nasalized more or less depending to the speaker</i>.</p>
-What should you note about any other consonant combination other than Γκ/γκ, γγ, γχ, Μπ/μπ, & Ντ/ντ?|<dl id=""mwlw""><dt id=""mwmA"">Any other consonant combination is pronounced like their English counterparts.</dt>|<dd id=""mwmQ"">Just remember which is the proper letter in English!</dd></dl>
+What should you note about any other consonant combination other than Γκ/γκ, γγ, γχ, Μπ/μπ, & Ντ/ντ?|Any other consonant combination is pronounced like their English counterparts.|Just remember which is the proper letter in English!
 What should you know about accents in Greek?|"<p id=""mwmw"">The accent (similar in usage as in Spanish), if written, is placed on the vowel of the tonic syllable, or onto the second vowel if there's a diphthong. If there's an accent at the first vowel of a diphthong, or a diaeresis on the second, then it isn't an actual diphthong and the two vowels are pronounced separately. The former occasion is the most common, but since words written in capital letters never get accents, the diaeresis is the only way to note the broken diphthong at all-caps phrases - English such example: naïve. (diairesis = two dots on top of iota or upsilon, Ϊ/ϊ - Ϋ/ϋ)</p>"
 What should you know about vowel lengths in Greek?|<p id=""mwnA"">All vowels have the same short length. So yes, there are 2 ways to write 'e', 6 to write 'i' and 2 letters to write 'o'!</p>
 What should you konw about the Diphthongs 'γγ' and 'γχ'?|<p id=""mwnQ"">Diphthongs 'γγ' and 'γχ' are never found at the start of a word. Vowel diphthong 'υι' is very rare, virtually only in a couple words.</p>
@@ -60,348 +60,348 @@ What should you know about the difficulty of the Greek language?|"<p id=""mwpw""
 Τουαλέτα|TOILET (''too-a-LE-ta'')
 Άνδρες|MEN (''AN-dres'')
 Γυναίκες|WOMEN (''yee-NEH-kes'')
-<dd id=""mwrQ"">Γεια σας.</dd>|"<dl id=""mwqw""><dt id=""mwrA"">Hello. (<i id=""mwrg"">YAH sahss</i>) (means literally ""your health"")</dt>"
-<dd id=""mwsQ"">Γεια σου.</dd>|"<dt id=""mwrw"">Hello. (<i id=""mwsA"">informal</i>) (<i id=""mwsg"">YAH soo</i>)</dt>"
-<dd id=""mwtA"">Τι κάνετε;</dd>|"<dt id=""mwsw"">How are you? (<i id=""mwtQ"">tee KAH-neh-teh?</i>)</dt>"
-<dd id=""mwtw"">Καλά, ευχαριστώ. (Και εσείς;)</dd>|"<dt id=""mwtg"">Fine, thank you. (And you?) (<i id=""mwuA"">kah-LAH ef-khah-rees-TOH (keh eh-SEES?)</i>)</dt>"
-<dd id=""mwug"">Πώς σε λένε;</dd>|"<dt id=""mwuQ"">What is your name? (<i id=""mwuw"">pohs seh LEH-neh?</i>)</dt>"
-<dd id=""mwvQ"">Με λένε ______ . / Ονομάζομαι _____ .</dd>|"<dt id=""mwvA"">My name is ______ . (<i id=""mwvg"">Με LE-neh _____ . / Ono-MAH-zo-meh ____ .</i>)</dt>"
-<dd id=""mwwA"">Χάρηκα / Χαίρω πολύ.</dd>|"<dt id=""mwvw"">Nice to meet you. (<i id=""mwwQ"">HA-ree-ka / ΗEH-ro po-LEE</i>)</dt>"
-<dd id=""mwww"">Παρακαλώ.</dd>|"<dt id=""mwwg"">Please. (<i id=""mwxA"">pah-rah-kah-LOH</i>)</dt>"
-<dd id=""mwxg"">Ευχαριστώ (πολύ).</dd>|"<dt id=""mwxQ"">Thank you (very much). (<i id=""mwxw"">ef-hah-rees-TOH po-LEE</i>)</dt>"
-<dd id=""mwyQ"">Παρακαλώ.</dd>|"<dt id=""mwyA"">You're welcome. (<i id=""mwyg"">Pah-rah-kah-LOH</i>)</dt>"
-<dd id=""mwzA"">Ναι / Μάλιστα (polite) .</dd>|"<dt id=""mwyw"">Yes. (<i id=""mwzQ"">neh / MAH-li-sta</i>)</dt>"
-<dd id=""mwzw"">Όχι.</dd>|"<dt id=""mwzg"">No. (<i id=""mw0A"">OH-hee</i>)</dt>"
-<dd id=""mw0w"">Συγγνώμη / Με συγχωρείτε .</dd>|"<dt id=""mw0Q"">Excuse me. (<i id=""mw0g"">getting attention</i>) (<i id=""mw1A"">See-GHNO-mee</i> / <i id=""mw1Q"">Meh seen-ho-REE-teh</i>)</dt>"
-<dd id=""mw2A"">Συγγνώμη.</dd>|"<dt id=""mw1g"">Excuse me. (<i id=""mw1w"">begging pardon</i>) (<i id=""mw2Q"">See-GHNO-mee</i>)</dt>"
-<dd id=""mw2w"">Λυπάμαι.</dd>|"<dt id=""mw2g"">I'm sorry. (<i id=""mw3A"">lee-PAH-meh</i>)</dt>"
-<dd id=""mw3g"">Τα λέμε.</dd>|"<dt id=""mw3Q"">See you later. (<i id=""mw3w"">Ta LE-me</i>)</dt>"
-<dd id=""mw4Q"">Αντίο.</dd>|"<dt id=""mw4A"">Goodbye. (<i id=""mw4g"">AHN-dee-oh</i>)</dt>"
-<dd id=""mw5A"">Δεν μιλώ (καλά) ελληνικά.</dd>|"<dt id=""mw4w"">I can't speak Greek [well]. (<i id=""mw5Q"">dhen mee-LOH KAH-lah eh-lee-nee-KAH</i>)</dt>"
-<dd id=""mw5w"">Μιλάτε αγγλικά;</dd>|"<dt id=""mw5g"">Do you speak English? (<i id=""mw6A"">mee-LAH-teh ang-glee-KAH?</i>)</dt>"
-<dd id=""mw6g"">Μιλάει κανείς εδώ αγγλικά;</dd>|"<dt id=""mw6Q"">Is there someone here who speaks English? (<i id=""mw6w"">Mee-LAH-ee ka-NEES e-DHO ang-glee-KAH?</i>)</dt>"
-<dd id=""mw7Q"">Βοήθεια!</dd>|"<dt id=""mw7A"">Help! (<i id=""mw7g"">Voh-EE-thee-yah!</i>)</dt>"
-<dd id=""mw8A"">Καλημέρα.</dd>|"<dt id=""mw7w"">Good day. / Good morning. (<i id=""mw8Q"">kah-lee-MEH-rah</i>)</dt>"
-<dd id=""mw8w"">Καλησπέρα.</dd>|"<dt id=""mw8g"">Good evening. (<i id=""mw9A"">kah-lee-SPEH-rah</i>)</dt>"
-<dd id=""mw9g"">Καληνύχτα.</dd>|"<dt id=""mw9Q"">Good night. (<i id=""mw9w"">kah-lee-NEEKΗ-tah</i>)</dt>"
-<dd id=""mw-Q"">Δεν καταλαβαίνω.</dd>|"<dt id=""mw-A"">I don't understand. (<i id=""mw-g"">dhen kah-tah-lah-VEH-no</i>)</dt>"
-<dd id=""mw_A"">Που είναι η τουαλέτα;</dd>|"<dt id=""mw-w"">Where is the toilet? (<i id=""mw_Q"">poo ΕΕ-ne ee too-ah-LEH-tah?</i>)</dt>"
-<dd id=""mw_w"">Σ'αγαπώ</dd>|"<dt id=""mw_g"">I love you (<i id=""mwAQA"">sa-gha-POH</i>)</dt>"
-<dd id=""mwAQI"">Είσαι όμορφη/όμορφος.</dd>|"<dt id=""mwAQE"">You are beautiful/handsome (<i id=""mwAQM"">EE-seh OH-mor-fee/OH-mor-fos</i>)</dt>"
-<dd id=""mwAQU"">Έχεις ωραία μάτια.</dd></dl>|"<dt id=""mwAQQ"">You have nice eyes (<i id=""mwAQY"">E-khees or-EH-ah MA-tiah</i>)</dt>"
-<dd id=""mwAQo"">Αφήστε με ήσυχο (male)/ ήσυχη (female).</dd>|"<dl id=""mwAQg""><dt id=""mwAQk"">Leave me alone. (<i id=""mwAQs"">a-FIS-te me EE-si-kho / EE-si-khee</i>)</dt></dl>"
-<dd id=""mwAQ0"">Μην με αγγίζεις!</dd>|"<dt id=""mwAQw"">Don't touch me! (<i id=""mwAQ4"">meen meh ang-GEEH-zees</i>)</dt>"
-<dd id=""mwARA"">Θα καλέσω την αστυνομία.</dd>|"<dt id=""mwAQ8"">I'll call the police. (<i id=""mwARE"">Tha kah-LEH-soh teen ah-stih-noh-MIH-ah</i>)</dt>"
-<dd id=""mwARM"">Αστυνομία!</dd>|"<dt id=""mwARI"">Police! (<i id=""mwARQ"">ah-stih-noh-MIH-ah</i>)</dt>"
-<dd id=""mwARY"">Σταματήστε τον κλέφτη!</dd>|"<dt id=""mwARU"">Stop! Thief! (<i id=""mwARc"">Stah-mah-TIH-steh ton KLEH-ftee!</i>)</dt>"
-<dd id=""mwARk"">Χρειάζομαι την βοήθειά σας.</dd>|"<dt id=""mwARg"">I need your help. (<i id=""mwARo"">hreeh-AH-zoh-meh teen voh-EEH-thih-AH sas</i>)</dt>"
-<dd id=""mwARw"">Είναι επείγον.</dd>|"<dt id=""mwARs"">It's an emergency. (<i id=""mwAR0"">EEH-neh eh-PEEH-ghon</i>)</dt>"
-<dd id=""mwAR8"">Έχω χαθεί.</dd>|"<dt id=""mwAR4"">I'm lost. (<i id=""mwASA"">EH-hoh hah-THEEH</i>)</dt>"
-<dd id=""mwASI"">Έχασα την τσάντα μου.</dd>|"<dt id=""mwASE"">I lost my bag. (<i id=""mwASM"">EH-hah-sah teen TSAHN-dah mooh</i>)</dt>"
-<dd id=""mwASU"">Έχασα το πορτοφόλι μου.</dd>|"<dt id=""mwASQ"">I lost my wallet. (<i id=""mwASY"">EH-hah-sah toh por-toh-FOH-leeh mooh</i>)</dt>"
-<dd id=""mwASg"">Είμαι άρρωστος/τη .</dd>|"<dt id=""mwASc"">I'm sick. (<i id=""mwASk"">EE-me hah-ROHS-tos/tee</i>)</dt>"
-<dd id=""mwASs"">Είμαι τραυματισμένος/νη.</dd>|"<dt id=""mwASo"">I've been injured. (<i id=""mwASw"">EEH-meh trav-mah-tees-MEH-nos/nee</i>)</dt>"
-<dd id=""mwAS4"">Χρειάζομαι γιατρό.</dd>|"<dt id=""mwAS0"">I need a doctor. (<i id=""mwAS8"">hree-AH-zoh-meh yiah-TROH</i>)</dt>"
-<dd id=""mwATE"">Μπορώ να χρησιμοποιήσω το τηλέφωνό σας;</dd>|"<dt id=""mwATA"">Can I use your phone? (<i id=""mwATI"">mboh-ROH nah khree-see-moh-pee-EEH-soh toh tee-LEH-foh-NOH sahs?</i>)</dt>"
+Γεια σας.|"Hello. (<i id=""mwrg"">YAH sahss</i>) (means literally ""your health"")"
+Γεια σου.|"Hello. (<i id=""mwsA"">informal</i>) (<i id=""mwsg"">YAH soo</i>)"
+Τι κάνετε;|"How are you? (<i id=""mwtQ"">tee KAH-neh-teh?</i>)"
+Καλά, ευχαριστώ. (Και εσείς;)|"Fine, thank you. (And you?) (<i id=""mwuA"">kah-LAH ef-khah-rees-TOH (keh eh-SEES?)</i>)"
+Πώς σε λένε;|"What is your name? (<i id=""mwuw"">pohs seh LEH-neh?</i>)"
+Με λένε ______ . / Ονομάζομαι _____ .|"My name is ______ . (<i id=""mwvg"">Με LE-neh _____ . / Ono-MAH-zo-meh ____ .</i>)"
+Χάρηκα / Χαίρω πολύ.|"Nice to meet you. (<i id=""mwwQ"">HA-ree-ka / ΗEH-ro po-LEE</i>)"
+Παρακαλώ.|"Please. (<i id=""mwxA"">pah-rah-kah-LOH</i>)"
+Ευχαριστώ (πολύ).|"Thank you (very much). (<i id=""mwxw"">ef-hah-rees-TOH po-LEE</i>)"
+Παρακαλώ.|"You're welcome. (<i id=""mwyg"">Pah-rah-kah-LOH</i>)"
+Ναι / Μάλιστα (polite) .|"Yes. (<i id=""mwzQ"">neh / MAH-li-sta</i>)"
+Όχι.|"No. (<i id=""mw0A"">OH-hee</i>)"
+Συγγνώμη / Με συγχωρείτε .|"Excuse me. (<i id=""mw0g"">getting attention</i>) (<i id=""mw1A"">See-GHNO-mee</i> / <i id=""mw1Q"">Meh seen-ho-REE-teh</i>)"
+Συγγνώμη.|"Excuse me. (<i id=""mw1w"">begging pardon</i>) (<i id=""mw2Q"">See-GHNO-mee</i>)"
+Λυπάμαι.|"I'm sorry. (<i id=""mw3A"">lee-PAH-meh</i>)"
+Τα λέμε.|"See you later. (<i id=""mw3w"">Ta LE-me</i>)"
+Αντίο.|"Goodbye. (<i id=""mw4g"">AHN-dee-oh</i>)"
+Δεν μιλώ (καλά) ελληνικά.|"I can't speak Greek [well]. (<i id=""mw5Q"">dhen mee-LOH KAH-lah eh-lee-nee-KAH</i>)"
+Μιλάτε αγγλικά;|"Do you speak English? (<i id=""mw6A"">mee-LAH-teh ang-glee-KAH?</i>)"
+Μιλάει κανείς εδώ αγγλικά;|"Is there someone here who speaks English? (<i id=""mw6w"">Mee-LAH-ee ka-NEES e-DHO ang-glee-KAH?</i>)"
+Βοήθεια!|"Help! (<i id=""mw7g"">Voh-EE-thee-yah!</i>)"
+Καλημέρα.|"Good day. / Good morning. (<i id=""mw8Q"">kah-lee-MEH-rah</i>)"
+Καλησπέρα.|"Good evening. (<i id=""mw9A"">kah-lee-SPEH-rah</i>)"
+Καληνύχτα.|"Good night. (<i id=""mw9w"">kah-lee-NEEKΗ-tah</i>)"
+Δεν καταλαβαίνω.|"I don't understand. (<i id=""mw-g"">dhen kah-tah-lah-VEH-no</i>)"
+Που είναι η τουαλέτα;|"Where is the toilet? (<i id=""mw_Q"">poo ΕΕ-ne ee too-ah-LEH-tah?</i>)"
+Σ'αγαπώ|"I love you (<i id=""mwAQA"">sa-gha-POH</i>)"
+Είσαι όμορφη/όμορφος.|"You are beautiful/handsome (<i id=""mwAQM"">EE-seh OH-mor-fee/OH-mor-fos</i>)"
+Έχεις ωραία μάτια.|"You have nice eyes (<i id=""mwAQY"">E-khees or-EH-ah MA-tiah</i>)"
+Αφήστε με ήσυχο (male)/ ήσυχη (female).|"Leave me alone. (<i id=""mwAQs"">a-FIS-te me EE-si-kho / EE-si-khee</i>)"
+Μην με αγγίζεις!|"Don't touch me! (<i id=""mwAQ4"">meen meh ang-GEEH-zees</i>)"
+Θα καλέσω την αστυνομία.|"I'll call the police. (<i id=""mwARE"">Tha kah-LEH-soh teen ah-stih-noh-MIH-ah</i>)"
+Αστυνομία!|"Police! (<i id=""mwARQ"">ah-stih-noh-MIH-ah</i>)"
+Σταματήστε τον κλέφτη!|"Stop! Thief! (<i id=""mwARc"">Stah-mah-TIH-steh ton KLEH-ftee!</i>)"
+Χρειάζομαι την βοήθειά σας.|"I need your help. (<i id=""mwARo"">hreeh-AH-zoh-meh teen voh-EEH-thih-AH sas</i>)"
+Είναι επείγον.|"It's an emergency. (<i id=""mwAR0"">EEH-neh eh-PEEH-ghon</i>)"
+Έχω χαθεί.|"I'm lost. (<i id=""mwASA"">EH-hoh hah-THEEH</i>)"
+Έχασα την τσάντα μου.|"I lost my bag. (<i id=""mwASM"">EH-hah-sah teen TSAHN-dah mooh</i>)"
+Έχασα το πορτοφόλι μου.|"I lost my wallet. (<i id=""mwASY"">EH-hah-sah toh por-toh-FOH-leeh mooh</i>)"
+Είμαι άρρωστος/τη .|"I'm sick. (<i id=""mwASk"">EE-me hah-ROHS-tos/tee</i>)"
+Είμαι τραυματισμένος/νη.|"I've been injured. (<i id=""mwASw"">EEH-meh trav-mah-tees-MEH-nos/nee</i>)"
+Χρειάζομαι γιατρό.|"I need a doctor. (<i id=""mwAS8"">hree-AH-zoh-meh yiah-TROH</i>)"
+Μπορώ να χρησιμοποιήσω το τηλέφωνό σας;|"Can I use your phone? (<i id=""mwATI"">mboh-ROH nah khree-see-moh-pee-EEH-soh toh tee-LEH-foh-NOH sahs?</i>)"
 What should you note about certain numbers in Greek?|"<p id=""mwATQ"">The different forms of 1, 2-4, 13, 14, 21, 23, 1000, are used with nouns of different genders.</p>"
-<dd id=""mwATc"">ένας/μία/ένα</dd>|"<dt id=""mwATY"">1 (<i id=""mwATg"">EH-nahs / MEE-ah / EH-nah</i>)</dt>"
-<dd id=""mwATo"">δύο</dd>|"<dt id=""mwATk"">2 (<i id=""mwATs"">DHEE-oh</i>)</dt>"
-<dd id=""mwAT0"">τρεις/τρία</dd>|"<dt id=""mwATw"">3 (<i id=""mwAT4"">trees / TREE-ah</i>)</dt>"
-<dd id=""mwAUA"">τέσσερις/τέσσερα</dd>|"<dt id=""mwAT8"">4 (<i id=""mwAUE"">TESS-a-reess / TESS-a-rah</i>)</dt>"
-<dd id=""mwAUM"">πέντε</dd>|"<dt id=""mwAUI"">5 (<i id=""mwAUQ"">PEN-deh</i>)</dt>"
-<dd id=""mwAUY"">έξι</dd>|"<dt id=""mwAUU"">6 (<i id=""mwAUc"">EH-xee</i>)</dt>"
-<dd id=""mwAUk"">επτά</dd>|"<dt id=""mwAUg"">7 (<i id=""mwAUo"">ep-TAH</i>)</dt>"
-<dd id=""mwAUw"">οκτώ</dd>|"<dt id=""mwAUs"">8 (<i id=""mwAU0"">okh-TOH</i>)</dt>"
-<dd id=""mwAU8"">εννέα</dd>|"<dt id=""mwAU4"">9 (<i id=""mwAVA"">en-EH-ah</i>)</dt>"
-<dd id=""mwAVI"">δέκα</dd>|"<dt id=""mwAVE"">10 (<i id=""mwAVM"">DHEH-kah</i>)</dt>"
-<dd id=""mwAVU"">έντεκα</dd>|"<dt id=""mwAVQ"">11 (<i id=""mwAVY"">EN-deh-kah</i>)</dt>"
-<dd id=""mwAVg"">δώδεκα</dd>|"<dt id=""mwAVc"">12 (<i id=""mwAVk"">DHOH-dheh-kah</i>)</dt>"
-<dd id=""mwAVs"">δεκατρείς/δεκατρία</dd>|"<dt id=""mwAVo"">13 (<i id=""mwAVw"">dheh-kah-TREES / dheh-kah-TREE-ah</i>)</dt>"
-<dd id=""mwAV4"">δεκατέσσερις/δεκατέσσερα</dd>|"<dt id=""mwAV0"">14 (<i id=""mwAV8"">dheh-kah-TESS-eh-rees / dheh-kah-TESS-eh-ra</i>)</dt>"
-<dd id=""mwAWE"">δεκαπέντε</dd>|"<dt id=""mwAWA"">15 (<i id=""mwAWI"">dheh-kah-PEN-deh</i>)</dt>"
-<dd id=""mwAWQ"">δεκαέξι</dd>|"<dt id=""mwAWM"">16 (<i id=""mwAWU"">dheh-kah-EX-ee</i>)</dt>"
-<dd id=""mwAWc"">δεκαεπτά</dd>|"<dt id=""mwAWY"">17 (<i id=""mwAWg"">dheh-kah-ep-TAH</i>)</dt>"
-<dd id=""mwAWo"">δεκαοχτώ</dd>|"<dt id=""mwAWk"">18 (<i id=""mwAWs"">dheh-kah-okh-TOH</i>)</dt>"
-<dd id=""mwAW0"">δεκαεννέα</dd>|"<dt id=""mwAWw"">19 (<i id=""mwAW4"">dheh-kah-en-EH-ah</i>)</dt>"
-<dd id=""mwAXA"">είκοσι</dd>|"<dt id=""mwAW8"">20 (<i id=""mwAXE"">EE-koss-ee</i>)</dt>"
-<dd id=""mwAXM"">εικοσιένας/εικοσιμία/εικοσιένα</dd>|"<dt id=""mwAXI"">21 (<i id=""mwAXQ"">ee-koss-ee-EN-ahs / ee-koss-ee-MEE-ah / ee-koss-ee-EH-nah</i>)</dt>"
-<dd id=""mwAXY"">εικοσιδύο</dd>|"<dt id=""mwAXU"">22 (<i id=""mwAXc"">ee-koss-ee-DHEE-oh</i>)</dt>"
-<dd id=""mwAXk"">εικοσιτρείς/εικοσιτρία</dd>|"<dt id=""mwAXg"">23 (<i id=""mwAXo"">ee-koss-ee-TREES / ee-koss-ee-TREE-ah</i>)</dt>"
-<dd id=""mwAXw"">τριάντα</dd>|"<dt id=""mwAXs"">30 (<i id=""mwAX0"">tree-AHN-dah</i>)</dt>"
-<dd id=""mwAX8"">σαράντα</dd>|"<dt id=""mwAX4"">40 (<i id=""mwAYA"">sah-RAHN-dah</i>)</dt>"
-<dd id=""mwAYI"">πενήντα</dd>|"<dt id=""mwAYE"">50 (<i id=""mwAYM"">peh-NEEN-dah</i>)</dt>"
-<dd id=""mwAYU"">εξήντα</dd>|"<dt id=""mwAYQ"">60 (<i id=""mwAYY"">ex-EEN-dah</i>)</dt>"
-<dd id=""mwAYg"">εβδομήντα</dd>|"<dt id=""mwAYc"">70 (<i id=""mwAYk"">ev-dhoh-MEEN-dah</i>)</dt>"
-<dd id=""mwAYs"">ογδόντα</dd>|"<dt id=""mwAYo"">80 (<i id=""mwAYw"">ogh-DHON-dah</i>)</dt>"
-<dd id=""mwAY4"">ενενήντα</dd>|"<dt id=""mwAY0"">90 (<i id=""mwAY8"">en-en-EEN-dah</i>)</dt>"
-<dd id=""mwAZE"">εκατό</dd>|"<dt id=""mwAZA"">100 (<i id=""mwAZI"">eh-kah-TO</i>)</dt>"
-<dd id=""mwAZQ"">διακόσιοι/διακόσιες/διακόσια</dd>|"<dt id=""mwAZM"">200 (<i id=""mwAZU"">dhyah-KOH-syah</i>)</dt>"
-<dd id=""mwAZc"">τριακόσιοι/τριακόσιες/τριακόσια</dd>|"<dt id=""mwAZY"">300 (<i id=""mwAZg"">tryah-KOH-syah</i>)</dt>"
-<dd id=""mwAZo"">χίλιοι/χίλιες/χίλια</dd>|"<dt id=""mwAZk"">1000 (<i id=""mwAZs"">KHEE-lee-ee / KHEE-lyehs / KHEE-lyah</i>)</dt>"
-<dd id=""mwAZ0"">δύο χιλιάδες</dd>|"<dt id=""mwAZw"">2000 (<i id=""mwAZ4"">DHEE-oh khee-lyAH-dhes</i>)</dt>"
-<dd id=""mwAaA"">δέκα χιλιάδες</dd>|"<dt id=""mwAZ8"">10,000 (<i id=""mwAaE"">DHEH-kah khee-lyAH-dhes</i>)</dt>"
-<dd id=""mwAaM"">ένα εκατομμύριο</dd>|"<dt id=""mwAaI"">1,000,000 (<i id=""mwAaQ"">EH-nah eh-kah-to-MEE-ryoh</i>)</dt>"
-<dd id=""mwAac"">αριθμός _____</dd>|"<dt id=""mwAaU"">number _____ (<i id=""mwAaY"">train, bus, etc.</i>) (<i id=""mwAag"">ah-rith-MOS</i>)</dt>"
-<dd id=""mwAao"">μισός/μισή/μισό</dd>|"<dt id=""mwAak"">half (<i id=""mwAas"">mee-SSOHS / mee-SSEE / mee-SSOH</i>)</dt>"
-<dd id=""mwAa0"">λιγότερος/πιο λίγος/λιγότερη/πιο λίγη/λιγότερο/πιο λίγο</dd>|"<dt id=""mwAaw"">less (<i id=""mwAa4"">lee-GHO-teh-rohs / lee-GHO-teh-ree / lee-GHO-teh-roh</i>)</dt>"
-<dd id=""mwAbA"">περισσότερος/πιο πολύς/περισσότερη/πιο πολλή/περισσότερο/πιο πολύ</dd></dl>|"<dt id=""mwAa8"">more (<i id=""mwAbE"">peh-ree-SSOH-teh-rohs / peh-ree-SSOH-teh-ree / peh-ree-SSOH-teh-ro</i>)</dt>"
-<dd id=""mwAbU"">τώρα</dd>|<dl id=""mwAbM""><dt id=""mwAbQ"">now (<i id=""mwAbY"">TOH-rah</i>)</dt>
-<dd id=""mwAbg"">αργότερα</dd>|"<dt id=""mwAbc"">later (<i id=""mwAbk"">ar-GHOH-teh-rah</i>)</dt>"
-<dd id=""mwAbs"">πριν</dd>|"<dt id=""mwAbo"">before (<i id=""mwAbw"">preen</i>)</dt>"
-<dd id=""mwAb4"">πρωί</dd>|"<dt id=""mwAb0"">morning (<i id=""mwAb8"">proh-EE</i>)</dt>"
-<dd id=""mwAcE"">απόγευμα</dd>|"<dt id=""mwAcA"">afternoon (<i id=""mwAcI"">a-POH-yev-ma</i>)</dt>"
-<dd id=""mwAcQ"">βράδυ</dd>|"<dt id=""mwAcM"">evening (<i id=""mwAcU"">VRAH-thee</i>)</dt>"
-<dd id=""mwAcc"">νύχτα</dl>|<dt id=""mwAcY"">night (<i id=""mwAcg"">NEE-htah</i>)</dd></dt>
-<dd id=""mwAcw"">μία η ώρα το πρωί(<i id=""mwAc0"">...</i>)</dd>|<dl id=""mwAco""><dt id=""mwAcs"">one o'clock AM</dt>
-<dd id=""mwAc8"">δύο η ώρα το πρωί(<i id=""mwAdA"">...</i>)</dd>|<dt id=""mwAc4"">two o'clock AM</dt>
-<dd id=""mwAdI"">το μεσημέρι, μεσημέρι (12.00<span typeof=""mw:DisplaySpace"" id=""mwAd8""> </span>: δώδεκα το μεσημέρι, δώδεκα το βράδυ/τα μεσάνυχτα)</dd>|"<dt id=""mwAdE"">noon (<i id=""mwAdM"">toh mess-ee-MEHR-ee</i>)</dt>"
-<dd id=""mwAdU"">μία η ώρα το απόγευμα(<i id=""mwAdY"">...</i>)</dd>|<dt id=""mwAdQ"">one o'clock PM</dt>
-<dd id=""mwAdg"">δύο η ώρα το απόγευμα(<i id=""mwAdk"">...</i>)</dd>|<dt id=""mwAdc"">two o'clock PM</dt>
-<dd id=""mwAds"">τα μεσάνυχτα</dd>|"<dt id=""mwAdo"">midnight (<i id=""mwAdw"">tah meh-SAH-neekh-tah</i>)</dt>"
-<dd id=""mwAeM"">_____ λεπτό/λεπτά</dd>|<dl id=""mwAeE""><dt id=""mwAeI"">_____ minute(s) (<i id=""mwAeQ"">lep-TOH/TAH</i>)</dt>
-<dd id=""mwAeY"">_____ ώρα/ώρες</dd>|<dt id=""mwAeU"">_____ hour(s) (<i id=""mwAec"">OH-rah/res</i>)</dt>
-<dd id=""mwAek"">_____ μέρα/μέρες</dd>|<dt id=""mwAeg"">_____ day(s) (<i id=""mwAeo"">MEH-rah/res</i>)</dt>
-<dd id=""mwAew"">_____ εβδομάδα/δες</dd>|<dt id=""mwAes"">_____ week(s) (<i id=""mwAe0"">ev-dhoh-MAH-dhah/dhes</i>)</dt>
-<dd id=""mwAe8"">_____ μήνας/μήνες</dd>|<dt id=""mwAe4"">_____ month(s) (<i id=""mwAfA"">MEEN / MEE-nes</i>)</dt>
-<dd id=""mwAfI"">_____ έτος/χρόνος/χρονιά/έτη/χρόνοι/χρονιές</dd></dl>|<dt id=""mwAfE"">_____ year(s)</dt>
-<dd id=""mwAfY"">σήμερα</dd>|"<dl id=""mwAfQ""><dt id=""mwAfU"">today (<i id=""mwAfc"">SEE-meh-ra</i>)</dt>"
-<dd id=""mwAfk"">χτες</dd>|"<dt id=""mwAfg"">yesterday (<i id=""mwAfo"">khtes</i>)</dt>"
-<dd id=""mwAfw"">αύριο</dd>|"<dt id=""mwAfs"">tomorrow (<i id=""mwAf0"">AHV-ree-oh</i>)</dt>"
-<dd id=""mwAf8"">αυτή την εβδομάδα (<i id=""mwAgA"">...</i>)</dd>|<dt id=""mwAf4"">this week</dt>
-<dd id=""mwAgI"">την προηγούμενη εβδομάδα (<i id=""mwAgM"">...</i>)</dd>|<dt id=""mwAgE"">last week</dt>
-<dd id=""mwAgU"">την επόμενη εβδομάδα (<i id=""mwAgY"">...</i>)</dd>|<dt id=""mwAgQ"">next week</dt>
-<dd id=""mwAgk"">Κυριακή</dd>|"<dl id=""mwAgc""><dt id=""mwAgg"">Sunday (<i id=""mwAgo"">kee-ree-ah-KEE</i>)</dt>"
-<dd id=""mwAgw"">Δευτέρα</dd>|"<dt id=""mwAgs"">Monday (<i id=""mwAg0"">dhef-TEH-rah</i>)</dt>"
-<dd id=""mwAg8"">Τρίτη</dd>|"<dt id=""mwAg4"">Tuesday (<i id=""mwAhA"">TREE-tee</i>)</dt>"
-<dd id=""mwAhI"">Τετάρτη</dd>|"<dt id=""mwAhE"">Wednesday (<i id=""mwAhM"">teh-TAR-tee</i>)</dt>"
-<dd id=""mwAhU"">Πέμπτη</dd>|"<dt id=""mwAhQ"">Thursday (<i id=""mwAhY"">PEM-tee</i>)</dt>"
-<dd id=""mwAhg"">Παρασκευή</dd>|"<dt id=""mwAhc"">Friday (<i id=""mwAhk"">pah-rah-skeh-VEE</i>)</dt>"
-<dd id=""mwAhs"">Σάββατο</dl>|"<dt id=""mwAho"">Saturday (<i id=""mwAhw"">SAH-vah-toh</i>)</dd></dt>"
-<dd id=""mwAiA"">Ιανουάριος</dd>|"<dl id=""mwAh4""><dt id=""mwAh8"">January (<i id=""mwAiE"">Eea-NOOAH-reeos</i>)</dt>"
-<dd id=""mwAiM"">Φεβρουάριος</dd>|"<dt id=""mwAiI"">February (<i id=""mwAiQ"">fe-VROOAH-reeos</i>)</dt>"
-<dd id=""mwAiY"">Μάρτιος</dd>|"<dt id=""mwAiU"">March (<i id=""mwAic"">MAHR-teeos</i>)</dt>"
-<dd id=""mwAik"">Απρίλιος</dd>|"<dt id=""mwAig"">April (<i id=""mwAio"">ah-PREE-leeos</i>)</dt>"
-<dd id=""mwAiw"">Μάϊος</dd>|"<dt id=""mwAis"">May (<i id=""mwAi0"">MAH-yos</i>)</dt>"
-<dd id=""mwAi8"">Ιούνιος</dd>|"<dt id=""mwAi4"">June (<i id=""mwAjA"">ee-OOH-neeos</i>)</dt>"
-<dd id=""mwAjI"">Ιούλιος</dd>|"<dt id=""mwAjE"">July (<i id=""mwAjM"">ee-OOH-leeos</i>)</dt>"
-<dd id=""mwAjU"">Αύγουστος</dd>|"<dt id=""mwAjQ"">August (<i id=""mwAjY"">AHV-ghoo-stos</i>)</dt>"
-<dd id=""mwAjg"">Σεπτέμβριος</dd>|"<dt id=""mwAjc"">September (<i id=""mwAjk"">sep-TEHM-vreeos</i>)</dt>"
-<dd id=""mwAjs"">Οκτώβριος</dd>|"<dt id=""mwAjo"">October (<i id=""mwAjw"">ok-TOH-vreeos</i>)</dt>"
-<dd id=""mwAj4"">Νοέμβριος</dd>|"<dt id=""mwAj0"">November (<i id=""mwAj8"">noh-EM-vreeos</i>)</dt>"
-<dd id=""mwAkE"">Δεκέμβριος</dd>|"<dt id=""mwAkA"">December (<i id=""mwAkI"">the-KHEM-vreeos</i>)</dt>"
+ένας/μία/ένα|"1 (<i id=""mwATg"">EH-nahs / MEE-ah / EH-nah</i>)"
+δύο|"2 (<i id=""mwATs"">DHEE-oh</i>)"
+τρεις/τρία|"3 (<i id=""mwAT4"">trees / TREE-ah</i>)"
+τέσσερις/τέσσερα|"4 (<i id=""mwAUE"">TESS-a-reess / TESS-a-rah</i>)"
+πέντε|"5 (<i id=""mwAUQ"">PEN-deh</i>)"
+έξι|"6 (<i id=""mwAUc"">EH-xee</i>)"
+επτά|"7 (<i id=""mwAUo"">ep-TAH</i>)"
+οκτώ|"8 (<i id=""mwAU0"">okh-TOH</i>)"
+εννέα|"9 (<i id=""mwAVA"">en-EH-ah</i>)"
+δέκα|"10 (<i id=""mwAVM"">DHEH-kah</i>)"
+έντεκα|"11 (<i id=""mwAVY"">EN-deh-kah</i>)"
+δώδεκα|"12 (<i id=""mwAVk"">DHOH-dheh-kah</i>)"
+δεκατρείς/δεκατρία|"13 (<i id=""mwAVw"">dheh-kah-TREES / dheh-kah-TREE-ah</i>)"
+δεκατέσσερις/δεκατέσσερα|"14 (<i id=""mwAV8"">dheh-kah-TESS-eh-rees / dheh-kah-TESS-eh-ra</i>)"
+δεκαπέντε|"15 (<i id=""mwAWI"">dheh-kah-PEN-deh</i>)"
+δεκαέξι|"16 (<i id=""mwAWU"">dheh-kah-EX-ee</i>)"
+δεκαεπτά|"17 (<i id=""mwAWg"">dheh-kah-ep-TAH</i>)"
+δεκαοχτώ|"18 (<i id=""mwAWs"">dheh-kah-okh-TOH</i>)"
+δεκαεννέα|"19 (<i id=""mwAW4"">dheh-kah-en-EH-ah</i>)"
+είκοσι|"20 (<i id=""mwAXE"">EE-koss-ee</i>)"
+εικοσιένας/εικοσιμία/εικοσιένα|"21 (<i id=""mwAXQ"">ee-koss-ee-EN-ahs / ee-koss-ee-MEE-ah / ee-koss-ee-EH-nah</i>)"
+εικοσιδύο|"22 (<i id=""mwAXc"">ee-koss-ee-DHEE-oh</i>)"
+εικοσιτρείς/εικοσιτρία|"23 (<i id=""mwAXo"">ee-koss-ee-TREES / ee-koss-ee-TREE-ah</i>)"
+τριάντα|"30 (<i id=""mwAX0"">tree-AHN-dah</i>)"
+σαράντα|"40 (<i id=""mwAYA"">sah-RAHN-dah</i>)"
+πενήντα|"50 (<i id=""mwAYM"">peh-NEEN-dah</i>)"
+εξήντα|"60 (<i id=""mwAYY"">ex-EEN-dah</i>)"
+εβδομήντα|"70 (<i id=""mwAYk"">ev-dhoh-MEEN-dah</i>)"
+ογδόντα|"80 (<i id=""mwAYw"">ogh-DHON-dah</i>)"
+ενενήντα|"90 (<i id=""mwAY8"">en-en-EEN-dah</i>)"
+εκατό|"100 (<i id=""mwAZI"">eh-kah-TO</i>)"
+διακόσιοι/διακόσιες/διακόσια|"200 (<i id=""mwAZU"">dhyah-KOH-syah</i>)"
+τριακόσιοι/τριακόσιες/τριακόσια|"300 (<i id=""mwAZg"">tryah-KOH-syah</i>)"
+χίλιοι/χίλιες/χίλια|"1000 (<i id=""mwAZs"">KHEE-lee-ee / KHEE-lyehs / KHEE-lyah</i>)"
+δύο χιλιάδες|"2000 (<i id=""mwAZ4"">DHEE-oh khee-lyAH-dhes</i>)"
+δέκα χιλιάδες|"10,000 (<i id=""mwAaE"">DHEH-kah khee-lyAH-dhes</i>)"
+ένα εκατομμύριο|"1,000,000 (<i id=""mwAaQ"">EH-nah eh-kah-to-MEE-ryoh</i>)"
+αριθμός _____|"number _____ (<i id=""mwAaY"">train, bus, etc.</i>) (<i id=""mwAag"">ah-rith-MOS</i>)"
+μισός/μισή/μισό|"half (<i id=""mwAas"">mee-SSOHS / mee-SSEE / mee-SSOH</i>)"
+λιγότερος/πιο λίγος/λιγότερη/πιο λίγη/λιγότερο/πιο λίγο|"less (<i id=""mwAa4"">lee-GHO-teh-rohs / lee-GHO-teh-ree / lee-GHO-teh-roh</i>)"
+περισσότερος/πιο πολύς/περισσότερη/πιο πολλή/περισσότερο/πιο πολύ|"more (<i id=""mwAbE"">peh-ree-SSOH-teh-rohs / peh-ree-SSOH-teh-ree / peh-ree-SSOH-teh-ro</i>)"
+τώρα|now (<i id=""mwAbY"">TOH-rah</i>)
+αργότερα|"later (<i id=""mwAbk"">ar-GHOH-teh-rah</i>)"
+πριν|"before (<i id=""mwAbw"">preen</i>)"
+πρωί|"morning (<i id=""mwAb8"">proh-EE</i>)"
+απόγευμα|"afternoon (<i id=""mwAcI"">a-POH-yev-ma</i>)"
+βράδυ|"evening (<i id=""mwAcU"">VRAH-thee</i>)"
+νύχτα|night (<i id=""mwAcg"">NEE-htah</i>)
+μία η ώρα το πρωί(<i id=""mwAc0"">...</i>)|one o'clock AM
+δύο η ώρα το πρωί(<i id=""mwAdA"">...</i>)|two o'clock AM
+το μεσημέρι, μεσημέρι (12.00<span typeof=""mw:DisplaySpace"" id=""mwAd8""> </span>: δώδεκα το μεσημέρι, δώδεκα το βράδυ/τα μεσάνυχτα)|"noon (<i id=""mwAdM"">toh mess-ee-MEHR-ee</i>)"
+μία η ώρα το απόγευμα(<i id=""mwAdY"">...</i>)|one o'clock PM
+δύο η ώρα το απόγευμα(<i id=""mwAdk"">...</i>)|two o'clock PM
+τα μεσάνυχτα|"midnight (<i id=""mwAdw"">tah meh-SAH-neekh-tah</i>)"
+_____ λεπτό/λεπτά|_____ minute(s) (<i id=""mwAeQ"">lep-TOH/TAH</i>)
+_____ ώρα/ώρες|_____ hour(s) (<i id=""mwAec"">OH-rah/res</i>)
+_____ μέρα/μέρες|_____ day(s) (<i id=""mwAeo"">MEH-rah/res</i>)
+_____ εβδομάδα/δες|_____ week(s) (<i id=""mwAe0"">ev-dhoh-MAH-dhah/dhes</i>)
+_____ μήνας/μήνες|_____ month(s) (<i id=""mwAfA"">MEEN / MEE-nes</i>)
+_____ έτος/χρόνος/χρονιά/έτη/χρόνοι/χρονιές|_____ year(s)
+σήμερα|"today (<i id=""mwAfc"">SEE-meh-ra</i>)"
+χτες|"yesterday (<i id=""mwAfo"">khtes</i>)"
+αύριο|"tomorrow (<i id=""mwAf0"">AHV-ree-oh</i>)"
+αυτή την εβδομάδα (<i id=""mwAgA"">...</i>)|this week
+την προηγούμενη εβδομάδα (<i id=""mwAgM"">...</i>)|last week
+την επόμενη εβδομάδα (<i id=""mwAgY"">...</i>)|next week
+Κυριακή|"Sunday (<i id=""mwAgo"">kee-ree-ah-KEE</i>)"
+Δευτέρα|"Monday (<i id=""mwAg0"">dhef-TEH-rah</i>)"
+Τρίτη|"Tuesday (<i id=""mwAhA"">TREE-tee</i>)"
+Τετάρτη|"Wednesday (<i id=""mwAhM"">teh-TAR-tee</i>)"
+Πέμπτη|"Thursday (<i id=""mwAhY"">PEM-tee</i>)"
+Παρασκευή|"Friday (<i id=""mwAhk"">pah-rah-skeh-VEE</i>)"
+Σάββατο|"Saturday (<i id=""mwAhw"">SAH-vah-toh</i>)"
+Ιανουάριος|"January (<i id=""mwAiE"">Eea-NOOAH-reeos</i>)"
+Φεβρουάριος|"February (<i id=""mwAiQ"">fe-VROOAH-reeos</i>)"
+Μάρτιος|"March (<i id=""mwAic"">MAHR-teeos</i>)"
+Απρίλιος|"April (<i id=""mwAio"">ah-PREE-leeos</i>)"
+Μάϊος|"May (<i id=""mwAi0"">MAH-yos</i>)"
+Ιούνιος|"June (<i id=""mwAjA"">ee-OOH-neeos</i>)"
+Ιούλιος|"July (<i id=""mwAjM"">ee-OOH-leeos</i>)"
+Αύγουστος|"August (<i id=""mwAjY"">AHV-ghoo-stos</i>)"
+Σεπτέμβριος|"September (<i id=""mwAjk"">sep-TEHM-vreeos</i>)"
+Οκτώβριος|"October (<i id=""mwAjw"">ok-TOH-vreeos</i>)"
+Νοέμβριος|"November (<i id=""mwAj8"">noh-EM-vreeos</i>)"
+Δεκέμβριος|"December (<i id=""mwAkI"">the-KHEM-vreeos</i>)"
 What should you know about writing dates in Greek?|"<p id=""mwAkc"">The date in Greek is written in the form of DD/MM/YY. For example Christmas Day of 2009 is written 25.12.09 or 25-12-09 or 25/12/09. Having said that, 9/11 in Greek means the 9th day of November.</p>"
 What should you know about writing times in Greek?|"<p id=""mwAks"">Time is written and said either in twelve hour clock form in everyday speech or in twenty-four hour clock especially in timetables. AM is πμ (π(ρο) μ(μεσημβρίας)) and PM is μμ (μ(ετά) μ(εσημβρίας))</p>"
 What should you know about measurements in Greek?|"<p id=""mwAk0"">Greeks prefer all-Greek words to mixed Greek-and-Latin words. ""Meter"", ""liter"", and ""gram"" being Greek, they don't use Latin prefixes like ""milli"" with them. Instead they use the following</p>"
-<dd id=""mwAlA"">δεκατο</dd>|"<dt id=""mwAk8"">deci (dekato)</dt>"
-<dd id=""mwAlI"">εκατοστο</dd>|"<dt id=""mwAlE"">centi (ekatosto)</dt>"
-<dd id=""mwAlQ"">χιλιοστο</dd>|"<dt id=""mwAlM"">milli (hiliοsto)</dt>"
+δεκατο|"deci (dekato)"
+εκατοστο|"centi (ekatosto)"
+χιλιοστο|"milli (hiliοsto)"
 What should you know about Μικρο & νανο in Greek?|"<p id=""mwAlU"">Μικρο (micro) and νανο (nano), being Greek words, are used the same</p>"
 What should you know about λεπτο in Greek?|"<p id=""mwAlY"">The word λεπτο means both a euro cent and a minute of time. A second is δευτερολεπτο, δευτερο meaning second (the ordinal).</p>"
-<dd id=""mwAlo"">μαύρος/η/ο or μέλαν/μέλασα/μέλαν [archaic]</dd>|"<dt id=""mwAlk"">black (<i id=""mwAls"">MAHV-ros/ri/roh or MEH-lan</i>)</dt>"
-<dd id=""mwAl0"">άσπρος or λευκός</dd>|"<dt id=""mwAlw"">white (<i id=""mwAl4"">AHS-prohs or leh-FKOS</i>)</dt>"
-<dd id=""mwAmA"">γκρι or φαιός [archaic]</dd>|"<dt id=""mwAl8"">gray (<i id=""mwAmE"">gree or feh-OHS</i>)</dt>"
-<dd id=""mwAmM"">κόκκινος/η/ο</dd>|"<dt id=""mwAmI"">red (<i id=""mwAmQ"">KOH-kih-noh</i>)</dt>"
-<dd id=""mwAmY"">ερυθρός/ά/ό [archaic]</dd>|"<dt id=""mwAmU"">red (blood) (<i id=""mwAmc"">eh-ree-thrOHs</i>)</dt>"
-<dd id=""mwAmk"">πυρρός (not used as an expression)</dd>|"<dt id=""mwAmg"">red (fire) (<i id=""mwAmo"">peer-ROHS</i>)</dt>"
-<dd id=""mwAmw"">μπλε or κυανός/ή/ούν [archaic]</dd>|"<dt id=""mwAms"">blue (<i id=""mwAm0"">bleh or kyah-NOHS</i>)</dt>"
-<dd id=""mwAm8"">κίτρινος/η/ο</dd>|"<dt id=""mwAm4"">yellow (<i id=""mwAnA"">KIT-ree-noh</i>)</dt>"
-<dd id=""mwAnI"">πράσινο</dd>|"<dt id=""mwAnE"">green (<i id=""mwAnM"">PRAH-si-no</i>)</dt>"
-<dd id=""mwAnU"">πορτοκαλής/ή/ί</dd>|"<dt id=""mwAnQ"">orange (<i id=""mwAnY"">por-toh-kah-LEE</i>)</dt>"
-<dd id=""mwAng"">μωβ or ιώδης/ης/ες/ [archaic]</dd>|"<dt id=""mwAnc"">purple (<i id=""mwAnk"">mov or yOH-thes</i>)</dt>"
-<dd id=""mwAns"">καφέ</dd>|"<dt id=""mwAno"">brown (<i id=""mwAnw"">kah-FEH</i>)</dt>"
-<dd id=""mwAoE"">Πόσο κάνει ένα εισιτήριο για _____; (<i id=""mwAoI"">...</i>)</dd>|<dt id=""mwAoA"">How much is a ticket to _____?</dt>
-<dd id=""mwAoQ"">Ένα εισιτήριο για _____, παρακαλώ. (<i id=""mwAoU"">...</i>)</dd>|<dt id=""mwAoM"">One ticket to _____, please.</dt>
-<dd id=""mwAoc"">Που πάει αυτό το τραίνο/λεωφορείο; (<i id=""mwAog"">...</i>)</dd>|<dt id=""mwAoY"">Where does this train/bus go?</dt>
-<dd id=""mwAoo"">Που είναι το τραίνο/λεωφορείο _____; (<i id=""mwAos"">...</i>)</dd>|<dt id=""mwAok"">Where is the train/bus to _____?</dt>
-<dd id=""mwAo0"">Σταματάει το τραίνο στο _____; (<i id=""mwAo4"">...</i>)</dd>|<dt id=""mwAow"">Does this train/bus stop in _____?</dt>
-<dd id=""mwApA"">Πότε φεύγει το τραίνο/λεωφορείο για _____; (<i id=""mwApE"">...</i>)</dd>|<dt id=""mwAo8"">When does the train/bus for _____ leave?</dt>
-<dd id=""mwApM"">Πότε θα φτάσει το τραίνο/λεωφορείο στο _____; (<i id=""mwApQ"">...</i>)</dd>|<dt id=""mwApI"">When will this train/bus arrive in _____?</dt>
-<dd id=""mwApY"">Θέλω να νοικιάσω ένα αυτοκίνητο.</dd>|<dt id=""mwApU"">I want to rent a car.</dt>
-<dd id=""mwAps"">Πώς πηγαίνω στο/στην/στον(depending on gender) _____<span typeof=""mw:DisplaySpace"" id=""mwApw""> </span>;</dd>|"<dt id=""mwApk"">How do I get to _____<span typeof=""mw:DisplaySpace"" id=""mwApo""> </span>? (<i id=""mwAp0"">pos pi-GEH-no sto/stin/ston</i>)</dt>"
-<dd id=""mwAp8"">...σιδηροδρομικό σταθμό; (<i id=""mwAqA"">...</i>)</dd>|<dt id=""mwAp4"">...the train station?</dt>
-<dd id=""mwAqI"">...στάση του λεωφορείου; (<i id=""mwAqM"">...</i>)</dd>|<dt id=""mwAqE"">...the bus station?</dt>
-<dd id=""mwAqU"">...αεροδρόμιο; (<i id=""mwAqY"">...</i>)</dd>|<dt id=""mwAqQ"">...the airport?</dt>
-<dd id=""mwAqg"">...κέντρο; (<i id=""mwAqk"">...</i>)</dd>|<dt id=""mwAqc"">...downtown?</dt>
-<dd id=""mwAqs"">...ξενώνα για νέους; (<i id=""mwAqw"">...</i>)</dd>|<dt id=""mwAqo"">...the youth hostel?</dt>
-<dd id=""mwAq4"">...το _____ ξενοδοχείο; (<i id=""mwAq8"">...</i>)</dd>|<dt id=""mwAq0"">...the _____ hotel?</dt>
-<dd id=""mwArE"">...τον Αμερικανό/Καναδό/Αυστραλό/Βρετανό πρόξενο; (<i id=""mwArI"">...</i>)</dd>|<dt id=""mwArA"">...the American/Canadian/Australian/British consulate?</dt>
-<dd id=""mwArQ"">Πού υπάρχουν πολλά ... (<i id=""mwArU"">...</i>)</dd>|<dt id=""mwArM"">Where are there a lot of...</dt>
-<dd id=""mwArc"">...ξενοδοχεία; (<i id=""mwArg"">...</i>)</dd>|<dt id=""mwArY"">...hotels?</dt>
-<dd id=""mwAro"">...εστιατόρια; (<i id=""mwArs"">...</i>)</dd>|<dt id=""mwArk"">...restaurants?</dt>
-<dd id=""mwAr0"">...μπαρ; (<i id=""mwAr4"">...</i>)</dd>|<dt id=""mwArw"">...bars?</dt>
-<dd id=""mwAsA"">...αξιοθέατα; (<i id=""mwAsE"">...</i>)</dd>|<dt id=""mwAr8"">...sites to see?</dt>
-<dd id=""mwAsM"">Μπορείτε να μου δείξετε στον χάρτη; (<i id=""mwAsQ"">...</i>)</dd>|<dt id=""mwAsI"">Can you show me on the map?</dt>
-<dd id=""mwAsY"">οδό (<i id=""mwAsc"">...</i>)</dd>|<dt id=""mwAsU"">street</dt>
-<dd id=""mwAsk"">Στρίψτε αριστερά.</dd>|"<dt id=""mwAsg"">Turn left. (<i id=""mwAso"">STREEP-steh ah-riss-teh-RAH</i>)</dt>"
-<dd id=""mwAsw"">Στρίψτε δεξιά.</dd>|"<dt id=""mwAss"">Turn right. (<i id=""mwAs0"">STREEP-steh dheh-xee-AH</i>)</dt>"
-<dd id=""mwAs8"">αριστερά</dd>|"<dt id=""mwAs4"">left (<i id=""mwAtA"">ah-riss-teh-RAH</i>)</dt>"
-<dd id=""mwAtI"">δεξιά</dd>|"<dt id=""mwAtE"">right (<i id=""mwAtM"">dheh-xee-AH</i>)</dt>"
-<dd id=""mwAtU"">ευθεία</dd>|"<dt id=""mwAtQ"">straight ahead (<i id=""mwAtY"">eh-fthee-ah</i>)</dt>"
-<dd id=""mwAtg"">προς το/τον/την _____ (<i id=""mwAtk"">...</i>)</dd>|<dt id=""mwAtc"">towards the _____</dt>
-<dd id=""mwAts"">μετά από _____ (<i id=""mwAtw"">...</i>)</dd>|<dt id=""mwAto"">past the _____</dt>
-<dd id=""mwAt4"">πριν από _____ (<i id=""mwAt8"">...</i>)</dd>|<dt id=""mwAt0"">before the _____</dt>
-<dd id=""mwAuE"">Προσέξτε το _____. (<i id=""mwAuI"">...</i>)</dd>|<dt id=""mwAuA"">Watch for the _____.</dt>
-<dd id=""mwAuQ"">διασταύρωσις (<i id=""mwAuU"">...</i>)</dd>|<dt id=""mwAuM"">intersection</dt>
-<dd id=""mwAuc"">βορράς</dd>|<dt id=""mwAuY"">north (<i id=""mwAug"">vor-RAHS</i>)</dt>
-<dd id=""mwAuo"">νότος</dd>|<dt id=""mwAuk"">south (<i id=""mwAus"">NOH-toss</i>)</dt>
-<dd id=""mwAu0"">ανατολή</dd>|<dt id=""mwAuw"">east (<i id=""mwAu4"">ah-nah-TOH-lee</i>)</dt>
-<dd id=""mwAvA"">δύση</dd>|<dt id=""mwAu8"">west (<i id=""mwAvE"">DHEE-see</i>)</dt>
-<dd id=""mwAvM"">προς τα πάνω (<i id=""mwAvQ"">...</i>)</dd>|<dt id=""mwAvI"">uphill</dt>
-<dd id=""mwAvY"">προς τα κάτω (<i id=""mwAvc"">...</i>)</dd>|<dt id=""mwAvU"">downhill</dt>
-<dd id=""mwAvs"">Ταξί!</dd>|<dt id=""mwAvo"">Taxi! (<i id=""mwAvw"">Ta-XI</i>)</dt>
-<dd id=""mwAv4"">Πηγαινέ με στο/στην/στον _____, παρακαλώ. (<i id=""mwAv8"">...</i>)</dd>|<dt id=""mwAv0"">Take me to _____, please.</dt>
-<dd id=""mwAwE"">Πόσο θα μού στοιχίσει για να πάω στο _____? (<i id=""mwAwM"">...</i>)</dd>|<dt id=""mwAwA"">How much does it cost to get to _____?</dt>
-<dd id=""mwAwY"">Πήγαινέ με εκεί παρακαλώ. (<i id=""mwAwc"">...</i>)</dd>|<dt id=""mwAwU"">Take me there, please.</dt>
-<dd id=""mwAws"">Έχετε δωμάτια διαθέσιμα? (<i id=""mwAww"">...</i>)</dd>|<dt id=""mwAwo"">Do you have any rooms available?</dt>
-<dd id=""mwAw4"">Πόσο έχει το μονόκλινο/δίκλινο; (<i id=""mwAw8"">...</i>)</dd>|<dt id=""mwAw0"">How much is a room for one person/two people?</dt>
-<dd id=""mwAxE"">Στο δωμάτιο συμπεριλαμβάνεται και ... (<i id=""mwAxI"">...</i>)</dd>|<dt id=""mwAxA"">Does the room come with...</dt>
-<dd id=""mwAxQ"">...σεντόνια; (<i id=""mwAxU"">...</i>)</dd>|<dt id=""mwAxM"">...bedsheets?</dt>
-<dd id=""mwAxc"">...ένα μπάνιο; (<i id=""mwAxg"">...</i>)</dd>|<dt id=""mwAxY"">...a bathroom?</dt>
-<dd id=""mwAxo"">...τηλέφωνο; (<i id=""mwAxs"">...</i>)</dd>|<dt id=""mwAxk"">...a telephone?</dt>
-<dd id=""mwAx0"">...τηλεόραση; (<i id=""mwAx4"">...</i>)</dd>|<dt id=""mwAxw"">...a TV?</dt>
-<dd id=""mwAyA"">Μπορώ να δω πρώτα το δωμάτιο; (<i id=""mwAyE"">...</i>)</dd>|<dt id=""mwAx8"">May I see the room first?</dt>
-<dd id=""mwAyM"">Έχετε κάτι ποιο ήσυχο; (<i id=""mwAyQ"">...</i>)</dd>|<dt id=""mwAyI"">Do you have anything quieter?</dt>
-<dd id=""mwAyY"">...μεγαλύτερο; (<i id=""mwAyc"">...</i>)</dd>|<dt id=""mwAyU"">...bigger?</dt>
-<dd id=""mwAyk"">...καθαρότερο; (<i id=""mwAyo"">...</i>)</dd>|<dt id=""mwAyg"">...cleaner?</dt>
-<dd id=""mwAyw"">...φθηνότερο; (<i id=""mwAy0"">...</i>)</dd>|<dt id=""mwAys"">...cheaper?</dt>
-<dd id=""mwAy8"">Εντάξει, θα το πάρω. (<i id=""mwAzA"">...</i>)</dd>|<dt id=""mwAy4"">OK, I'll take it.</dt>
-<dd id=""mwAzI"">Θα μείνω για _____ νύχτα(ες). (<i id=""mwAzM"">...</i>)</dd>|<dt id=""mwAzE"">I will stay for _____ night(s).</dt>
-<dd id=""mwAzU"">Μπορείτε να μου συστήσετε ένα άλλο ξενοδοχείο; (<i id=""mwAzY"">...</i>)</dd>|<dt id=""mwAzQ"">Can you suggest another hotel?</dt>
-<dd id=""mwAzg"">Έχετε χρηματοκιβώτιο; (<i id=""mwAzk"">...</i>)</dd>|<dt id=""mwAzc"">Do you have a safe?</dt>
-<dd id=""mwAzs"">...θυρίδες; (<i id=""mwAzw"">...</i>)</dd>|<dt id=""mwAzo"">...lockers?</dt>
-<dd id=""mwAz4"">Συμπεριλαμβάνεται πρωινό/γεύμα; (<i id=""mwAz8"">...</i>)</dd>|<dt id=""mwAz0"">Is breakfast/supper included?</dt>
-<dd id=""mwA0E"">Τι ώρα ειναι το πρωινό/γεύμα; (<i id=""mwA0I"">...</i>)</dd>|<dt id=""mwA0A"">What time is breakfast/supper?</dt>
-<dd id=""mwA0Q"">Παρακαλώ καθαρίστε το δωμάτιό μου. (<i id=""mwA0U"">...</i>)</dd>|<dt id=""mwA0M"">Please clean my room.</dt>
+μαύρος/η/ο or μέλαν/μέλασα/μέλαν [archaic]|"black (<i id=""mwAls"">MAHV-ros/ri/roh or MEH-lan</i>)"
+άσπρος or λευκός|"white (<i id=""mwAl4"">AHS-prohs or leh-FKOS</i>)"
+γκρι or φαιός [archaic]|"gray (<i id=""mwAmE"">gree or feh-OHS</i>)"
+κόκκινος/η/ο|"red (<i id=""mwAmQ"">KOH-kih-noh</i>)"
+ερυθρός/ά/ό [archaic]|"red (blood) (<i id=""mwAmc"">eh-ree-thrOHs</i>)"
+πυρρός (not used as an expression)|"red (fire) (<i id=""mwAmo"">peer-ROHS</i>)"
+μπλε or κυανός/ή/ούν [archaic]|"blue (<i id=""mwAm0"">bleh or kyah-NOHS</i>)"
+κίτρινος/η/ο|"yellow (<i id=""mwAnA"">KIT-ree-noh</i>)"
+πράσινο|"green (<i id=""mwAnM"">PRAH-si-no</i>)"
+πορτοκαλής/ή/ί|"orange (<i id=""mwAnY"">por-toh-kah-LEE</i>)"
+μωβ or ιώδης/ης/ες/ [archaic]|"purple (<i id=""mwAnk"">mov or yOH-thes</i>)"
+καφέ|"brown (<i id=""mwAnw"">kah-FEH</i>)"
+Πόσο κάνει ένα εισιτήριο για _____; (<i id=""mwAoI"">...</i>)|How much is a ticket to _____?
+Ένα εισιτήριο για _____, παρακαλώ. (<i id=""mwAoU"">...</i>)|One ticket to _____, please.
+Που πάει αυτό το τραίνο/λεωφορείο; (<i id=""mwAog"">...</i>)|Where does this train/bus go?
+Που είναι το τραίνο/λεωφορείο _____; (<i id=""mwAos"">...</i>)|Where is the train/bus to _____?
+Σταματάει το τραίνο στο _____; (<i id=""mwAo4"">...</i>)|Does this train/bus stop in _____?
+Πότε φεύγει το τραίνο/λεωφορείο για _____; (<i id=""mwApE"">...</i>)|When does the train/bus for _____ leave?
+Πότε θα φτάσει το τραίνο/λεωφορείο στο _____; (<i id=""mwApQ"">...</i>)|When will this train/bus arrive in _____?
+Θέλω να νοικιάσω ένα αυτοκίνητο.|I want to rent a car.
+Πώς πηγαίνω στο/στην/στον(depending on gender) _____<span typeof=""mw:DisplaySpace"" id=""mwApw""> </span>;|"How do I get to _____<span typeof=""mw:DisplaySpace"" id=""mwApo""> </span>? (<i id=""mwAp0"">pos pi-GEH-no sto/stin/ston</i>)"
+...σιδηροδρομικό σταθμό; (<i id=""mwAqA"">...</i>)|...the train station?
+...στάση του λεωφορείου; (<i id=""mwAqM"">...</i>)|...the bus station?
+...αεροδρόμιο; (<i id=""mwAqY"">...</i>)|...the airport?
+...κέντρο; (<i id=""mwAqk"">...</i>)|...downtown?
+...ξενώνα για νέους; (<i id=""mwAqw"">...</i>)|...the youth hostel?
+...το _____ ξενοδοχείο; (<i id=""mwAq8"">...</i>)|...the _____ hotel?
+...τον Αμερικανό/Καναδό/Αυστραλό/Βρετανό πρόξενο; (<i id=""mwArI"">...</i>)|...the American/Canadian/Australian/British consulate?
+Πού υπάρχουν πολλά ... (<i id=""mwArU"">...</i>)|Where are there a lot of...
+...ξενοδοχεία; (<i id=""mwArg"">...</i>)|...hotels?
+...εστιατόρια; (<i id=""mwArs"">...</i>)|...restaurants?
+...μπαρ; (<i id=""mwAr4"">...</i>)|...bars?
+...αξιοθέατα; (<i id=""mwAsE"">...</i>)|...sites to see?
+Μπορείτε να μου δείξετε στον χάρτη; (<i id=""mwAsQ"">...</i>)|Can you show me on the map?
+οδό (<i id=""mwAsc"">...</i>)|street
+Στρίψτε αριστερά.|"Turn left. (<i id=""mwAso"">STREEP-steh ah-riss-teh-RAH</i>)"
+Στρίψτε δεξιά.|"Turn right. (<i id=""mwAs0"">STREEP-steh dheh-xee-AH</i>)"
+αριστερά|"left (<i id=""mwAtA"">ah-riss-teh-RAH</i>)"
+δεξιά|"right (<i id=""mwAtM"">dheh-xee-AH</i>)"
+ευθεία|"straight ahead (<i id=""mwAtY"">eh-fthee-ah</i>)"
+προς το/τον/την _____ (<i id=""mwAtk"">...</i>)|towards the _____
+μετά από _____ (<i id=""mwAtw"">...</i>)|past the _____
+πριν από _____ (<i id=""mwAt8"">...</i>)|before the _____
+Προσέξτε το _____. (<i id=""mwAuI"">...</i>)|Watch for the _____.
+διασταύρωσις (<i id=""mwAuU"">...</i>)|intersection
+βορράς|north (<i id=""mwAug"">vor-RAHS</i>)
+νότος|south (<i id=""mwAus"">NOH-toss</i>)
+ανατολή|east (<i id=""mwAu4"">ah-nah-TOH-lee</i>)
+δύση|west (<i id=""mwAvE"">DHEE-see</i>)
+προς τα πάνω (<i id=""mwAvQ"">...</i>)|uphill
+προς τα κάτω (<i id=""mwAvc"">...</i>)|downhill
+Ταξί!|Taxi! (<i id=""mwAvw"">Ta-XI</i>)
+Πηγαινέ με στο/στην/στον _____, παρακαλώ. (<i id=""mwAv8"">...</i>)|Take me to _____, please.
+Πόσο θα μού στοιχίσει για να πάω στο _____? (<i id=""mwAwM"">...</i>)|How much does it cost to get to _____?
+Πήγαινέ με εκεί παρακαλώ. (<i id=""mwAwc"">...</i>)|Take me there, please.
+Έχετε δωμάτια διαθέσιμα? (<i id=""mwAww"">...</i>)|Do you have any rooms available?
+Πόσο έχει το μονόκλινο/δίκλινο; (<i id=""mwAw8"">...</i>)|How much is a room for one person/two people?
+Στο δωμάτιο συμπεριλαμβάνεται και ... (<i id=""mwAxI"">...</i>)|Does the room come with...
+...σεντόνια; (<i id=""mwAxU"">...</i>)|...bedsheets?
+...ένα μπάνιο; (<i id=""mwAxg"">...</i>)|...a bathroom?
+...τηλέφωνο; (<i id=""mwAxs"">...</i>)|...a telephone?
+...τηλεόραση; (<i id=""mwAx4"">...</i>)|...a TV?
+Μπορώ να δω πρώτα το δωμάτιο; (<i id=""mwAyE"">...</i>)|May I see the room first?
+Έχετε κάτι ποιο ήσυχο; (<i id=""mwAyQ"">...</i>)|Do you have anything quieter?
+...μεγαλύτερο; (<i id=""mwAyc"">...</i>)|...bigger?
+...καθαρότερο; (<i id=""mwAyo"">...</i>)|...cleaner?
+...φθηνότερο; (<i id=""mwAy0"">...</i>)|...cheaper?
+Εντάξει, θα το πάρω. (<i id=""mwAzA"">...</i>)|OK, I'll take it.
+Θα μείνω για _____ νύχτα(ες). (<i id=""mwAzM"">...</i>)|I will stay for _____ night(s).
+Μπορείτε να μου συστήσετε ένα άλλο ξενοδοχείο; (<i id=""mwAzY"">...</i>)|Can you suggest another hotel?
+Έχετε χρηματοκιβώτιο; (<i id=""mwAzk"">...</i>)|Do you have a safe?
+...θυρίδες; (<i id=""mwAzw"">...</i>)|...lockers?
+Συμπεριλαμβάνεται πρωινό/γεύμα; (<i id=""mwAz8"">...</i>)|Is breakfast/supper included?
+Τι ώρα ειναι το πρωινό/γεύμα; (<i id=""mwA0I"">...</i>)|What time is breakfast/supper?
+Παρακαλώ καθαρίστε το δωμάτιό μου. (<i id=""mwA0U"">...</i>)|Please clean my room.
 Μπορείτε να με ξυπνήσετε στις _____; (<i id=""mwA0c"">...</i>)|Can you wake me at _____?
-<dd id=""mwA0k"">Θέλω να φύγω. (<i id=""mwA0o"">...</i>)</dd>|<dt id=""mwA0g"">I want to check out.</dt>
-<dd id=""mwA04"">Δέχεσθε αμερικανικά/αυστραλιανά/καναδικά δολάρια; (<i id=""mwA08"">...</i>)</dd>|<dt id=""mwA00"">Do you accept American/Australian/Canadian dollars?</dt>
-<dd id=""mwA1E"">Δέχεσθε βρατανικές λίρες; (<i id=""mwA1I"">...</i>)</dd>|<dt id=""mwA1A"">Do you accept British pounds?</dt>
-<dd id=""mwA1Q"">Δέχεσθε πιστωτικές κάρτες; (<i id=""mwA1U"">...</i>)</dd>|<dt id=""mwA1M"">Do you accept credit cards?</dt>
-<dd id=""mwA1c"">Μπορείτε να μου χαλάσετε/αλλάξετε χρήματα; (<i id=""mwA1g"">...</i>)</dd>|<dt id=""mwA1Y"">Can you change money for me?</dt>
-<dd id=""mwA1o"">Πού μπορώ να χαλάσω/αλλάξω χρήματα; (<i id=""mwA1s"">...</i>)</dd>|<dt id=""mwA1k"">Where can I get money changed?</dt>
-<dd id=""mwA10"">Μπορείτε να μου χαλάσετε μια ταξιδιωτική επιταγή; (<i id=""mwA14"">...</i>)</dd>|<dt id=""mwA1w"">Can you change a traveler's check for me?</dt>
-<dd id=""mwA2A"">Πού μπορώ να χαλάσω μια ταξιδιωτική επιταγή; (<i id=""mwA2E"">...</i>)</dd>|<dt id=""mwA18"">Where can I get a traveler's check changed?</dt>
-<dd id=""mwA2M"">Ποια είναι η τιμή συναλλάγματος; (<i id=""mwA2Q"">...</i>)</dd>|<dt id=""mwA2I"">What is the exchange rate?</dt>
-<dd id=""mwA2Y"">Πού υπάρχει μια Αυτόματη Ταμειακή Μηχανή (ATM); (<i id=""mwA2c"">...</i>)</dd>|<dt id=""mwA2U"">Where is an automatic teller machine (ATM)?</dt>
-<dd id=""mwA2s"">Ένα τραπέζι για ένα άτομο/δύο άτομα, παρακαλώ. (<i id=""mwA2w"">...</i>)</dd>|<dt id=""mwA2o"">A table for one person/two people, please.</dt>
-<dd id=""mwA24"">Μπορώ να έχω έναν κατάλογο, παρακαλώ; (<i id=""mwA28"">...</i>)</dd>|<dt id=""mwA20"">Can I look at the menu, please?</dt>
-<dd id=""mwA3E"">Μπορώ να επισκεφθώ την κουζίνα;  (<i id=""mwA3I"">...</i>)</dd>|<dt id=""mwA3A"">Can I look in the kitchen?</dt>
-<dd id=""mwA3Q"">Yπάρχει καμιά σπιτική σπεσιαλιτέ; (<i id=""mwA3U"">...</i>)</dd>|<dt id=""mwA3M"">Is there a house specialty?</dt>
-<dd id=""mwA3c"">Υπάρχει καμιά τοπική σπεσιαλιτέ; (<i id=""mwA3g"">...</i>)</dd>|<dt id=""mwA3Y"">Is there a local specialty?</dt>
-<dd id=""mwA3o"">Είμαι χορτοφάγος. (<i id=""mwA3s"">...</i>)</dd>|<dt id=""mwA3k"">I'm a vegetarian.</dt>
-<dd id=""mwA30"">Δεν τρώω χοιρινό. (<i id=""mwA34"">...</i>)</dd>|<dt id=""mwA3w"">I don't eat pork.</dt>
-<dd id=""mwA4A"">Ακολουθώ εβραϊκή διατροφή. (<i id=""mwA4E"">...</i>)</dd>|<dt id=""mwA38"">I only eat kosher food.</dt>
-<dd id=""mwA4Q"">Μπορείτε να το μαγειρέψετε ελαφρά, παρακαλώ; (<i id=""mwA4U"">...</i>)</dd>|"<dt id=""mwA4I"">Can you make it ""lite"", please? (<i id=""mwA4M"">less oil/butter/lard</i>)</dt>"
-<dd id=""mwA4c"">γεύμα συγκεκριμένης τιμής (not used as an expression) (<i id=""mwA4g"">...</i>)</dd>|<dt id=""mwA4Y"">fixed-price meal</dt>
-<dd id=""mwA4o"">à la carte (<i id=""mwA4s"">...</i>)</dd>|<dt id=""mwA4k"">à la carte</dt>
-<dd id=""mwA40"">πρωινό (<i id=""mwA44"">...</i>)</dd>|<dt id=""mwA4w"">breakfast</dt>
-<dd id=""mwA5A"">μεσημεριανό (<i id=""mwA5E"">...</i>)</dd>|<dt id=""mwA48"">lunch</dt>
-<dd id=""mwA5Q"">απογευματινό (?) (not used as an expression) (<i id=""mwA5U"">...</i>)</dd>|<dt id=""mwA5I"">tea (<i id=""mwA5M"">meal</i>)</dt>
-<dd id=""mwA5c"">βραδυνό (<i id=""mwA5g"">...</i>)</dd>|<dt id=""mwA5Y"">supper</dt>
-<dd id=""mwA5o"">Θέλω _____. (<i id=""mwA5s"">...</i>)</dd>|<dt id=""mwA5k"">I want _____.</dt>
-<dd id=""mwA50"">Θέλω ένα πιάτο που να περιέχει _____. (<i id=""mwA54"">...</i>)</dd>|<dt id=""mwA5w"">I want a dish containing _____.</dt>
-<dd id=""mwA6A"">κοτόπουλο (<i id=""mwA6E"">...</i>)</dd>|<dt id=""mwA58"">chicken</dt>
-<dd id=""mwA6M"">βοδινό (<i id=""mwA6Q"">...</i>)</dd>|<dt id=""mwA6I"">beef</dt>
-<dd id=""mwA6Y"">ψάρι (<i id=""mwA6c"">...</i>)</dd>|<dt id=""mwA6U"">fish</dt>
-<dd id=""mwA6k"">ζαμπόν (<i id=""mwA6o"">...</i>)</dd>|<dt id=""mwA6g"">ham</dt>
-<dd id=""mwA6w"">λουκάνικο (<i id=""mwA60"">...</i>)</dd>|<dt id=""mwA6s"">sausage</dt>
-<dd id=""mwA68"">τυρι</dd>|<dt id=""mwA64"">cheese (<i id=""mwA7A"">tee-REE</i>)</dt>
-<dd id=""mwA7I"">αυγά</dd>|<dt id=""mwA7E"">eggs (<i id=""mwA7M"">ahv-GHAH</i>)</dt>
-<dd id=""mwA7U"">σαλατα</dd>|<dt id=""mwA7Q"">salad (<i id=""mwA7Y"">sah-LAH-tah</i>)</dt>
-<dd id=""mwA7g"">(φρέσκα) λαχανικά</dd>|<dt id=""mwA7c"">(fresh) vegetables (<i id=""mwA7k"">FREH-ska</i>) lah-ha-ni-KA</dt>
-<dd id=""mwA7s"">(fresh) fruit (<i id=""mwA7w"">...</i>)</dd>|<dt id=""mwA7o"">(fresh) fruit</dt>
-<dd id=""mwA74"">αρτος, ψωμι</dd>|<dt id=""mwA70"">bread (<i id=""mwA78"">AHR-toss</i>), (<i id=""mwA8A"">psoh-MEE</i>)</dt>
-<dd id=""mwA8I"">φρυγανιά (<i id=""mwA8M"">...</i>)</dd>|<dt id=""mwA8E"">toast</dt>
-<dd id=""mwA8U"">φιδές (<i id=""mwA8Y"">...</i>)</dd>|<dt id=""mwA8Q"">noodles</dt>
-<dd id=""mwA8g"">ρύζι</dd>|<dt id=""mwA8c"">rice (<i id=""mwA8k"">oh-REE-zah</i>)</dt>
-<dd id=""mwA8s"">φασόλια</dd>|<dt id=""mwA8o"">beans (<i id=""mwA8w"">fah-SOH-lia</i>)</dt>
-<dd id=""mwA84"">Μπορώ να έχω ένα ποτήρι _____; (<i id=""mwA88"">...</i>)</dd>|<dt id=""mwA80"">May I have a glass of _____?</dt>
-<dd id=""mwA9E"">Μπορώ να έχω ένα φλυτζάνι _____; (<i id=""mwA9I"">...</i>)</dd>|<dt id=""mwA9A"">May I have a cup of _____?</dt>
-<dd id=""mwA9Q"">Μπορώ να έχω ένα μπουκάλι _____; (<i id=""mwA9U"">...</i>)</dd>|<dt id=""mwA9M"">May I have a bottle of _____?</dt>
-<dd id=""mwA9c"">καφές (<i id=""mwA9g"">...</i>)</dd>|<dt id=""mwA9Y"">coffee</dt>
-<dd id=""mwA9s"">τσάι (<i id=""mwA9w"">...</i>)</dd>|<dt id=""mwA9k"">tea (<i id=""mwA9o"">drink</i>)</dt>
-<dd id=""mwA94"">χυμός (<i id=""mwA98"">...</i>)</dd>|<dt id=""mwA90"">juice</dt>
-<dd id=""mwA-E"">ανθρακούχο νερό (<i id=""mwA-I"">...</i>)</dd>|<dt id=""mwA-A"">(bubbly) water</dt>
-<dd id=""mwA-Q"">νερο</dd>|<dt id=""mwA-M"">water (<i id=""mwA-U"">neh-ROH</i>)</dt>
-<dd id=""mwA-c"">μπύρα (<i id=""mwA-g"">...</i>)</dd>|<dt id=""mwA-Y"">beer</dt>
-<dd id=""mwA-o"">κόκκινο/λευκό κρασί (<i id=""mwA-s"">...</i>)</dd>|<dt id=""mwA-k"">red/white wine</dt>
-<dd id=""mwA-0"">Μπορώ να έχω λίγο _____; (<i id=""mwA-4"">...</i>)</dd>|<dt id=""mwA-w"">May I have some _____?</dt>
-<dd id=""mwA_A"">αλάτι (<i id=""mwA_E"">...</i>)</dd>|<dt id=""mwA-8"">salt</dt>
-<dd id=""mwA_M"">μαύρο πιπέρι (<i id=""mwA_Q"">...</i>)</dd>|<dt id=""mwA_I"">black pepper</dt>
-<dd id=""mwA_Y"">βουτυρο</dd>|<dt id=""mwA_U"">butter (<i id=""mwA_c"">VOO-tee-roh</i>)</dt>
-<dd id=""mwA_o"">Συγνώμη, σερβιτόρε; (<i id=""mwA_s"">...</i>)</dd>|<dt id=""mwA_g"">Excuse me, waiter? (<i id=""mwA_k"">getting attention of server</i>)</dt>
-<dd id=""mwA_0"">Τελείωσα. (<i id=""mwA_4"">...</i>)</dd>|<dt id=""mwA_w"">I'm finished.</dt>
-<dd id=""mwBAA"">Ήταν εξαιρετικό. (<i id=""mwBAE"">...</i>)</dd>|<dt id=""mwA_8"">It was delicious.</dt>
-<dd id=""mwBAM"">Παρακαλώ αδειάστε τα πιάτα. (<i id=""mwBAQ"">...</i>)</dd>|<dt id=""mwBAI"">Please clear the plates.</dt>
-<dd id=""mwBAY"">Το λογαριασμό, παρακαλώ. (<i id=""mwBAc"">...</i>)</dd>|<dt id=""mwBAU"">The check, please.</dt>
-<dd id=""mwBAs"">Σερβίρετε οινοπνευματώδη; (<i id=""mwBAw"">...</i>)</dd>|<dt id=""mwBAo"">Do you serve alcohol?</dt>
-<dd id=""mwBA4"">Υπάρχουν σερβιτόροι; (<i id=""mwBA8"">...</i>)</dd>|<dt id=""mwBA0"">Is there table service?</dt>
-<dd id=""mwBBE"">Μία μπύρα/δύο μπύρες, παρακαλώ. (<i id=""mwBBI"">...</i>)</dd>|<dt id=""mwBBA"">A beer/two beers, please.</dt>
-<dd id=""mwBBQ"">Ένα ποτήρι κόκκινο/λευκό κρασί, παρακαλώ. (<i id=""mwBBU"">...</i>)</dd>|<dt id=""mwBBM"">A glass of red/white wine, please.</dt>
-<dd id=""mwBBc"">Pint does not exist in Greece</dd>|<dt id=""mwBBY"">A pint, please.</dt>
-<dd id=""mwBBk"">Ένα μπουκάλι, παρακαλώ. (<i id=""mwBBo"">...</i>)</dd>|<dt id=""mwBBg"">A bottle, please.</dt>
-<dd id=""mwBB4"">_____ and _____, please. (<i id=""mwBB8"">...</i>)</dd>|<dt id=""mwBBs"">_____ (<i id=""mwBBw"">hard liquor</i>) and _____ (<i id=""mwBB0"">mixer</i>), please.</dt>
-<dd id=""mwBCE"">ουίσκι (<i id=""mwBCI"">...</i>)</dd>|<dt id=""mwBCA"">whiskey</dt>
-<dd id=""mwBCQ"">βότκα</dd>|<dt id=""mwBCM"">vodka (<i id=""mwBCU"">v-O-tka</i>)</dt>
-<dd id=""mwBCc"">ρούμι</dd>|<dt id=""mwBCY"">rum (<i id=""mwBCg"">ro-E-mi</i>)</dt>
-<dd id=""mwBCo"">νερό</dd>|<dt id=""mwBCk"">water (<i id=""mwBCs"">neh-rO</i>)</dt>
-<dd id=""mwBC0"">σόδα</dd>|<dt id=""mwBCw"">club soda (<i id=""mwBC4"">sO-da</i>)</dt>
-<dd id=""mwBDA"">tonic water (<i id=""mwBDE"">...</i>)</dd>|<dt id=""mwBC8"">tonic water</dt>
-<dd id=""mwBDM"">χυμός πορτοκάλι (<i id=""mwBDQ"">...</i>)</dd>|<dt id=""mwBDI"">orange juice</dt>
-<dd id=""mwBDc"">Κόκα Κόλα</dd>|<dt id=""mwBDU"">Coke (<i id=""mwBDY"">soda</i>) (<i id=""mwBDg"">kOka kOla</i>)</dt>
-<dd id=""mwBDo"">Έχετε bar snacks; (<i id=""mwBDs"">...</i>)</dd>|<dt id=""mwBDk"">Do you have any bar snacks?</dt>
-<dd id=""mwBD0"">Ένα ακόμα, παρακαλώ.</dd>|<dt id=""mwBDw"">One more, please. (<i id=""mwBD4"">e-na akOma, para-ka-lO</i>)</dt>
-<dd id=""mwBEA"">Μια από τα ίδια, παρακαλώ. (<i id=""mwBEE"">...</i>)</dd>|<dt id=""mwBD8"">Another round, please.</dt>
-<dd id=""mwBEM"">Πότε κλείνετε;</dd>|<dt id=""mwBEI"">When is closing time? (<i id=""mwBEQ"">pO-te ...</i>)</dt>
-<dd id=""mwBEg"">To έχετε αυτό στο δικό μου νούμερο; (<i id=""mwBEk"">...</i>)</dd>|<dt id=""mwBEc"">Do you have this in my size?</dt>
-<dd id=""mwBEs"">Πόσο κάνει αυτό? (<i id=""mwBEw"">...</i>)</dd>|<dt id=""mwBEo"">How much is this?</dt>
-<dd id=""mwBE4"">Αυτό είναι πολύ ακριβό. (<i id=""mwBE8"">...</i>)</dd>|<dt id=""mwBE0"">That's too expensive.</dt>
-<dd id=""mwBFE"">Δέχεστε _____; (<i id=""mwBFI"">...</i>)</dd>|<dt id=""mwBFA"">Would you take _____?</dt>
-<dd id=""mwBFQ"">ακριβός/ή/ό (depending on gender)(<i id=""mwBFU"">...</i>)</dd>|<dt id=""mwBFM"">expensive</dt>
-<dd id=""mwBFc"">φθηνός/ή/ό (<i id=""mwBFg"">...</i>)</dd>|<dt id=""mwBFY"">cheap</dt>
-<dd id=""mwBFo"">Είναι υπερβολικά ακριβό για εμένα. (<i id=""mwBFs"">...</i>)</dd>|<dt id=""mwBFk"">I can't afford it.</dt>
-<dd id=""mwBF0"">Δεν το θέλω. (<i id=""mwBF4"">...</i>)</dd>|<dt id=""mwBFw"">I don't want it.</dt>
-<dd id=""mwBGA"">Με εξαπατάτε. (<i id=""mwBGE"">...</i>)</dd>|<dt id=""mwBF8"">You're cheating me.</dt>
-<dd id=""mwBGM"">Δεν ενδιαφέρομαι. (..)</dd>|<dt id=""mwBGI"">I'm not interested.</dt>
-<dd id=""mwBGU"">Καλώς, θα το πάρω. (<i id=""mwBGY"">...</i>)</dd>|<dt id=""mwBGQ"">OK, I'll take it.</dt>
-<dd id=""mwBGg"">Μπορώ να έχω μία τσάντα; (<i id=""mwBGk"">...</i>)</dd>|<dt id=""mwBGc"">Can I have a bag?</dt>
-<dd id=""mwBGs"">Κάνετε αποστολές (στο εξωτερικό); (<i id=""mwBGw"">...</i>)</dd>|<dt id=""mwBGo"">Do you ship (overseas)?</dt>
-<dd id=""mwBG4"">Χρειάζομαι... (<i id=""mwBG8"">...</i>)</dd>|<dt id=""mwBG0"">I need...</dt>
-<dd id=""mwBHE"">...οδοντόκρεμα. (<i id=""mwBHI"">...</i>)</dd>|<dt id=""mwBHA"">...toothpaste.</dt>
-<dd id=""mwBHQ"">...οδοντόβουρτσα. (<i id=""mwBHU"">...</i>)</dd>|<dt id=""mwBHM"">...a toothbrush.</dt>
-<dd id=""mwBHc"">...σερβιέτες. (<i id=""mwBHg"">...</i>)</dd>|<dt id=""mwBHY"">...tampons.</dt>
-<dd id=""mwBHo"">...σαπούνι. (<i id=""mwBHs"">...</i>)</dd>|<dt id=""mwBHk"">...soap.</dt>
-<dd id=""mwBH0"">...σαμπουάν. (<i id=""mwBH4"">...</i>)</dd>|<dt id=""mwBHw"">...shampoo.</dt>
-<dd id=""mwBIE"">...παυσίπονο. (<i id=""mwBII"">...</i>)</dd>|<dt id=""mwBH8"">...pain reliever. (<i id=""mwBIA"">e.g., aspirin or ibuprofen</i>)</dt>
-<dd id=""mwBIQ"">...φάρμακο για κρύωμα. (<i id=""mwBIU"">...</i>)</dd>|<dt id=""mwBIM"">...cold medicine.</dt>
-<dd id=""mwBIc"">...φάρμακο για το στομάχι. (<i id=""mwBIg"">...</i>)</dd>|<dt id=""mwBIY"">...stomach medicine.</dt>
-<dd id=""mwBIo"">... ξυραφάκι. (<i id=""mwBIs"">...</i>)</dd>|<dt id=""mwBIk"">...a razor.</dt>
-<dd id=""mwBI0"">...ομπρέλα. (<i id=""mwBI4"">...</i>)</dd>|<dt id=""mwBIw"">...an umbrella.</dt>
-<dd id=""mwBJA"">...αντιηλιακό. (<i id=""mwBJE"">...</i>)</dd>|<dt id=""mwBI8"">...sunblock lotion.</dt>
-<dd id=""mwBJM"">...καρτ-ποστάλ. (<i id=""mwBJQ"">...</i>)</dd>|<dt id=""mwBJI"">...a postcard.</dt>
-<dd id=""mwBJY"">...γραμματόσημα. (<i id=""mwBJc"">...</i>)</dd>|<dt id=""mwBJU"">...postage stamps.</dt>
-<dd id=""mwBJk"">...μπαταρίες. (<i id=""mwBJo"">...</i>)</dd>|<dt id=""mwBJg"">...batteries.</dt>
-<dd id=""mwBJw"">...χαρτί. (<i id=""mwBJ0"">...</i>)</dd>|<dt id=""mwBJs"">...writing paper.</dt>
-<dd id=""mwBJ8"">...ένα στυλό. (<i id=""mwBKA"">...</i>)</dd>|<dt id=""mwBJ4"">...a pen.</dt>
-<dd id=""mwBKI"">...Αγγλόφωνα βιβλία. (<i id=""mwBKM"">...</i>)</dd>|<dt id=""mwBKE"">...English-language books.</dt>
-<dd id=""mwBKU"">...Αγγλόφωνα περιοδικά. (<i id=""mwBKY"">...</i>)</dd>|<dt id=""mwBKQ"">...English-language magazines.</dt>
-<dd id=""mwBKg"">...αγγλόφωνη εφημερίδα. (<i id=""mwBKk"">...</i>)</dd>|<dt id=""mwBKc"">...an English-language newspaper.</dt>
-<dd id=""mwBKs"">...ελληνικο-αγγλικο λεξικο.</dd>|"<dt id=""mwBKo"">...an English-Greek dictionary. (<i id=""mwBKw"">eh-lee-nee-KOH ang-glee-KOH LEX-ee-koh</i>)</dt>"
-<dd id=""mwBLA"">Θέλω να ενοικιάσω ένα αυτοκίνητο. (<i id=""mwBLE"">...</i>)</dd>|<dt id=""mwBK8"">Ι want to rent a car.</dt>
-<dd id=""mwBLM"">Μπορώ να έχω ασφάλεια? (<i id=""mwBLQ"">...</i>)</dd>|<dt id=""mwBLI"">Can I get insurance?</dt>
-<dd id=""mwBLc"">stop (<i id=""mwBLg"">...</i>)</dd>|<dt id=""mwBLU"">stop (<i id=""mwBLY"">on a street sign</i>)</dt>
-<dd id=""mwBLo"">μονόδρομος (<i id=""mwBLs"">...</i>)</dd>|<dt id=""mwBLk"">one way</dt>
-<dd id=""mwBL0"">παραχώρηση προτεραιότητος (<i id=""mwBL4"">...</i>)</dd>|<dt id=""mwBLw"">yield</dt>
-<dd id=""mwBMA"">Απαγορεύεται η στάθμευση (<i id=""mwBME"">...</i>)</dd>|<dt id=""mwBL8"">no parking</dt>
-<dd id=""mwBMM"">όριο ταχύτητας (<i id=""mwBMQ"">...</i>)</dd>|<dt id=""mwBMI"">speed limit</dt>
-<dd id=""mwBMc"">πρατήριο βενζίνης (<i id=""mwBMg"">...</i>)</dd>|<dt id=""mwBMU"">gas (<i id=""mwBMY"">petrol</i>) station</dt>
-<dd id=""mwBMo"">βενζίνη (<i id=""mwBMs"">...</i>)</dd>|<dt id=""mwBMk"">petrol</dt>
-<dd id=""mwBM0"">diesel (<i id=""mwBM4"">...</i>)</dd>|<dt id=""mwBMw"">diesel</dt>
-<dd id=""mwBNI"">Δεν έκανα τίποτα επιλήψιμο. (<i id=""mwBNM"">...</i>)</dd>|<dt id=""mwBNE"">I haven't done anything wrong.</dt>
-<dd id=""mwBNU"">Ήταν μια παρεξήγηση. (<i id=""mwBNY"">...</i>)</dd>|<dt id=""mwBNQ"">It was a misunderstanding.</dt>
-<dd id=""mwBNg"">Που με πηγαίνετε? (<i id=""mwBNk"">...</i>)</dd>|<dt id=""mwBNc"">Where are you taking me?</dt>
-<dd id=""mwBNs"">Συνελήφθην? (<i id=""mwBNw"">...</i>)</dd>|<dt id=""mwBNo"">Am I under arrest?</dt>
-<dd id=""mwBN4"">Είμαι Αμερικανός/Αυστραλός/Βρετανός/Καναδός πολίτης. (<i id=""mwBN8"">...</i>)</dd>|<dt id=""mwBN0"">I am an American/Australian/British/Canadian citizen.</dt>
-<dd id=""mwBOE"">Πρέπει να μιλήσω με τον American/Australian/British/Canadian πρέσβη/πρόξενο. (<i id=""mwBOI"">...</i>)</dd>|<dt id=""mwBOA"">I want to talk to the American/Australian/British/Canadian embassy/consulate.</dt>
-<dd id=""mwBOQ"">Θέλω να μιλήσω σε δικηγόρο. (<i id=""mwBOU"">...</i>)</dd>|<dt id=""mwBOM"">I want to talk to a lawyer.</dt>
-<dd id=""mwBOc"">Μπορώ απλά να πληρώσω ένα πρόστιμο? (<i id=""mwBOg"">...</i>)</dd>|<dt id=""mwBOY"">Can I just pay a fine now?</dt>
+Θέλω να φύγω. (<i id=""mwA0o"">...</i>)|I want to check out.
+Δέχεσθε αμερικανικά/αυστραλιανά/καναδικά δολάρια; (<i id=""mwA08"">...</i>)|Do you accept American/Australian/Canadian dollars?
+Δέχεσθε βρατανικές λίρες; (<i id=""mwA1I"">...</i>)|Do you accept British pounds?
+Δέχεσθε πιστωτικές κάρτες; (<i id=""mwA1U"">...</i>)|Do you accept credit cards?
+Μπορείτε να μου χαλάσετε/αλλάξετε χρήματα; (<i id=""mwA1g"">...</i>)|Can you change money for me?
+Πού μπορώ να χαλάσω/αλλάξω χρήματα; (<i id=""mwA1s"">...</i>)|Where can I get money changed?
+Μπορείτε να μου χαλάσετε μια ταξιδιωτική επιταγή; (<i id=""mwA14"">...</i>)|Can you change a traveler's check for me?
+Πού μπορώ να χαλάσω μια ταξιδιωτική επιταγή; (<i id=""mwA2E"">...</i>)|Where can I get a traveler's check changed?
+Ποια είναι η τιμή συναλλάγματος; (<i id=""mwA2Q"">...</i>)|What is the exchange rate?
+Πού υπάρχει μια Αυτόματη Ταμειακή Μηχανή (ATM); (<i id=""mwA2c"">...</i>)|Where is an automatic teller machine (ATM)?
+Ένα τραπέζι για ένα άτομο/δύο άτομα, παρακαλώ. (<i id=""mwA2w"">...</i>)|A table for one person/two people, please.
+Μπορώ να έχω έναν κατάλογο, παρακαλώ; (<i id=""mwA28"">...</i>)|Can I look at the menu, please?
+Μπορώ να επισκεφθώ την κουζίνα;  (<i id=""mwA3I"">...</i>)|Can I look in the kitchen?
+Yπάρχει καμιά σπιτική σπεσιαλιτέ; (<i id=""mwA3U"">...</i>)|Is there a house specialty?
+Υπάρχει καμιά τοπική σπεσιαλιτέ; (<i id=""mwA3g"">...</i>)|Is there a local specialty?
+Είμαι χορτοφάγος. (<i id=""mwA3s"">...</i>)|I'm a vegetarian.
+Δεν τρώω χοιρινό. (<i id=""mwA34"">...</i>)|I don't eat pork.
+Ακολουθώ εβραϊκή διατροφή. (<i id=""mwA4E"">...</i>)|I only eat kosher food.
+Μπορείτε να το μαγειρέψετε ελαφρά, παρακαλώ; (<i id=""mwA4U"">...</i>)|"Can you make it ""lite"", please? (<i id=""mwA4M"">less oil/butter/lard</i>)"
+γεύμα συγκεκριμένης τιμής (not used as an expression) (<i id=""mwA4g"">...</i>)|fixed-price meal
+à la carte (<i id=""mwA4s"">...</i>)|à la carte
+πρωινό (<i id=""mwA44"">...</i>)|breakfast
+μεσημεριανό (<i id=""mwA5E"">...</i>)|lunch
+απογευματινό (?) (not used as an expression) (<i id=""mwA5U"">...</i>)|tea (<i id=""mwA5M"">meal</i>)
+βραδυνό (<i id=""mwA5g"">...</i>)|supper
+Θέλω _____. (<i id=""mwA5s"">...</i>)|I want _____.
+Θέλω ένα πιάτο που να περιέχει _____. (<i id=""mwA54"">...</i>)|I want a dish containing _____.
+κοτόπουλο (<i id=""mwA6E"">...</i>)|chicken
+βοδινό (<i id=""mwA6Q"">...</i>)|beef
+ψάρι (<i id=""mwA6c"">...</i>)|fish
+ζαμπόν (<i id=""mwA6o"">...</i>)|ham
+λουκάνικο (<i id=""mwA60"">...</i>)|sausage
+τυρι|cheese (<i id=""mwA7A"">tee-REE</i>)
+αυγά|eggs (<i id=""mwA7M"">ahv-GHAH</i>)
+σαλατα|salad (<i id=""mwA7Y"">sah-LAH-tah</i>)
+(φρέσκα) λαχανικά|(fresh) vegetables (<i id=""mwA7k"">FREH-ska</i>) lah-ha-ni-KA
+(fresh) fruit (<i id=""mwA7w"">...</i>)|(fresh) fruit
+αρτος, ψωμι|bread (<i id=""mwA78"">AHR-toss</i>), (<i id=""mwA8A"">psoh-MEE</i>)
+φρυγανιά (<i id=""mwA8M"">...</i>)|toast
+φιδές (<i id=""mwA8Y"">...</i>)|noodles
+ρύζι|rice (<i id=""mwA8k"">oh-REE-zah</i>)
+φασόλια|beans (<i id=""mwA8w"">fah-SOH-lia</i>)
+Μπορώ να έχω ένα ποτήρι _____; (<i id=""mwA88"">...</i>)|May I have a glass of _____?
+Μπορώ να έχω ένα φλυτζάνι _____; (<i id=""mwA9I"">...</i>)|May I have a cup of _____?
+Μπορώ να έχω ένα μπουκάλι _____; (<i id=""mwA9U"">...</i>)|May I have a bottle of _____?
+καφές (<i id=""mwA9g"">...</i>)|coffee
+τσάι (<i id=""mwA9w"">...</i>)|tea (<i id=""mwA9o"">drink</i>)
+χυμός (<i id=""mwA98"">...</i>)|juice
+ανθρακούχο νερό (<i id=""mwA-I"">...</i>)|"">(bubbly) water
+νερο|"">water (<i id=""mwA-U"">neh-ROH</i>)
+μπύρα (<i id=""mwA-g"">...</i>)|"">beer
+κόκκινο/λευκό κρασί (<i id=""mwA-s"">...</i>)|"">red/white wine
+Μπορώ να έχω λίγο _____; (<i id=""mwA-4"">...</i>)|"">May I have some _____?
+αλάτι (<i id=""mwA_E"">...</i>)|"">salt
+μαύρο πιπέρι (<i id=""mwA_Q"">...</i>)|black pepper
+βουτυρο|butter (<i id=""mwA_c"">VOO-tee-roh</i>)
+Συγνώμη, σερβιτόρε; (<i id=""mwA_s"">...</i>)|Excuse me, waiter? (<i id=""mwA_k"">getting attention of server</i>)
+Τελείωσα. (<i id=""mwA_4"">...</i>)|I'm finished.
+Ήταν εξαιρετικό. (<i id=""mwBAE"">...</i>)|It was delicious.
+Παρακαλώ αδειάστε τα πιάτα. (<i id=""mwBAQ"">...</i>)|Please clear the plates.
+Το λογαριασμό, παρακαλώ. (<i id=""mwBAc"">...</i>)|The check, please.
+Σερβίρετε οινοπνευματώδη; (<i id=""mwBAw"">...</i>)|Do you serve alcohol?
+Υπάρχουν σερβιτόροι; (<i id=""mwBA8"">...</i>)|Is there table service?
+Μία μπύρα/δύο μπύρες, παρακαλώ. (<i id=""mwBBI"">...</i>)|A beer/two beers, please.
+Ένα ποτήρι κόκκινο/λευκό κρασί, παρακαλώ. (<i id=""mwBBU"">...</i>)|A glass of red/white wine, please.
+Pint does not exist in Greece|A pint, please.
+Ένα μπουκάλι, παρακαλώ. (<i id=""mwBBo"">...</i>)|A bottle, please.
+_____ and _____, please. (<i id=""mwBB8"">...</i>)|_____ (<i id=""mwBBw"">hard liquor</i>) and _____ (<i id=""mwBB0"">mixer</i>), please.
+ουίσκι (<i id=""mwBCI"">...</i>)|whiskey
+βότκα|vodka (<i id=""mwBCU"">v-O-tka</i>)
+ρούμι|rum (<i id=""mwBCg"">ro-E-mi</i>)
+νερό|water (<i id=""mwBCs"">neh-rO</i>)
+σόδα|club soda (<i id=""mwBC4"">sO-da</i>)
+tonic water (<i id=""mwBDE"">...</i>)|tonic water
+χυμός πορτοκάλι (<i id=""mwBDQ"">...</i>)|orange juice
+Κόκα Κόλα|Coke (<i id=""mwBDY"">soda</i>) (<i id=""mwBDg"">kOka kOla</i>)
+Έχετε bar snacks; (<i id=""mwBDs"">...</i>)|Do you have any bar snacks?
+Ένα ακόμα, παρακαλώ.|One more, please. (<i id=""mwBD4"">e-na akOma, para-ka-lO</i>)
+Μια από τα ίδια, παρακαλώ. (<i id=""mwBEE"">...</i>)|Another round, please.
+Πότε κλείνετε;|When is closing time? (<i id=""mwBEQ"">pO-te ...</i>)
+To έχετε αυτό στο δικό μου νούμερο; (<i id=""mwBEk"">...</i>)|Do you have this in my size?
+Πόσο κάνει αυτό? (<i id=""mwBEw"">...</i>)|How much is this?
+Αυτό είναι πολύ ακριβό. (<i id=""mwBE8"">...</i>)|That's too expensive.
+Δέχεστε _____; (<i id=""mwBFI"">...</i>)|Would you take _____?
+ακριβός/ή/ό (depending on gender)(<i id=""mwBFU"">...</i>)|expensive
+φθηνός/ή/ό (<i id=""mwBFg"">...</i>)|cheap
+Είναι υπερβολικά ακριβό για εμένα. (<i id=""mwBFs"">...</i>)|I can't afford it.
+Δεν το θέλω. (<i id=""mwBF4"">...</i>)|I don't want it.
+Με εξαπατάτε. (<i id=""mwBGE"">...</i>)|You're cheating me.
+Δεν ενδιαφέρομαι. (..)|I'm not interested.
+Καλώς, θα το πάρω. (<i id=""mwBGY"">...</i>)|OK, I'll take it.
+Μπορώ να έχω μία τσάντα; (<i id=""mwBGk"">...</i>)|Can I have a bag?
+Κάνετε αποστολές (στο εξωτερικό); (<i id=""mwBGw"">...</i>)|Do you ship (overseas)?
+Χρειάζομαι... (<i id=""mwBG8"">...</i>)|I need...
+...οδοντόκρεμα. (<i id=""mwBHI"">...</i>)|...toothpaste.
+...οδοντόβουρτσα. (<i id=""mwBHU"">...</i>)|...a toothbrush.
+...σερβιέτες. (<i id=""mwBHg"">...</i>)|...tampons.
+...σαπούνι. (<i id=""mwBHs"">...</i>)|...soap.
+...σαμπουάν. (<i id=""mwBH4"">...</i>)|...shampoo.
+...παυσίπονο. (<i id=""mwBII"">...</i>)|...pain reliever. (<i id=""mwBIA"">e.g., aspirin or ibuprofen</i>)
+...φάρμακο για κρύωμα. (<i id=""mwBIU"">...</i>)|...cold medicine.
+...φάρμακο για το στομάχι. (<i id=""mwBIg"">...</i>)|...stomach medicine.
+... ξυραφάκι. (<i id=""mwBIs"">...</i>)|...a razor.
+...ομπρέλα. (<i id=""mwBI4"">...</i>)|...an umbrella.
+...αντιηλιακό. (<i id=""mwBJE"">...</i>)|...sunblock lotion.
+...καρτ-ποστάλ. (<i id=""mwBJQ"">...</i>)|...a postcard.
+...γραμματόσημα. (<i id=""mwBJc"">...</i>)|...postage stamps.
+...μπαταρίες. (<i id=""mwBJo"">...</i>)|...batteries.
+...χαρτί. (<i id=""mwBJ0"">...</i>)|...writing paper.
+...ένα στυλό. (<i id=""mwBKA"">...</i>)|...a pen.
+...Αγγλόφωνα βιβλία. (<i id=""mwBKM"">...</i>)|...English-language books.
+...Αγγλόφωνα περιοδικά. (<i id=""mwBKY"">...</i>)|...English-language magazines.
+...αγγλόφωνη εφημερίδα. (<i id=""mwBKk"">...</i>)|...an English-language newspaper.
+...ελληνικο-αγγλικο λεξικο.|"...an English-Greek dictionary. (<i id=""mwBKw"">eh-lee-nee-KOH ang-glee-KOH LEX-ee-koh</i>)"
+Θέλω να ενοικιάσω ένα αυτοκίνητο. (<i id=""mwBLE"">...</i>)|Ι want to rent a car.
+Μπορώ να έχω ασφάλεια? (<i id=""mwBLQ"">...</i>)|Can I get insurance?
+stop (<i id=""mwBLg"">...</i>)|stop (<i id=""mwBLY"">on a street sign</i>)
+μονόδρομος (<i id=""mwBLs"">...</i>)|one way
+παραχώρηση προτεραιότητος (<i id=""mwBL4"">...</i>)|yield
+Απαγορεύεται η στάθμευση (<i id=""mwBME"">...</i>)|no parking
+όριο ταχύτητας (<i id=""mwBMQ"">...</i>)|speed limit
+πρατήριο βενζίνης (<i id=""mwBMg"">...</i>)|gas (<i id=""mwBMY"">petrol</i>) station
+βενζίνη (<i id=""mwBMs"">...</i>)|petrol
+diesel (<i id=""mwBM4"">...</i>)|diesel
+Δεν έκανα τίποτα επιλήψιμο. (<i id=""mwBNM"">...</i>)|I haven't done anything wrong.
+Ήταν μια παρεξήγηση. (<i id=""mwBNY"">...</i>)|It was a misunderstanding.
+Που με πηγαίνετε? (<i id=""mwBNk"">...</i>)|Where are you taking me?
+Συνελήφθην? (<i id=""mwBNw"">...</i>)|Am I under arrest?
+Είμαι Αμερικανός/Αυστραλός/Βρετανός/Καναδός πολίτης. (<i id=""mwBN8"">...</i>)|I am an American/Australian/British/Canadian citizen.
+Πρέπει να μιλήσω με τον American/Australian/British/Canadian πρέσβη/πρόξενο. (<i id=""mwBOI"">...</i>)|I want to talk to the American/Australian/British/Canadian embassy/consulate.
+Θέλω να μιλήσω σε δικηγόρο. (<i id=""mwBOU"">...</i>)|I want to talk to a lawyer.
+Μπορώ απλά να πληρώσω ένα πρόστιμο? (<i id=""mwBOg"">...</i>)|Can I just pay a fine now?
