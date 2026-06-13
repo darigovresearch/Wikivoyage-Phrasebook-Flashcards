@@ -1,3 +1,31 @@
+"Introduction (Wikivoyage Phrasebook Greek)"|"
+<pThis deck has taken words outlined in the Greek Phrasebook of the <a href=""https://en.wikivoyage.org/wiki/Phrasebooks"">Wikivoyage Phrasebook</a> pages and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>All the vocabulary from each language has been arranged in a way that can be easily learnt from Anki, separated into decks for each language</li>
+<li>Any updates, corrections or translations to the deck will be available at <a href=""https://github.com/darigovresearch/Wikivoyage-Phrasebook-Flashcards""></a><a href=""https://github.com/darigovresearch/Wikivoyage-Phrasebook-Flashcards"">https://github.com/darigovresearch/Wikivoyage-Phrasebook-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+<li>Modifications from the original work includes typo correction, card merging &amp; consistency consolidation (see the commit history for for the specific changes)</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>Usage</h2>
+<p>If you want to just learn the words, download <a href=""https://apps.ankiweb.net/"">Anki</a> on your device of choice and open the .apkg file to add it into your collection. You can choose to download the whole texbook as a single deck or you can download it a language at a time from the individual language files in the ""APKG"" folder for the relevant language. If you wish to build the deck from scratch you will need to import the .txt file via the desktop with HTML enabled and the separator to be ""|"".</p>
+<p>Watch our video on an Introduction to Anki for a complete overview -&gt; <a href=""https://www.youtube.com/watch?v=Dji_h7PILrw"">https://www.youtube.com/watch?v=Dji_h7PILrw</a></p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this repository is covered by the following licence:</p>
+<p>This work was based on the work <em><strong>Phrasebooks</strong></em> by <a href=""https://en.wikivoyage.org/wiki/Phrasebooks"">Wikivoyage</a>, licensed under a <a href=""https://creativecommons.org/licenses/by-sa/4.0/"">Creative Commons Attribution-ShareAlike License</a>.</p>
+<p>To see this work in full go to <a href=""https://en.wikivoyage.org/wiki/Phrasebooks"">https://en.wikivoyage.org/wiki/Phrasebooks</a></p>
+<hr>
+<b>
+<div align=""center"">
+    The creation, maintenance and continued development of this project is made possible
+    <br>
+    thanks to our <a href=""http://patreon.com/darigovresearch"">Patreon</a> and <a href=""https://www.darigovresearch.com/donate"">Direct</a> supporters!
+    <br>
+    Consider joining them if you think this project has earned it!
+</div>
+</b>
+"
 What should you know about Greek?|"<b id=""mwCQ"">Greek</b> (Ελληνικά) is one of the oldest attested Indo-European languages, known from 1400 BCE in inscriptions in a syllabary of Minoan origin. The present alphabet was introduced by a Phoenician called Qadmu (Κάδμος) about 800 BCE and has been in use continuously since then, with a few letters added and removed along the way. The 24-letter alphabet used in Classical Greek is the same one used today. Greek forms its own isolated branch within the Indo-European language family. Thus it is not related closely to any other Indo-European language. Greek is the official language of both <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Greece"" title=""Greece"" id=""mwCg"">Greece</a> and <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Cyprus"" title=""Cyprus"" id=""mwCw"">Cyprus</a>, but is only spoken in the south of the latter.</p>
 "
 What should you know about Greek words?|"<p id=""mwDA"">Many Greek words have been borrowed into other languages, so you will find a lot of these words familiar, such as <i id=""mwDQ"">τραύμα</i> (<i id=""mwDg"">trauma</i>, ""injury"") and <i id=""mwDw"">σοφία</i>  (<i id=""mwEA"">sofia</i> ""wisdom, knowledge""). Originally they were borrowed into Latin, which became the Romance languages. The changes Greek words underwent in Latin are different from those they underwent in Greek. For instance, in a rare case of someone actually returning a word he borrowed, κίνημα (<i id=""mwEQ"">kinema</i>, motion) was borrowed into Latin as <i id=""mwEg"">cinema</i>, which in French acquired the meaning ""movie"", and was returned to Greek as σινεμά (<i id=""mwEw"">sinema</i>).</p>
