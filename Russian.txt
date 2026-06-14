@@ -8,59 +8,58 @@ What should you know about Russian Russian in countries lacking official designa
 What should you know about Consonants and vowels in Russian?|"<p id=""mwMw"">Consonants and vowels in Russian (and Slavic generally) are <i id=""mwNA"">soft</i> (palatalized) or <i id=""mwNQ"">hard</i>. Consonants are pronounced soft if followed by a soft vowel or the soft sign, else hard. Some consonants are always soft or always hard, regardless of the following vowel.</p>"
 What is important to note about the Russian alphabet when writing by hand?|"<p id=""mwNg"">One important note: the cursive Russian alphabet looks very different from  the printed alphabet. The printed alphabet is rarely used when writing by hand. (The same goes with other Cyrillic-written languages.) On the upside, though, as a traveler, you are quite unlikely to have to read much handwritten Russian!</p>
 <figure typeof=""mw:File/Thumb"" id=""mwLw""><a href=""//en.wikivoyage.org/wiki/File:Russian_alphabet.svg"" class=""mw-file-description"" id=""mwMA""><img resource=""//en.wikivoyage.org/wiki/File:Russian_alphabet.svg"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Russian_alphabet.svg/250px-Russian_alphabet.svg.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail"" decoding=""async"" data-file-width=""170"" data-file-height=""1196"" data-file-type=""drawing"" height=""1407"" width=""200"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Russian_alphabet.svg/500px-Russian_alphabet.svg.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x"" class=""mw-file-element"" id=""mwMQ""/></a><figcaption id=""mwMg"">Russian print and cursive</figcaption></figure>"
-<dt id=""mwOQ"">a ah</dt>|"<dd id=""mwOg"">like f<b id=""mwOw"">a</b>ther <span about=""#mwt7"" typeof=""mw:Transclusion"" id=""mwPA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""a""}},""i"":0}}]}'>(</span><small about=""#mwt7""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt7""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt7"">a</span><span about=""#mwt7"">)</span></dd>"
-<dt id=""mwPQ"">e yeh</dt>|"<dd id=""mwPg"">like <b id=""mwPw"">ye</b>sterday <span about=""#mwt8"" typeof=""mw:Transclusion"" id=""mwQA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""je""}},""i"":0}}]}'>(</span><small about=""#mwt8""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt8""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt8"">je</span><span about=""#mwt8"">)</span></dd>"
-<dt id=""mwQQ"">ё yoh</dt>|"<dd id=""mwQg"">like <b id=""mwQw"">yo</b>re <span about=""#mwt9"" typeof=""mw:Transclusion"" id=""mwRA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""jɵ""}},""i"":0}}]}'>(</span><small about=""#mwt9""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt9""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt9"">jɵ</span><span about=""#mwt9"">)</span></dd>"
-<dt id=""mwRQ"">и ee</dt>|"<dd id=""mwRg"">like s<b id=""mwRw"">ee</b>n or mach<b id=""mwSA"">i</b>ne <span about=""#mwt10"" typeof=""mw:Transclusion"" id=""mwSQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""i""}},""i"":0}}]}'>(</span><small about=""#mwt10""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt10""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt10"">i</span><span about=""#mwt10"">)</span></dd>"
-<dt id=""mwSg"">o oh</dt>|"<dd id=""mwSw"">like sc<b id=""mwTA"">o</b>re <span about=""#mwt11"" typeof=""mw:Transclusion"" id=""mwTQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""o""}},""i"":0}}]}'>(</span><small about=""#mwt11""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt11""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt11"">o</span><span about=""#mwt11"">)</span></dd>"
-<dt id=""mwTg"">у oo</dt>|"<dd id=""mwTw"">like cart<b id=""mwUA"">oo</b>n <span about=""#mwt12"" typeof=""mw:Transclusion"" id=""mwUQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""u""}},""i"":0}}]}'>(</span><small about=""#mwt12""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt12""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt12"">u</span><span about=""#mwt12"">)</span></dd>"
-<dt id=""mwUg"">ы yh</dt>|"<dd id=""mwUw"">like ros<b id=""mwVA"">e</b>s <span about=""#mwt13"" typeof=""mw:Transclusion"" id=""mwVQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ɨ""}},""i"":0}}]}'>(</span><small about=""#mwt13""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt13""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt13"">ɨ</span><span about=""#mwt13"">)</span></dd>"
-<dt id=""mwVg"">э eh</dt>|"<dd id=""mwVw"">like <b id=""mwWA"">e</b>nd  <span about=""#mwt14"" typeof=""mw:Transclusion"" id=""mwWQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ɛ""}},""i"":0}}]}'>(</span><small about=""#mwt14""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt14""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt14"">ɛ</span><span about=""#mwt14"">)</span></dd>"
-<dt id=""mwWg"">ю yoo</dt>|"<dd id=""mwWw"">like <b id=""mwXA"">Yu</b>goslavia <span about=""#mwt15"" typeof=""mw:Transclusion"" id=""mwXQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ju""}},""i"":0}}]}'>(</span><small about=""#mwt15""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt15""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt15"">ju</span><span about=""#mwt15"">)</span></dd>"
-<dt id=""mwXg"">я yah</dt>|"<dd id=""mwXw"">like <b id=""mwYA"">ya</b>cht <span about=""#mwt16"" typeof=""mw:Transclusion"" id=""mwYQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ja""}},""i"":0}}]}'>(</span><small about=""#mwt16""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt16""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt16"">ja</span><span about=""#mwt16"">)</span></dd>"
+a ah|"like f<b id=""mwOw"">a</b>ther <span about=""#mwt7"" typeof=""mw:Transclusion"" id=""mwPA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""a""}},""i"":0}}]}'>(</span><small about=""#mwt7""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt7""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt7"">a</span><span about=""#mwt7"">)</span>"
+e yeh|"like <b id=""mwPw"">ye</b>sterday <span about=""#mwt8"" typeof=""mw:Transclusion"" id=""mwQA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""je""}},""i"":0}}]}'>(</span><small about=""#mwt8""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt8""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt8"">je</span><span about=""#mwt8"">)</span>"
+ё yoh|"like <b id=""mwQw"">yo</b>re <span about=""#mwt9"" typeof=""mw:Transclusion"" id=""mwRA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""jɵ""}},""i"":0}}]}'>(</span><small about=""#mwt9""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt9""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt9"">jɵ</span><span about=""#mwt9"">)</span>"
+и ee|"like s<b id=""mwRw"">ee</b>n or mach<b id=""mwSA"">i</b>ne <span about=""#mwt10"" typeof=""mw:Transclusion"" id=""mwSQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""i""}},""i"":0}}]}'>(</span><small about=""#mwt10""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt10""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt10"">i</span><span about=""#mwt10"">)</span>"
+o oh|"like sc<b id=""mwTA"">o</b>re <span about=""#mwt11"" typeof=""mw:Transclusion"" id=""mwTQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""o""}},""i"":0}}]}'>(</span><small about=""#mwt11""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt11""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt11"">o</span><span about=""#mwt11"">)</span>"
+у oo|"like cart<b id=""mwUA"">oo</b>n <span about=""#mwt12"" typeof=""mw:Transclusion"" id=""mwUQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""u""}},""i"":0}}]}'>(</span><small about=""#mwt12""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt12""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt12"">u</span><span about=""#mwt12"">)</span>"
+ы yh|"like ros<b id=""mwVA"">e</b>s <span about=""#mwt13"" typeof=""mw:Transclusion"" id=""mwVQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ɨ""}},""i"":0}}]}'>(</span><small about=""#mwt13""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt13""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt13"">ɨ</span><span about=""#mwt13"">)</span>"
+э eh|"like <b id=""mwWA"">e</b>nd  <span about=""#mwt14"" typeof=""mw:Transclusion"" id=""mwWQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ɛ""}},""i"":0}}]}'>(</span><small about=""#mwt14""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt14""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt14"">ɛ</span><span about=""#mwt14"">)</span>"
+ю yoo|"like <b id=""mwXA"">Yu</b>goslavia <span about=""#mwt15"" typeof=""mw:Transclusion"" id=""mwXQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ju""}},""i"":0}}]}'>(</span><small about=""#mwt15""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt15""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt15"">ju</span><span about=""#mwt15"">)</span>"
+я yah|"like <b id=""mwYA"">ya</b>cht <span about=""#mwt16"" typeof=""mw:Transclusion"" id=""mwYQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ja""}},""i"":0}}]}'>(</span><small about=""#mwt16""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt16""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt16"">ja</span><span about=""#mwt16"">)</span>"
 What should you know about vowel reduction in Russian?|"<p id=""mwYg"">Russian, like English, has something called vowel reduction, where the vowels take on different sounds if they are not in the stressed syllable of the word. The exact nature of this depends on the part of Russia one is located in, but generally (and abroad):</p>
-<ul id=""mwYw""><li id=""mwZA"">The letters е, ю, and я sound like their counterparts э, у, and а</li>
+<ul align=""left"" align=""left"" id=""mwYw""><li id=""mwZA"">The letters е, ю, and я sound like their counterparts э, у, and а</li>
 <li id=""mwZQ"">The letter о sounds like the letter а when in the syllable before the stressed syllable, or like a schwa otherwise (eg. the e in English chick<b id=""mwZg"">e</b>n)</li>
 <li id=""mwZw"">The letter а sounds like the English h<b id=""mwaA"">u</b>t <span about=""#mwt17"" typeof=""mw:Transclusion"" id=""mwaQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ə or ɐ""}},""i"":0}}]}'>(</span><small about=""#mwt17""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt17""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt17"">ə or ɐ</span><span about=""#mwt17"">)</span></li>
 <li id=""mwag"">The letter у sounds like the English b<b id=""mwaw"">oo</b>k <span about=""#mwt18"" typeof=""mw:Transclusion"" id=""mwbA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ʊ""}},""i"":0}}]}'>(</span><small about=""#mwt18""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt18""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt18"">ʊ</span><span about=""#mwt18"">)</span></li>
 <li id=""mwbQ"">All other vowels tend to make the sound of English <b id=""mwbg"">i</b>ll <span about=""#mwt19"" typeof=""mw:Transclusion"" id=""mwbw"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ɪ""}},""i"":0}}]}'>(</span><small about=""#mwt19""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt19""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt19"">ɪ</span><span about=""#mwt19"">)</span></li></ul>
 <p id=""mwcA"">However, when traveling, you generally don't need to worry about reduction. Pronouncing all vowels as if they were stressed will seem like over-enunciation to a native speaker, but you'll be perfectly understood. </p>"
 What should you know about ё in Russian?|"<p id=""mwcQ"">Unfortunately, <b id=""mwcg"">ё</b> is very often written as <b id=""mwcw"">е</b>, which can cause problems for non-native speakers, since pronouncing one over the other can change the meaning of a word. Fortunately, books oriented toward beginners (like dictionaries, grammar books, literature for foreigners, etc.) always include the dots.</p>"
-<dt id=""mwdg"">б beh</dt>|"<dd id=""mwdw"">like <b id=""mweA"">b</b>oy <span about=""#mwt20"" typeof=""mw:Transclusion"" id=""mweQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""b""}},""i"":0}}]}'>(</span><small about=""#mwt20""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt20""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt20"">b</span><span about=""#mwt20"">)</span></dd>"
-<dt id=""mweg"">в veh</dt>|"<dd id=""mwew"">like <b id=""mwfA"">v</b>ery <span about=""#mwt21"" typeof=""mw:Transclusion"" id=""mwfQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""v""}},""i"":0}}]}'>(</span><small about=""#mwt21""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt21""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt21"">v</span><span about=""#mwt21"">)</span></dd>"
-<dt id=""mwfg"">г geh</dt>|"<dd id=""mwfw"">like <b id=""mwgA"">g</b>o <span about=""#mwt22"" typeof=""mw:Transclusion"" id=""mwgQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ɡ""}},""i"":0}}]}'>(</span><small about=""#mwt22""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt22""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt22"">ɡ</span><span about=""#mwt22"">)</span>; in genitive (possessive) endings ого/его pronounced like в. E.g., ""Dostoevsky's"" = Достоевского (duh-stah-YEHV-skuh-vuh)</dd>"
-<dt id=""mwgg"">д deh</dt>|"<dd id=""mwgw"">like <b id=""mwhA"">d</b>o <span about=""#mwt23"" typeof=""mw:Transclusion"" id=""mwhQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""d""}},""i"":0}}]}'>(</span><small about=""#mwt23""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt23""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt23"">d</span><span about=""#mwt23"">)</span></dd>"
-<dt id=""mwhg"">ж zheh</dt>|"<dd id=""mwhw"">like mea<b id=""mwiA"">s</b>ure <span about=""#mwt24"" typeof=""mw:Transclusion"" id=""mwiQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ʐ""}},""i"":0}}]}'>(</span><small about=""#mwt24""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt24""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt24"">ʐ</span><span about=""#mwt24"">)</span></dd>"
-<dt id=""mwig"">з zeh</dt>|"<dd id=""mwiw"">like <b id=""mwjA"">z</b>oo <span about=""#mwt25"" typeof=""mw:Transclusion"" id=""mwjQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""z""}},""i"":0}}]}'>(</span><small about=""#mwt25""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt25""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt25"">z</span><span about=""#mwt25"">)</span></dd>"
-"<dt id=""mwjg"">й ee kratkoe (""short и"")</dt>"|"<dd id=""mwjw"">like bo<b id=""mwkA"">y</b> <span about=""#mwt26"" typeof=""mw:Transclusion"" id=""mwkQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""j""}},""i"":0}}]}'>(</span><small about=""#mwt26""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt26""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt26"">j</span><span about=""#mwt26"">)</span></dd>"
-<dt id=""mwkg"">к kah</dt>|"<dd id=""mwkw"">like <b id=""mwlA"">k</b>eep <span about=""#mwt27"" typeof=""mw:Transclusion"" id=""mwlQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""k""}},""i"":0}}]}'>(</span><small about=""#mwt27""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt27""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt27"">k</span><span about=""#mwt27"">)</span></dd>"
-<dt id=""mwlg"">л ell</dt>|"<dd id=""mwlw"">like fee<b id=""mwmA"">l</b> <span about=""#mwt28"" typeof=""mw:Transclusion"" id=""mwmQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ɫ""}},""i"":0}}]}'>(</span><small about=""#mwt28""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt28""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt28"">ɫ</span><span about=""#mwt28"">)</span></dd>"
-<dt id=""mwmg"">м em</dt>|"<dd id=""mwmw"">like see<b id=""mwnA"">m</b> <span about=""#mwt29"" typeof=""mw:Transclusion"" id=""mwnQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""m""}},""i"":0}}]}'>(</span><small about=""#mwt29""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt29""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt29"">m</span><span about=""#mwt29"">)</span></dd>"
-<dt id=""mwng"">н en</dt>|"<dd id=""mwnw"">like <b id=""mwoA"">n</b>oodle <span about=""#mwt30"" typeof=""mw:Transclusion"" id=""mwoQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""n""}},""i"":0}}]}'>(</span><small about=""#mwt30""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt30""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt30"">n</span><span about=""#mwt30"">)</span></dd>"
-<dt id=""mwog"">п peh</dt>|"<dd id=""mwow"">like s<b id=""mwpA"">p</b>igot <span about=""#mwt31"" typeof=""mw:Transclusion"" id=""mwpQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""p""}},""i"":0}}]}'>(</span><small about=""#mwt31""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt31""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt31"">p</span><span about=""#mwt31"">)</span></dd>"
-<dt id=""mwpg"">р err</dt>|"<dd id=""mwpw""><i id=""mwqA"">heavily</i> rolled as in Spanish rr in pe<b id=""mwqQ"">rr</b>o <span about=""#mwt32"" typeof=""mw:Transclusion"" id=""mwqg"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""r""}},""i"":0}}]}'>(</span><small about=""#mwt32""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt32""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt32"">r</span><span about=""#mwt32"">)</span></dd>"
-<dt id=""mwqw"">с ess</dt>|"<dd id=""mwrA"">like <b id=""mwrQ"">s</b>eem <span about=""#mwt33"" typeof=""mw:Transclusion"" id=""mwrg"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""s""}},""i"":0}}]}'>(</span><small about=""#mwt33""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt33""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt33"">s</span><span about=""#mwt33"">)</span></dd>"
-<dt id=""mwrw"">т teh</dt>|"<dd id=""mwsA"">like s<b id=""mwsQ"">t</b>op <span about=""#mwt34"" typeof=""mw:Transclusion"" id=""mwsg"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""t""}},""i"":0}}]}'>(</span><small about=""#mwt34""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt34""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt34"">t</span><span about=""#mwt34"">)</span></dd>"
-<dt id=""mwsw"">ф eff</dt>|"<dd id=""mwtA"">like <b id=""mwtQ"">F</b>rench <span about=""#mwt35"" typeof=""mw:Transclusion"" id=""mwtg"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""f""}},""i"":0}}]}'>(</span><small about=""#mwt35""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt35""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt35"">f</span><span about=""#mwt35"">)</span></dd>"
-<dt id=""mwtw"">х khah</dt>|"<dd id=""mwuA"">like <b id=""mwuQ"">Ch</b>anukkah, Scottish lo<b id=""mwug"">ch</b>, or German Ba<b id=""mwuw"">ch</b> <span about=""#mwt36"" typeof=""mw:Transclusion"" id=""mwvA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""x""}},""i"":0}}]}'>(</span><small about=""#mwt36""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt36""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt36"">x</span><span about=""#mwt36"">)</span></dd>"
-<dt id=""mwvQ"">ц tseh</dt>|"<dd id=""mwvg"">like boo<b id=""mwvw"">ts</b> <span about=""#mwt37"" typeof=""mw:Transclusion"" id=""mwwA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""t͡s""}},""i"":0}}]}'>(</span><small about=""#mwt37""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt37""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt37"">t͡s</span><span about=""#mwt37"">)</span></dd>"
-<dt id=""mwwQ"">ч cheh</dt>|"<dd id=""mwwg"">like <b id=""mwww"">ch</b>eap <span about=""#mwt38"" typeof=""mw:Transclusion"" id=""mwxA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""t͡ɕ""}},""i"":0}}]}'>(</span><small about=""#mwt38""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt38""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt38"">t͡ɕ</span><span about=""#mwt38"">)</span></dd>"
-<dt id=""mwxQ"">ш sheh</dt>|"<dd id=""mwxg"">like <b id=""mwxw"">sh</b>ot <span about=""#mwt39"" typeof=""mw:Transclusion"" id=""mwyA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ʂ""}},""i"":0}}]}'>(</span><small about=""#mwt39""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt39""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt39"">ʂ</span><span about=""#mwt39"">)</span></dd>"
-<dt id=""mwyQ"">щ scheh</dt>|"<dd id=""mwyg"">ш, but harsher <span about=""#mwt40"" typeof=""mw:Transclusion"" id=""mwyw"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ɕ""}},""i"":0}}]}'>(</span><small about=""#mwt40""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt40""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt40"">ɕ</span><span about=""#mwt40"">)</span>. Don't worry about this too much, as you'll be understood in context. (Note that though щ is often transliterated as shch, it is <i id=""mwzA"">not</i> pronounced similar to ""har<b id=""mwzQ"">sh ch</b>oice""—there is no ch sound in this Russian consonant)</dd>"
+б beh|"like <b id=""mweA"">b</b>oy <span about=""#mwt20"" typeof=""mw:Transclusion"" id=""mweQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""b""}},""i"":0}}]}'>(</span><small about=""#mwt20""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt20""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt20"">b</span><span about=""#mwt20"">)</span>"
+в veh|"like <b id=""mwfA"">v</b>ery <span about=""#mwt21"" typeof=""mw:Transclusion"" id=""mwfQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""v""}},""i"":0}}]}'>(</span><small about=""#mwt21""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt21""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt21"">v</span><span about=""#mwt21"">)</span>"
+г geh|"like <b id=""mwgA"">g</b>o <span about=""#mwt22"" typeof=""mw:Transclusion"" id=""mwgQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ɡ""}},""i"":0}}]}'>(</span><small about=""#mwt22""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt22""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt22"">ɡ</span><span about=""#mwt22"">)</span>; in genitive (possessive) endings ого/его pronounced like в. E.g., ""Dostoevsky's"" = Достоевского (duh-stah-YEHV-skuh-vuh)"
+д deh|"like <b id=""mwhA"">d</b>o <span about=""#mwt23"" typeof=""mw:Transclusion"" id=""mwhQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""d""}},""i"":0}}]}'>(</span><small about=""#mwt23""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt23""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt23"">d</span><span about=""#mwt23"">)</span>"
+ж zheh|"like mea<b id=""mwiA"">s</b>ure <span about=""#mwt24"" typeof=""mw:Transclusion"" id=""mwiQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ʐ""}},""i"":0}}]}'>(</span><small about=""#mwt24""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt24""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt24"">ʐ</span><span about=""#mwt24"">)</span>"
+з zeh|"like <b id=""mwjA"">z</b>oo <span about=""#mwt25"" typeof=""mw:Transclusion"" id=""mwjQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""z""}},""i"":0}}]}'>(</span><small about=""#mwt25""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt25""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt25"">z</span><span about=""#mwt25"">)</span>"
+"й ee kratkoe (""short и"")"|"like bo<b id=""mwkA"">y</b> <span about=""#mwt26"" typeof=""mw:Transclusion"" id=""mwkQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""j""}},""i"":0}}]}'>(</span><small about=""#mwt26""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt26""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt26"">j</span><span about=""#mwt26"">)</span>"
+к kah|"like <b id=""mwlA"">k</b>eep <span about=""#mwt27"" typeof=""mw:Transclusion"" id=""mwlQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""k""}},""i"":0}}]}'>(</span><small about=""#mwt27""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt27""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt27"">k</span><span about=""#mwt27"">)</span>"
+л ell|"like fee<b id=""mwmA"">l</b> <span about=""#mwt28"" typeof=""mw:Transclusion"" id=""mwmQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ɫ""}},""i"":0}}]}'>(</span><small about=""#mwt28""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt28""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt28"">ɫ</span><span about=""#mwt28"">)</span>"
+м em|"like see<b id=""mwnA"">m</b> <span about=""#mwt29"" typeof=""mw:Transclusion"" id=""mwnQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""m""}},""i"":0}}]}'>(</span><small about=""#mwt29""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt29""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt29"">m</span><span about=""#mwt29"">)</span>"
+н en|"like <b id=""mwoA"">n</b>oodle <span about=""#mwt30"" typeof=""mw:Transclusion"" id=""mwoQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""n""}},""i"":0}}]}'>(</span><small about=""#mwt30""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt30""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt30"">n</span><span about=""#mwt30"">)</span>"
+п peh|"like s<b id=""mwpA"">p</b>igot <span about=""#mwt31"" typeof=""mw:Transclusion"" id=""mwpQ"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""p""}},""i"":0}}]}'>(</span><small about=""#mwt31""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt31""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt31"">p</span><span about=""#mwt31"">)</span>"
+р err|"<i id=""mwqA"">heavily</i> rolled as in Spanish rr in pe<b id=""mwqQ"">rr</b>o <span about=""#mwt32"" typeof=""mw:Transclusion"" id=""mwqg"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""r""}},""i"":0}}]}'>(</span><small about=""#mwt32""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt32""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt32"">r</span><span about=""#mwt32"">)</span>"
+с ess|"like <b id=""mwrQ"">s</b>eem <span about=""#mwt33"" typeof=""mw:Transclusion"" id=""mwrg"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""s""}},""i"":0}}]}'>(</span><small about=""#mwt33""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt33""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt33"">s</span><span about=""#mwt33"">)</span>"
+т teh|"like s<b id=""mwsQ"">t</b>op <span about=""#mwt34"" typeof=""mw:Transclusion"" id=""mwsg"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""t""}},""i"":0}}]}'>(</span><small about=""#mwt34""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt34""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt34"">t</span><span about=""#mwt34"">)</span>"
+ф eff|"like <b id=""mwtQ"">F</b>rench <span about=""#mwt35"" typeof=""mw:Transclusion"" id=""mwtg"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""f""}},""i"":0}}]}'>(</span><small about=""#mwt35""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt35""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt35"">f</span><span about=""#mwt35"">)</span>"
+х khah|"like <b id=""mwuQ"">Ch</b>anukkah, Scottish lo<b id=""mwug"">ch</b>, or German Ba<b id=""mwuw"">ch</b> <span about=""#mwt36"" typeof=""mw:Transclusion"" id=""mwvA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""x""}},""i"":0}}]}'>(</span><small about=""#mwt36""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt36""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt36"">x</span><span about=""#mwt36"">)</span>"
+ц tseh|"like boo<b id=""mwvw"">ts</b> <span about=""#mwt37"" typeof=""mw:Transclusion"" id=""mwwA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""t͡s""}},""i"":0}}]}'>(</span><small about=""#mwt37""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt37""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt37"">t͡s</span><span about=""#mwt37"">)</span>"
+ч cheh|"like <b id=""mwww"">ch</b>eap <span about=""#mwt38"" typeof=""mw:Transclusion"" id=""mwxA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""t͡ɕ""}},""i"":0}}]}'>(</span><small about=""#mwt38""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt38""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt38"">t͡ɕ</span><span about=""#mwt38"">)</span>"
+ш sheh|"like <b id=""mwxw"">sh</b>ot <span about=""#mwt39"" typeof=""mw:Transclusion"" id=""mwyA"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ʂ""}},""i"":0}}]}'>(</span><small about=""#mwt39""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt39""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt39"">ʂ</span><span about=""#mwt39"">)</span>"
+щ scheh|"ш, but harsher <span about=""#mwt40"" typeof=""mw:Transclusion"" id=""mwyw"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ɕ""}},""i"":0}}]}'>(</span><small about=""#mwt40""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt40""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt40"">ɕ</span><span about=""#mwt40"">)</span>. Don't worry about this too much, as you'll be understood in context. (Note that though щ is often transliterated as shch, it is <i id=""mwzA"">not</i> pronounced similar to ""har<b id=""mwzQ"">sh ch</b>oice""—there is no ch sound in this Russian consonant)"
 What should you know about the сч letter sequence in Russian?|"<p id=""mwzg"">The letter sequence сч sounds like щ, and <i id=""mwzw"">not</i> like English que<b id=""mw0A"">sti</b>on.</p>"
 Why should you be careful of letters such as В, Н, or Р?|"<p id=""mw0Q"">Be careful of letters such as В, Н, or Р which resemble a Latin letter but represent a different sound; they can be especially confusing for beginners.</p>"
 What should you know about soft consonants in Russian?|"<p id=""mw0g"">When consonants are soft (they are either always soft, followed by a soft vowel, or have a soft sign), they become palatalized <span about=""#mwt41"" typeof=""mw:Transclusion"" id=""mw0w"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""IPA"",""href"":""./Template:IPA""},""params"":{""1"":{""wt"":""ʲ""}},""i"":0}}]}'>(</span><small about=""#mwt41""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet"" title=""wikipedia:International Phonetic Alphabet"" class=""extiw"">IPA</a>:</small><span about=""#mwt41""> </span><span title=""This is an IPA transcription of pronunciation. See “International Phonetic Alphabet”."" class=""IPA"" style=""white-space:nowrap; font-family:'DejaVu Sans', 'Lucida Sans Unicode', 'Code2000', 'Chrysanthi Unicode', 'Doulos SIL', 'Gentium', 'GentiumAlt', 'TITUS Cyberbit Basic', 'Bitstream Vera', 'Bitstream Cyberbit', 'Hiragino Kaku Gothic Pro', 'Segoe UI', 'Lucida Grande', 'Arial Unicode MS'; font-family  :inherit; text-decoration:none!important"" about=""#mwt41"">ʲ</span><span about=""#mwt41"">)</span>. See the soft sign below for more details.</p>"
-What should you know about signs in russian?|"</section><section data-mw-section-id=""4"" id=""mw1A"" aria-labelledby=""Signs""><div class=""mw-heading mw-heading3""><h3 id=""Signs"">Signs</h3><span class=""mw-editsection""><span class=""mw-editsection-bracket"">[</span><a href=""/w/index.php?title=Russian_phrasebook&amp;action=edit&amp;section=4"" title=""Edit section: Signs""><span>edit</span></a><span class=""mw-editsection-bracket"">]</span></span></div>
-<p id=""mw1Q"">In the Middle Ages, these two characters (known as the <i id=""mw1g"">yer</i>) used to represent reduced vowels (pronounced like the unstressed vowels above), but now they merely indicate whether the preceding consonant is palatalized (""soft"") or not (""hard"").</p>
+What should you know about signs in russian?|"<p id=""mw1Q"">In the Middle Ages, these two characters (known as the <i id=""mw1g"">yer</i>) used to represent reduced vowels (pronounced like the unstressed vowels above), but now they merely indicate whether the preceding consonant is palatalized (""soft"") or not (""hard"").</p>
 
 <dt id=""mw2A"">ъ ’’</dt><dd id=""mw2Q"">the hard sign (very rarely used since 1918) - used to indicate that the preceding consonant is not palatalized (in a position where it otherwise would be). It is mostly used after prefixes <i id=""mw2g"">v-</i> (""in"") and <i id=""mw2w"">s-</i> (""out""). For example:</dd>
-<ul id=""mw3A""><li id=""mw3Q"">съёмка (s-yom-kah) - making a film</li>
+<ul align=""left"" align=""left"" id=""mw3A""><li id=""mw3Q"">съёмка (s-yom-kah) - making a film</li>
 <li id=""mw3g"">Сёмка (syom-kah) - familiar form for Simon</li>
 <li id=""mw3w"">въезд (v-yezd) - vehicular entrance (not vyezd).</li></ul>
 
 <dt id=""mw4Q"">ь ’</dt><dd id=""mw4g"">the soft sign - used to indicate that the preceding consonant is palatalized (in a position where it otherwise would not be)</dd>
 <p id=""mw4w"">This means that the consonant is pronounced while sticking the tip of your tongue behind your lower front teeth while raising the middle of your tongue to your palate. You don't really need to worry about this - while there are pairs of words that differ only by palatalization (some examples follow), it can be very difficult for beginners and probably not worth the effort. If you are planning on being in a situation where you will be speaking Russian for a long period of time, it may be wise to practice this. As mentioned, palatalization also occurs before soft vowels.</p>
-<ul id=""mw5A""><li id=""mw5Q"">полька (POL'-kah) - a female Polish person (also, the dance)</li>
+<ul align=""left"" align=""left"" id=""mw5A""><li id=""mw5Q"">полька (POL'-kah) - a female Polish person (also, the dance)</li>
 <li id=""mw5g"">полка (POL-kah) - a shelf</li>
 <li id=""mw5w"">уголь (OO-gol') - coal</li>
 <li id=""mw6A"">угол (OO-gol) - corner</li>
@@ -71,13 +70,13 @@ What should you know about signs in russian?|"</section><section data-mw-section
 "
 What should you know about stress in Russian?|"<p id=""mw7g"">Although Russian is pronounced as it is spelled, stress is very unpredictable and stressing the wrong syllable can lead to misinterpretation; for that reason, almost every textbook and dictionary concerning the Russian language will put an accent mark (´) on the stressed syllable. It is, however, usually omitted in normal writing, so you will need to memorise the stressed syllable for each individual Russian word.</p>"
 What should you know about Russian grammer?|"<p id=""mw8A"">Unless you intend to seriously study the language, learning Russian grammar on your trip is not realistic. But it can help to at least recognize that the following verb conjugations and noun/adjective declensions are used.</p>"
-What should you know about Russian nouns?|"<ul id=""mw8Q""><li id=""mw8g"">Russian nouns belong to one of three genders: masculine, feminine and neuter. However, like most other European languages but unlike English, inanimate objects are often assigned a gender other than neuter.</li></ul>
+What should you know about Russian nouns?|"<ul align=""left"" align=""left"" id=""mw8Q""><li id=""mw8g"">Russian nouns belong to one of three genders: masculine, feminine and neuter. However, like most other European languages but unlike English, inanimate objects are often assigned a gender other than neuter.</li></ul>
 
-<ul id=""mw8w""><li id=""mw9A"">The second person pronoun <b id=""mw9Q"">вы</b> is the plural of <b id=""mw9g"">ты</b> and is also used, as in French, for <b id=""mw9w"">polite address</b> to one person.</li></ul>"
+<ul align=""left"" align=""left"" id=""mw8w""><li id=""mw9A"">The second person pronoun <b id=""mw9Q"">вы</b> is the plural of <b id=""mw9g"">ты</b> and is also used, as in French, for <b id=""mw9w"">polite address</b> to one person.</li></ul>"
 What should you know about Russian verbs and verb conjugations?|"
-<ul id=""mw-A""><li id=""mw-Q"">Russian <b id=""mw-g"">verbs and verb conjugation</b> differ along three axes:</li></ul>
+<ul align=""left"" align=""left"" id=""mw-A""><li id=""mw-Q"">Russian <b id=""mw-g"">verbs and verb conjugation</b> differ along three axes:</li></ul>
 
-""><dd id=""mw_A"">1) Verbs come in <i id=""mw_Q"">perfective</i> and <i id=""mw_g"">imperfective</i> pairs (e.g., <b id=""mw_w"">думать</b> | <b id=""mwAQA"">подумать</b>). Imperfective verbs indicate ongoing or uncompleted action; Perfective verbs indicated one-off or completed action. Conjugated perfective verbs are also used to indicated the future tense (future imperfective requires conjugation of the verb to be (быть) + imperfective infinitive). As a general rule (but only a very general rule), perfective verb forms are created by adding a prefix to the relevant imperfective verb.</dd>
+<dl id=""mw-w""><dd id=""mw_A"">1)Verbs come in <i id=""mw_Q"">perfective</i> and <i id=""mw_g"">imperfective</i> pairs (e.g., <b id=""mw_w"">думать</b> | <b id=""mwAQA"">подумать</b>). Imperfective verbs indicate ongoing or uncompleted action; Perfective verbs indicated one-off or completed action. Conjugated perfective verbs are also used to indicated the future tense (future imperfective requires conjugation of the verb to be (быть) + imperfective infinitive). As a general rule (but only a very general rule), perfective verb forms are created by adding a prefix to the relevant imperfective verb.</dd>
 
 <table class=""wikitable"" align=""right"" id=""mwAQE"">
 <tbody id=""mwAQI""><tr id=""mwAQM""><th style=""background: #ffffff; color: #000000"" height=""17"" id=""mwAQQ""></th>
@@ -101,7 +100,7 @@ What should you know about Russian verbs and verb conjugations?|"
 
 <dd id=""mwARw"">3) In the present and future tenses, pronouns can be and are often omitted due to context; however, the same is hardly said in the past tense, as the latter changes according to gender (masculine, feminine and neutral) and number (singular and plural). (Example at right)</dd>"
 What should you know about the six cases of nouns and adjectives?|"<p id=""mwAR0""><br clear=""all"" id=""mwAR4""/></p>
-<ul id=""mwAR8""><li id=""mwASA""><b id=""mwASE"">Nouns and adjectives </b> have six <b id=""mwASI"">cases</b>, depending on their general grammatical role in a sentence:</li></ul>
+<ul align=""left"" align=""left"" id=""mwAR8""><li id=""mwASA""><b id=""mwASE"">Nouns and adjectives </b> have six <b id=""mwASI"">cases</b>, depending on their general grammatical role in a sentence:</li></ul>
 
 <dd id=""mwASQ""><table class=""wikitable"" id=""mwASU"">
 <tbody id=""mwASY""><tr id=""mwASc""><th style=""background: #cedff2; color: #000000"" height=""17"" id=""mwASg"">Case</th>
@@ -137,27 +136,27 @@ What should you know about the six cases of nouns and adjectives?|"<p id=""mwAR0
 <td style=""background: #faf5ff; color: black;"" id=""mwAVE"">I walked <b id=""mwAVI"">with him</b></td></tr>
 "
 What should you know about Russian phoneticization?|"<p id=""mwAVQ""><i id=""mwAVU"">See <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Wikivoyage:Pseudo-phoneticization_guide"" title=""Wikivoyage:Pseudo-phoneticization guide"" id=""mwAVY"">Wikivoyage:Pseudo-phoneticization guide</a> for guidance on the phoneticizations below</i></p>"
-<dt>OPEN</dt>|<dd>Открыто / Работает</dd>
-<dt>CLOSED</dt>|<dd>Закрыто / Не работает</dd>
-<dt>ENTRANCE</dt>|<dd>Вход</dd>
-<dt>EXIT</dt>|<dd>Выход</dd>
-<dt>PUSH</dt>|<dd>От себя</dd>
-<dt>PULL</dt>|<dd>К себе / На себя</dd>
-<dt>TOILET</dt>|<dd>Туалет</dd>
-<dt>MEN</dt>|<dd>М</dd>
-<dt>WOMEN</dt>|<dd>Ж</dd>
-<dt>NO ENTRANCE</dt>|<dd>Входа нет / Вход воспрещён</dd>
-<dt>[ENTRY] FORBIDDEN</dt>|<dd>Проход воспрещён / Проход закрыт</dd>
-<dt>PLEASE KNOCK BEFORE ENTERING</dt>|<dd>Без стука не входить</dd>
-<dt>NO SMOKING</dt>|<dd>Не курить</dd>
-<dt>DANGER - NO ENTRY!</dt>|<dd>Не влезай - убьёт!</dd>
+OPEN|Открыто / Работает
+CLOSED|Закрыто / Не работает
+ENTRANCE|Вход
+EXIT|Выход
+PUSH|От себя
+PULL|К себе / На себя
+TOILET|Туалет
+MEN|М
+WOMEN|Ж
+NO ENTRANCE|Входа нет / Вход воспрещён
+[ENTRY] FORBIDDEN|Проход воспрещён / Проход закрыт
+PLEASE KNOCK BEFORE ENTERING|Без стука не входить
+NO SMOKING|Не курить
+DANGER - NO ENTRY!|Не влезай - убьёт!
 What should you know about names in Russian?|"<p>Russians take three names, a first name (имя), patronymic (отчество), and last name (фамилия). The unfamiliar patronymic is the name of one's father plus an ending of -ovich, -yevich, or -yich for men, -yevna, -ovna or -ichna for women. For example, if the father's name is Пётр (Peter), the patronymic would be Петрович (Petrovich) for a man, and Петровна (Petrovna) for a woman. To use someone's name informally, you can refer to them using the first or (less commonly) last name, while to do so formally would require either first name + patronymic, or a title + last name. For example, you can refer to President Vladimir Vladimirovich Putin (Президент Владимир Владимирович Путин) informally as Vladimir (if you know him personally) or just Putin. To refer to him more formally—and you generally should use the formal name in Russian—you would need to refer to him as Vladimir Vladimirovich or President Putin.</p>
 
 <p>Last names also vary based on gender, often with an ""a"" added to the end of the male last name for the female version. For instance, the wife of former Russian prime minister Dmitry Medvedev is known as Svetlana Medvedev<b>a</b>.</p>
 
 <p>But it gets even harder! Russians love diminutives, which are essentially nicknames or ""shortenings,"" for just about everything, including names. Most names can be shortened into three or four variants—""cute"" nicknames usually have an insert like -en'k, -echk, -ochk, -ushk, or -yush, like Sara → Sarochka (Сарочка) or Katya → Katyusha (Катюша). Obviously, you should avoid addressing people with these until you know them well. Here are some of the most common ones that might give you trouble:<br/><br/></p>
 "
-What are some common Russian male names and their nicknames?|"<ul><li>Aleksander (Александр) → Sasha (Саша), Sanya (Саня), Shura (Шура)</li>
+What are some common Russian male names and their nicknames?|"<ul align=""left""><li>Aleksander (Александр) → Sasha (Саша), Sanya (Саня), Shura (Шура)</li>
 <li>Aleksei (Алексей) → Alyosha (Алёша), Lyosha (Лёша), Lyokha (Лёха)</li>
 <li>Anatolii (Анатолий) → Tolya (Толя)</li>
 <li>Vasilii (Василий) → Vasya (Вася)</li>
@@ -178,7 +177,7 @@ What are some common Russian male names and their nicknames?|"<ul><li>Aleksander
 <li>Yurii (Юрий) → Yura (Юра)</li></ul>
 "
 What are some common Russian female names and their nicknames?|"
-<ul><li>Aleksandra (Александра) → Sasha (Саша)</li>
+<ul align=""left""><li>Aleksandra (Александра) → Sasha (Саша)</li>
 <li>Anastasiya (Анастасия) → Nastya (Настя)</li>
 <li>Anna (Анна) → Anya (Аня)</li>
 <li>Valeriya (Валерия) → Lera (Лера)</li>
@@ -198,144 +197,143 @@ What are some common Russian female names and their nicknames?|"
 "
 What should you know about minorities in Russia?|"<p>Russia is comprised of over 100 different ethnic groups, and while ethnic Russians form a majority, many Russian citizens are not ethnically Russian. Conversely, the other countries of the former <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Soviet_Union"" title=""Soviet Union"">Soviet Union</a> are home to ethnic Russian minorities who are not Russian citizens. In Russian, the concepts of Russian citizenship and ethnicity are represented by separate words. Русские (<i>ROOS-skee-yeh</i>) refers to someone who is ethnically Russian regardless of country of citizenship, while Россияне (<i>ruh-see-YAH-neh</i>) refers to someone who is a Russian citizen regardless of ethnicity.</p></td></tr>"
 
-<dd id=""mwAV4"">Здравствуйте.</dd>|"<dt id=""mwAVw"">Hello. (<i id=""mwAV0"">formal</i>) [Zdrastvuyitye] (<i id=""mwAV8"">ZDRAHST-vooy-tyeh</i>) (The first в is silent; sometimes considered bad luck to say this to the same person twice in one day.)</dt>"
-<dd id=""mwAWI"">Здравствуй.</dd>|"<dt id=""mwAWA"">Hello. (<i id=""mwAWE"">informal</i>) [Zdrastvuyj] (<i id=""mwAWM"">ZDRAHST-vooy</i>)</dt>"
-<dd id=""mwAWU"">Привет.</dd>|"<dt id=""mwAWQ"">Hi. [Privyet] (<i id=""mwAWY"">pree-VYEHT</i>) Здорово. [Zdorovo] (<i id=""mwAWc"">Zduh-ROH-vuh</i>) (Shorter version of the above greeting.)</dt>"
-<dd id=""mwAWk"">Как дела?</dd>|"<dt id=""mwAWg"">How are you? [Kak dela?] (<i id=""mwAWo"">kahg dee-LAH?</i>)</dt>"
-<dd id=""mwAWw"">Хорошо, спасибо.</dd>|"<dt id=""mwAWs"">Fine, thank you. [Khorosho, spasiiba] (<i id=""mwAW0"">khah-rah-SHOH spah-SEE-buh</i>)</dt>"
-<dd id=""mwAW8"">Как Вас зовут?</dd>|"<dt id=""mwAW4"">What is your name? [Kak vas zovut?] (<i id=""mwAXA"">kahk vahs zah-VOOT?</i>)</dt>"
-<dd id=""mwAXI"">Меня зовут ______ .</dd>|"<dt id=""mwAXE"">My name is ______ . [Menya zovut ____] (<i id=""mwAXM"">mee-NYAH zah-VOOT ___</i>)</dt>"
-<dd id=""mwAXU"">Очень приятно.</dd>|"<dt id=""mwAXQ"">Nice to meet you. [Ochen' Priyatno] (<i id=""mwAXY"">OH-cheen' pree-YAHT-nuh</i>)</dt>"
-<dd id=""mwAXg"">Пожалуйста.</dd>|"<dt id=""mwAXc"">Please. [Pozhaluista] (<i id=""mwAXk"">pah-ZHAH-luh-stuh</i>)</dt>"
-<dd id=""mwAXs"">Спасибо.</dd>|"<dt id=""mwAXo"">Thank you. [Spasibo] (<i id=""mwAXw"">spuh-SEE-buh</i>)</dt>"
-<dd id=""mwAX4"">Не за что.</dd>|"<dt id=""mwAX0"">You're welcome. [Nye za chto] (<i id=""mwAX8"">NYEH-zuh-shtoh</i>) (Literally ""It's nothing"", can use ""Пожалуйста"" again)</dt>"
-<dd id=""mwAYE"">Да.</dd>|"<dt id=""mwAYA"">Yes. [Da] (<i id=""mwAYI"">dah</i>)</dt>"
-<dd id=""mwAYQ"">Нет.</dd>|"<dt id=""mwAYM"">No. [Nyet] (<i id=""mwAYU"">nyeht</i>)</dt>"
-<dd id=""mwAYg"">Извините.</dd>|"<dt id=""mwAYY"">Excuse me. (<i id=""mwAYc"">getting attention</i>) [Izvinitye] (<i id=""mwAYk"">eez-vee-NEET-yeh</i>)</dt>"
-<dd id=""mwAYw"">Простите.</dd>|"<dt id=""mwAYo"">Excuse me. I'm sorry. (<i id=""mwAYs"">begging pardon</i>) [Prostitye] (<i id=""mwAY0"">prah-STEET-yeh</i>)</dt>"
-<dd id=""mwAZI"">До свидания.</dd>|"<dt id=""mwAZE"">Goodbye [Do svidaniya] (<i id=""mwAZM"">duh svee-DAH-nyah.</i>)</dt>"
-<dd id=""mwAZY"">Пока.</dd>|"<dt id=""mwAZQ"">Goodbye (<i id=""mwAZU"">informal</i>) [Poka] (<i id=""mwAZc"">pah-KAH</i>)</dt>"
-<dd id=""mwAZk"">Я не говорю по-русски (хорошо).</dd>|"<dt id=""mwAZg"">I can't speak Russian [well]. [Ya nye govoryu po-russki (khorosho)] (<i id=""mwAZo"">yah nee guh-vah-RYOO pah ROO-skee [khah-rah-SHOH]</i>)</dt>"
-<dd id=""mwAZw"">Вы говорите по-английски?</dd>|"<dt id=""mwAZs"">Do you speak English? [Vyih govoritye po-angliiski?] (<i id=""mwAZ0"">vyh guh-vah-REE-tyeh pah ahn-GLEES-kee?</i>)</dt>"
-<dd id=""mwAZ8"">Кто-нибудь здесь говорит по-английски?</dd>|"<dt id=""mwAZ4"">Is there someone here who speaks English? (<i id=""mwAaA"">KTOH-nee-bood' zdyehs guh-vah-REET pah an-GLEES-kee?</i>)</dt>"
-<dd id=""mwAaI"">Помогите!</dd>|"<dt id=""mwAaE"">Help! (<i id=""mwAaM"">puh-mah-GEE-tyeh!</i>)</dt>"
-<dd id=""mwAaU"">Осторожно!!</dd>|"<dt id=""mwAaQ"">Look out! (<i id=""mwAaY"">uhs-tah-ROH-zhnuh!</i>)</dt>"
-<dd id=""mwAag"">Доброе утро.</dd>|"<dt id=""mwAac"">Good morning. (<i id=""mwAak"">DOH-bruh-yeh OO-truh</i>)</dt>"
-<dd id=""mwAas"">Добрый вечер.</dd>|"<dt id=""mwAao"">Good evening. (<i id=""mwAaw"">DOH-bryh VYEH-chuhr</i>)</dt>"
-<dd id=""mwAa8"">Спокойной ночи!</dd>|"<dt id=""mwAa0"">Good night (<i id=""mwAa4"">to sleep</i>) (<i id=""mwAbA"">spah-KOY-nuy NOH-chee</i>)</dt>"
-<dd id=""mwAbI"">Я не понимаю.</dd>|"<dt id=""mwAbE"">I don't understand. (<i id=""mwAbM"">yah nee puh-nee-MIGH-yoo</i>)</dt>"
-<dd id=""mwAbU"">Я не знаю.</dd>|"<dt id=""mwAbQ"">I don't know. (<i id=""mwAbY"">yah nee ZNAH-yoo</i>)</dt>"
-<dd id=""mwAbg"">Я не могу.</dd>|"<dt id=""mwAbc"">I can't. (<i id=""mwAbk"">yah nee mah-GOO</i>)</dt>"
-<dd id=""mwAbs"">Где туалет?</dd>|"<dt id=""mwAbo"">Where is the toilet? (<i id=""mwAbw"">gdyeh too-ah-LYEHT?</i>)</dt>"
-<dd id=""mwAb4"">Хороший</dd>|"<dt id=""mwAb0"">Good (<i id=""mwAb8"">khah-ROH-shee</i>)</dt>"
-<dd id=""mwAcE"">Плохой</dd>|"<dt id=""mwAcA"">Bad (<i id=""mwAcI"">plah-KHOY</i>)</dt>"
-<dd id=""mwAcQ"">Большой</dd>|"<dt id=""mwAcM"">Big (<i id=""mwAcU"">bahl'-SHOY</i>)</dt>"
-<dd id=""mwAcc"">Маленький</dd>|"<dt id=""mwAcY"">Small (<i id=""mwAcg"">MAH-leen-kee</i>)</dt>"
-<dd id=""mwAco"">Горячий</dd>|"<dt id=""mwAck"">Hot (<i id=""mwAcs"">gahr-YAH-chee</i>)</dt>"
-<dd id=""mwAc0"">Холодный</dd>|"<dt id=""mwAcw"">Cold (<i id=""mwAc4"">khah-LOHD-nyh</i>)</dt>"
-<dd id=""mwAdA"">Быстро</dd>|"<dt id=""mwAc8"">Fast (<i id=""mwAdE"">BYH-struh</i>)</dt>"
-<dd id=""mwAdM"">Медленно</dd>|"<dt id=""mwAdI"">Slow (<i id=""mwAdQ"">MYEHD-lee-nuh</i>)</dt>"
-<dd id=""mwAdY"">Дорогой</dd>|"<dt id=""mwAdU"">Expensive (<i id=""mwAdc"">duh-rah-GOY</i>)</dt>"
-<dd id=""mwAdk"">Дешёвый</dd>|"<dt id=""mwAdg"">Cheap (<i id=""mwAdo"">dyee-SHYOH-vyh</i>)</dt>"
-<dd id=""mwAdw"">Богатый</dd>|"<dt id=""mwAds"">Rich (<i id=""mwAd0"">bah-GAH-tyh</i>)</dt>"
-<dd id=""mwAd8"">Бедный</dd>|"<dt id=""mwAd4"">Poor (<i id=""mwAeA"">BYEHD-nyh</i>)</dt>"
+Здравствуйте.|"Hello. (<i id=""mwAV0"">formal</i>) [Zdrastvuyitye] (<i id=""mwAV8"">ZDRAHST-vooy-tyeh</i>) (The first в is silent; sometimes considered bad luck to say this to the same person twice in one day.)"
+Здравствуй.|"Hello. (<i id=""mwAWE"">informal</i>) [Zdrastvuyj] (<i id=""mwAWM"">ZDRAHST-vooy</i>)"
+Привет.|"Hi. [Privyet] (<i id=""mwAWY"">pree-VYEHT</i>) Здорово. [Zdorovo] (<i id=""mwAWc"">Zduh-ROH-vuh</i>) (Shorter version of the above greeting.)"
+Как дела?|"How are you? [Kak dela?] (<i id=""mwAWo"">kahg dee-LAH?</i>)"
+Хорошо, спасибо.|"Fine, thank you. [Khorosho, spasiiba] (<i id=""mwAW0"">khah-rah-SHOH spah-SEE-buh</i>)"
+Как Вас зовут?|"What is your name? [Kak vas zovut?] (<i id=""mwAXA"">kahk vahs zah-VOOT?</i>)"
+Меня зовут ______ .|"My name is ______ . [Menya zovut ____] (<i id=""mwAXM"">mee-NYAH zah-VOOT ___</i>)"
+Очень приятно.|"Nice to meet you. [Ochen' Priyatno] (<i id=""mwAXY"">OH-cheen' pree-YAHT-nuh</i>)"
+Пожалуйста.|"Please. [Pozhaluista] (<i id=""mwAXk"">pah-ZHAH-luh-stuh</i>)"
+Спасибо.|"Thank you. [Spasibo] (<i id=""mwAXw"">spuh-SEE-buh</i>)"
+Не за что.|"You're welcome. [Nye za chto] (<i id=""mwAX8"">NYEH-zuh-shtoh</i>) (Literally ""It's nothing"", can use ""Пожалуйста"" again)"
+Да.|"Yes. [Da] (<i id=""mwAYI"">dah</i>)"
+Нет.|"No. [Nyet] (<i id=""mwAYU"">nyeht</i>)"
+Извините.|"Excuse me. (<i id=""mwAYc"">getting attention</i>) [Izvinitye] (<i id=""mwAYk"">eez-vee-NEET-yeh</i>)"
+Простите.|"Excuse me. I'm sorry. (<i id=""mwAYs"">begging pardon</i>) [Prostitye] (<i id=""mwAY0"">prah-STEET-yeh</i>)"
+До свидания.|"Goodbye [Do svidaniya] (<i id=""mwAZM"">duh svee-DAH-nyah.</i>)"
+Пока.|"Goodbye (<i id=""mwAZU"">informal</i>) [Poka] (<i id=""mwAZc"">pah-KAH</i>)"
+Я не говорю по-русски (хорошо).|"I can't speak Russian [well]. [Ya nye govoryu po-russki (khorosho)] (<i id=""mwAZo"">yah nee guh-vah-RYOO pah ROO-skee [khah-rah-SHOH]</i>)"
+Вы говорите по-английски?|"Do you speak English? [Vyih govoritye po-angliiski?] (<i id=""mwAZ0"">vyh guh-vah-REE-tyeh pah ahn-GLEES-kee?</i>)"
+Кто-нибудь здесь говорит по-английски?|"Is there someone here who speaks English? (<i id=""mwAaA"">KTOH-nee-bood' zdyehs guh-vah-REET pah an-GLEES-kee?</i>)"
+Помогите!|"Help! (<i id=""mwAaM"">puh-mah-GEE-tyeh!</i>)"
+Осторожно!!|"Look out! (<i id=""mwAaY"">uhs-tah-ROH-zhnuh!</i>)"
+Доброе утро.|"Good morning. (<i id=""mwAak"">DOH-bruh-yeh OO-truh</i>)"
+Добрый вечер.|"Good evening. (<i id=""mwAaw"">DOH-bryh VYEH-chuhr</i>)"
+Спокойной ночи!|"Good night (<i id=""mwAa4"">to sleep</i>) (<i id=""mwAbA"">spah-KOY-nuy NOH-chee</i>)"
+Я не понимаю.|"I don't understand. (<i id=""mwAbM"">yah nee puh-nee-MIGH-yoo</i>)"
+Я не знаю.|"I don't know. (<i id=""mwAbY"">yah nee ZNAH-yoo</i>)"
+Я не могу.|"I can't. (<i id=""mwAbk"">yah nee mah-GOO</i>)"
+Где туалет?|"Where is the toilet? (<i id=""mwAbw"">gdyeh too-ah-LYEHT?</i>)"
+Хороший|"Good (<i id=""mwAb8"">khah-ROH-shee</i>)"
+Плохой|"Bad (<i id=""mwAcI"">plah-KHOY</i>)"
+Большой|"Big (<i id=""mwAcU"">bahl'-SHOY</i>)"
+Маленький|"Small (<i id=""mwAcg"">MAH-leen-kee</i>)"
+Горячий|"Hot (<i id=""mwAcs"">gahr-YAH-chee</i>)"
+Холодный|"Cold (<i id=""mwAc4"">khah-LOHD-nyh</i>)"
+Быстро|"Fast (<i id=""mwAdE"">BYH-struh</i>)"
+Медленно|"Slow (<i id=""mwAdQ"">MYEHD-lee-nuh</i>)"
+Дорогой|"Expensive (<i id=""mwAdc"">duh-rah-GOY</i>)"
+Дешёвый|"Cheap (<i id=""mwAdo"">dyee-SHYOH-vyh</i>)"
+Богатый|"Rich (<i id=""mwAd0"">bah-GAH-tyh</i>)"
+Бедный|"Poor (<i id=""mwAeA"">BYEHD-nyh</i>)"
 What should you know about emergency numbers in Russia?|"<p>In most areas, emergency telephone numbers are as follows:</p>
-<ul><li>101<span typeof=""mw:DisplaySpace""> </span>: Fire department</li>
+<ul align=""left""><li>101<span typeof=""mw:DisplaySpace""> </span>: Fire department</li>
 <li>102<span typeof=""mw:DisplaySpace""> </span>: Police</li>
 <li>103<span typeof=""mw:DisplaySpace""> </span>: Ambulance</li>
 <li>104<span typeof=""mw:DisplaySpace""> </span>: Gas leaks</li></ul>
 <p>It is essential to be able to provide emergency responders with your correct street address. Depending on how busy they are, and how serious the medical emergency appears, it may take from a few minutes to an hour for an ambulance to arrive.</p>"
-<dd id=""mwAeU"">Отстань.</dd>|"<dt id=""mwAeQ"">Leave me alone. (<i id=""mwAeY"">aht-STAHN’!</i>)</dt>"
-<dd id=""mwAeg"">Не трогай меня!</dd>|"<dt id=""mwAec"">Don't touch me! (<i id=""mwAek"">nee-TROH-guy mee-NYAH!</i>)</dt>"
-<dd id=""mwAes"">Я вызову полицию!</dd>|"<dt id=""mwAeo"">I'll call the police! (<i id=""mwAew"">yah VYH-zah-voo poh-LEE-tsyh-yoo!</i>)</dt>"
-<dd id=""mwAe4"">Полиция!</dd>|"<dt id=""mwAe0"">Police! (<i id=""mwAe8"">poh-LEE-tsyh-yah!</i>)</dt>"
-<dd id=""mwAfE"">Держите вора!</dd>|"<dt id=""mwAfA"">Stop! Thief! (<i id=""mwAfI"">deer-ZHEE-tyeh VOH-rah!</i>)</dt>"
-<dd id=""mwAfQ"">Мне нужна ваша помощь.</dd>|"<dt id=""mwAfM"">I need your help. (<i id=""mwAfU"">mnyeh noozh-NAH VAH-shah POH-muhsh</i>)</dt>"
-<dd id=""mwAfc"">Это срочно!.</dd>|"<dt id=""mwAfY"">It's an emergency. (<i id=""mwAfg"">EH-tuh SROHCH-nuh</i>)</dt>"
-<dd id=""mwAfo"">Я заблудился/заблудилась - (m/f).</dd>|"<dt id=""mwAfk"">I'm lost. (<i id=""mwAfs"">yah zah-bloo-DEEL-suh / zah-bloo-DEE-luhs’</i>)</dt>"
+Отстань.|"Leave me alone. (<i id=""mwAeY"">aht-STAHN’!</i>)"
+Не трогай меня!|"Don't touch me! (<i id=""mwAek"">nee-TROH-guy mee-NYAH!</i>)"
+Я вызову полицию!|"I'll call the police! (<i id=""mwAew"">yah VYH-zah-voo poh-LEE-tsyh-yoo!</i>)"
+Полиция!|"Police! (<i id=""mwAe8"">poh-LEE-tsyh-yah!</i>)"
+Держите вора!|"Stop! Thief! (<i id=""mwAfI"">deer-ZHEE-tyeh VOH-rah!</i>)"
+Мне нужна ваша помощь.|"I need your help. (<i id=""mwAfU"">mnyeh noozh-NAH VAH-shah POH-muhsh</i>)"
+Это срочно!.|"It's an emergency. (<i id=""mwAfg"">EH-tuh SROHCH-nuh</i>)"
+Я заблудился/заблудилась - (m/f).|"I'm lost. (<i id=""mwAfs"">yah zah-bloo-DEEL-suh / zah-bloo-DEE-luhs’</i>)"
 What should you know about some of the examples in this Russian phrasebook?|"<p id=""mwAfw"">In the examples below, the extra suffix (а) is for the feminine gender</p>"
-<dd id=""mwAf8"">Я потерял(а) свою сумку.</dd>|"<dt id=""mwAf4"">I lost my bag. (<i id=""mwAgA"">yah puh-teer-YAHL(-ah) svah-YOOH SOOM-kooh</i>)</dt>"
-<dd id=""mwAgI"">Я потерял(а) свой бумажник.</dd>|"<dt id=""mwAgE"">I lost my wallet. (<i id=""mwAgM"">yah puh-teer-YAHL(-ah) svoy boo-MAHZH-neek</i>)</dt>"
-<dd id=""mwAgU"">Меня обокрали.</dd>|"<dt id=""mwAgQ"">My things have been stolen. (<i id=""mwAgY"">me-NYAH oh-buh-KRAH-lee</i>)</dt>"
-<dd id=""mwAgg"">Я болен (m.) / Я больна (f.)</dd>|"<dt id=""mwAgc"">I'm sick. (<i id=""mwAgk"">yah-BOH-leen (masculine) / yah-bahl’-NAH (feminine)</i>)</dt>"
-<dd id=""mwAgs"">Я ранен(а)</dd>|"<dt id=""mwAgo"">I've been injured. (<i id=""mwAgw"">yah RAH-neen(-ah)</i>)</dt>"
-<dd id=""mwAg4"">Меня укусила собака</dd>|"<dt id=""mwAg0"">I've been bitten by a dog. (<i id=""mwAg8"">me-NYAH oo-koo-SEE-lah suh-BAH-kuh</i>)</dt>"
-<dd id=""mwAhE"">Мне нужен врач.</dd>|"<dt id=""mwAhA"">I need a doctor. (<i id=""mwAhI"">mnyeh NOO-zhyhn vrahch</i>)</dt>"
-<dd id=""mwAhQ"">Пожалуйста, вызовите Скорую помощь.</dd>|"<dt id=""mwAhM"">Please call an ambulance. (<i id=""mwAhU"">Puh-ZHAH-looy-stuh VYH-zaw-vee-teh SKAW-roo-yoo PAW-mushch</i>)</dt>"
-<dd id=""mwAhc"">Можно от вас позвонить?</dd>|"<dt id=""mwAhY"">Can I use your phone?(<i id=""mwAhg"">MOH-zhnuh aht vahs puhz-vah-NEET’?</i>) <i id=""mwAho"">(this can be used only for stationary phone, not for mobile. Asking a mobile phone from unknown person is generally not polite, as this is commonly done by con artists. In some cases a person may allow you to make a call from his cell phone to another cell phone number in the same province, but not to a landline phone number or to a non-local cell phone number.)</i></dt>"
+Я потерял(а) свою сумку.|"I lost my bag. (<i id=""mwAgA"">yah puh-teer-YAHL(-ah) svah-YOOH SOOM-kooh</i>)"
+Я потерял(а) свой бумажник.|"I lost my wallet. (<i id=""mwAgM"">yah puh-teer-YAHL(-ah) svoy boo-MAHZH-neek</i>)"
+Меня обокрали.|"My things have been stolen. (<i id=""mwAgY"">me-NYAH oh-buh-KRAH-lee</i>)"
+Я болен (m.) / Я больна (f.)|"I'm sick. (<i id=""mwAgk"">yah-BOH-leen (masculine) / yah-bahl’-NAH (feminine)</i>)"
+Я ранен(а)|"I've been injured. (<i id=""mwAgw"">yah RAH-neen(-ah)</i>)"
+Меня укусила собака|"I've been bitten by a dog. (<i id=""mwAg8"">me-NYAH oo-koo-SEE-lah suh-BAH-kuh</i>)"
+Мне нужен врач.|"I need a doctor. (<i id=""mwAhI"">mnyeh NOO-zhyhn vrahch</i>)"
+Пожалуйста, вызовите Скорую помощь.|"Please call an ambulance. (<i id=""mwAhU"">Puh-ZHAH-looy-stuh VYH-zaw-vee-teh SKAW-roo-yoo PAW-mushch</i>)"
+Можно от вас позвонить?|"Can I use your phone?(<i id=""mwAhg"">MOH-zhnuh aht vahs puhz-vah-NEET’?</i>) <i id=""mwAho"">(this can be used only for stationary phone, not for mobile. Asking a mobile phone from unknown person is generally not polite, as this is commonly done by con artists. In some cases a person may allow you to make a call from his cell phone to another cell phone number in the same province, but not to a landline phone number or to a non-local cell phone number.)</i>"
 What should you know about nouns with respect to singular and plural forms?|"<p id=""mwAhw"">Russian nouns have a dual form, used with 2, 3, and 4, as well as singular and plural. Singular quantities and any quantities that end in 1 (21, 301, etc.) use the nominative singular: одна минута, двадцать один час. Quantities 2<span typeof=""mw:Entity"" id=""mwAh0"">–</span>4 use the genitive singular: две минуты, три минуты, четыре минуты. Quantities greater than four use the genitive plural:  пять минут, одиннадцать минут, тринадцать минут, etc.</p>"
-<dd id=""mwAiA"">ноль/нуль</dd>|"<dt id=""mwAh8"">0(<i id=""mwAiE"">nohl’</i>/<i id=""mwAiI"">nool’</i>)</dt>"
-<dd id=""mwAiQ"">один <i id=""mwAiY"">m</i>, одна (<i id=""mwAic"">ahd-NAH</i>) <i id=""mwAig"">f</i>, одно <i id=""mwAio"">n</i></dd>|"<dt id=""mwAiM"">1 (<i id=""mwAiU"">ah-DEEN</i>), (<i id=""mwAik"">ahd-NOH</i>) (one can say раз (raz) when counting something)</dt>"
-<dd id=""mwAiw"">два <i id=""mwAi4"">mn</i>, две <i id=""mwAjA"">f</i></dd>|"<dt id=""mwAis"">2 (<i id=""mwAi0"">dvah</i>), (<i id=""mwAi8"">dvyeh</i>)</dt>"
-
-<dd id=""mwAjI"">три</dd>|"<dt id=""mwAjE"">3 (<i id=""mwAjM"">tree</i>)</dt>"
-<dd id=""mwAjU"">четыре</dd>|"<dt id=""mwAjQ"">4 (<i id=""mwAjY"">chee-TYH-ree</i>)</dt>"
-<dd id=""mwAjg"">пять</dd>|"<dt id=""mwAjc"">5 (<i id=""mwAjk"">pyaht’</i>)</dt>"
-<dd id=""mwAjs"">шесть</dd>|"<dt id=""mwAjo"">6 (<i id=""mwAjw"">shehst’</i>)</dt>"
-<dd id=""mwAj4"">семь</dd>|"<dt id=""mwAj0"">7 (<i id=""mwAj8"">syeem’</i>)</dt>"
-<dd id=""mwAkE"">восемь</dd>|"<dt id=""mwAkA"">8 (<i id=""mwAkI"">VOH-seem’</i>)</dt>"
-<dd id=""mwAkQ"">девять</dd>|"<dt id=""mwAkM"">9 (<i id=""mwAkU"">DYEH-veet’</i>)</dt>"
-<dd id=""mwAkc"">десять</dd>|"<dt id=""mwAkY"">10 (<i id=""mwAkg"">DYEH-suht’</i>)</dt>"
-<dd id=""mwAko"">одиннадцать</dd>|"<dt id=""mwAkk"">11 (<i id=""mwAks"">ah-DEEN-nuhd-zuht’</i>)</dt>"
-<dd id=""mwAk0"">двенадцать</dd>|"<dt id=""mwAkw"">12 (<i id=""mwAk4"">dvee-NAHD-zuht’</i>)</dt>"
-<dd id=""mwAlA"">тринадцать</dd>|"<dt id=""mwAk8"">13 (<i id=""mwAlE"">tree-NAHD-zuht’</i>)</dt>"
-<dd id=""mwAlM"">четырнадцать</dd>|"<dt id=""mwAlI"">14 (<i id=""mwAlQ"">chee-TYHR-nuhd-zuht’</i>)</dt>"
-<dd id=""mwAlY"">пятнадцать</dd>|"<dt id=""mwAlU"">15 (<i id=""mwAlc"">peet-NAHD-zuht’</i>)</dt>"
-<dd id=""mwAlk"">шестнадцать</dd>|"<dt id=""mwAlg"">16 (<i id=""mwAlo"">shyhst-NAHD-zuht’</i>)</dt>"
-<dd id=""mwAlw"">семнадцать</dd>|"<dt id=""mwAls"">17 (<i id=""mwAl0"">seem-NAHD-zuht’</i>)</dt>"
-<dd id=""mwAl8"">восемнадцать</dd>|"<dt id=""mwAl4"">18 (<i id=""mwAmA"">vuh-seem-NAHD-zuht’</i>)</dt>"
-<dd id=""mwAmI"">девятнадцать</dd>|"<dt id=""mwAmE"">19 (<i id=""mwAmM"">dee-veet-NAHD-zuht’</i>)</dt>"
-<dd id=""mwAmU"">двадцать</dd>|"<dt id=""mwAmQ"">20 (<i id=""mwAmY"">DVAHD-zuht’</i>)</dt>"
-<dd id=""mwAmg"">двадцать один</dd>|"<dt id=""mwAmc"">21 (<i id=""mwAmk"">DVAHD-zuht’ ah-DEEN</i>)</dt>"
-<dd id=""mwAms"">двадцать два</dd>|"<dt id=""mwAmo"">22 (<i id=""mwAmw"">DVAHD-zuht’ dvah</i>)</dt>"
-<dd id=""mwAm4"">двадцать три</dd>|"<dt id=""mwAm0"">23 (<i id=""mwAm8"">DVAHD-zuht’ tree</i>)</dt>"
-<dd id=""mwAnE"">тридцать</dd>|"<dt id=""mwAnA"">30 (<i id=""mwAnI"">TREED-zuht’</i>)</dt>"
-<dd id=""mwAnQ"">сорок</dd>|"<dt id=""mwAnM"">40 (<i id=""mwAnU"">SOH-ruhk</i>)</dt>"
-<dd id=""mwAnc"">пятьдесят</dd>|"<dt id=""mwAnY"">50 (<i id=""mwAng"">pee-dee-SYAHT</i>)</dt>"
-<dd id=""mwAno"">шестьдесят</dd>|"<dt id=""mwAnk"">60 (<i id=""mwAns"">shyhs-dee-SYAHT</i>)</dt>"
-<dd id=""mwAn0"">семьдесят</dd>|"<dt id=""mwAnw"">70 (<i id=""mwAn4"">SYEM’-dee-syet</i>)</dt>"
-<dd id=""mwAoA"">восемьдесят</dd>|"<dt id=""mwAn8"">80 (<i id=""mwAoE"">VOH-seem-deeh-syet’</i>)</dt>"
-<dd id=""mwAoM"">девяносто</dd>|"<dt id=""mwAoI"">90 (<i id=""mwAoQ"">dee-vee-NOH-stuh</i>)</dt>"
-<dd id=""mwAoY"">сто</dd>|"<dt id=""mwAoU"">100 (<i id=""mwAoc"">stoh</i>)</dt>"
-<dd id=""mwAok"">полтораста</dd>|"<dt id=""mwAog"">150 (<i id=""mwAoo"">puhl-tuh-RAHS-tuh</i>)</dt>"
-<dd id=""mwAow"">двести</dd>|"<dt id=""mwAos"">200 (<i id=""mwAo0"">DVYEH-stee</i>)</dt>"
-<dd id=""mwAo8"">триста</dd>|"<dt id=""mwAo4"">300 (<i id=""mwApA"">TREE-stuh</i>)</dt>"
-<dd id=""mwApI"">четыреста</dd>|"<dt id=""mwApE"">400 (<i id=""mwApM"">chee-TYHR-ee-stuh</i>)</dt>"
-<dd id=""mwApU"">пятьсот</dd>|"<dt id=""mwApQ"">500 (<i id=""mwApY"">peet-SOHT</i>)</dt>"
-<dd id=""mwApg"">тысяча</dd>|"<dt id=""mwApc"">1000 (<i id=""mwApk"">TYH-see-chuh</i>)</dt>"
-<dd id=""mwAps"">две тысячи</dd>|"<dt id=""mwApo"">2000 (<i id=""mwApw"">dvyeh TYH-see-chee</i>)</dt>"
-<dd id=""mwAp4"">пять тысяч</dd>|"<dt id=""mwAp0"">5000 (<i id=""mwAp8"">pyaht’ TYH-seech</i>)</dt>"
-<dd id=""mwAqE"">миллион</dd>|"<dt id=""mwAqA"">1,000,000 (<i id=""mwAqI"">mee-lee-OHN</i>)</dt>"
-<dd id=""mwAqQ"">миллиард</dd>|"<dt id=""mwAqM"">1,000,000,000 (<i id=""mwAqU"">mee-lee-ART</i>)</dt>"
-<dd id=""mwAqc"">триллион</dd>|"<dt id=""mwAqY"">1,000,000,000,000 (<i id=""mwAqg"">tree-lee-OHN</i>)</dt>"
-<dd id=""mwAqs"">номер _____</dd>|"<dt id=""mwAqk"">Number _____ (<i id=""mwAqo"">train, bus, etc.</i>) (<i id=""mwAqw"">NOH-meer</i>)</dt>"
-<dd id=""mwAq4"">половина</dd>|"<dt id=""mwAq0"">half (<i id=""mwAq8"">puh-lah-VEE-nuh</i>)</dt>"
-<dd id=""mwArE"">меньше</dd>|"<dt id=""mwArA"">less (<i id=""mwArI"">MYEHN’-sheh</i>)</dt>"
-<dd id=""mwArQ"">больше|"<dt id=""mwArM"">more (<i id=""mwArU"">BOHL’-sheh</i>)</dd></dt>"
-<dd id=""mwArk"">сейчас</dd>|"<dt id=""mwArg"">now (<i id=""mwAro"">see-CHAHS</i>)</dt>"
-<dd id=""mwArw"">позже</dd>|"<dt id=""mwArs"">later (<i id=""mwAr0"">POH-zhuh</i>)</dt>"
-<dd id=""mwAr8"">раньше</dd>|"<dt id=""mwAr4"">earlier (<i id=""mwAsA"">RAHN’-shyeh</i>)</dt>"
-<dd id=""mwAsI"">утро</dd>|"<dt id=""mwAsE"">morning (<i id=""mwAsM"">OOH-truh</i>)</dt>"
-<dd id=""mwAsU"">день</dd>|"<dt id=""mwAsQ"">afternoon (<i id=""mwAsY"">dyehn’</i>) (literally 'day')</dt>"
-<dd id=""mwAsg"">вечер</dd>|"<dt id=""mwAsc"">evening (<i id=""mwAsk"">VYEH-chuhr</i>)</dt>"
-<dd id=""mwAss"">ночь|"<dt id=""mwAso"">night (<i id=""mwAsw"">nohch</i>)</dd></dt>"
-<dd id=""mwAtA"">Не подскажете, который час?</dd>|"<dt id=""mwAs8"">What time is it? (formal) (<i id=""mwAtE"">nyee pahd-SKAH-zhy-tyee kah-TOHR-yh chahs</i>)</dt>"
-<dd id=""mwAtM"">Который сейчас час?</dd>|"<dt id=""mwAtI"">What time is it? (informal) (<i id=""mwAtQ"">kah-TOHR-yh see-CHAHS chahs</i>)</dt>"
-<dd id=""mwAtY"">час</dd>|"<dt id=""mwAtU"">one o'clock (<i id=""mwAtc"">chahs</i>)</dt>"
-<dd id=""mwAtk"">два часа</dd>|"<dt id=""mwAtg"">two o'clock (<i id=""mwAto"">dvah chuh-SAH</i>)</dt>"
-<dd id=""mwAtw"">три часа</dd>|"<dt id=""mwAts"">three o'clock (<i id=""mwAt0"">TREE chuh-SAH</i>)</dt>"
-<dd id=""mwAt8"">четыре часа</dd>|"<dt id=""mwAt4"">four o'clock (<i id=""mwAuA"">chee-TYHR-ree chuh-SA</i>)</dt>"
-<dd id=""mwAuI"">пять часов</dd>|"<dt id=""mwAuE"">five o'clock (<i id=""mwAuM"">pyaht’ chuh-SOHV</i>)</dt>"
-<dd id=""mwAuU"">шесть часов</dd>|"<dt id=""mwAuQ"">six o'clock (<i id=""mwAuY"">shest’ chuh-SOHV</i>)</dt>"
-<dd id=""mwAug"">семь часов</dd>|"<dt id=""mwAuc"">seven o'clock (<i id=""mwAuk"">syem’ chuh-SOHV</i>)</dt>"
-<dd id=""mwAus"">восемь часов</dd>|"<dt id=""mwAuo"">eight o'clock (<i id=""mwAuw"">VOH-seem’ chuh-SOHV</i>)</dt>"
-<dd id=""mwAu4"">девять часов</dd>|"<dt id=""mwAu0"">nine o'clock (<i id=""mwAu8"">DYEH-veet’ chuh-SOHV</i>)</dt>"
-<dd id=""mwAvE"">десять часов</dd>|"<dt id=""mwAvA"">ten o'clock (<i id=""mwAvI"">DYEH-syuht’ chuh-SOV</i>)</dt>"
-<dd id=""mwAvQ"">одинадцать часов</dd>|"<dt id=""mwAvM"">eleven o'clock (<i id=""mwAvU"">ah-DEEN-nad-zut’ chuh-SOV</i>)</dt>"
-<dd id=""mwAvc"">двенадцать часов</dd>|"<dt id=""mwAvY"">twelve o'clock (<i id=""mwAvg"">dvee-NAHD-zut’ chuh-SOV</i>)</dt>"
-<dd id=""mwAvo"">полдень</dd>|"<dt id=""mwAvk"">noon (<i id=""mwAvs"">POHL-dyehn’</i>)</dt>"
-<dd id=""mwAv0"">полночь</dd>|"<dt id=""mwAvw"">midnight (<i id=""mwAv4"">POHL-nohch</i>)</dt>"
-<dd id=""mwAwA"">полчаса</dd>|"<dt id=""mwAv8"">half an hour (<i id=""mwAwE"">pohl-chuh-SAH</i>)</dt>"
+ноль/нуль|"0 (<i id=""mwAiE"">nohl’</i>/<i id=""mwAiI"">nool’</i>)"
+один <i id=""mwAiY"">m</i>, одна (<i id=""mwAic"">ahd-NAH</i>) <i id=""mwAig"">f</i>, одно <i id=""mwAio"">n</i>|"1 (<i id=""mwAiU"">ah-DEEN</i>), (<i id=""mwAik"">ahd-NOH</i>) (one can say раз (raz) when counting something)"
+два <i id=""mwAi4"">mn</i>, две <i id=""mwAjA"">f</i>|"2 (<i id=""mwAi0"">dvah</i>), (<i id=""mwAi8"">dvyeh</i>)"
+три|"3 (<i id=""mwAjM"">tree</i>)"
+четыре|"4 (<i id=""mwAjY"">chee-TYH-ree</i>)"
+пять|"5 (<i id=""mwAjk"">pyaht’</i>)"
+шесть|"6 (<i id=""mwAjw"">shehst’</i>)"
+семь|"7 (<i id=""mwAj8"">syeem’</i>)"
+восемь|"8 (<i id=""mwAkI"">VOH-seem’</i>)"
+девять|"9 (<i id=""mwAkU"">DYEH-veet’</i>)"
+десять|"10 (<i id=""mwAkg"">DYEH-suht’</i>)"
+одиннадцать|"11 (<i id=""mwAks"">ah-DEEN-nuhd-zuht’</i>)"
+двенадцать|"12 (<i id=""mwAk4"">dvee-NAHD-zuht’</i>)"
+тринадцать|"13 (<i id=""mwAlE"">tree-NAHD-zuht’</i>)"
+четырнадцать|"14 (<i id=""mwAlQ"">chee-TYHR-nuhd-zuht’</i>)"
+пятнадцать|"15 (<i id=""mwAlc"">peet-NAHD-zuht’</i>)"
+шестнадцать|"16 (<i id=""mwAlo"">shyhst-NAHD-zuht’</i>)"
+семнадцать|"17 (<i id=""mwAl0"">seem-NAHD-zuht’</i>)"
+восемнадцать|"18 (<i id=""mwAmA"">vuh-seem-NAHD-zuht’</i>)"
+девятнадцать|"19 (<i id=""mwAmM"">dee-veet-NAHD-zuht’</i>)"
+двадцать|"20 (<i id=""mwAmY"">DVAHD-zuht’</i>)"
+двадцать один|"21 (<i id=""mwAmk"">DVAHD-zuht’ ah-DEEN</i>)"
+двадцать два|"22 (<i id=""mwAmw"">DVAHD-zuht’ dvah</i>)"
+двадцать три|"23 (<i id=""mwAm8"">DVAHD-zuht’ tree</i>)"
+тридцать|"30 (<i id=""mwAnI"">TREED-zuht’</i>)"
+сорок|"40 (<i id=""mwAnU"">SOH-ruhk</i>)"
+пятьдесят|"50 (<i id=""mwAng"">pee-dee-SYAHT</i>)"
+шестьдесят|"60 (<i id=""mwAns"">shyhs-dee-SYAHT</i>)"
+семьдесят|"70 (<i id=""mwAn4"">SYEM’-dee-syet</i>)"
+восемьдесят|"80 (<i id=""mwAoE"">VOH-seem-deeh-syet’</i>)"
+девяносто|"90 (<i id=""mwAoQ"">dee-vee-NOH-stuh</i>)"
+сто|"100 (<i id=""mwAoc"">stoh</i>)"
+полтораста|"150 (<i id=""mwAoo"">puhl-tuh-RAHS-tuh</i>)"
+двести|"200 (<i id=""mwAo0"">DVYEH-stee</i>)"
+триста|"300 (<i id=""mwApA"">TREE-stuh</i>)"
+четыреста|"400 (<i id=""mwApM"">chee-TYHR-ee-stuh</i>)"
+пятьсот|"500 (<i id=""mwApY"">peet-SOHT</i>)"
+тысяча|"1000 (<i id=""mwApk"">TYH-see-chuh</i>)"
+две тысячи|"2000 (<i id=""mwApw"">dvyeh TYH-see-chee</i>)"
+пять тысяч|"5000 (<i id=""mwAp8"">pyaht’ TYH-seech</i>)"
+миллион|"1,000,000 (<i id=""mwAqI"">mee-lee-OHN</i>)"
+миллиард|"1,000,000,000 (<i id=""mwAqU"">mee-lee-ART</i>)"
+триллион|"1,000,000,000,000 (<i id=""mwAqg"">tree-lee-OHN</i>)"
+номер _____|"Number _____ (<i id=""mwAqo"">train, bus, etc.</i>) (<i id=""mwAqw"">NOH-meer</i>)"
+половина|"half (<i id=""mwAq8"">puh-lah-VEE-nuh</i>)"
+меньше|"less (<i id=""mwArI"">MYEHN’-sheh</i>)"
+больше|"more (<i id=""mwArU"">BOHL’-sheh</i>)"
+сейчас|"now (<i id=""mwAro"">see-CHAHS</i>)"
+позже|"later (<i id=""mwAr0"">POH-zhuh</i>)"
+раньше|"earlier (<i id=""mwAsA"">RAHN’-shyeh</i>)"
+утро|"morning (<i id=""mwAsM"">OOH-truh</i>)"
+день|"afternoon (<i id=""mwAsY"">dyehn’</i>) (literally 'day')"
+вечер|"evening (<i id=""mwAsk"">VYEH-chuhr</i>)"
+ночь|"night (<i id=""mwAsw"">nohch</i>)"
+Не подскажете, который час?|"What time is it? (formal) (<i id=""mwAtE"">nyee pahd-SKAH-zhy-tyee kah-TOHR-yh chahs</i>)"
+Который сейчас час?|"What time is it? (informal) (<i id=""mwAtQ"">kah-TOHR-yh see-CHAHS chahs</i>)"
+час|"one o'clock (<i id=""mwAtc"">chahs</i>)"
+два часа|"two o'clock (<i id=""mwAto"">dvah chuh-SAH</i>)"
+три часа|"three o'clock (<i id=""mwAt0"">TREE chuh-SAH</i>)"
+четыре часа|"four o'clock (<i id=""mwAuA"">chee-TYHR-ree chuh-SA</i>)"
+пять часов|"five o'clock (<i id=""mwAuM"">pyaht’ chuh-SOHV</i>)"
+шесть часов|"six o'clock (<i id=""mwAuY"">shest’ chuh-SOHV</i>)"
+семь часов|"seven o'clock (<i id=""mwAuk"">syem’ chuh-SOHV</i>)"
+восемь часов|"eight o'clock (<i id=""mwAuw"">VOH-seem’ chuh-SOHV</i>)"
+девять часов|"nine o'clock (<i id=""mwAu8"">DYEH-veet’ chuh-SOHV</i>)"
+десять часов|"ten o'clock (<i id=""mwAvI"">DYEH-syuht’ chuh-SOV</i>)"
+одинадцать часов|"eleven o'clock (<i id=""mwAvU"">ah-DEEN-nad-zut’ chuh-SOV</i>)"
+двенадцать часов|"twelve o'clock (<i id=""mwAvg"">dvee-NAHD-zut’ chuh-SOV</i>)"
+полдень|"noon (<i id=""mwAvs"">POHL-dyehn’</i>)"
+полночь|"midnight (<i id=""mwAv4"">POHL-nohch</i>)"
+полчаса|"half an hour (<i id=""mwAwE"">pohl-chuh-SAH</i>)"
 What should you know about A.M and P.M in Russian?|"<p id=""mwAwI"">Russians do not use A.M. and P.M. Instead they divide the day up roughly as follows:</p>
 <dt id=""mwAwQ"">morning</dt><dd id=""mwAwU"">утро (<i id=""mwAwY"">OOH-truh</i>) (4 a.m. to 11 a.m.)</dd>
 <dt id=""mwAwc"">afternoon</dt><dd id=""mwAwg"">день (<i id=""mwAwk"">dyehn’</i>) (11 a.m. to 5 p.m.)</dd>
@@ -346,63 +344,63 @@ What should you know about A.M and P.M in Russian?|"<p id=""mwAwI"">Russians do 
 <dt id=""mwAxI"">9 a.m.</dt><dd id=""mwAxM"">девять часов утра (<i id=""mwAxQ"">DYEH-veet’ chuh-SOHV ooh-TRAH</i>)</dd>
 <dt id=""mwAxU"">8 p.m.</dt><dd id=""mwAxY"">восемь часов вечера (<i id=""mwAxc"">VOH-seem’ chuh-SOHV VYEH-che-ruh</i>)</dd>
 <p id=""mwAxk""><i id=""mwAxo"">Note: Russian uses different endings depending on the quantity. The first is for quantities ending in one (e.g. 1, 21, 31), the second for quantities ending in 2<span typeof=""mw:Entity"" id=""mwAxs"">–</span>4 (e.g. 2, 3, 4, 22, 23, 24), and the third for quantities ending in 5<span typeof=""mw:Entity"" id=""mwAxw"">–</span>9 and zero, including the teens (e.g. 5, 10, 12, 20, 25).</i></p>
-<dd id=""mwAx8"">_____ минута/минуты/минут</dd>|"<dt id=""mwAx4"">_____ minute (<i id=""mwAyA"">mee-NOOT-ah / mee-NOOT-yh / mee-NOOT</i>)</dt>"
-<dd id=""mwAyI"">_____ час/часа/часов</dd>|"<dt id=""mwAyE"">_____ hour(s) (<i id=""mwAyM"">chahs / chuh-SAH / chuh-SOHF</i>)</dt>"
-<dd id=""mwAyU"">_____ день/дня/дней</dd>|"<dt id=""mwAyQ"">_____ day(s) (<i id=""mwAyY"">dyehn’ / dnyah / dnyay</i>)</dt>"
-<dd id=""mwAyg"">_____ неделя/недели/недель</dd>|"<dt id=""mwAyc"">_____ week(s) (<i id=""mwAyk"">nee-DYEHL-yuh / nee-DYEHL-yee / nee-DYEHL’</i>)</dt>"
-<dd id=""mwAys"">_____ месяц/месяца/месяцев</dd>|"<dt id=""mwAyo"">_____ month(s) (<i id=""mwAyw"">MYEH-seets / MYEH-seets-ah / MYEH-seets-ohf</i>)</dt>"
-<dd id=""mwAy4"">_____ год/года/лет</dd>|"<dt id=""mwAy0"">_____ year(s) (<i id=""mwAy8"">goht / GOH-duh / lyeht</i>) (лет also means ""summers"")</dt>"
-<dd id=""mwAzM"">сегодня</dd>|"<dt id=""mwAzI"">today (<i id=""mwAzQ"">see-VOHD-nyuh</i>)</dt>"
-<dd id=""mwAzY"">вчера</dd>|"<dt id=""mwAzU"">yesterday (<i id=""mwAzc"">fcheeh-RAH</i>)</dt>"
-<dd id=""mwAzk"">завтра</dd>|"<dt id=""mwAzg"">tomorrow (<i id=""mwAzo"">ZAHF-truh</i>)</dt>"
-<dd id=""mwAzw"">на этой неделе</dd>|"<dt id=""mwAzs"">this week (<i id=""mwAz0"">nah EH-tuy nee-DYEHL-yee</i>)</dt>"
-<dd id=""mwAz8"">на прошлой неделе</dd>|"<dt id=""mwAz4"">last week (<i id=""mwA0A"">nah PROSH-luy nee-DYEHL-yee</i>)</dt>"
-<dd id=""mwA0I"">на следующей неделе</dd>|"<dt id=""mwA0E"">next week (<i id=""mwA0M"">nah SLYED-oo-yoo-shee nee-DYEHL-yeh</i>)</dt>"
+_____ минута/минуты/минут|"_____ minute (<i id=""mwAyA"">mee-NOOT-ah / mee-NOOT-yh / mee-NOOT</i>)"
+_____ час/часа/часов|"_____ hour(s) (<i id=""mwAyM"">chahs / chuh-SAH / chuh-SOHF</i>)"
+_____ день/дня/дней|"_____ day(s) (<i id=""mwAyY"">dyehn’ / dnyah / dnyay</i>)"
+_____ неделя/недели/недель|"_____ week(s) (<i id=""mwAyk"">nee-DYEHL-yuh / nee-DYEHL-yee / nee-DYEHL’</i>)"
+_____ месяц/месяца/месяцев|"_____ month(s) (<i id=""mwAyw"">MYEH-seets / MYEH-seets-ah / MYEH-seets-ohf</i>)"
+_____ год/года/лет|"_____ year(s) (<i id=""mwAy8"">goht / GOH-duh / lyeht</i>) (лет also means ""summers"")"
+сегодня|"today (<i id=""mwAzQ"">see-VOHD-nyuh</i>)"
+вчера|"yesterday (<i id=""mwAzc"">fcheeh-RAH</i>)"
+завтра|"tomorrow (<i id=""mwAzo"">ZAHF-truh</i>)"
+на этой неделе|"this week (<i id=""mwAz0"">nah EH-tuy nee-DYEHL-yee</i>)"
+на прошлой неделе|"last week (<i id=""mwA0A"">nah PROSH-luy nee-DYEHL-yee</i>)"
+на следующей неделе|"next week (<i id=""mwA0M"">nah SLYED-oo-yoo-shee nee-DYEHL-yeh</i>)"
 What should you know about the Russian week?|"<p id=""mwA0Q""><i id=""mwA0U"">Note: A Russian week starts on Monday and ends on Sunday.</i></p>"
-<dd id=""mwA0g"">понедельник</dd>|"<dt id=""mwA0c"">Monday (<i id=""mwA0k"">puh-nee-DYEHL’-neek</i>)</dt>"
-<dd id=""mwA0s"">вторник</dd>|"<dt id=""mwA0o"">Tuesday (<i id=""mwA0w"">VTOHR-neek</i>)</dt>"
-<dd id=""mwA04"">среда</dd>|"<dt id=""mwA00"">Wednesday (<i id=""mwA08"">sree-DAH</i>)</dt>"
-<dd id=""mwA1E"">четверг</dd>|"<dt id=""mwA1A"">Thursday (<i id=""mwA1I"">cheet-VYEHRK</i>)</dt>"
-<dd id=""mwA1Q"">пятница</dd>|"<dt id=""mwA1M"">Friday (<i id=""mwA1U"">PYAHT-nee-tsuh</i>)</dt>"
-<dd id=""mwA1c"">суббота</dd>|"<dt id=""mwA1Y"">Saturday (<i id=""mwA1g"">soo-BOHT-uh</i>)</dt>"
-<dd id=""mwA1o"">воскресенье|"<dt id=""mwA1k"">Sunday (<i id=""mwA1s"">vuhs-kree-SYEHN’-yuh</i>)</dd></dt>"
-<dd id=""mwA14"">будний день, рабочий день;<span typeof=""mw:DisplaySpace"" id=""mwA18""> </span>: будни, рабочие дни</dd>|<dt id=""mwA10"">work day; work days (Monday—Friday)</dt>
-<dd id=""mwA2E"">выходные</dd>|<dt id=""mwA2A"">rest days</dt>
-<dd id=""mwA2U"">январь</dd>|"<dt id=""mwA2Q"">January (<i id=""mwA2Y"">yeen-VAHR’</i>)</dt>"
-<dd id=""mwA2g"">февраль</dd>|"<dt id=""mwA2c"">February (<i id=""mwA2k"">feev-RAHL’</i>)</dt>"
-<dd id=""mwA2s"">март</dd>|"<dt id=""mwA2o"">March (<i id=""mwA2w"">mahrt</i>)</dt>"
-<dd id=""mwA24"">апрель</dd>|"<dt id=""mwA20"">April (<i id=""mwA28"">ahp-RYEHL’</i>)</dt>"
-<dd id=""mwA3E"">май</dd>|"<dt id=""mwA3A"">May (<i id=""mwA3I"">migh</i>)</dt>"
-<dd id=""mwA3Q"">июнь</dd>|"<dt id=""mwA3M"">June (<i id=""mwA3U"">ee-YOON’</i>)</dt>"
-<dd id=""mwA3c"">июль</dd>|"<dt id=""mwA3Y"">July (<i id=""mwA3g"">ee-YOOL’</i>)</dt>"
-<dd id=""mwA3o"">август</dd>|"<dt id=""mwA3k"">August (<i id=""mwA3s"">AHV-goost</i>)</dt>"
-<dd id=""mwA30"">сентябрь</dd>|"<dt id=""mwA3w"">September (<i id=""mwA34"">seen-TYABR’</i>)</dt>"
-<dd id=""mwA4A"">октябрь</dd>|"<dt id=""mwA38"">October (<i id=""mwA4E"">ahk-TYABR’</i>)</dt>"
-<dd id=""mwA4M"">ноябрь</dd>|"<dt id=""mwA4I"">November (<i id=""mwA4Q"">nah-YABR’</i>)</dt>"
-<dd id=""mwA4Y"">декабрь</dd>|"<dt id=""mwA4U"">December (<i id=""mwA4c"">dee-KAHBR’</i>)</dt>"
+понедельник|"Monday (<i id=""mwA0k"">puh-nee-DYEHL’-neek</i>)"
+вторник|"Tuesday (<i id=""mwA0w"">VTOHR-neek</i>)"
+среда|"Wednesday (<i id=""mwA08"">sree-DAH</i>)"
+четверг|"Thursday (<i id=""mwA1I"">cheet-VYEHRK</i>)"
+пятница|"Friday (<i id=""mwA1U"">PYAHT-nee-tsuh</i>)"
+суббота|"Saturday (<i id=""mwA1g"">soo-BOHT-uh</i>)"
+воскресенье|"Sunday (<i id=""mwA1s"">vuhs-kree-SYEHN’-yuh</i>)"
+будний день, рабочий день;<span typeof=""mw:DisplaySpace"" id=""mwA18""> </span>: будни, рабочие дни|work day; work days (Monday—Friday)
+выходные|rest days
+январь|"January (<i id=""mwA2Y"">yeen-VAHR’</i>)"
+февраль|"February (<i id=""mwA2k"">feev-RAHL’</i>)"
+март|"March (<i id=""mwA2w"">mahrt</i>)"
+апрель|"April (<i id=""mwA28"">ahp-RYEHL’</i>)"
+май|"May (<i id=""mwA3I"">migh</i>)"
+июнь|"June (<i id=""mwA3U"">ee-YOON’</i>)"
+июль|"July (<i id=""mwA3g"">ee-YOOL’</i>)"
+август|"August (<i id=""mwA3s"">AHV-goost</i>)"
+сентябрь|"September (<i id=""mwA34"">seen-TYABR’</i>)"
+октябрь|"October (<i id=""mwA4E"">ahk-TYABR’</i>)"
+ноябрь|"November (<i id=""mwA4Q"">nah-YABR’</i>)"
+декабрь|"December (<i id=""mwA4c"">dee-KAHBR’</i>)"
 What should you know about writing dates in Russian?|"<p id=""mwA4k"">Dates are written as <b id=""mwA4o"">day.month.year</b> (where <i id=""mwA4s"">day</i>, <i id=""mwA4w"">month</i> and <i id=""mwA40"">year</i> are numbers) or as <b id=""mwA44"">day month year</b> (where <i id=""mwA48"">day</i> and <i id=""mwA5A"">year</i> are numbers and <i id=""mwA5E"">month</i> is written in the genitive). E.g., May 24, 2009 should be written as <b id=""mwA5I"">24.05.2009</b> or as <b id=""mwA5M"">24 мая 2009 года</b>. Times always use the 24-hour format, e.g., 5:20PM should be written as <b id=""mwA5Q"">17:20</b>.</p>"
-<dd id=""mwA5g"">чёрный</dd>|"<dt id=""mwA5c"">black (<i id=""mwA5k"">CHOHR-nyh</i>)</dt>"
-<dd id=""mwA5s"">белый</dd>|"<dt id=""mwA5o"">white (<i id=""mwA5w"">BYEH-lyh</i>)</dt>"
-<dd id=""mwA54"">серый</dd>|"<dt id=""mwA50"">gray (<i id=""mwA58"">SYEH-ryh</i>)</dt>"
-<dd id=""mwA6E"">красный</dd>|"<dt id=""mwA6A"">red (<i id=""mwA6I"">KRAHS-nyh</i>)</dt>"
-<dd id=""mwA6Q"">синий</dd>|"<dt id=""mwA6M"">blue (dark-blue or navy) (<i id=""mwA6U"">SEE-nyh</i>)</dt>"
-<dd id=""mwA6c"">голубой</dd>|"<dt id=""mwA6Y"">blue (light-blue or cyan) (<i id=""mwA6g"">guh-loo-BOY</i>) - use carefully; in Russian slang, this also means ""homosexual""!</dt>"
-<dd id=""mwA6o"">жёлтый</dd>|"<dt id=""mwA6k"">yellow (<i id=""mwA6s"">ZHOL-tyh</i>)</dt>"
-<dd id=""mwA60"">зелёный</dd>|"<dt id=""mwA6w"">green (<i id=""mwA64"">zee-LYOH-nyh</i>)</dt>"
-<dd id=""mwA7A"">оранжевый</dd>|"<dt id=""mwA68"">orange (<i id=""mwA7E"">ah-RAHN-zhee-vy</i>)</dt>"
-<dd id=""mwA7M"">фиолетовый</dd>|"<dt id=""mwA7I"">purple (<i id=""mwA7Q"">fee-ah-LYET-uh-vyh</i>)</dt>"
-<dd id=""mwA7Y"">коричневый</dd>|"<dt id=""mwA7U"">brown (<i id=""mwA7c"">kah-REECH-nee-vyh</i>)</dt>"
-<dd id=""mwA7k"">розовый</dd>|"<dt id=""mwA7g"">pink (<i id=""mwA7o"">ROH-zuh-vyh</i>)</dt>"
-<dd id=""mwA78"">Сколько стоит билет в _____?</dd>|"<dt id=""mwA74"">How much is a ticket to _____? (<i id=""mwA8A"">SKOL’-kuh STOH-eet bee-LYEHT v _____?</i>)</dt>"
-<dd id=""mwA8I"">Один билет в _____, пожалуйста.</dd>|"<dt id=""mwA8E"">One ticket to _____, please. (<i id=""mwA8M"">ah-DEEN bee-LYEHT v_____ puh-ZHAH-luh-stuh</i>)</dt>"
-<dd id=""mwA8U"">Куда едет этот поезд/автобус?</dd>|"<dt id=""mwA8Q"">Where does this train/bus go? (<i id=""mwA8Y"">koo-DAH YEH-diht EH-tuht POH-eest / ahf-TOH-boos?</i>)</dt>"
-<dd id=""mwA8g"">Где поезд/автобус до_____?</dd>|"<dt id=""mwA8c"">Where is the train/bus to _____? (<i id=""mwA8k"">gdyeh POH-eest / ahf-TOH-boos duh _____</i>)</dt>"
-<dd id=""mwA8s"">Этот поезд/автобус останавливается в _____?</dd>|"<dt id=""mwA8o"">Does this train/bus stop in _____? (<i id=""mwA8w"">EH-tuht POH-eest / ahf-TOH-boos uhs-tuh-NAHV-lee-vuh-eet-suh v _____?</i>)</dt>"
-<dd id=""mwA84"">Когда отходит поезд/автобус в _____<span typeof=""mw:DisplaySpace"" id=""mwA88""> </span>?</dd>|"<dt id=""mwA80"">When does the train/bus for _____ leave? (<i id=""mwA9A"">kahg-DAH aht-KHOH-deet POH-eest / ahf-TOH-boos v _____?</i>)</dt>"
-<dd id=""mwA9I"">Во сколько этот поезд/автобус приходит в_____?</dd>|"<dt id=""mwA9E"">When will this train/bus arrive in _____? (<i id=""mwA9M"">vah SKOHL’-kuh EH-tuht POH-eest / ahf-TOH-boos pree-KHOH-deet v _____?</i>)</dt>"
-<dd id=""mwA9U"">Вы выходите (на следующей остановке)?</dd>|"<dt id=""mwA9Q"">Are you getting off (at the next stop)? (<i id=""mwA9Y"">vyh vyh-HOH-dee-tye (nah SLYE-doosh-chey ah-stah-NOHF-kye)<span typeof=""mw:DisplaySpace"" id=""mwA9c""> </span>?</i>) — this phrase is commonly said in public transport to a person in front of you if you need to get off a bus and it is difficult to get to the doors because many people stand near them. If a person who was told this phrase is going to get off a bus, he says Да, выхожу (<i id=""mwA9g"">dah vyh-hah-ZHOO</i>) — Yes, I'm getting off. And you just go out after him. If he says  Нет, не выхожу (<i id=""mwA9k"">nyet nye vyh-hah-ZHOO</i>) — No, I'm not getting off, you should say Разрешите пройти (<i id=""mwA9o"">rahz-ree-SHEE-tye prah-y-TEE</i>) — May I go through, the person will let you go out.</dt>"
+чёрный|"black (<i id=""mwA5k"">CHOHR-nyh</i>)"
+белый|"white (<i id=""mwA5w"">BYEH-lyh</i>)"
+серый|"gray (<i id=""mwA58"">SYEH-ryh</i>)"
+красный|"red (<i id=""mwA6I"">KRAHS-nyh</i>)"
+синий|"blue (dark-blue or navy) (<i id=""mwA6U"">SEE-nyh</i>)"
+голубой|"blue (light-blue or cyan) (<i id=""mwA6g"">guh-loo-BOY</i>) - use carefully; in Russian slang, this also means ""homosexual""!"
+жёлтый|"yellow (<i id=""mwA6s"">ZHOL-tyh</i>)"
+зелёный|"green (<i id=""mwA64"">zee-LYOH-nyh</i>)"
+оранжевый|"orange (<i id=""mwA7E"">ah-RAHN-zhee-vy</i>)"
+фиолетовый|"purple (<i id=""mwA7Q"">fee-ah-LYET-uh-vyh</i>)"
+коричневый|"brown (<i id=""mwA7c"">kah-REECH-nee-vyh</i>)"
+розовый|"pink (<i id=""mwA7o"">ROH-zuh-vyh</i>)"
+Сколько стоит билет в _____?|"How much is a ticket to _____? (<i id=""mwA8A"">SKOL’-kuh STOH-eet bee-LYEHT v _____?</i>)"
+Один билет в _____, пожалуйста.|"One ticket to _____, please. (<i id=""mwA8M"">ah-DEEN bee-LYEHT v_____ puh-ZHAH-luh-stuh</i>)"
+Куда едет этот поезд/автобус?|"Where does this train/bus go? (<i id=""mwA8Y"">koo-DAH YEH-diht EH-tuht POH-eest / ahf-TOH-boos?</i>)"
+Где поезд/автобус до_____?|"Where is the train/bus to _____? (<i id=""mwA8k"">gdyeh POH-eest / ahf-TOH-boos duh _____</i>)"
+Этот поезд/автобус останавливается в _____?|"Does this train/bus stop in _____? (<i id=""mwA8w"">EH-tuht POH-eest / ahf-TOH-boos uhs-tuh-NAHV-lee-vuh-eet-suh v _____?</i>)"
+Когда отходит поезд/автобус в _____<span typeof=""mw:DisplaySpace"" id=""mwA88""> </span>?|"When does the train/bus for _____ leave? (<i id=""mwA9A"">kahg-DAH aht-KHOH-deet POH-eest / ahf-TOH-boos v _____?</i>)"
+Во сколько этот поезд/автобус приходит в_____?|"When will this train/bus arrive in _____? (<i id=""mwA9M"">vah SKOHL’-kuh EH-tuht POH-eest / ahf-TOH-boos pree-KHOH-deet v _____?</i>)"
+Вы выходите (на следующей остановке)?|"Are you getting off (at the next stop)? (<i id=""mwA9Y"">vyh vyh-HOH-dee-tye (nah SLYE-doosh-chey ah-stah-NOHF-kye)<span typeof=""mw:DisplaySpace"" id=""mwA9c""> </span>?</i>) — this phrase is commonly said in public transport to a person in front of you if you need to get off a bus and it is difficult to get to the doors because many people stand near them. If a person who was told this phrase is going to get off a bus, he says Да, выхожу (<i id=""mwA9g"">dah vyh-hah-ZHOO</i>) — Yes, I'm getting off. And you just go out after him. If he says  Нет, не выхожу (<i id=""mwA9k"">nyet nye vyh-hah-ZHOO</i>) — No, I'm not getting off, you should say Разрешите пройти (<i id=""mwA9o"">rahz-ree-SHEE-tye prah-y-TEE</i>) — May I go through, the person will let you go out."
 What should you know about names of cities and streets?|"<p>A lot of city, street, and other names changed following the fall of the Soviet Union. Sometimes for nationalist reasons in the former Soviet Republics, sometimes because the Soviet names seemed too weird and ideological, sometimes because names like ""Stalin"" no longer had such a good ring to them, and often because people wanted the old historic names back. This can present problems for travelers, especially when the street names have changed, and locals still sometimes refer to them by the old names. There isn't much to be done about this, but be sure to at least get your major city names straight:</p>
-<ul><li>Leningrad → <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Saint_Petersburg"" title=""Saint Petersburg"">Saint Petersburg</a> (but the oblast is still Leningrad Oblast)</li>
+<ul align=""left""><li>Leningrad → <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Saint_Petersburg"" title=""Saint Petersburg"">Saint Petersburg</a> (but the oblast is still Leningrad Oblast)</li>
 <li>Stalingrad → <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Volgograd"" title=""Volgograd"">Volgograd</a></li>
 <li>Sverdlovsk → <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Yekaterinburg"" title=""Yekaterinburg"">Yekaterinburg</a> (but the oblast is still Sverdlovsk Oblast)</li>
 <li>Ordzhonikidze → <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Vladikavkaz"" title=""Vladikavkaz"">Vladikavkaz</a></li>
@@ -415,234 +413,234 @@ What should you know about names of cities and streets?|"<p>A lot of city, stree
 <li>Alma-Ata → <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Almaty"" title=""Almaty"">Almaty</a></li>
 <li>Akmola → <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Astana"" title=""Astana"">Astana</a></li>
 <li>Krasnovodsk → <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Turkmenbashi"" title=""Turkmenbashi"">Turkmenbashi</a></li></ul>"
-<dd id=""mwA98"">где</dd>|"<dt id=""mwA94"">Where (<i id=""mwA-A"">gdyeh</i>)</dt>"
-<dd id=""mwA-I"">здесь</dd>|"<dt id=""mwA-E"">Here (<i id=""mwA-M"">zdyehs</i>)</dt>"
-<dd id=""mwA-U"">там</dd>|"<dt id=""mwA-Q"">There (<i id=""mwA-Y"">tahm</i>)</dt>"
-<dd id=""mwA-g"">куда</dd>|"<dt id=""mwA-c"">To where (<i id=""mwA-k"">koo-DAH</i>)</dt>"
-<dd id=""mwA-s"">сюда</dd>|"<dt id=""mwA-o"">To here (<i id=""mwA-w"">syoo-DAH</i>)</dt>"
-<dd id=""mwA-4"">туда</dd>|"<dt id=""mwA-0"">To there (<i id=""mwA-8"">too-DAH</i>)</dt>"
-<dd id=""mwA_I"">Как добраться до_____<span typeof=""mw:DisplaySpace"" id=""mwA_M""> </span>?</dd>|"<dt id=""mwA_A"">How do I get to _____<span typeof=""mw:DisplaySpace"" id=""mwA_E""> </span>? (<i id=""mwA_Q"">kahk dah-BRAH-tsuh duh ___?</i>)</dt>"
-<dd id=""mwA_Y"">...вокзала?</dd>|"<dt id=""mwA_U"">...the train station? (<i id=""mwA_c"">vahg-ZAH-luh</i>)</dt>"
-<dd id=""mwA_k"">...автовокзала?</dd>|"<dt id=""mwA_g"">...the bus station? (<i id=""mwA_o"">ahf-tuh-vahg-ZAH-luh</i>)</dt>"
-<dd id=""mwA_w"">...аэропорта?</dd>|"<dt id=""mwA_s"">...the airport? (<i id=""mwA_0"">ah-ehr-ah-POHR-tuh</i>)</dt>"
-<dd id=""mwA_8"">...метро</dd>|"<dt id=""mwA_4"">...the Metro (subway) (<i id=""mwBAA"">mee-TROH</i>)</dt>"
-<dd id=""mwBAI"">...центра?</dd>|"<dt id=""mwBAE"">...downtown? (<i id=""mwBAM"">TSEHN-truh</i>)</dt>"
-<dd id=""mwBAU"">...молодёжного общежития?</dd>|"<dt id=""mwBAQ"">...the youth hostel? (<i id=""mwBAY"">muh-lah-DYOH-zhnuh-vuh ahp-shee-ZHYH-tee-yuh</i>)</dt>"
-<dd id=""mwBAg"">...гостиницы ______?</dd>|"<dt id=""mwBAc"">...the _____ hotel? (<i id=""mwBAk"">gahs-TEE-nee-tsyh</i>)</dt>"
-<dd id=""mwBA0"">...гостиницы Мосфильм?</dd>|"<dt id=""mwBAw"">...the Mosfilm hotel? (<i id=""mwBA4"">gahs-TEE-nee-tsyh MOHS-feel’m</i>)</dt>"
-<dd id=""mwBBA"">...американского/канадского/австралийского/английского консульства?</dd>|"<dt id=""mwBA8"">...the American/Canadian/Australian/British consulate? (<i id=""mwBBE"">uh-mee-ree-KAHNS-kuh-vuh / kuh-NAHTS-kuh-vuh / uhfs-truh-LEES-kuh-vuh / ahng-LEES-kuh-vuh KOHN-sool’-stvuh</i>)</dt>"
-<dd id=""mwBBM"">Где есть много...</dd>|"<dt id=""mwBBI"">Where are there a lot of... (<i id=""mwBBQ"">gdyeh yehst’ MNOH-guh</i>)</dt>"
-<dd id=""mwBBY"">...гостиниц?</dd>|"<dt id=""mwBBU"">...hotels? (<i id=""mwBBc"">gahs-TEE-neets?</i>)</dt>"
-<dd id=""mwBBk"">...ресторанов?</dd>|"<dt id=""mwBBg"">...restaurants? (<i id=""mwBBo"">rees-tah-RAHN-uhf?</i>)</dt>"
-<dd id=""mwBBw"">...баров?</dd>|"<dt id=""mwBBs"">...bars? (<i id=""mwBB0"">BAHR-uhf</i>)</dt>"
-<dd id=""mwBB8"">...достопримечательностей?</dd>|"<dt id=""mwBB4"">...sites to see? (<i id=""mwBCA"">duhs-tuh-pree-mee-CHAH-teel’-nuhs-tyay</i>)</dt>"
-<dd id=""mwBCI"">Где хороший дешёвый...</dd>|"<dt id=""mwBCE"">Where is a good, cheap... (<i id=""mwBCM"">gdyeh khah-ROH-shyh dee-SHYOH-vyh</i>)</dt>"
-<dd id=""mwBCU"">ресторан?</dd>|"<dt id=""mwBCQ"">...restaurant? (<i id=""mwBCY"">ree-stah-RAHN</i>)</dt>"
-<dd id=""mwBCg"">бар?</dd>|"<dt id=""mwBCc"">...bar? (<i id=""mwBCk"">bahr</i>)</dt>"
-<dd id=""mwBCs"">Вы можете показать на карте, пожалуйста?</dd>|"<dt id=""mwBCo"">Please can you show me on the map? (<i id=""mwBCw"">vyh MOH-zhyh-tee puh-kuh-ZAHT’ nuh KAHR-tyeh puh-ZHAH-luh-stuh</i>)</dt>"
-<dd id=""mwBC4"">Далеко?</dd>|"<dt id=""mwBC0"">Is it far? (<i id=""mwBC8"">dah-lee-KOH</i>)</dt>"
-<dd id=""mwBDE"">улица</dd>|"<dt id=""mwBDA"">street (<i id=""mwBDI"">OO-lee-tsuh</i>)</dt>"
-<dd id=""mwBDQ"">Поверните налево.</dd>|"<dt id=""mwBDM"">Turn left. (<i id=""mwBDU"">puh-veer-NEE-tyeh nuh-LYEH-vuh</i>)</dt>"
-<dd id=""mwBDc"">Поверните направо.</dd>|"<dt id=""mwBDY"">Turn right. (<i id=""mwBDg"">puh-veer-NEE-tyeh nuh-PRAH-vuh</i>)</dt>"
-<dd id=""mwBDo"">налево</dd>|"<dt id=""mwBDk"">left (<i id=""mwBDs"">nuh-LYEH-vuh</i>)</dt>"
-<dd id=""mwBD0"">направо</dd>|"<dt id=""mwBDw"">right (<i id=""mwBD4"">nuh-PRAH-vuh...</i>)</dt>"
-<dd id=""mwBEA"">прямо</dd>|"<dt id=""mwBD8"">straight ahead (<i id=""mwBEE"">PRYAH-muh</i>)</dt>"
-<dd id=""mwBEM"">к _____</dd>|"<dt id=""mwBEI"">towards the _____ (<i id=""mwBEQ"">k</i>)</dt>"
-<dd id=""mwBEY"">мимо _____</dd>|"<dt id=""mwBEU"">past the _____ (<i id=""mwBEc"">MEEH-mah</i>)</dt>"
-<dd id=""mwBEk"">перед _____</dd>|"<dt id=""mwBEg"">before the _____ (<i id=""mwBEo"">PYEH-reet</i>)</dt>"
-<dd id=""mwBEw"">Ищите _____.</dd>|"<dt id=""mwBEs"">Watch for the _____. (<i id=""mwBE0"">ee-SHEE-tyeh</i>)</dt>"
-<dd id=""mwBE8"">перекрёсток</dd>|"<dt id=""mwBE4"">intersection (<i id=""mwBFA"">pee-ree-KRYOH-stuhk</i>)</dt>"
-<dd id=""mwBFI"">север</dd>|"<dt id=""mwBFE"">north (<i id=""mwBFM"">SYEH-veer</i>)</dt>"
-<dd id=""mwBFU"">юг</dd>|"<dt id=""mwBFQ"">south (<i id=""mwBFY"">yook</i>)</dt>"
-<dd id=""mwBFg"">восток</dd>|"<dt id=""mwBFc"">east (<i id=""mwBFk"">vahs-TOHK</i>)</dt>"
-<dd id=""mwBFs"">запад</dd>|"<dt id=""mwBFo"">west (<i id=""mwBFw"">ZAH-puht</i>)</dt>"
-<dd id=""mwBF4"">вверх</dd>|"<dt id=""mwBF0"">uphill (<i id=""mwBF8"">VVYEHR-kh</i>)</dt>"
-<dd id=""mwBGE"">вниз</dd>|"<dt id=""mwBGA"">downhill (<i id=""mwBGI"">vnees</i>)</dt>"
-<dd id=""mwBGY"">Такси!</dd>|"<dt id=""mwBGU"">Taxi! (<i id=""mwBGc"">Tahk-SEE!</i>)</dt>"
-<dd id=""mwBGk"">Довезите меня до _____, пожалуйста.</dd>|<dt id=""mwBGg"">Take me to _____, please. (<i id=""mwBGo"">duh-vee-ZEE-tyeh mee-NYAH duh _____, puh-ZHAH-luh-stuh.</i>)</dt>
-<dd id=""mwBGw"">Сколько стоит доехать до ______?</dd>|<dt id=""mwBGs"">How much does it cost to get to _____? (<i id=""mwBG0"">SKOHL’-kuh STOH-eet dah-YEH-khut’ duh ____?</i>)</dt>
-<dd id=""mwBG8"">Довезите меня туда, пожалуйста.</dd>|<dt id=""mwBG4"">Take me there, please. (<i id=""mwBHA"">duh-vee-ZEE-tyeh meenyah too-DAH, puh-ZHAH-luh-stuh.</i>)</dt>
-<dd id=""mwBHI"">Остановите здесь[, пожалуйста].</dd>|<dt id=""mwBHE"">[Please] stop here. (<i id=""mwBHM"">us-tuh-naw-VEE-tyeh zdes[, puh-ZHAH-luh-stuh].</i>)</dt>
-<dd id=""mwBHc"">У вас есть свободные комнаты?</dd>|<dt id=""mwBHY"">Do you have any rooms available? (<i id=""mwBHg"">oo vash YEHST’ svah-BOD-nyh-yeh KOHM-nuh-tyh</i>)</dt>
-<dd id=""mwBHo"">Сколько стоит комната на одного человека/двух человек?</dd>|<dt id=""mwBHk"">How much is a room for one person/two people? (<i id=""mwBHs"">SKOHL’-kuh STOH-eet KOM-nuh-tuh nah uhd-nah-VOH chee-lah-VYEH-kuh / dvookh chee-lah-VYEHK </i>)</dt>
-<dd id=""mwBH0"">В этой комнате есть...</dd>|<dt id=""mwBHw"">Does the room come with... (<i id=""mwBH4"">VEH-tuy KOHM-nuh-tyeh yest’...</i>)</dt>
-<dd id=""mwBIA"">...простыни?</dd>|<dt id=""mwBH8"">...bedsheets? (<i id=""mwBIE"">...PROHS-tee-nee</i>)</dt>
-<dd id=""mwBIM"">...ванная?</dd>|<dt id=""mwBII"">...a bathroom? (<i id=""mwBIQ"">...VAHN-nah-yuh</i>)</dt>
-<dd id=""mwBIY"">...телефон?</dd>|<dt id=""mwBIU"">...a telephone? (<i id=""mwBIc"">...tee-lee-FOHN</i>)</dt>
-<dd id=""mwBIk"">...телевизор?</dd>|<dt id=""mwBIg"">...a TV? (<i id=""mwBIo"">...tee-lee-VEE-zuhr</i>)</dt>
-<dd id=""mwBIw"">...холодильник?</dd>|<dt id=""mwBIs"">...a refrigerator? (<i id=""mwBI0"">...ho-luh-DIL-nik</i>)</dt>
-<dd id=""mwBI8"">...электрический чайник?</dd>|<dt id=""mwBI4"">...electric kettle? (<i id=""mwBJA"">...eh-lek-TREE-ches-kee CHI-nik</i>)</dt>
-<dd id=""mwBJI"">Могу я сначала посмотреть комнату?</dd>|<dt id=""mwBJE"">May I see the room first? (<i id=""mwBJM"">mah-GOOH yah znuh-CHAH-luh puhs-mah-TRYEHT’ KOHM-nah-too</i>)</dt>
-<dd id=""mwBJU"">У вас есть что-нибудь потише?</dd>|<dt id=""mwBJQ"">Do you have anything quieter? (<i id=""mwBJY"">oo vah yehst’ CHTOH-nee-boot’ pah-TEE-shyh?</i>)</dt>
-<dd id=""mwBJg"">...побольше?</dd>|<dt id=""mwBJc"">...bigger? (<i id=""mwBJk"">pah-BOHL’-shyh</i>)</dt>
-<dd id=""mwBJs"">...почище?</dd>|<dt id=""mwBJo"">...cleaner? (<i id=""mwBJw"">pah-CHEE-sheh</i>)</dt>
-<dd id=""mwBJ4"">...подешевле?</dd>|<dt id=""mwBJ0"">...cheaper? (<i id=""mwBJ8"">puh-dee-SHEHV-lyeh</i>)</dt>
-<dd id=""mwBKE"">Хорошо, я беру.</dd>|<dt id=""mwBKA"">OK, I'll take it. (<i id=""mwBKI"">khah-rah-SHOH yah bee-ROO</i>)</dt>
-<dd id=""mwBKQ"">Я останусь на _____ ночь (ночи/ночей).</dd>|<dt id=""mwBKM"">I will stay for _____ night(s). (<i id=""mwBKU"">yah ahs-TAH-noos’ nah _____ nohch’ (NOH-chee/nah-CHYAY</i>)</dt>
-<dd id=""mwBKc"">Вы можете предложить другую гостиницу?</dd>|<dt id=""mwBKY"">Can you suggest another hotel? (<i id=""mwBKg"">vy MOH-zhee-te pred-la-ZHYHT’ droo-GOO-yoo gahs-TEE-nee-tsoo</i>)</dt>
-<dd id=""mwBKo"">У вас есть сейф?</dd>|<dt id=""mwBKk"">Do you have a safe? (<i id=""mwBKs"">oo vahs yest’ syayf</i>)</dt>
-<dd id=""mwBK0"">...индивидуальные сейфы?</dd>|<dt id=""mwBKw"">...lockers? (<i id=""mwBK4"">een-dee-vee-doo-AHL’-nyh-yeh SYAY-fee</i>)</dt>
-<dd id=""mwBLA"">Завтрак/ужин включен?</dd>|<dt id=""mwBK8"">Is breakfast/supper included? (<i id=""mwBLE"">ZAHF-truhk / OO-zhyhn fklyoo-CHON</i>)</dt>
-<dd id=""mwBLM"">Во сколько завтрак/ужин?</dd>|<dt id=""mwBLI"">What time is breakfast/supper? (<i id=""mwBLQ"">vuh SKOHL’-kuh ZAH-ftruhk / OO-zhyhn</i>)</dt>
-<dd id=""mwBLY"">Уберите в моей комнате, пожалуйста.</dd>|<dt id=""mwBLU"">Please clean my room. (<i id=""mwBLc"">oo-bee-REE-tyeh vmah-YAY KOHM-nuh-tyeh, puh-ZHAH-luh-stuh</i>)</dt>
-<dd id=""mwBLk"">Не могли бы вы разбудить меня в _____?</dd>|<dt id=""mwBLg"">Can you wake me at _____? (<i id=""mwBLo"">nee mah-GLEE byh vyh rahz-boo-DEET’ mee-NYAH v _____? </i>)</dt>
-<dd id=""mwBLw"">У вас водятся клопы.</dd>|<dt id=""mwBLs"">You have a bedbug infestation here. (<i id=""mwBL0"">oo VAS VAWD-yats-ya klaw-PYH</i>)</dt>
-<dd id=""mwBL8"">Дайте счёт.</dd>|<dt id=""mwBL4"">I want to check out. (<i id=""mwBMA"">DIGH-tyeh shyoht</i>)</dt>
-<dd id=""mwBMQ"">Вы принимаете американские/австралийские/канадские доллары?</dd>|<dt id=""mwBMM"">Do you accept American/Australian/Canadian dollars? (<i id=""mwBMU"">vyh pree-nee-MAH-ee-tyeh uh-mee-ree-KAHN-skee-yeh / uhv-struh-LEE-skee-yeh / kuh-NAHD-skee-yeh DOH-luhr-yh</i>)</dt>
-<dd id=""mwBMc"">Вы принимаете английские фунты?</dd>|<dt id=""mwBMY"">Do you accept British pounds? (<i id=""mwBMg"">vyh pree-nee-MAH-ee-tyeh ahn-GLEE-skee-yeh FOON-tyh</i>)</dt>
-<dd id=""mwBMo"">Вы принимаете евро?</dd>|<dt id=""mwBMk"">Do you accept euro? (<i id=""mwBMs"">vyh pree-nee-MAH-ee-tyeh YEV-ruh</i>)</dt>
-<dd id=""mwBM0"">Вы принимаете кредитные карты?</dd>|<dt id=""mwBMw"">Do you accept credit cards? (<i id=""mwBM4"">vyh pree-nee-MAH-ee-tyeh kree-DEET-nyh-yeh KAHR-tyh</i>)</dt>
-<dd id=""mwBNA"">Не могли бы вы обменять мне деньги?</dd>|<dt id=""mwBM8"">Can you change money for me? (<i id=""mwBNE"">nyeh mah-GLEE byh vyh uhb-meen-YAHT’ mnyeh DYEHN’-gee</i>)</dt>
-<dd id=""mwBNM"">Где я могу обменять деньги?</dd>|<dt id=""mwBNI"">Where can I get money changed? (<i id=""mwBNQ"">gdyeh yah mah-GOO uhb-meen-YAHT’ DYEHN’-gee</i>)</dt>
-<dd id=""mwBNY"">Вы можете обменять мне дорожный чек?</dd>|<dt id=""mwBNU"">Can you change a traveler's check for me? (<i id=""mwBNc"">vyh MOH-zhyh-tyeh uhb-meen-YAHT’ mnyeh dah-ROHZH-nyh chyehk</i>)</dt>
-<dd id=""mwBNk"">Где я могу обменять дорожный чек?</dd>|<dt id=""mwBNg"">Where can I get a traveler's check changed? (<i id=""mwBNo"">gdyeh yah mah-GOO uhb-meen-YAHT’ dah-ROHZH-nyh chyehk</i>)</dt>
-<dd id=""mwBNw"">Какой курс обмена?</dd>|<dt id=""mwBNs"">What is the exchange rate? (<i id=""mwBN0"">kah-KOY koors ahb-MYEHN-uh</i>)</dt>
-<dd id=""mwBN8"">Где здесь банкомат?</dd>|<dt id=""mwBN4"">Where is an automatic teller machine (ATM)? (<i id=""mwBOA"">gdyeh zdyes’ bahn-kuh-MAHT</i>)</dt>
-<dd id=""mwBOQ"">Столик на одного человека/двух человек, пожалуйста.</dd>|<dt id=""mwBOM"">A table for one person/two people, please. (<i id=""mwBOU"">STOH-leek nah uhd-nah-VOH chee-lah-VYEH-kah/dvookh chee-lah-VYEHK</i>)</dt>
-<dd id=""mwBOc"">Могу я посмотреть меню?</dd>|<dt id=""mwBOY"">Can I look at the menu, please? (<i id=""mwBOg"">mah-GOO yah puhs-mah-TRYEHT’ meen-YOO''</i>)</dt>
-<dd id=""mwBOo"">Я могу посмотреть на кухню?</dd>|<dt id=""mwBOk"">Can I look in the kitchen? (<i id=""mwBOs"">yah mah-GOO puh-smah-TRYEHT’ nah KOOKH-nee-yoo</i>)</dt>
-<dd id=""mwBO0"">Какое у вас фирменное блюдо?</dd>|<dt id=""mwBOw"">Is there a house specialty? (<i id=""mwBO4"">kah-KOY-yeh oo vahs feer-MYEHN-noy-yeh BLYOO-duh</i>)</dt>
-<dd id=""mwBPA"">Какое у вас местное фирменное блюдо?</dd>|<dt id=""mwBO8"">Is there a local specialty? (<i id=""mwBPE"">kah-KOY-yeh oo vahs myehst-NOY-yeh feer-MYEHN-noy-yeh BLYOO-duh</i>)</dt>
-<dd id=""mwBPM"">Я вегетарианец/вегетарианка.</dd>|<dt id=""mwBPI"">I'm a vegetarian. (<i id=""mwBPQ"">yah vee-gee-tuh-ree-YAHN-eets/vee-gee-tuh-ree-YAHN-kah</i>)</dt>
-<dd id=""mwBPY"">Я не ем свинину.</dd>|<dt id=""mwBPU"">I don't eat pork. (<i id=""mwBPc"">yah nee yehm svee-NEEN-oo</i>)</dt>
-<dd id=""mwBPk"">Я не ем говядину.</dd>|<dt id=""mwBPg"">I don't eat beef. (<i id=""mwBPo"">yah nee yehm gahv-YAH-deen-oo</i>)</dt>
-<dd id=""mwBPw"">Я ем только кошерную пищу.</dd>|<dt id=""mwBPs"">I only eat kosher food. (<i id=""mwBP0"">yah yehm TOHL’-kuh kah-SHERH-noo-yoo PEE-shoo.</i>)</dt>
-<dd id=""mwBQA"">Сделайте, пожалуйста, поменьше жира.</dd>|"<dt id=""mwBP4"">Can you make it ""lite"", please? (<i id=""mwBP8"">less oil/butter/lard</i>) (<i id=""mwBQE"">SDYEH-ligh-tyeh, puh-zhahl-uh-stuh, pah-MYEHN'-shyh zhyh-RAH</i>)</dt>"
-<dd id=""mwBQM"">комплексный обед</dd>|"<dt id=""mwBQI"">fixed-price meal (<i id=""mwBQQ"">KOHM-plyehks-nyh ah-BYEHT</i>)</dt>"
-<dd id=""mwBQY"">карта вин</dd>|"<dt id=""mwBQU"">à la carte (<i id=""mwBQc"">KAHR-tah veen</i>)</dt>"
-<dd id=""mwBQk"">завтрак</dd>|"<dt id=""mwBQg"">breakfast (<i id=""mwBQo"">ZAHF-truhk</i>)</dt>"
-<dd id=""mwBQw"">обед</dd>|"<dt id=""mwBQs"">lunch (<i id=""mwBQ0"">ah-BYEHT</i>)</dt>"
-<dd id=""mwBRA"">полдник</dd>|"<dt id=""mwBQ4"">tea (<i id=""mwBQ8"">meal</i>) (<i id=""mwBRE"">POHLD-neek</i>)</dt>"
-<dd id=""mwBRM"">ужин</dd>|"<dt id=""mwBRI"">supper</dt> (<i id=""mwBRQ"">OO-zhyhn</i>)"
-<dd id=""mwBRY"">Я хочу  _____.</dd>|"<dt id=""mwBRU"">I want _____.</dt> (<i id=""mwBRc"">yah khah-CHOO</i>) (<i id=""mwBRg"">use first form below</i>)"
-<dd id=""mwBRo"">Я хочу блюдо с _____.</dd>|"<dt id=""mwBRk"">I want a dish containing _____.</dt> (<i id=""mwBRs"">yah khah-CHOO BLYOO-duh s _____</i>) (<i id=""mwBRw"">use second form</i>)"
-<dd id=""mwBR4"">курицу/ой</dd>|"<dt id=""mwBR0"">chicken</dt> (<i id=""mwBR8"">KOO-reet-soo / KOO-reet-suy</i>)"
-<dd id=""mwBSE"">говядину/ой</dd>|"<dt id=""mwBSA"">beef</dt> (<i id=""mwBSI"">gahv-YAH-dee-noo / gahv-YAH-dee-nuy</i>)"
-<dd id=""mwBSQ"">рыбу/ой</dd>|"<dt id=""mwBSM"">fish</dt> (<i id=""mwBSU"">RYH-boo / RYH-boy</i>)"
-<dd id=""mwBSc"">свинину/ой</dd>|"<dt id=""mwBSY"">ham</dt> (<i id=""mwBSg"">svee-NEE-noo / svee-NEE-nuy</i>)"
-<dd id=""mwBSo"">говядина</dd>|"<dt id=""mwBSk"">veal</dt> (<i id=""mwBSs"">gahv-YAH-deen-uh</i>)"
-<dd id=""mwBS0"">колбасу/ой</dd>|"<dt id=""mwBSw"">sausage</dt> (<i id=""mwBS4"">kuhl-bah-SOO / kuhl-bah-SOY</i>)"
-<dd id=""mwBTA"">сыр/ом</dd>|"<dt id=""mwBS8"">cheese</dt> (<i id=""mwBTE"">syhr / SYH-ruhm</i>)"
-<dd id=""mwBTM"">яйца/ами</dd>|"<dt id=""mwBTI"">eggs</dt> (<i id=""mwBTQ"">YIGH-tsah / YIGH-tsah-mee</i>)"
-<dd id=""mwBTY"">салат/ом</dd>|"<dt id=""mwBTU"">salad</dt> (<i id=""mwBTc"">sah-LAHT / sah-LAHT-ohm</i>)"
-<dd id=""mwBTk"">картофель</dd>|"<dt id=""mwBTg"">potato</dt> (<i id=""mwBTo"">kahr-TOH-fehl'</i>)"
-<dd id=""mwBTw"">(свежие/ими) овощи/ами</dd>|"<dt id=""mwBTs"">(fresh) vegetables</dt> (<i id=""mwBT0"">(SVYEH-zhyh-yeh / SVYEH-zhyh-mee OH-vuh-shee/ uh-vuh-SHAH-mee</i>)"
-<dd id=""mwBT8"">помидор</dd>|"<dt id=""mwBT4"">tomato</dt> (<i id=""mwBUA"">puh-mee-DOHR</i>)"
-<dd id=""mwBUI"">капуста</dd>|"<dt id=""mwBUE"">cabbage</dt> (<i id=""mwBUM"">kah-POOS-tuh</i>)"
-<dd id=""mwBUU"">морковь</dd>|"<dt id=""mwBUQ"">carrot</dt> (<i id=""mwBUY"">mahr-KOHF</i>)"
-<dd id=""mwBUg"">свёкла</dd>|"<dt id=""mwBUc"">beet</dt> (<i id=""mwBUk"">SVYOHL-kuh</i>)"
-<dd id=""mwBUs"">(свежие/ими) фрукты/ами</dd>|"<dt id=""mwBUo"">(fresh) fruit</dt> (<i id=""mwBUw"">(SVYEH-zhyh-yeh / SVYEH-zhyh-mee FROOK-tyh / FROOK-tuh-mee</i>)"
-<dd id=""mwBU4"">ягоды</dd>|"<dt id=""mwBU0"">berries</dt> (<i id=""mwBU8"">YAH-guh-dyh</i>)"
-<dd id=""mwBVE"">клубинка</dd>|"<dt id=""mwBVA"">strawberry</dt> (<i id=""mwBVI"">kloo-BEEN-kuh</i>)"
-<dd id=""mwBVQ"">банан</dd>|"<dt id=""mwBVM"">banana</dt> (<i id=""mwBVU"">bah-NAHN</i>)"
-<dd id=""mwBVc"">яблоко</dd>|"<dt id=""mwBVY"">apple</dt> (<i id=""mwBVg"">YAH-bluh-kuh</i>)"
-<dd id=""mwBVo"">виноград</dd>|"<dt id=""mwBVk"">grapes</dt> (<i id=""mwBVs"">vee-nah-GRAHD</i>)"
-<dd id=""mwBV0"">смородина</dd>|"<dt id=""mwBVw"">currants</dt> (<i id=""mwBV4"">smah-ROH-dee-nuh</i>)"
-<dd id=""mwBWA"">апельсин</dd>|"<dt id=""mwBV8"">orange</dt> (<i id=""mwBWE"">uh-peel-SEEN</i>)"
-<dd id=""mwBWM"">хлеб/ом</dd>|"<dt id=""mwBWI"">bread</dt> (<i id=""mwBWQ"">khlyep / KHLYEH-buhm</i>)"
-<dd id=""mwBWY"">тост/ом</dd>|"<dt id=""mwBWU"">toast</dt> (<i id=""mwBWc"">tohst / TOHST-uhhm)</i>)"
-<dd id=""mwBWk"">лапша/ой</dd>|"<dt id=""mwBWg"">noodles</dt> (<i id=""mwBWo"">LAHP-shuh / lahp-SHOY</i>)"
-<dd id=""mwBWw"">макароны/онами</dd>|"<dt id=""mwBWs"">pasta</dt> (<i id=""mwBW0"">mah-kah-ROH-nyh / mah-kah-ROH-nah-mee</i>)"
-<dd id=""mwBW8"">рис/ом</dd>|"<dt id=""mwBW4"">rice</dt> (<i id=""mwBXA"">rees / REE-suhm</i>)"
-<dd id=""mwBXI"">гречка/гречкой</dd>|"<dt id=""mwBXE"">buckwheat</dt> (<i id=""mwBXM"">GRECH-kuh / GRECH-koy</i>)"
-<dd id=""mwBXU"">фасоль/фасолью</dd>|"<dt id=""mwBXQ"">beans</dt> (<i id=""mwBXY"">fah-SOHL’ / fah-SOHL-yoo</i>)"
-<dd id=""mwBXg"">Дайте, пожалуйста, стакан _____?</dd>|"<dt id=""mwBXc"">May I have a glass of _____?</dt> (<i id=""mwBXk"">DIGH-tyeh, puh-ZHAH-luh-stuh, stah-KAHN _____?</i>)"
-<dd id=""mwBXs"">Дайте, пожалуйста, чашку _____?</dd>|"<dt id=""mwBXo"">May I have a cup of _____?</dt> (<i id=""mwBXw"">DIGH-tyeh, puh-ZHAH-luh-stuh, CHAHSH-koo</i>)"
-<dd id=""mwBX4"">Дайте, пожалуйста, бутылку _____?</dd>|"<dt id=""mwBX0"">May I have a bottle of _____?</dt> (<i id=""mwBX8"">DIGH-tyeh, puh-ZHAH-luh-stuh, boo-TYHL-koo</i>)"
-<dd id=""mwBYE"">...кофе</dd>|"<dt id=""mwBYA"">...coffee</dt> (<i id=""mwBYI"">KOH-feh</i>)"
-<dd id=""mwBYU"">...чая</dd>|"<dt id=""mwBYM"">...tea (<i id=""mwBYQ"">drink</i>) (<i id=""mwBYY"">CHAH-yuh</i>)</dt>"
-<dd id=""mwBYg"">...сока </dd>|"<dt id=""mwBYc"">...juice (<i id=""mwBYk"">SOH-kah</i>)</dt>"
-<dd id=""mwBYs"">...минеральной воды</dd>|"<dt id=""mwBYo"">...(bubbly) water (<i id=""mwBYw"">mee-nee-RAHL'-nuy vah-DYH</i>)</dt>"
-<dd id=""mwBY4"">...воды</dd>|"<dt id=""mwBY0"">...water (<i id=""mwBY8"">vah-DYH</i>)</dt>"
-<dd id=""mwBZE"">...пива</dd>|"<dt id=""mwBZA"">...beer (<i id=""mwBZI"">PEE-vuh</i>)</dt>"
-<dd id=""mwBZQ"">...красного/белого вина</dd>|"<dt id=""mwBZM"">...red/white wine (<i id=""mwBZU"">KRAH-snuh-vuh / BYEH-luh-vuh vee-NAH</i>)</dt>"
-<dd id=""mwBZc"">...шампанского</dd>|"<dt id=""mwBZY"">...sparkling wine (<i id=""mwBZg"">shum-PAHN-skuh-guh</i>)</dt>"
-<dd id=""mwBZo"">...водки</dd>|"<dt id=""mwBZk"">...vodka (<i id=""mwBZs"">VOT-kee</i>)</dt>"
-<dd id=""mwBZ0"">Дайте, пожалуйста _____.</dd>|"<dt id=""mwBZw"">May I have some _____? (<i id=""mwBZ4"">DIGH-tyeh, puh-ZHAH-luh-stuh</i>)</dt>"
-<dd id=""mwBaA"">соль</dd>|"<dt id=""mwBZ8"">...salt (<i id=""mwBaE"">sohl’</i>)</dt>"
-<dd id=""mwBaM"">чёрный перец</dd>|"<dt id=""mwBaI"">...black pepper (<i id=""mwBaQ"">CHYOHR-nyh PYEH-reets</i>)</dt>"
-<dd id=""mwBaY"">масло</dd>|"<dt id=""mwBaU"">...butter (<i id=""mwBac"">MAHS-luh</i>)</dt>"
-<dd id=""mwBao"">Официант!/Девушка!</dd>|"<dt id=""mwBag"">Excuse me, waiter? (<i id=""mwBak"">getting attention of server</i>) (<i id=""mwBas"">uh-fee-TSAHNT! / DYEH-voosh-kuh!</i>) The former is very polite and gender neutral, the latter only for female servers, and should not be used in a nice restaurant.</dt>"
-<dd id=""mwBa0"">Я наелся/наелась.</dd>|"<dt id=""mwBaw"">I'm finished. (<i id=""mwBa4"">yah nah-YEHL-syuh/yah nah-YEH-las’</i>)</dt>
-<dd id=""mwBbA"">Это было великолепно.</dd>|"<dt id=""mwBa8"">It was delicious. (<i id=""mwBbE"">EH-tuh BYH-luh vyeh-lee-kah-LYEHP-nuh</i>)</dt>
-<dd id=""mwBbM"">Можете убрать со стола.</dd>|"<dt id=""mwBbI"">Please clear the plates. (<i id=""mwBbQ"">MOH-zhyh-tyeh oo-BRAHT’ suh stuh-LAH</i>)</dt>
-<dd id=""mwBbY"">Счёт, пожалуйста.</dd>|"<dt id=""mwBbU"">The check, please. (<i id=""mwBbc"">shyoht, puh-ZHAH-luh-stuh</i>)</dt>
-<dd id=""mwBbs"">Вы продаёте алкогольные напитки?</dd>|"<dt id=""mwBbo"">Do you serve alcohol? (<i id=""mwBbw"">VYH pruh-dah-YOH-tyeh ahl-kuh-GOHL’-nyh-yeh nah-PEET-kee?</i>)</dt>
-<dd id=""mwBb4"">Здесь есть официант?</dd>|"<dt id=""mwBb0"">Is there table service? (<i id=""mwBb8"">zdyehs’ yehst’ ah-fee-TSANT</i>)</dt>
-<dd id=""mwBcE"">Будьте добры, одно пиво/два пива.</dd>|"<dt id=""mwBcA"">A beer/two beers, please. (<i id=""mwBcI"">BOOT’-tyeh dah-BRYH, ad-noh PEE-vuh / dvah PEE-vah</i>)</dt>
-<dd id=""mwBcQ"">Будьте добры, бокал красного/белого вина.</dd>|"<dt id=""mwBcM"">A glass of red/white wine, please. (<i id=""mwBcU"">BOOT'-tyeh dah-BRYH, bah-KAHL KRAHZ-nuh-vuh / BYEH-luh-vuh vee-NAH</i>)</dt>
-<dd id=""mwBcc"">Будьте добры, одну бутылку.</dd>|"<dt id=""mwBcY"">A bottle, please. (<i id=""mwBcg"">BOOT’-tyeh dah-BRYH, ahd-NOO boo-TYHL-koo</i>)</dt>
-<dd id=""mwBcw"">Будьте добры, _____ (<i id=""mwBc0"">hard liquor</i>) с _____ (<i id=""mwBc4"">mixer</i> in ablative form).</dd>|"<dt id=""mwBck"">_____ (<i id=""mwBco"">hard liquor</i>) and _____ (<i id=""mwBcs"">mixer</i>), please. (<i id=""mwBc8"">...</i>)</dt>
-<dd id=""mwBdE"">виски</dd>|"<dt id=""mwBdA"">whiskey (<i id=""mwBdI"">VEE-skee</i>)</dt>"
-<dd id=""mwBdQ"">водка</dd>|"<dt id=""mwBdM"">vodka (<i id=""mwBdU"">VOHT-kah</i>)</dt>"
-<dd id=""mwBdc"">ром</dd>|"<dt id=""mwBdY"">rum (<i id=""mwBdg"">rohm</i>)</dt>"
-<dd id=""mwBdo"">вода/ой</dd>|"<dt id=""mwBdk"">water (<i id=""mwBds"">vah-DAH / vah-DOY</i>)</dt>"
-<dd id=""mwBd0"">газированная/ой вода/ой (газировка/ой)</dd>|"<dt id=""mwBdw"">club soda (<i id=""mwBd4"">guh-zee-ROH-vuhn-nuh-yuh / guh-zee-ROH-vuhn-nuy vah-DAH / vah-DOY</i>)</dt>"
-<dd id=""mwBeA"">тоник/ом</dd>|"<dt id=""mwBd8"">tonic water (<i id=""mwBeE"">TOH-neek/TOH-neek-uhm</i>)</dt>"
-<dd id=""mwBeM"">апельсиновый/ым сок/ом</dd>|"<dt id=""mwBeI"">orange juice (<i id=""mwBeQ"">uh-peel’-SEE-nuh-vyh / uh-peel’-SEE-nuh-vyhm sohk / SOHK-uhm</i>)</dt>"
-<dd id=""mwBec"">кола/ой</dd>|"<dt id=""mwBeU"">Coke (<i id=""mwBeY"">soda</i>) (<i id=""mwBeg"">лимонад/ом</i>) (<i id=""mwBek"">KOH-lah / KOH-luy</i>)</dt>"
-<dd id=""mwBes"">Здесь есть буфет?</dd>|"<dt id=""mwBeo"">Do you have any bar snacks? (<i id=""mwBew"">zdyehs’ yehst’ boo-FYEHT</i>)</dt>"
-<dd id=""mwBe4"">Ещё одну, пожалуйста.</dd>|"<dt id=""mwBe0"">One more, please. (<i id=""mwBe8"">yee-SHYOH ahd-NOOH, puh-ZHAH-luh-stuh</i>)</dt>"
-<dd id=""mwBfE"">Повторите, пожалуйста.</dd>|"<dt id=""mwBfA"">Another round, please. (<i id=""mwBfI"">puhf-tah-REEH-tye, puh-ZHAH-luh-stuh</i>)</dt>"
-<dd id=""mwBfQ"">Когда вы закрываетесь?</dd>|"<dt id=""mwBfM"">When is closing time? (<i id=""mwBfU"">kahg-DAH vyh zuh-kryh-VAH-ee-tyehs’?</i>)</dt>"
-<dd id=""mwBfc"">Я вообще не пью.</dd>|"<dt id=""mwBfY"">I don't drink. (<i id=""mwBfg"">yah vahb-SHYEH nee pyoo</i>)</dt>"
-<dd id=""mwBfo"">Я алкоголик.</dd>|"<dt id=""mwBfk"">I'm an alcoholic. (<i id=""mwBfs"">yah ahl-kah-GOH-leek</i>)</dt>"
-<dd id=""mwBf0"">Мне нельзя пить из-за лекарства, которое я сейчас принимаю.</dd>|"<dt id=""mwBfw"">I cannot drink because of medication. (<i id=""mwBf4"">mnyee neel-ZYAH peet' eez-zah lee-KAHRST-vuh kah-TOHR-uh-yuh yah see-CHAHS pree-nee-MAH-yoo</i>)</dt>"
-<dd id=""mwBgI"">У вас есть это моего размера?</dd>|"<dt id=""mwBgE"">Do you have this in my size? (<i id=""mwBgM"">oo vahs yehst’ EH-tuh ma-ee-VOH rahz-MYEH-ruh</i>)</dt>"
-<dd id=""mwBgU"">Сколько это стоит?</dd>|"<dt id=""mwBgQ"">How much is this? (<i id=""mwBgY"">SKOHL’-kuh EH-tuh STOH-eet</i>)</dt>"
-<dd id=""mwBgg"">Это слишком дорого.</dd>|"<dt id=""mwBgc"">That's too expensive. (<i id=""mwBgk"">EH-tuh SLEESH-kuhm DOH-ruh-guh</i>)</dt>"
-<dd id=""mwBgs"">Вы примете _____?</dd>|"<dt id=""mwBgo"">Would you take _____? (<i id=""mwBgw"">vyh PREE-mee-tyeh _____?</i>)</dt>"
-<dd id=""mwBg4"">дорого</dd>|"<dt id=""mwBg0"">expensive (<i id=""mwBg8"">DOH-ruh-guh</i>)</dt>"
-<dd id=""mwBhE"">дёшево</dd>|"<dt id=""mwBhA"">cheap (<i id=""mwBhI"">DYOH-shyh-vuh</i>)</dt>"
-<dd id=""mwBhQ"">Я не могу себе этого позволить.</dd>|"<dt id=""mwBhM"">I can't afford it. (<i id=""mwBhU"">yah nee mah-GOOH see-BYEH EH-tuh-vuh paz-VOH-leet’</i>)</dt>"
-<dd id=""mwBhc"">Я это не хочу.</dd>|"<dt id=""mwBhY"">I don't want it. (<i id=""mwBhg"">yah EH-tuh nee khah-CHOO</i>)</dt>"
-<dd id=""mwBho"">Вы меня обманываете.</dd>|"<dt id=""mwBhk"">You're cheating me. (<i id=""mwBhs"">vyh mee-NYAH ab-MAH-nyh-vah-ee-tyeh</i>)</dt>"
-<dd id=""mwBh0"">Мне это не интересно..</dd>|"<dt id=""mwBhw"">I'm not interested. (<i id=""mwBh4"">mnyeh EH-tuh nee een-tee-RYEHS-nuh</i>)</dt>"
-<dd id=""mwBiA"">Хорошо, я возьму.</dd>|"<dt id=""mwBh8"">OK, I'll take it. (<i id=""mwBiE"">khah-rah-SHOH, yah vahz’-MOO</i>)</dt>"
-<dd id=""mwBiM"">Дайте, пожалуйста, пакет.</dd>|"<dt id=""mwBiI"">Can I have a bag? (<i id=""mwBiQ"">DIGH-tyeh, puh-ZHAH-luh-stuh, pah-KYEHT</i>)</dt>"
-<dd id=""mwBiY"">У вас есть доставка (за границу)?</dd>|"<dt id=""mwBiU"">Do you ship (overseas)? (<i id=""mwBic"">oo vahs yehst’ dahs-TAHF-kah (zah grah-NEET-sooh)</i></dt>"
-<dd id=""mwBio"">Давайте две.</dd>|"<dt id=""mwBig"">Give me two <i id=""mwBik"">(items of something)</i>. (<i id=""mwBis"">dah-VIGH-tyeh DVYEH</i>)</dt>"
-<dd id=""mwBi0"">Мне нужен/нужна/нужно/нужны...</dd>|"<dt id=""mwBiw"">I need... (<i id=""mwBi4"">mnyeh NOO-zhehn / nooh-ZHNAH / NOOZH-nuh / nooh-ZHNYH</i>)</dt>"
-<dd id=""mwBjA"">...зубная паста.</dd>|"<dt id=""mwBi8"">...toothpaste. (<i id=""mwBjE"">ZOOB-nuh-yuh PAHS-tuh</i>)</dt>"
-<dd id=""mwBjM"">...зубная щётка.</dd>|"<dt id=""mwBjI"">...a toothbrush. (<i id=""mwBjQ"">ZOOB-nuh-yuh SHYOHT-kuh</i>)</dt>"
-<dd id=""mwBjY"">...тампоны.</dd>|"<dt id=""mwBjU"">...tampons. (<i id=""mwBjc"">tahm-POH-nyh</i>)</dt>"
-<dd id=""mwBjk"">...мыло.</dd>|"<dt id=""mwBjg"">...soap. (<i id=""mwBjo"">MYH-luh</i>)</dt>"
-<dd id=""mwBjw"">...шампунь.</dd>|"<dt id=""mwBjs"">...shampoo. (<i id=""mwBj0"">shahm-POON’</i>)</dt>"
-<dd id=""mwBkA"">...обезболивающее.</dd>|"<dt id=""mwBj4"">...pain reliever. (<i id=""mwBj8"">e.g., aspirin or ibuprofen</i>) (<i id=""mwBkE"">ah-beez-BOH-lee-vah-yoo-shee-yeh</i>)</dt>"
-<dd id=""mwBkM"">...лекарство от простуды.</dd>|"<dt id=""mwBkI"">...cold medicine. (<i id=""mwBkQ"">lee-KAHR-stvah aht prah-STOO-dyh</i>)</dt>"
-<dd id=""mwBkY"">...лекарство от живота.</dd>|"<dt id=""mwBkU"">...stomach medicine. (<i id=""mwBkc"">lee-KAHR-stvah aht zhyh-VOH-tuh</i>)</dt>"
-<dd id=""mwBkk"">...бритва.</dd>|"<dt id=""mwBkg"">...a razor. (<i id=""mwBko"">BREET-vuh</i>)</dt>"
-<dd id=""mwBkw"">...зонтик.</dd>|"<dt id=""mwBks"">...an umbrella. (<i id=""mwBk0"">ZOHN-teek</i>)</dt>"
-<dd id=""mwBk8"">...лосьон от загара.</dd>|"<dt id=""mwBk4"">...sunblock lotion. (<i id=""mwBlA"">luhs’-YOHN ahd zah-GAH-ruh</i>)</dt>"
-<dd id=""mwBlI"">...открытка.</dd>|"<dt id=""mwBlE"">...a postcard. (<i id=""mwBlM"">aht-KRYHT-kah</i>)</dt>"
-<dd id=""mwBlU"">...почтовые марки.</dd>|"<dt id=""mwBlQ"">...postage stamps. (<i id=""mwBlY"">pahtch-TOH-vyh-yeh MAHR-kee</i>)</dt>"
-<dd id=""mwBlg"">...батарейки.</dd>|"<dt id=""mwBlc"">...batteries. (<i id=""mwBlk"">bah-tah-RAY-kee</i>)</dt>"
-<dd id=""mwBls"">...бумага.</dd>|"<dt id=""mwBlo"">...writing paper. (<i id=""mwBlw"">boo-MAH-guh</i>)</dt>"
-<dd id=""mwBl4"">...ручка.</dd>|"<dt id=""mwBl0"">...a pen. (<i id=""mwBl8"">ROOCH-kuh</i>)</dt>"
-<dd id=""mwBmE"">...книги на английском языке.</dd>|"<dt id=""mwBmA"">...English-language books. (<i id=""mwBmI"">KNEE-gee nah ahn-GLEE-skuhm yuh-zee-KYEH</i>)</dt>"
-<dd id=""mwBmQ"">...журналы на английском языке.</dd>|"<dt id=""mwBmM"">...English-language magazines. (<i id=""mwBmU"">zhoor-NAH-lyh nah ahn-GLEE-skuhm yuh-zyh-KYEH</i>)</dt>"
-<dd id=""mwBmc"">...газета на английском языке.</dd>|"<dt id=""mwBmY"">...an English-language newspaper. (<i id=""mwBmg"">gah-ZYEH-tah nah ahn-GLEE-skuhm yuh-zyh-KYEH</i>)</dt>"
-<dd id=""mwBmo"">...русско-английский словарь.</dd>|"<dt id=""mwBmk"">...a Russian-English dictionary. (<i id=""mwBms"">ROO-skuh ahn-GLEE-skee slah-VAHR’</i>)</dt>"
-<dd id=""mwBm8"">Я хочу взять машину напрокат.</dd>|"<dt id=""mwBm4"">I want to rent a car. (<i id=""mwBnA"">yah khah-CHOO vzyaht’ mah-SHYH-noo nuh-prah-KAHT</i>)</dt>"
-<dd id=""mwBnI"">Я могу взять страховку?</dd>|"<dt id=""mwBnE"">Can I get insurance? (<i id=""mwBnM"">yah mah-GOO vzyaht’ strah-KHOHF-koo</i>)</dt>"
-<dd id=""mwBnY"">СТОП</dd>|"<dt id=""mwBnQ"">Stop (<i id=""mwBnU"">on a street sign</i>)(<i id=""mwBnc"">stohp</i>)</dt>"
-<dd id=""mwBnk"">одностороннее движение</dd>|"<dt id=""mwBng"">One way (<i id=""mwBno"">uhd-nuh-stah-ROHN-nee-yeh dvee-ZHEH-nee-yeh</i>)</dt>"
-<dd id=""mwBnw"">уступите дорогу</dd>|"<dt id=""mwBns"">Yield (<i id=""mwBn0"">oo-stoo-PEE-tyeh dah-ROH-goo</i>)</dt>"
-<dd id=""mwBn8"">парковки нет</dd>|"<dt id=""mwBn4"">No parking (<i id=""mwBoA"">pahr-KOHF-kee nyeht</i>)</dt>"
-<dd id=""mwBoI"">ограничение скорости</dd>|"<dt id=""mwBoE"">Speed limit (<i id=""mwBoM"">ah-grah-nee-CHEH-nyh-yeh SKOH-ruh-stee</i>)</dt>"
-<dd id=""mwBoY"">(авто)заправка</dd>|"<dt id=""mwBoQ"">Gas (<i id=""mwBoU"">petrol</i>) station (<i id=""mwBoc"">(AHF-tuh) zah-PRAHF-kuh</i>)</dt>"
-<dd id=""mwBok"">бензин</dd>|"<dt id=""mwBog"">Petrol (<i id=""mwBoo"">been-ZEEN</i>)</dt>"
-<dd id=""mwBow"">дизель (дизельное топливо)</dd>|"<dt id=""mwBos"">Diesel (<i id=""mwBo0"">DEE-zehl’ (DEE-zehl’-nuh-yeh TOH-plee-vuh</i>)</dt>"
-<dd id=""mwBpE"">Я ничего плохого не делал(а).</dd>|"<dt id=""mwBpA"">I haven't done anything wrong. (<i id=""mwBpI"">yah nee-chee-VOH plah-KHOH-vuh nee DYEH-luhl/luh-luh</i>)</dt>"
-<dd id=""mwBpQ"">Мои документы в порядке. </dd>|"<dt id=""mwBpM"">My papers are in order (<i id=""mwBpU"">muh-yee duh-koo-MYEHN-tyh fpahr-YAHD-kee</i>) (intonation must fall, otherwise you might be asking a question!)</dt>"
-<dd id=""mwBpc"">Мы друг друга не поняли.</dd>|"<dt id=""mwBpY"">It was a misunderstanding. (<i id=""mwBpg"">myh droog DROO-guh nyee POHN-yuh-lee</i>)</dt>"
-<dd id=""mwBpo"">Везите меня в полицию.</dd>|"<dt id=""mwBpk"">Take me to the police. (<i id=""mwBps"">vee-ZEE-tyeh meen-YAH fpuh-LEE-tsyh-yuh</i>)</dt>"
-<dd id=""mwBp0"">Куда вы меня везёте?</i>)|"<dt id=""mwBpw"">Where are you taking me? (<i id=""mwBp4"">koo-DAH vyh meen-YAH vee-ZYOH-tyeh?</dt>"
-<dd id=""mwBqM"">К полиции.</dd>|"<dd id=""mwBqA""><dt id=""mwBqI"">To the police (<i id=""mwBqQ"">kpuh-LEE-tsyh</i>)</dt>"
-<dd id=""mwBqY"">К моему дому.</dd>|"<dt id=""mwBqU"">To my house (<i id=""mwBqc"">kmuh-yuh-MOO DOH-moo</i>)</dd></dd></dt>"
-<dd id=""mwBqk"">Я арестован(а)?</dd>|"<dt id=""mwBqg"">Am I under arrest? (<i id=""mwBqo"">yah ah-ryees-TOH-vuhn/vuh-nah?</i>)</dt>"
-<dd id=""mwBqw"">Я гражданин/гражданка Америки/Австралии/Великобритании/Канады.</dd>|"<dt id=""mwBqs"">I am an American/Australian/British/Canadian citizen. (<i id=""mwBq0"">yah grazh-dah-NEEN/grazh-DAHN-kah ah-MYEH-ree-kee / ahf-STRAH-lee-yeh / vee-lee-kuh-bree-TAH-nee-yeh / kah-NAH-dyh</i>)</dt>"
-<dd id=""mwBq8"">Я хочу поговорить с посольством/консульством Америки/Австралии/Великобритании/Канады.</dd>|"<dt id=""mwBq4"">I want to talk to the American/Australian/British/Canadian embassy/consulate. (<i id=""mwBrA"">yah khah-CHOO puh-guh-vah-REET s pah-SOL’ST-vuhm / s KOHN-sool’-stvuhm ah-MEH-ree-kee / ahf-STRAH-lee-yeh/  vee-lee-kuh-bree-TAH-nee-yeh / kah-NAH-dyh</i>)</dt>"
-<dd id=""mwBrI"">Я хочу поговорить с адвокатом.</dd>|"<dt id=""mwBrE"">I want to talk to a lawyer. (<i id=""mwBrM"">yah hah-CHOO puh-guh-vah-REET s ahd-vuh-KAH-tuhm</i>)</dt>"
-<dd id=""mwBrU"">Я могу заплатить штраф сейчас?</dd>|"<dt id=""mwBrQ"">Can I just pay a fine now? (<i id=""mwBrY"">yah mah-GOO zah-plah-TEET’ shtrahf say-CHAHS?</i>) (This phrase indicates that you want to pay a bribe to get out of trouble.)</dt>"
-<dd id=""mwBrg"">Мне нужна квитанция.</dd>|"<dt id=""mwBrc"">I need a receipt (<i id=""mwBrk"">mnyee noozh-NAH kvee-TAHN-tsyh-yuh</i>)  (In the context of interactions with police, this phrase indicates that you aren't willing to pay a bribe.)</dt>"
+где|"Where (<i id=""mwA-A"">gdyeh</i>)"
+здесь|"Here (<i id=""mwA-M"">zdyehs</i>)"
+там|"There (<i id=""mwA-Y"">tahm</i>)"
+куда|"To where (<i id=""mwA-k"">koo-DAH</i>)"
+сюда|"To here (<i id=""mwA-w"">syoo-DAH</i>)"
+туда|"To there (<i id=""mwA-8"">too-DAH</i>)"
+Как добраться до_____<span typeof=""mw:DisplaySpace"" id=""mwA_M""> </span>?|"How do I get to _____<span typeof=""mw:DisplaySpace"" id=""mwA_E""> </span>? (<i id=""mwA_Q"">kahk dah-BRAH-tsuh duh ___?</i>)"
+...вокзала?|"...the train station? (<i id=""mwA_c"">vahg-ZAH-luh</i>)"
+...автовокзала?|"...the bus station? (<i id=""mwA_o"">ahf-tuh-vahg-ZAH-luh</i>)"
+...аэропорта?|"...the airport? (<i id=""mwA_0"">ah-ehr-ah-POHR-tuh</i>)"
+...метро|"...the Metro (subway) (<i id=""mwBAA"">mee-TROH</i>)"
+...центра?|"...downtown? (<i id=""mwBAM"">TSEHN-truh</i>)"
+...молодёжного общежития?|"...the youth hostel? (<i id=""mwBAY"">muh-lah-DYOH-zhnuh-vuh ahp-shee-ZHYH-tee-yuh</i>)"
+...гостиницы ______?|"...the _____ hotel? (<i id=""mwBAk"">gahs-TEE-nee-tsyh</i>)"
+...гостиницы Мосфильм?|"...the Mosfilm hotel? (<i id=""mwBA4"">gahs-TEE-nee-tsyh MOHS-feel’m</i>)"
+...американского/канадского/австралийского/английского консульства?|"...the American/Canadian/Australian/British consulate? (<i id=""mwBBE"">uh-mee-ree-KAHNS-kuh-vuh / kuh-NAHTS-kuh-vuh / uhfs-truh-LEES-kuh-vuh / ahng-LEES-kuh-vuh KOHN-sool’-stvuh</i>)"
+Где есть много...|"Where are there a lot of... (<i id=""mwBBQ"">gdyeh yehst’ MNOH-guh</i>)"
+...гостиниц?|"...hotels? (<i id=""mwBBc"">gahs-TEE-neets?</i>)"
+...ресторанов?|"...restaurants? (<i id=""mwBBo"">rees-tah-RAHN-uhf?</i>)"
+...баров?|"...bars? (<i id=""mwBB0"">BAHR-uhf</i>)"
+...достопримечательностей?|"...sites to see? (<i id=""mwBCA"">duhs-tuh-pree-mee-CHAH-teel’-nuhs-tyay</i>)"
+Где хороший дешёвый...|"Where is a good, cheap... (<i id=""mwBCM"">gdyeh khah-ROH-shyh dee-SHYOH-vyh</i>)"
+ресторан?|"...restaurant? (<i id=""mwBCY"">ree-stah-RAHN</i>)"
+бар?|"...bar? (<i id=""mwBCk"">bahr</i>)"
+Вы можете показать на карте, пожалуйста?|"Please can you show me on the map? (<i id=""mwBCw"">vyh MOH-zhyh-tee puh-kuh-ZAHT’ nuh KAHR-tyeh puh-ZHAH-luh-stuh</i>)"
+Далеко?|"Is it far? (<i id=""mwBC8"">dah-lee-KOH</i>)"
+улица|"street (<i id=""mwBDI"">OO-lee-tsuh</i>)"
+Поверните налево.|"Turn left. (<i id=""mwBDU"">puh-veer-NEE-tyeh nuh-LYEH-vuh</i>)"
+Поверните направо.|"Turn right. (<i id=""mwBDg"">puh-veer-NEE-tyeh nuh-PRAH-vuh</i>)"
+налево|"left (<i id=""mwBDs"">nuh-LYEH-vuh</i>)"
+направо|"right (<i id=""mwBD4"">nuh-PRAH-vuh...</i>)"
+прямо|"straight ahead (<i id=""mwBEE"">PRYAH-muh</i>)"
+к _____|"towards the _____ (<i id=""mwBEQ"">k</i>)"
+мимо _____|"past the _____ (<i id=""mwBEc"">MEEH-mah</i>)"
+перед _____|"before the _____ (<i id=""mwBEo"">PYEH-reet</i>)"
+Ищите _____.|"Watch for the _____. (<i id=""mwBE0"">ee-SHEE-tyeh</i>)"
+перекрёсток|"intersection (<i id=""mwBFA"">pee-ree-KRYOH-stuhk</i>)"
+север|"north (<i id=""mwBFM"">SYEH-veer</i>)"
+юг|"south (<i id=""mwBFY"">yook</i>)"
+восток|"east (<i id=""mwBFk"">vahs-TOHK</i>)"
+запад|"west (<i id=""mwBFw"">ZAH-puht</i>)"
+вверх|"uphill (<i id=""mwBF8"">VVYEHR-kh</i>)"
+вниз|"downhill (<i id=""mwBGI"">vnees</i>)"
+Такси!|"Taxi! (<i id=""mwBGc"">Tahk-SEE!</i>)"
+Довезите меня до _____, пожалуйста.</dd>|<dt id=""mwBGg"">Take me to _____, please. (<i id=""mwBGo"">duh-vee-ZEE-tyeh mee-NYAH duh _____, puh-ZHAH-luh-stuh.</i>)
+Сколько стоит доехать до ______?</dd>|<dt id=""mwBGs"">How much does it cost to get to _____? (<i id=""mwBG0"">SKOHL’-kuh STOH-eet dah-YEH-khut’ duh ____?</i>)
+Довезите меня туда, пожалуйста.</dd>|<dt id=""mwBG4"">Take me there, please. (<i id=""mwBHA"">duh-vee-ZEE-tyeh meenyah too-DAH, puh-ZHAH-luh-stuh.</i>)
+Остановите здесь[, пожалуйста].</dd>|<dt id=""mwBHE"">[Please] stop here. (<i id=""mwBHM"">us-tuh-naw-VEE-tyeh zdes[, puh-ZHAH-luh-stuh].</i>)
+У вас есть свободные комнаты?</dd>|<dt id=""mwBHY"">Do you have any rooms available? (<i id=""mwBHg"">oo vash YEHST’ svah-BOD-nyh-yeh KOHM-nuh-tyh</i>)
+Сколько стоит комната на одного человека/двух человек?</dd>|<dt id=""mwBHk"">How much is a room for one person/two people? (<i id=""mwBHs"">SKOHL’-kuh STOH-eet KOM-nuh-tuh nah uhd-nah-VOH chee-lah-VYEH-kuh / dvookh chee-lah-VYEHK </i>)
+В этой комнате есть...</dd>|<dt id=""mwBHw"">Does the room come with... (<i id=""mwBH4"">VEH-tuy KOHM-nuh-tyeh yest’...</i>)
+...простыни?</dd>|<dt id=""mwBH8"">...bedsheets? (<i id=""mwBIE"">...PROHS-tee-nee</i>)
+...ванная?</dd>|<dt id=""mwBII"">...a bathroom? (<i id=""mwBIQ"">...VAHN-nah-yuh</i>)
+...телефон?</dd>|<dt id=""mwBIU"">...a telephone? (<i id=""mwBIc"">...tee-lee-FOHN</i>)
+...телевизор?</dd>|<dt id=""mwBIg"">...a TV? (<i id=""mwBIo"">...tee-lee-VEE-zuhr</i>)
+...холодильник?</dd>|<dt id=""mwBIs"">...a refrigerator? (<i id=""mwBI0"">...ho-luh-DIL-nik</i>)
+...электрический чайник?</dd>|<dt id=""mwBI4"">...electric kettle? (<i id=""mwBJA"">...eh-lek-TREE-ches-kee CHI-nik</i>)
+Могу я сначала посмотреть комнату?</dd>|<dt id=""mwBJE"">May I see the room first? (<i id=""mwBJM"">mah-GOOH yah znuh-CHAH-luh puhs-mah-TRYEHT’ KOHM-nah-too</i>)
+У вас есть что-нибудь потише?</dd>|<dt id=""mwBJQ"">Do you have anything quieter? (<i id=""mwBJY"">oo vah yehst’ CHTOH-nee-boot’ pah-TEE-shyh?</i>)
+...побольше?</dd>|<dt id=""mwBJc"">...bigger? (<i id=""mwBJk"">pah-BOHL’-shyh</i>)
+...почище?</dd>|<dt id=""mwBJo"">...cleaner? (<i id=""mwBJw"">pah-CHEE-sheh</i>)
+...подешевле?</dd>|<dt id=""mwBJ0"">...cheaper? (<i id=""mwBJ8"">puh-dee-SHEHV-lyeh</i>)
+Хорошо, я беру.</dd>|<dt id=""mwBKA"">OK, I'll take it. (<i id=""mwBKI"">khah-rah-SHOH yah bee-ROO</i>)
+Я останусь на _____ ночь (ночи/ночей).</dd>|<dt id=""mwBKM"">I will stay for _____ night(s). (<i id=""mwBKU"">yah ahs-TAH-noos’ nah _____ nohch’ (NOH-chee/nah-CHYAY</i>)
+Вы можете предложить другую гостиницу?</dd>|<dt id=""mwBKY"">Can you suggest another hotel? (<i id=""mwBKg"">vy MOH-zhee-te pred-la-ZHYHT’ droo-GOO-yoo gahs-TEE-nee-tsoo</i>)
+У вас есть сейф?</dd>|<dt id=""mwBKk"">Do you have a safe? (<i id=""mwBKs"">oo vahs yest’ syayf</i>)
+...индивидуальные сейфы?</dd>|<dt id=""mwBKw"">...lockers? (<i id=""mwBK4"">een-dee-vee-doo-AHL’-nyh-yeh SYAY-fee</i>)
+Завтрак/ужин включен?</dd>|<dt id=""mwBK8"">Is breakfast/supper included? (<i id=""mwBLE"">ZAHF-truhk / OO-zhyhn fklyoo-CHON</i>)
+Во сколько завтрак/ужин?</dd>|<dt id=""mwBLI"">What time is breakfast/supper? (<i id=""mwBLQ"">vuh SKOHL’-kuh ZAH-ftruhk / OO-zhyhn</i>)
+Уберите в моей комнате, пожалуйста.</dd>|<dt id=""mwBLU"">Please clean my room. (<i id=""mwBLc"">oo-bee-REE-tyeh vmah-YAY KOHM-nuh-tyeh, puh-ZHAH-luh-stuh</i>)
+Не могли бы вы разбудить меня в _____?</dd>|<dt id=""mwBLg"">Can you wake me at _____? (<i id=""mwBLo"">nee mah-GLEE byh vyh rahz-boo-DEET’ mee-NYAH v _____? </i>)
+У вас водятся клопы.</dd>|<dt id=""mwBLs"">You have a bedbug infestation here. (<i id=""mwBL0"">oo VAS VAWD-yats-ya klaw-PYH</i>)
+Дайте счёт.</dd>|<dt id=""mwBL4"">I want to check out. (<i id=""mwBMA"">DIGH-tyeh shyoht</i>)
+Вы принимаете американские/австралийские/канадские доллары?</dd>|<dt id=""mwBMM"">Do you accept American/Australian/Canadian dollars? (<i id=""mwBMU"">vyh pree-nee-MAH-ee-tyeh uh-mee-ree-KAHN-skee-yeh / uhv-struh-LEE-skee-yeh / kuh-NAHD-skee-yeh DOH-luhr-yh</i>)
+Вы принимаете английские фунты?</dd>|<dt id=""mwBMY"">Do you accept British pounds? (<i id=""mwBMg"">vyh pree-nee-MAH-ee-tyeh ahn-GLEE-skee-yeh FOON-tyh</i>)
+Вы принимаете евро?</dd>|<dt id=""mwBMk"">Do you accept euro? (<i id=""mwBMs"">vyh pree-nee-MAH-ee-tyeh YEV-ruh</i>)
+Вы принимаете кредитные карты?</dd>|<dt id=""mwBMw"">Do you accept credit cards? (<i id=""mwBM4"">vyh pree-nee-MAH-ee-tyeh kree-DEET-nyh-yeh KAHR-tyh</i>)
+Не могли бы вы обменять мне деньги?</dd>|<dt id=""mwBM8"">Can you change money for me? (<i id=""mwBNE"">nyeh mah-GLEE byh vyh uhb-meen-YAHT’ mnyeh DYEHN’-gee</i>)
+Где я могу обменять деньги?</dd>|<dt id=""mwBNI"">Where can I get money changed? (<i id=""mwBNQ"">gdyeh yah mah-GOO uhb-meen-YAHT’ DYEHN’-gee</i>)
+Вы можете обменять мне дорожный чек?</dd>|<dt id=""mwBNU"">Can you change a traveler's check for me? (<i id=""mwBNc"">vyh MOH-zhyh-tyeh uhb-meen-YAHT’ mnyeh dah-ROHZH-nyh chyehk</i>)
+Где я могу обменять дорожный чек?</dd>|<dt id=""mwBNg"">Where can I get a traveler's check changed? (<i id=""mwBNo"">gdyeh yah mah-GOO uhb-meen-YAHT’ dah-ROHZH-nyh chyehk</i>)
+Какой курс обмена?</dd>|<dt id=""mwBNs"">What is the exchange rate? (<i id=""mwBN0"">kah-KOY koors ahb-MYEHN-uh</i>)
+Где здесь банкомат?</dd>|<dt id=""mwBN4"">Where is an automatic teller machine (ATM)? (<i id=""mwBOA"">gdyeh zdyes’ bahn-kuh-MAHT</i>)
+Столик на одного человека/двух человек, пожалуйста.</dd>|<dt id=""mwBOM"">A table for one person/two people, please. (<i id=""mwBOU"">STOH-leek nah uhd-nah-VOH chee-lah-VYEH-kah/dvookh chee-lah-VYEHK</i>)
+Могу я посмотреть меню?</dd>|<dt id=""mwBOY"">Can I look at the menu, please? (<i id=""mwBOg"">mah-GOO yah puhs-mah-TRYEHT’ meen-YOO''</i>)
+Я могу посмотреть на кухню?</dd>|<dt id=""mwBOk"">Can I look in the kitchen? (<i id=""mwBOs"">yah mah-GOO puh-smah-TRYEHT’ nah KOOKH-nee-yoo</i>)
+Какое у вас фирменное блюдо?</dd>|<dt id=""mwBOw"">Is there a house specialty? (<i id=""mwBO4"">kah-KOY-yeh oo vahs feer-MYEHN-noy-yeh BLYOO-duh</i>)
+Какое у вас местное фирменное блюдо?</dd>|<dt id=""mwBO8"">Is there a local specialty? (<i id=""mwBPE"">kah-KOY-yeh oo vahs myehst-NOY-yeh feer-MYEHN-noy-yeh BLYOO-duh</i>)
+Я вегетарианец/вегетарианка.</dd>|<dt id=""mwBPI"">I'm a vegetarian. (<i id=""mwBPQ"">yah vee-gee-tuh-ree-YAHN-eets/vee-gee-tuh-ree-YAHN-kah</i>)
+Я не ем свинину.</dd>|<dt id=""mwBPU"">I don't eat pork. (<i id=""mwBPc"">yah nee yehm svee-NEEN-oo</i>)
+Я не ем говядину.</dd>|<dt id=""mwBPg"">I don't eat beef. (<i id=""mwBPo"">yah nee yehm gahv-YAH-deen-oo</i>)
+Я ем только кошерную пищу.</dd>|<dt id=""mwBPs"">I only eat kosher food. (<i id=""mwBP0"">yah yehm TOHL’-kuh kah-SHERH-noo-yoo PEE-shoo.</i>)
+Сделайте, пожалуйста, поменьше жира.|"Can you make it ""lite"", please? (<i id=""mwBP8"">less oil/butter/lard</i>) (<i id=""mwBQE"">SDYEH-ligh-tyeh, puh-zhahl-uh-stuh, pah-MYEHN'-shyh zhyh-RAH</i>)"
+комплексный обед|"fixed-price meal (<i id=""mwBQQ"">KOHM-plyehks-nyh ah-BYEHT</i>)"
+карта вин|"à la carte (<i id=""mwBQc"">KAHR-tah veen</i>)"
+завтрак|"breakfast (<i id=""mwBQo"">ZAHF-truhk</i>)"
+обед|"lunch (<i id=""mwBQ0"">ah-BYEHT</i>)"
+полдник|"tea (<i id=""mwBQ8"">meal</i>) (<i id=""mwBRE"">POHLD-neek</i>)"
+ужин|"supper (<i id=""mwBRQ"">OO-zhyhn</i>)"
+Я хочу  _____.|"I want _____. (<i id=""mwBRc"">yah khah-CHOO</i>) (<i id=""mwBRg"">use first form below</i>)"
+Я хочу блюдо с _____.|"I want a dish containing _____. (<i id=""mwBRs"">yah khah-CHOO BLYOO-duh s _____</i>) (<i id=""mwBRw"">use second form</i>)"
+курицу/ой|"chicken (<i id=""mwBR8"">KOO-reet-soo / KOO-reet-suy</i>)"
+говядину/ой|"beef (<i id=""mwBSI"">gahv-YAH-dee-noo / gahv-YAH-dee-nuy</i>)"
+рыбу/ой|"fish (<i id=""mwBSU"">RYH-boo / RYH-boy</i>)"
+свинину/ой|"ham (<i id=""mwBSg"">svee-NEE-noo / svee-NEE-nuy</i>)"
+говядина|"veal (<i id=""mwBSs"">gahv-YAH-deen-uh</i>)"
+колбасу/ой|"sausage (<i id=""mwBS4"">kuhl-bah-SOO / kuhl-bah-SOY</i>)"
+сыр/ом|"cheese (<i id=""mwBTE"">syhr / SYH-ruhm</i>)"
+яйца/ами|"eggs (<i id=""mwBTQ"">YIGH-tsah / YIGH-tsah-mee</i>)"
+салат/ом|"salad (<i id=""mwBTc"">sah-LAHT / sah-LAHT-ohm</i>)"
+картофель|"potato (<i id=""mwBTo"">kahr-TOH-fehl'</i>)"
+(свежие/ими) овощи/ами|"(fresh) vegetables (<i id=""mwBT0"">(SVYEH-zhyh-yeh / SVYEH-zhyh-mee OH-vuh-shee/ uh-vuh-SHAH-mee</i>)"
+помидор|"tomato (<i id=""mwBUA"">puh-mee-DOHR</i>)"
+капуста|"cabbage (<i id=""mwBUM"">kah-POOS-tuh</i>)"
+морковь|"carrot (<i id=""mwBUY"">mahr-KOHF</i>)"
+свёкла|"beet (<i id=""mwBUk"">SVYOHL-kuh</i>)"
+(свежие/ими) фрукты/ами|"(fresh) fruit (<i id=""mwBUw"">(SVYEH-zhyh-yeh / SVYEH-zhyh-mee FROOK-tyh / FROOK-tuh-mee</i>)"
+ягоды|"berries (<i id=""mwBU8"">YAH-guh-dyh</i>)"
+клубинка|"strawberry (<i id=""mwBVI"">kloo-BEEN-kuh</i>)"
+банан|"banana (<i id=""mwBVU"">bah-NAHN</i>)"
+яблоко|"apple (<i id=""mwBVg"">YAH-bluh-kuh</i>)"
+виноград|"grapes (<i id=""mwBVs"">vee-nah-GRAHD</i>)"
+смородина|"currants (<i id=""mwBV4"">smah-ROH-dee-nuh</i>)"
+апельсин|"orange (<i id=""mwBWE"">uh-peel-SEEN</i>)"
+хлеб/ом|"bread (<i id=""mwBWQ"">khlyep / KHLYEH-buhm</i>)"
+тост/ом|"toast (<i id=""mwBWc"">tohst / TOHST-uhhm)</i>)"
+лапша/ой|"noodles (<i id=""mwBWo"">LAHP-shuh / lahp-SHOY</i>)"
+макароны/онами|"pasta (<i id=""mwBW0"">mah-kah-ROH-nyh / mah-kah-ROH-nah-mee</i>)"
+рис/ом|"rice (<i id=""mwBXA"">rees / REE-suhm</i>)"
+гречка/гречкой|"buckwheat (<i id=""mwBXM"">GRECH-kuh / GRECH-koy</i>)"
+фасоль/фасолью|"beans (<i id=""mwBXY"">fah-SOHL’ / fah-SOHL-yoo</i>)"
+Дайте, пожалуйста, стакан _____?|"May I have a glass of _____? (<i id=""mwBXk"">DIGH-tyeh, puh-ZHAH-luh-stuh, stah-KAHN _____?</i>)"
+Дайте, пожалуйста, чашку _____?|"May I have a cup of _____? (<i id=""mwBXw"">DIGH-tyeh, puh-ZHAH-luh-stuh, CHAHSH-koo</i>)"
+Дайте, пожалуйста, бутылку _____?|"May I have a bottle of _____? (<i id=""mwBX8"">DIGH-tyeh, puh-ZHAH-luh-stuh, boo-TYHL-koo</i>)"
+...кофе|"...coffee (<i id=""mwBYI"">KOH-feh</i>)"
+...чая|"...tea (<i id=""mwBYQ"">drink</i>) (<i id=""mwBYY"">CHAH-yuh</i>)"
+...сока |"...juice (<i id=""mwBYk"">SOH-kah</i>)"
+...минеральной воды|"...(bubbly) water (<i id=""mwBYw"">mee-nee-RAHL'-nuy vah-DYH</i>)"
+...воды|"...water (<i id=""mwBY8"">vah-DYH</i>)"
+...пива|"...beer (<i id=""mwBZI"">PEE-vuh</i>)"
+...красного/белого вина|"...red/white wine (<i id=""mwBZU"">KRAH-snuh-vuh / BYEH-luh-vuh vee-NAH</i>)"
+...шампанского|"...sparkling wine (<i id=""mwBZg"">shum-PAHN-skuh-guh</i>)"
+...водки|"...vodka (<i id=""mwBZs"">VOT-kee</i>)"
+Дайте, пожалуйста _____.|"May I have some _____? (<i id=""mwBZ4"">DIGH-tyeh, puh-ZHAH-luh-stuh</i>)"
+соль|"...salt (<i id=""mwBaE"">sohl’</i>)"
+чёрный перец|"...black pepper (<i id=""mwBaQ"">CHYOHR-nyh PYEH-reets</i>)"
+масло|"...butter (<i id=""mwBac"">MAHS-luh</i>)"
+Официант!/Девушка!|"Excuse me, waiter? (<i id=""mwBak"">getting attention of server</i>) (<i id=""mwBas"">uh-fee-TSAHNT! / DYEH-voosh-kuh!</i>) The former is very polite and gender neutral, the latter only for female servers, and should not be used in a nice restaurant."
+Я наелся/наелась.|"I'm finished. (<i id=""mwBa4"">yah nah-YEHL-syuh/yah nah-YEH-las’</i>)
+Это было великолепно.|"It was delicious. (<i id=""mwBbE"">EH-tuh BYH-luh vyeh-lee-kah-LYEHP-nuh</i>)
+Можете убрать со стола.|"Please clear the plates. (<i id=""mwBbQ"">MOH-zhyh-tyeh oo-BRAHT’ suh stuh-LAH</i>)
+Счёт, пожалуйста.|"The check, please. (<i id=""mwBbc"">shyoht, puh-ZHAH-luh-stuh</i>)
+Вы продаёте алкогольные напитки?|"Do you serve alcohol? (<i id=""mwBbw"">VYH pruh-dah-YOH-tyeh ahl-kuh-GOHL’-nyh-yeh nah-PEET-kee?</i>)
+Здесь есть официант?|"Is there table service? (<i id=""mwBb8"">zdyehs’ yehst’ ah-fee-TSANT</i>)
+Будьте добры, одно пиво/два пива.|"A beer/two beers, please. (<i id=""mwBcI"">BOOT’-tyeh dah-BRYH, ad-noh PEE-vuh / dvah PEE-vah</i>)
+Будьте добры, бокал красного/белого вина.|"A glass of red/white wine, please. (<i id=""mwBcU"">BOOT'-tyeh dah-BRYH, bah-KAHL KRAHZ-nuh-vuh / BYEH-luh-vuh vee-NAH</i>)
+Будьте добры, одну бутылку.|"A bottle, please. (<i id=""mwBcg"">BOOT’-tyeh dah-BRYH, ahd-NOO boo-TYHL-koo</i>)
+Будьте добры, _____ (<i id=""mwBc0"">hard liquor</i>) с _____ (<i id=""mwBc4"">mixer</i> in ablative form).|"_____ (<i id=""mwBco"">hard liquor</i>) and _____ (<i id=""mwBcs"">mixer</i>), please. (<i id=""mwBc8"">...</i>)
+виски|"whiskey (<i id=""mwBdI"">VEE-skee</i>)"
+водка|"vodka (<i id=""mwBdU"">VOHT-kah</i>)"
+ром|"rum (<i id=""mwBdg"">rohm</i>)"
+вода/ой|"water (<i id=""mwBds"">vah-DAH / vah-DOY</i>)"
+газированная/ой вода/ой (газировка/ой)|"club soda (<i id=""mwBd4"">guh-zee-ROH-vuhn-nuh-yuh / guh-zee-ROH-vuhn-nuy vah-DAH / vah-DOY</i>)"
+тоник/ом|"tonic water (<i id=""mwBeE"">TOH-neek/TOH-neek-uhm</i>)"
+апельсиновый/ым сок/ом|"orange juice (<i id=""mwBeQ"">uh-peel’-SEE-nuh-vyh / uh-peel’-SEE-nuh-vyhm sohk / SOHK-uhm</i>)"
+кола/ой|"Coke (<i id=""mwBeY"">soda</i>) (<i id=""mwBeg"">лимонад/ом</i>) (<i id=""mwBek"">KOH-lah / KOH-luy</i>)"
+Здесь есть буфет?|"Do you have any bar snacks? (<i id=""mwBew"">zdyehs’ yehst’ boo-FYEHT</i>)"
+Ещё одну, пожалуйста.|"One more, please. (<i id=""mwBe8"">yee-SHYOH ahd-NOOH, puh-ZHAH-luh-stuh</i>)"
+Повторите, пожалуйста.|"Another round, please. (<i id=""mwBfI"">puhf-tah-REEH-tye, puh-ZHAH-luh-stuh</i>)"
+Когда вы закрываетесь?|"When is closing time? (<i id=""mwBfU"">kahg-DAH vyh zuh-kryh-VAH-ee-tyehs’?</i>)"
+Я вообще не пью.|"I don't drink. (<i id=""mwBfg"">yah vahb-SHYEH nee pyoo</i>)"
+Я алкоголик.|"I'm an alcoholic. (<i id=""mwBfs"">yah ahl-kah-GOH-leek</i>)"
+Мне нельзя пить из-за лекарства, которое я сейчас принимаю.|"I cannot drink because of medication. (<i id=""mwBf4"">mnyee neel-ZYAH peet' eez-zah lee-KAHRST-vuh kah-TOHR-uh-yuh yah see-CHAHS pree-nee-MAH-yoo</i>)"
+У вас есть это моего размера?|"Do you have this in my size? (<i id=""mwBgM"">oo vahs yehst’ EH-tuh ma-ee-VOH rahz-MYEH-ruh</i>)"
+Сколько это стоит?|"How much is this? (<i id=""mwBgY"">SKOHL’-kuh EH-tuh STOH-eet</i>)"
+Это слишком дорого.|"That's too expensive. (<i id=""mwBgk"">EH-tuh SLEESH-kuhm DOH-ruh-guh</i>)"
+Вы примете _____?|"Would you take _____? (<i id=""mwBgw"">vyh PREE-mee-tyeh _____?</i>)"
+дорого|"expensive (<i id=""mwBg8"">DOH-ruh-guh</i>)"
+дёшево|"cheap (<i id=""mwBhI"">DYOH-shyh-vuh</i>)"
+Я не могу себе этого позволить.|"I can't afford it. (<i id=""mwBhU"">yah nee mah-GOOH see-BYEH EH-tuh-vuh paz-VOH-leet’</i>)"
+Я это не хочу.|"I don't want it. (<i id=""mwBhg"">yah EH-tuh nee khah-CHOO</i>)"
+Вы меня обманываете.|"You're cheating me. (<i id=""mwBhs"">vyh mee-NYAH ab-MAH-nyh-vah-ee-tyeh</i>)"
+Мне это не интересно..|"I'm not interested. (<i id=""mwBh4"">mnyeh EH-tuh nee een-tee-RYEHS-nuh</i>)"
+Хорошо, я возьму.|"OK, I'll take it. (<i id=""mwBiE"">khah-rah-SHOH, yah vahz’-MOO</i>)"
+Дайте, пожалуйста, пакет.|"Can I have a bag? (<i id=""mwBiQ"">DIGH-tyeh, puh-ZHAH-luh-stuh, pah-KYEHT</i>)"
+У вас есть доставка (за границу)?|"Do you ship (overseas)? (<i id=""mwBic"">oo vahs yehst’ dahs-TAHF-kah (zah grah-NEET-sooh)</i>"
+Давайте две.|"Give me two <i id=""mwBik"">(items of something)</i>. (<i id=""mwBis"">dah-VIGH-tyeh DVYEH</i>)"
+Мне нужен/нужна/нужно/нужны...|"I need... (<i id=""mwBi4"">mnyeh NOO-zhehn / nooh-ZHNAH / NOOZH-nuh / nooh-ZHNYH</i>)"
+...зубная паста.|"...toothpaste. (<i id=""mwBjE"">ZOOB-nuh-yuh PAHS-tuh</i>)"
+...зубная щётка.|"...a toothbrush. (<i id=""mwBjQ"">ZOOB-nuh-yuh SHYOHT-kuh</i>)"
+...тампоны.|"...tampons. (<i id=""mwBjc"">tahm-POH-nyh</i>)"
+...мыло.|"...soap. (<i id=""mwBjo"">MYH-luh</i>)"
+...шампунь.|"...shampoo. (<i id=""mwBj0"">shahm-POON’</i>)"
+...обезболивающее.|"...pain reliever. (<i id=""mwBj8"">e.g., aspirin or ibuprofen</i>) (<i id=""mwBkE"">ah-beez-BOH-lee-vah-yoo-shee-yeh</i>)"
+...лекарство от простуды.|"...cold medicine. (<i id=""mwBkQ"">lee-KAHR-stvah aht prah-STOO-dyh</i>)"
+...лекарство от живота.|"...stomach medicine. (<i id=""mwBkc"">lee-KAHR-stvah aht zhyh-VOH-tuh</i>)"
+...бритва.|"...a razor. (<i id=""mwBko"">BREET-vuh</i>)"
+...зонтик.|"...an umbrella. (<i id=""mwBk0"">ZOHN-teek</i>)"
+...лосьон от загара.|"...sunblock lotion. (<i id=""mwBlA"">luhs’-YOHN ahd zah-GAH-ruh</i>)"
+...открытка.|"...a postcard. (<i id=""mwBlM"">aht-KRYHT-kah</i>)"
+...почтовые марки.|"...postage stamps. (<i id=""mwBlY"">pahtch-TOH-vyh-yeh MAHR-kee</i>)"
+...батарейки.|"...batteries. (<i id=""mwBlk"">bah-tah-RAY-kee</i>)"
+...бумага.|"...writing paper. (<i id=""mwBlw"">boo-MAH-guh</i>)"
+...ручка.|"...a pen. (<i id=""mwBl8"">ROOCH-kuh</i>)"
+...книги на английском языке.|"...English-language books. (<i id=""mwBmI"">KNEE-gee nah ahn-GLEE-skuhm yuh-zee-KYEH</i>)"
+...журналы на английском языке.|"...English-language magazines. (<i id=""mwBmU"">zhoor-NAH-lyh nah ahn-GLEE-skuhm yuh-zyh-KYEH</i>)"
+...газета на английском языке.|"...an English-language newspaper. (<i id=""mwBmg"">gah-ZYEH-tah nah ahn-GLEE-skuhm yuh-zyh-KYEH</i>)"
+...русско-английский словарь.|"...a Russian-English dictionary. (<i id=""mwBms"">ROO-skuh ahn-GLEE-skee slah-VAHR’</i>)"
+Я хочу взять машину напрокат.|"I want to rent a car. (<i id=""mwBnA"">yah khah-CHOO vzyaht’ mah-SHYH-noo nuh-prah-KAHT</i>)"
+Я могу взять страховку?|"Can I get insurance? (<i id=""mwBnM"">yah mah-GOO vzyaht’ strah-KHOHF-koo</i>)"
+СТОП|"Stop (<i id=""mwBnU"">on a street sign</i>)(<i id=""mwBnc"">stohp</i>)"
+одностороннее движение|"One way (<i id=""mwBno"">uhd-nuh-stah-ROHN-nee-yeh dvee-ZHEH-nee-yeh</i>)"
+уступите дорогу|"Yield (<i id=""mwBn0"">oo-stoo-PEE-tyeh dah-ROH-goo</i>)"
+парковки нет|"No parking (<i id=""mwBoA"">pahr-KOHF-kee nyeht</i>)"
+ограничение скорости|"Speed limit (<i id=""mwBoM"">ah-grah-nee-CHEH-nyh-yeh SKOH-ruh-stee</i>)"
+(авто)заправка|"Gas (<i id=""mwBoU"">petrol</i>) station (<i id=""mwBoc"">(AHF-tuh) zah-PRAHF-kuh</i>)"
+бензин|"Petrol (<i id=""mwBoo"">been-ZEEN</i>)"
+дизель (дизельное топливо)|"Diesel (<i id=""mwBo0"">DEE-zehl’ (DEE-zehl’-nuh-yeh TOH-plee-vuh</i>)"
+Я ничего плохого не делал(а).|"I haven't done anything wrong. (<i id=""mwBpI"">yah nee-chee-VOH plah-KHOH-vuh nee DYEH-luhl/luh-luh</i>)"
+Мои документы в порядке. |"My papers are in order (<i id=""mwBpU"">muh-yee duh-koo-MYEHN-tyh fpahr-YAHD-kee</i>) (intonation must fall, otherwise you might be asking a question!)"
+Мы друг друга не поняли.|"It was a misunderstanding. (<i id=""mwBpg"">myh droog DROO-guh nyee POHN-yuh-lee</i>)"
+Везите меня в полицию.|"Take me to the police. (<i id=""mwBps"">vee-ZEE-tyeh meen-YAH fpuh-LEE-tsyh-yuh</i>)"
+Куда вы меня везёте?</i>)|"<dt id=""mwBpw"">Where are you taking me? (<i id=""mwBp4"">koo-DAH vyh meen-YAH vee-ZYOH-tyeh?"
+К полиции.|"To the police (<i id=""mwBqQ"">kpuh-LEE-tsyh</i>)"
+К моему дому.|"To my house (<i id=""mwBqc"">kmuh-yuh-MOO DOH-moo</i>)</dd></dd>"
+Я арестован(а)?|"Am I under arrest? (<i id=""mwBqo"">yah ah-ryees-TOH-vuhn/vuh-nah?</i>)"
+Я гражданин/гражданка Америки/Австралии/Великобритании/Канады.|"I am an American/Australian/British/Canadian citizen. (<i id=""mwBq0"">yah grazh-dah-NEEN/grazh-DAHN-kah ah-MYEH-ree-kee / ahf-STRAH-lee-yeh / vee-lee-kuh-bree-TAH-nee-yeh / kah-NAH-dyh</i>)"
+Я хочу поговорить с посольством/консульством Америки/Австралии/Великобритании/Канады.|"I want to talk to the American/Australian/British/Canadian embassy/consulate. (<i id=""mwBrA"">yah khah-CHOO puh-guh-vah-REET s pah-SOL’ST-vuhm / s KOHN-sool’-stvuhm ah-MEH-ree-kee / ahf-STRAH-lee-yeh/  vee-lee-kuh-bree-TAH-nee-yeh / kah-NAH-dyh</i>)"
+Я хочу поговорить с адвокатом.|"I want to talk to a lawyer. (<i id=""mwBrM"">yah hah-CHOO puh-guh-vah-REET s ahd-vuh-KAH-tuhm</i>)"
+Я могу заплатить штраф сейчас?|"Can I just pay a fine now? (<i id=""mwBrY"">yah mah-GOO zah-plah-TEET’ shtrahf say-CHAHS?</i>) (This phrase indicates that you want to pay a bribe to get out of trouble.)"
+Мне нужна квитанция.|"I need a receipt (<i id=""mwBrk"">mnyee noozh-NAH kvee-TAHN-tsyh-yuh</i>)  (In the context of interactions with police, this phrase indicates that you aren't willing to pay a bribe.)"
