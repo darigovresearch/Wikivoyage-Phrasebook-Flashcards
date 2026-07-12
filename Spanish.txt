@@ -1,5 +1,4 @@
-"Introduction (Wikivoyage Phrasebook Spanish)"|"
-<pThis deck has taken words outlined in the Spanish Phrasebook of the <a href=""https://en.wikivoyage.org/wiki/Phrasebooks"">Wikivoyage Phrasebook</a> pages and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+"Introduction (Wikivoyage Phrasebook Spanish)"|"<p>This deck has taken words outlined in the Spanish Phrasebook of the <a href=""https://en.wikivoyage.org/wiki/Phrasebooks"">Wikivoyage Phrasebook</a> pages and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
 <h2>Notes</h2>
 <p>Please note the modifications which have been made &amp; where you can find updates.</p>
 <ol align=""left"">
