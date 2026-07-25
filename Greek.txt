@@ -32,7 +32,7 @@ What should you know about Greek words?|"<p id=""mwDA"">Many Greek words have be
 "
 What should you know about the evolution of Greek?|"<p id=""mwFA"">Greek has changed less in the last two thousand years than English has in the last five hundred. It still has three genders, five cases, and movable ν. Although the dative dropped out of use in Greek before the dative merged with the accusative in English, one can still form the dative of <i id=""mwFQ"">μπαγλαμάς</i> (a stringed instrument smaller than the <i id=""mwFg"">μπουζούκι</i>), even though it belongs to a new declension. So if you know some Attic or Koine Greek and pronounce it as Modern Greek, though you will sound archaic, you will probably be understood.</p>
 "
-What should you konw about Letters and pronounciation in Greek?|"<p id=""mwGQ"">Following are the uppercase and lowercase versions of each letter, followed by its name in English (Latin) and Greek. (You can also see how the transliteration works)</p>
+What should you know about Letters and pronounciation in Greek?|"<p id=""mwGQ"">Following are the uppercase and lowercase versions of each letter, followed by its name in English (Latin) and Greek. (You can also see how the transliteration works)</p>
 "
 Α/α alpha (άλφα)|as in p<b id=""mwHg"">a</b>t
 Ε/ε epsilon (έψιλον)|as in p<b id=""mwIQ"">e</b>t
@@ -74,7 +74,7 @@ What should you note about any other consonant combination other than Γκ/γκ,
 What should you know about accents in Greek?|"<p id=""mwmw"">The accent (similar in usage as in Spanish), if written, is placed on the vowel of the tonic syllable, or onto the second vowel if there's a diphthong. If there's an accent at the first vowel of a diphthong, or a diaeresis on the second, then it isn't an actual diphthong and the two vowels are pronounced separately. The former occasion is the most common, but since words written in capital letters never get accents, the diaeresis is the only way to note the broken diphthong at all-caps phrases - English such example: naïve. (diairesis = two dots on top of iota or upsilon, Ϊ/ϊ - Ϋ/ϋ)</p>"
 What should you know about vowel lengths in Greek?|<p id=""mwnA"">All vowels have the same short length. So yes, there are 2 ways to write 'e', 6 to write 'i' and 2 letters to write 'o'!</p>
 What should you konw about the Diphthongs 'γγ' and 'γχ'?|<p id=""mwnQ"">Diphthongs 'γγ' and 'γχ' are never found at the start of a word. Vowel diphthong 'υι' is very rare, virtually only in a couple words.</p>
-What should you know about the 'sh' sound in Greek?|<p id=""mwng"">Greek language lacks a 'sh' sound. Consequently there are only simple unaspirated s, z, ts, j, x 's (no <b id=""mwnw"">sh</b>ame, plea<b id=""mwoA"">s</b>ure, lu<b id=""mwoQ"">x</b>urious, <b id=""mwog"">ch</b>in etc.). Also, ""ς"" is the form of Sigma used only when it is the last letter of a word. Graphically it looks like English s.</p>
+What should you know about the 'sh' sound in Greek?|"<p id=""mwng"">Greek language lacks a 'sh' sound. Consequently there are only simple unaspirated s, z, ts, j, x 's (no <b id=""mwnw"">sh</b>ame, plea<b id=""mwoA"">s</b>ure, lu<b id=""mwoQ"">x</b>urious, <b id=""mwog"">ch</b>in etc.). Also, ""ς"" is the form of Sigma used only when it is the last letter of a word. Graphically it looks like English s.</p>"
 What should you know about the capital letters in Greek?|<p id=""mwow"">The capital letters are more or less the same as those of the English alphabet. Although the small letters seem entirely different (and some of them are indeed) in people's handwriting they can be extremely close to English.</p>
 What should you know about Greek punctuation?|"<p id=""mwpA"">Note also that Greek punctuation differs a little: The Greek question mark (ερωτηματικό) is just like the Latin semi-colon <b id=""mwpQ"">;</b> . While the Greek semi-colon (άνω τελεία) is like the full stop ""flying"" just above the line <b id=""mwpg"">•</b>.</p>"
 What should you know about the difficulty of the Greek language?|"<p id=""mwpw"">Greek people know they have a difficult language (for foreigners) and don't expect any tourist to know more than a couple words. And even while they think it's easy phonetically, they understand the problems foreigners have pronouncing it. You can say gamma as a hard 'g', chi as 'h', and rho as an unrolled English 'r', you can also say ""au"" or ""eu"" instead of ""av"" and ""ev"" and you'll be totally understood. People in no way expect you to be proficient in any aspect of Greek, so by studying a bit before visiting you can really impress people and win their hearts! Of course, it will require serious effort and dedication to learn to speak Greek fluently, as Greek grammar is admittedly  more complex than it is in most other languages (much more demanding than German, for example, which is a language with relatively complex grammar). But still, you can master relatively easily the fundaments of communication and get your meaning across. And even if you don't, don't despair: almost all Greeks (but the oldest) can understand and speak English.</p>"
@@ -349,12 +349,12 @@ Yπάρχει καμιά σπιτική σπεσιαλιτέ; (<i id=""mwA3U"">.
 καφές (<i id=""mwA9g"">...</i>)|coffee
 τσάι (<i id=""mwA9w"">...</i>)|tea (<i id=""mwA9o"">drink</i>)
 χυμός (<i id=""mwA98"">...</i>)|juice
-ανθρακούχο νερό (<i id=""mwA-I"">...</i>)|"">(bubbly) water
-νερο|"">water (<i id=""mwA-U"">neh-ROH</i>)
-μπύρα (<i id=""mwA-g"">...</i>)|"">beer
-κόκκινο/λευκό κρασί (<i id=""mwA-s"">...</i>)|"">red/white wine
-Μπορώ να έχω λίγο _____; (<i id=""mwA-4"">...</i>)|"">May I have some _____?
-αλάτι (<i id=""mwA_E"">...</i>)|"">salt
+ανθρακούχο νερό (<i id=""mwA-I"">...</i>)|(bubbly) water
+νερο|water (<i id=""mwA-U"">neh-ROH</i>)
+μπύρα (<i id=""mwA-g"">...</i>)|beer
+κόκκινο/λευκό κρασί (<i id=""mwA-s"">...</i>)|red/white wine
+Μπορώ να έχω λίγο _____; (<i id=""mwA-4"">...</i>)|May I have some _____?
+αλάτι (<i id=""mwA_E"">...</i>)|salt
 μαύρο πιπέρι (<i id=""mwA_Q"">...</i>)|black pepper
 βουτυρο|butter (<i id=""mwA_c"">VOO-tee-roh</i>)
 Συγνώμη, σερβιτόρε; (<i id=""mwA_s"">...</i>)|Excuse me, waiter? (<i id=""mwA_k"">getting attention of server</i>)
