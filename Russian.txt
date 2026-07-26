@@ -226,7 +226,7 @@ What should you know about minorities in Russia?|"<p>Russia is comprised of over
 
 Здравствуйте.|"Hello. (<i id=""mwAV0"">formal</i>) [Zdrastvuyitye] (<i id=""mwAV8"">ZDRAHST-vooy-tyeh</i>) (The first в is silent; sometimes considered bad luck to say this to the same person twice in one day.)"
 Здравствуй.|"Hello. (<i id=""mwAWE"">informal</i>) [Zdrastvuyj] (<i id=""mwAWM"">ZDRAHST-vooy</i>)"
-Привет.|"Hi. [Privyet] (<i id=""mwAWY"">pree-VYEHT</i>) Здорово. [Zdorovo] (<i id=""mwAWc"">Zduh-ROH-vuh</i>) (Shorter version of the above greeting.)"
+Привет. Здорово.|"Hi. [Privyet] (<i id=""mwAWY"">pree-VYEHT</i>) [Zdorovo] (<i id=""mwAWc"">Zduh-ROH-vuh</i>) (Shorter version of the above greeting.)"
 Как дела?|"How are you? [Kak dela?] (<i id=""mwAWo"">kahg dee-LAH?</i>)"
 Хорошо, спасибо.|"Fine, thank you. [Khorosho, spasiiba] (<i id=""mwAW0"">khah-rah-SHOH spah-SEE-buh</i>)"
 Как Вас зовут?|"What is your name? [Kak vas zovut?] (<i id=""mwAXA"">kahk vahs zah-VOOT?</i>)"
@@ -370,7 +370,7 @@ What should you know about A.M and P.M in Russian?|"<p id=""mwAwI"">Russians do 
 <p id=""mwAxA"">For example:</p>
 <dt id=""mwAxI"">9 a.m.</dt><dd id=""mwAxM"">девять часов утра (<i id=""mwAxQ"">DYEH-veet’ chuh-SOHV ooh-TRAH</i>)</dd>
 <dt id=""mwAxU"">8 p.m.</dt><dd id=""mwAxY"">восемь часов вечера (<i id=""mwAxc"">VOH-seem’ chuh-SOHV VYEH-che-ruh</i>)</dd>
-<p id=""mwAxk""><i id=""mwAxo"">Note: Russian uses different endings depending on the quantity. The first is for quantities ending in one (e.g. 1, 21, 31), the second for quantities ending in 2<span typeof=""mw:Entity"" id=""mwAxs"">–</span>4 (e.g. 2, 3, 4, 22, 23, 24), and the third for quantities ending in 5<span typeof=""mw:Entity"" id=""mwAxw"">–</span>9 and zero, including the teens (e.g. 5, 10, 12, 20, 25).</i></p>
+<p id=""mwAxk""><i id=""mwAxo"">Note: Russian uses different endings depending on the quantity. The first is for quantities ending in one (e.g. 1, 21, 31), the second for quantities ending in 2<span typeof=""mw:Entity"" id=""mwAxs"">–</span>4 (e.g. 2, 3, 4, 22, 23, 24), and the third for quantities ending in 5<span typeof=""mw:Entity"" id=""mwAxw"">–</span>9 and zero, including the teens (e.g. 5, 10, 12, 20, 25).</i></p>"
 _____ минута/минуты/минут|"_____ minute (<i id=""mwAyA"">mee-NOOT-ah / mee-NOOT-yh / mee-NOOT</i>)"
 _____ час/часа/часов|"_____ hour(s) (<i id=""mwAyM"">chahs / chuh-SAH / chuh-SOHF</i>)"
 _____ день/дня/дней|"_____ day(s) (<i id=""mwAyY"">dyehn’ / dnyah / dnyay</i>)"
@@ -588,16 +588,16 @@ What should you know about names of cities and streets?|"<p>A lot of city, stree
 чёрный перец|"...black pepper (<i id=""mwBaQ"">CHYOHR-nyh PYEH-reets</i>)"
 масло|"...butter (<i id=""mwBac"">MAHS-luh</i>)"
 Официант!/Девушка!|"Excuse me, waiter? (<i id=""mwBak"">getting attention of server</i>) (<i id=""mwBas"">uh-fee-TSAHNT! / DYEH-voosh-kuh!</i>) The former is very polite and gender neutral, the latter only for female servers, and should not be used in a nice restaurant."
-Я наелся/наелась.|"I'm finished. (<i id=""mwBa4"">yah nah-YEHL-syuh/yah nah-YEH-las’</i>)
-Это было великолепно.|"It was delicious. (<i id=""mwBbE"">EH-tuh BYH-luh vyeh-lee-kah-LYEHP-nuh</i>)
-Можете убрать со стола.|"Please clear the plates. (<i id=""mwBbQ"">MOH-zhyh-tyeh oo-BRAHT’ suh stuh-LAH</i>)
-Счёт, пожалуйста.|"The check, please. (<i id=""mwBbc"">shyoht, puh-ZHAH-luh-stuh</i>)
-Вы продаёте алкогольные напитки?|"Do you serve alcohol? (<i id=""mwBbw"">VYH pruh-dah-YOH-tyeh ahl-kuh-GOHL’-nyh-yeh nah-PEET-kee?</i>)
-Здесь есть официант?|"Is there table service? (<i id=""mwBb8"">zdyehs’ yehst’ ah-fee-TSANT</i>)
-Будьте добры, одно пиво/два пива.|"A beer/two beers, please. (<i id=""mwBcI"">BOOT’-tyeh dah-BRYH, ad-noh PEE-vuh / dvah PEE-vah</i>)
-Будьте добры, бокал красного/белого вина.|"A glass of red/white wine, please. (<i id=""mwBcU"">BOOT'-tyeh dah-BRYH, bah-KAHL KRAHZ-nuh-vuh / BYEH-luh-vuh vee-NAH</i>)
+Я наелся/наелась.|"I'm finished. (<i id=""mwBa4"">yah nah-YEHL-syuh/yah nah-YEH-las’</i>)"
+Это было великолепно.|"It was delicious. (<i id=""mwBbE"">EH-tuh BYH-luh vyeh-lee-kah-LYEHP-nuh</i>)"
+Можете убрать со стола.|"Please clear the plates. (<i id=""mwBbQ"">MOH-zhyh-tyeh oo-BRAHT’ suh stuh-LAH</i>)"
+Счёт, пожалуйста.|"The check, please. (<i id=""mwBbc"">shyoht, puh-ZHAH-luh-stuh</i>)"
+Вы продаёте алкогольные напитки?|"Do you serve alcohol? (<i id=""mwBbw"">VYH pruh-dah-YOH-tyeh ahl-kuh-GOHL’-nyh-yeh nah-PEET-kee?</i>)"
+Здесь есть официант?|"Is there table service? (<i id=""mwBb8"">zdyehs’ yehst’ ah-fee-TSANT</i>)"
+Будьте добры, одно пиво/два пива.|"A beer/two beers, please. (<i id=""mwBcI"">BOOT’-tyeh dah-BRYH, ad-noh PEE-vuh / dvah PEE-vah</i>)"
+Будьте добры, бокал красного/белого вина.|"A glass of red/white wine, please. (<i id=""mwBcU"">BOOT'-tyeh dah-BRYH, bah-KAHL KRAHZ-nuh-vuh / BYEH-luh-vuh vee-NAH</i>)"
 Будьте добры, одну бутылку.|"A bottle, please. (<i id=""mwBcg"">BOOT’-tyeh dah-BRYH, ahd-NOO boo-TYHL-koo</i>)
-Будьте добры, _____ (<i id=""mwBc0"">hard liquor</i>) с _____ (<i id=""mwBc4"">mixer</i> in ablative form).|"_____ (<i id=""mwBco"">hard liquor</i>) and _____ (<i id=""mwBcs"">mixer</i>), please. (<i id=""mwBc8"">...</i>)
+Будьте добры, _____ (<i id=""mwBc0"">hard liquor</i>) с _____ (<i id=""mwBc4"">mixer</i> in ablative form).|"_____ (<i id=""mwBco"">hard liquor</i>) and _____ (<i id=""mwBcs"">mixer</i>), please. (<i id=""mwBc8"">...</i>)"
 виски|"whiskey (<i id=""mwBdI"">VEE-skee</i>)"
 водка|"vodka (<i id=""mwBdU"">VOHT-kah</i>)"
 ром|"rum (<i id=""mwBdg"">rohm</i>)"
@@ -662,7 +662,7 @@ What should you know about names of cities and streets?|"<p>A lot of city, stree
 Мои документы в порядке. |"My papers are in order (<i id=""mwBpU"">muh-yee duh-koo-MYEHN-tyh fpahr-YAHD-kee</i>) (intonation must fall, otherwise you might be asking a question!)"
 Мы друг друга не поняли.|"It was a misunderstanding. (<i id=""mwBpg"">myh droog DROO-guh nyee POHN-yuh-lee</i>)"
 Везите меня в полицию.|"Take me to the police. (<i id=""mwBps"">vee-ZEE-tyeh meen-YAH fpuh-LEE-tsyh-yuh</i>)"
-Куда вы меня везёте?</i>)|"<dt id=""mwBpw"">Where are you taking me? (<i id=""mwBp4"">koo-DAH vyh meen-YAH vee-ZYOH-tyeh?"
+Куда вы меня везёте?</i>|"<dt id=""mwBpw"">Where are you taking me? (<i id=""mwBp4"">koo-DAH vyh meen-YAH vee-ZYOH-tyeh?)"
 К полиции.|"To the police (<i id=""mwBqQ"">kpuh-LEE-tsyh</i>)"
 К моему дому.|"To my house (<i id=""mwBqc"">kmuh-yuh-MOO DOH-moo</i>)</dd></dd>"
 Я арестован(а)?|"Am I under arrest? (<i id=""mwBqo"">yah ah-ryees-TOH-vuhn/vuh-nah?</i>)"
