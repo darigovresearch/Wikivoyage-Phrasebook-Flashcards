@@ -434,10 +434,10 @@ Faites de beaux rêves |Sweet dreams (<i id=""mwA9Y"">FEHT duh bo REV</i>)
 Je ne comprends pas. |I don't understand. (<i id=""mwA9k"">zhuh nuh KOHM-prahn pah</i>)
 Je ne sais pas. |I don't know. (<i id=""mwA9w"">zhuh nuh say pah</i>)
 Je (ne) peux pas. |I can't. (<i id=""mwA98"">zhuh nuh puh pah</i>)
-Où sont les toilettes<span typeof=""mw:DisplaySpace"" id=""mwA-I""> </span>? |"Where is the toilet? (<i id=""mwA-M"">OOH sohn leh twah-LET?</i>)
-Qu'est-ce que c'est<span typeof=""mw:DisplaySpace"" id=""mwA-Y""> </span>? |"What is it? (<i id=""mwA-c"">KES-kuh-SAY</i>)
-Comment dit-on _____ en français / en anglais<span typeof=""mw:DisplaySpace"" id=""mwA-o""> </span>? |"How do you say _____ in French / in English? (<i id=""mwA-s"">koh-moh dee-TONG _____ ahn frahn-SEH / ahn ahng-LEH<span typeof=""mw:DisplaySpace"" id=""mwA-w""> </span>?</i>)
-Comment appelle-t-on ça<span typeof=""mw:DisplaySpace"" id=""mwA-8""> </span>? |"What is this/that called? (<i id=""mwA_A"">koh-moh ah-pell-TONG SAH?</i>)
+Où sont les toilettes<span typeof=""mw:DisplaySpace"" id=""mwA-I""> </span>? |"Where is the toilet? (<i id=""mwA-M"">OOH sohn leh twah-LET?</i>)"
+Qu'est-ce que c'est<span typeof=""mw:DisplaySpace"" id=""mwA-Y""> </span>? |"What is it? (<i id=""mwA-c"">KES-kuh-SAY</i>)"
+Comment dit-on _____ en français / en anglais<span typeof=""mw:DisplaySpace"" id=""mwA-o""> </span>? |"How do you say _____ in French / in English? (<i id=""mwA-s"">koh-moh dee-TONG _____ ahn frahn-SEH / ahn ahng-LEH<span typeof=""mw:DisplaySpace"" id=""mwA-w""> </span>?</i>)"
+Comment appelle-t-on ça<span typeof=""mw:DisplaySpace"" id=""mwA-8""> </span>? |"What is this/that called? (<i id=""mwA_A"">koh-moh ah-pell-TONG SAH?</i>)"
 Comment ça s'écrit<span typeof=""mw:DisplaySpace"" id=""mwA_M""> </span>? |How is that spelt? (<i id=""mwA_Q"">koh-moh sah SAY-cree?</i>)
 Laissez-moi tranquille<span typeof=""mw:DisplaySpace"" id=""mwA_k""> </span>!|Leave me alone. (<i id=""mwA_o"">lay-say mwah trahn-KEEL!</i>)
 Dégage<span typeof=""mw:DisplaySpace"" id=""mwA_0""> </span>! / Va-t'en<span typeof=""mw:DisplaySpace"" id=""mwA_8""> </span>!|Buzz off. (<i id=""mwA_4"">day-GAHZH!</i>) / (<i id=""mwBAA"">va TAHN</i>)
@@ -730,8 +730,8 @@ le péage|...the toll booth (<i id=""mwB9c"">luh pay-ahzh</i>)
 bouchon|queue (<i id=""mwB9o"">boo-sho(n)</i>)
 travaux|roadworks (<i id=""mwB90"">trah-vo</i>)
 route barrée|road closed (<i id=""mwB-A"">root BAH-ray</i>)
-déviation|"diversion (<i id=""mwB-M"">day-vee-ah-SYO(N)</i>)
-cédez le passage|"give way / yield (<i id=""mwB-Y"">SAY-day luh pah-SAAZH</i>)
+déviation|"diversion (<i id=""mwB-M"">day-vee-ah-SYO(N)</i>)"
+cédez le passage|"give way / yield (<i id=""mwB-Y"">SAY-day luh pah-SAAZH</i>)"
 Taxi<span typeof=""mw:DisplaySpace"" id=""mwB-8""> </span>!|""">Taxi! (<i id=""mwB_A"">tahk-SEE!</i>)
 <figure typeof=""mw:File/Thumb"" id=""mwB-g""><a href=""//en.wikivoyage.org/wiki/File:20151107_lyon236.jpg"" class=""mw-file-description"" id=""mwB-k""><img resource=""//en.wikivoyage.org/wiki/File:20151107_lyon236.jpg"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/20151107_lyon236.jpg/330px-20151107_lyon236.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail"" decoding=""async"" data-file-width=""3872"" data-file-height=""2592"" data-file-type=""bitmap"" height=""201"" width=""300"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/20151107_lyon236.jpg/960px-20151107_lyon236.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x"" class=""mw-file-element"" id=""mwB-o""/></a><figcaption id=""mwB-s"">Taxi in Lyon</figcaption></figure>"
 Déposez-moi à _____, je vous prie.|Take me to _____, please. (<i id=""mwB_M"">DAY-poh-zay-MWAH ah _____, zhuh voo PREE</i>)
@@ -885,8 +885,8 @@ de la ciboulette|chives (<i id=""mwCcU"">duh lah SEE-boo-LET</i>)
 des herbes de Provence|mixed herbs (<i id=""mwCcg"">dez-AIRB-duh-pro-VAWNSS</i>)
 du pain|bread (<i id=""mwCcs"">duu pang</i>)
 des toasts|toast (<i id=""mwCc4"">deh toast</i>)
-du café (au lait)|"(milky) coffee (<i id=""mwCdE"">duu kah-FAY (oh LEH)</i>)
-What should you know about coffee in France?|<dd id=""mwCdI"">Note: Coffee will always be served black unless you ask for milk"
+du café (au lait)|"(milky) coffee (<i id=""mwCdE"">duu kah-FAY (oh LEH)</i>)"
+What should you know about coffee in France?|"<dd id=""mwCdI"">Note: Coffee will always be served black unless you ask for milk"
 du thé|tea (<i id=""mwCdU"">duu tay</i>)
 du jus|juice (<i id=""mwCdg"">duu zhuu</i>)
 du lait|milk (<i id=""mwCds"">duu leh</i>)
