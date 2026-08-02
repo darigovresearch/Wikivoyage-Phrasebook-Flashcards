@@ -82,8 +82,7 @@ w|"like 'w' in ""weight"" in English words, <i id=""mw5g"">whisky</i>, (pronounc
 x|"like 'x' in ""flexible"" (<i id=""mw6Q"">flexible</i>). Like 'ss' in ""hiss"" at beginning of a word (<i id=""mw6g"">xilófono</i>, xylophone). Like a throaty 'h' in the words <i id=""mw6w"">México, mexicano, Oaxaca,</i> and <i id=""mw7A"">oaxaqueño</i>. Often found in words of indigenous American origin where it may not follow Spanish pronunciation logic."
 y|"like 'y' in ""yes"": <i id=""mw7w"">payaso</i> (clown). Like 'y' in ""boy"": <i id=""mw8A"">hoy</i> (now). Pronounced like a 'zh' [ʒ] as in 'Zhivago' or 'sh' [ʃ] as in 'show' only in Argentina and Uruguay: <i id=""mw8Q"">yo no sé</i> (I don't know), pronounced ""zhoh noh say""."
 z|"like 's' in ""supper"" (Latin America, parts of Spain), like 'th' in ""thin"" (most of Spain) [θ]: <i id=""mw9A"">zorro</i> (fox). See <b id=""mw9Q"">c</b> above."
-What should you know about the pronunciation between b/p/v in Spanish?|"<p id=""mw9g"">Similarities in pronunciation between b/p/v can be difficult for <i id=""mw9w"">gringos</i> (English speakers). Many Spanish speakers are familiar with Anglo cultures, particularly in Mexico and Spain, where they interact with English-speakers on a regular basis, so they may have more familiarity with your inability to pronounce their words as they do. If you are visiting remote villages in the Andes, Hispanics there will be less likely to decode mispronunciations.</p>""
-
+What should you know about the pronunciation between b/p/v in Spanish?|"<p id=""mw9g"">Similarities in pronunciation between b/p/v can be difficult for <i id=""mw9w"">gringos</i> (English speakers). Many Spanish speakers are familiar with Anglo cultures, particularly in Mexico and Spain, where they interact with English-speakers on a regular basis, so they may have more familiarity with your inability to pronounce their words as they do. If you are visiting remote villages in the Andes, Hispanics there will be less likely to decode mispronunciations.</p>"
 What should you know about Diphthongs in Spanish?|"<p id=""mw-Q"">Most diphthongs can be approximated by blending the first vowel into the second in a single syllable. However, according to the Real Academía Española <i id=""mw-g"">only</i> diphthongs containing an i or u are ""one syllable"", all others are two syllables (this is relevant in questions of where to place accents)</p>
 "
 ai, ay|"like 'eye': <i id=""mw_g"">baile</i> (<i id=""mw_w"">BAI-leh</i>, dance)"
@@ -692,11 +691,11 @@ Yo confieso|I confess. (<i id=""mwB7Y"">yoh kohn-FYEH-soh</i>)
 ¿Dónde está la comisaría?|Where is the police station? (<i id=""mwB9k"">DOHN-deh ehs-TAH lah koh-mee-sah-REE-ah?</i>)
 ¿Puede usted ayudarme por favor?|Can you help me please? (<i id=""mwB9w"">PWEH-deh oos-TEHD ah-yoo-DAHR-meh pohr fah-BOHR?</i>)
 ¿Podría yo usar su teléfono/móbil/celular?|Could I use your telephone/mobile/cell phone? (<i id=""mwB98"">poh-DREE-ah yoh oo-SAHR soo teh-LEH-foh-noh/MOH-beel/seh-loo-LAHR?</i>)
-¡Hubo un accidente!|">There's been an accident! (<i id=""mwB-I"">OO-boh oon ahk-see-DEHN-teh</i>)
-¡Llame a ...|">Call... (<i id=""mwB-U"">YAH-meh ah</i>)
-...un doctor!|">...a doctor! (<i id=""mwB-g"">oon dohk-TOHR</i>)
-...una ambulancia!|">...an ambulance! (<i id=""mwB-s"">OO-nah ahm-boo-LAHN-syah</i>)
-¡Necesito atención médica!|">I need medical attention! (<i id=""mwB-4"">neh-seh-SEE-toh ah-tehn-SYON MEH-dee-kah</i>)
-Estoy enfermo/ma, Me siento mal.|">I'm ill. (<i id=""mwB_E"">ehs-TOY ehn-FEHR-moh/mah Meh SYEHN-toh mahl</i>)
+¡Hubo un accidente!|"There's been an accident! (<i id=""mwB-I"">OO-boh oon ahk-see-DEHN-teh</i>)"
+¡Llame a ...|"Call... (<i id=""mwB-U"">YAH-meh ah</i>)"
+...un doctor!|"...a doctor! (<i id=""mwB-g"">oon dohk-TOHR</i>)"
+...una ambulancia!|">...an ambulance! (<i id=""mwB-s"">OO-nah ahm-boo-LAHN-syah</i>)"
+¡Necesito atención médica!|"I need medical attention! (<i id=""mwB-4"">neh-seh-SEE-toh ah-tehn-SYON MEH-dee-kah</i>)"
+Estoy enfermo/ma, Me siento mal.|"I'm ill. (<i id=""mwB_E"">ehs-TOY ehn-FEHR-moh/mah Meh SYEHN-toh mahl</i>)"
 Estoy perdido/da.|I'm lost. (<i id=""mwB_Q"">ehs-TOY pehr-DEE-doh/dah</i>)
 ¡He sido violado/da!|I've been raped! (<i id=""mwB_c"">eh SEE-doh byoh-LAH-doh/dah</i>)
