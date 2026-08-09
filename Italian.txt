@@ -1,0 +1,600 @@
+<figure typeof="mw:File/Thumb" id="mwBg"><a href="https://en.wikivoyage.org/wiki/File:Map_Italophone_World_-_updated.png" class="mw-file-description" id="mwBw"><img resource="https://en.wikivoyage.org/wiki/File:Map_Italophone_World_-_updated.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Map_Italophone_World_-_updated.png/500px-Map_Italophone_World_-_updated.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="1357" data-file-height="628" data-file-type="bitmap" height="231" width="500" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Map_Italophone_World_-_updated.png/1280px-Map_Italophone_World_-_updated.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwCA"/></a><figcaption id="mwCQ">Italian speaking areas - Dark blue: native language, Light blue: former Italian colonies, Green square: Italophone minorities</figcaption></figure>
+<p id="mwCg"><b id="mwCw">Italian</b> (<i id="mwDA">italiano</i>) is the official language of <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Italy" title="Italy" id="mwDQ">Italy</a> and <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/San_Marino" title="San Marino" id="mwDg">San Marino</a>, and one of the four official languages of <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Switzerland" title="Switzerland" id="mwDw">Switzerland</a>, spoken mainly in the cantons of <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Ticino" title="Ticino" id="mwEA">Ticino</a> and <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Graubünden" title="Graubünden" id="mwEQ">Graubünden</a> (Grigioni). It is the primary language of the <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Rome/Vatican" title="Rome/Vatican" id="mwEg">Vatican City</a>, where it is co-official with Latin, and a co-official language in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Istria" title="Istria" id="mwEw">Istria</a>, a coastal region of <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Slovenia" title="Slovenia" id="mwFA">Slovenia</a> and <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Croatia" title="Croatia" id="mwFQ">Croatia</a>. Furthermore, it is understood by a sizable minority in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Malta" title="Malta" id="mwFg">Malta</a>, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Monaco" title="Monaco" id="mwFw">Monaco</a>, the <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/France" title="France" id="mwGA">French</a> island of <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Corsica" title="Corsica" id="mwGQ">Corsica</a>, and <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Albania" title="Albania" id="mwGg">Albania</a>. Outside of Europe, remnants of Italian are found in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Libya" title="Libya" id="mwGw">Libya</a>, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Eritrea" title="Eritrea" id="mwHA">Eritrea</a>, and <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Somalia" title="Somalia" id="mwHQ">Somalia</a>.</p>
+
+<p id="mwHg">In most of the touristy resorts along Italy's coasts, English and German are widely spoken, but in any part of Italy, it will hold you in good stead to know at least basic phrases of polite Italian and not to assume that whoever you are speaking with will know your language.</p>
+
+<p id="mwHw">Italian is the most important language in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/European_classical_music" title="European classical music" id="mwIA">classical music</a>, with most operas being written in Italian, and musical notation on scores being primarily in Italian. All musicians who play Western music are required to be familiar with Italian musical terminology, and it was <i id="mwIQ">de rigueur</i> for European composers from the Renaissance to the first half of the 20th century to have at least some basic knowledge of Italian.</p>
+
+<p id="mwIg">If you speak Spanish or even Portuguese, be careful as there are a lot of words that look and sound almost the same in these languages but convey very different meanings: for example,  Spanish <i id="mwIw">guardar</i> ("to store, shelve") vs. Italian <i id="mwJA">guardare</i> ("to see, watch"), Spanish <i id="mwJQ">salir</i> ("to get out") vs. Italian <i id="mwJg">salire</i> ("to go up"), Spanish <i id="mwJw">burro</i> ("donkey") vs. Italian <i id="mwKA">burro</i> ("butter"), Spanish <i id="mwKQ">caldo</i> ("soup") vs. Italian <i id="mwKg">caldo</i> ("hot"), Spanish <i id="mwKw">aceite</i> ("oil") vs Italian <i id="mwLA">aceto</i> ("vinegar") and Spanish <i id="mwLQ">sembrar</i> ("to sow, plant") vs Italian <i id="mwLg">sembrare</i> ("to seem").</p>
+
+<meta property="mw:PageProp/toc" id="mwLw" data-mw='{"autoGenerated":true}'/></section><section data-mw-section-id="1" id="mwMA" aria-labelledby="Grammar"><div class="mw-heading mw-heading2"><h2 id="Grammar">Grammar</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=1" title="Edit section: Grammar"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<section data-mw-section-id="2" id="mwMQ" aria-labelledby="Nouns"><div class="mw-heading mw-heading3"><h3 id="Nouns">Nouns</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=2" title="Edit section: Nouns"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwMg">All Italian nouns are assigned one of two genders: masculine or feminine. Unlike in English, even inanimate objects are assigned a gender (e.g. <i id="mwMw">tavolo</i> [table] is masculine, <i id="mwNA">casa</i> [house] is feminine). The article before a noun depends on its gender: e.g. <i id="mwNQ">il</i> (m for most cases), <i id="mwNg">lo</i> (m if word starts with <i id="mwNw">s + consonant</i>, z, gn, ps, pn, x, y and consonant clusters), <i id="mwOA">la</i> (f for most cases) or <i id="mwOQ">l'</i> (if word starts with a vowel). Likewise, third person subject pronouns also depend on the grammatical gender of the subject<span typeof="mw:DisplaySpace" id="mwOg"> </span>: <i id="mwOw">lui/egli/esso</i> (m) and <i id="mwPA">lei/ella/essa</i> (f).</p>
+
+</section><section data-mw-section-id="3" id="mwPQ" aria-labelledby="Adjectives"><div class="mw-heading mw-heading3"><h3 id="Adjectives">Adjectives</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=3" title="Edit section: Adjectives"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwPg">In Italian, adjectives must agree in gender and number with the noun or pronoun they modify. So for example, the word for "child" in Italian is <i id="mwPw">bambino</i> (masculine), plural <i id="mwQA">bambini</i>, or <i id="mwQQ">bambina</i> (feminine), plural <i id="mwQg">bambine</i>. If you want to say "a small boy", you'd use <i id="mwQw">un piccolo bambino</i>, whereas two small boys would be <i id="mwRA">due piccoli bambini</i>, a small girl would be <i id="mwRQ">una piccola bambina</i> and two small girls would be <i id="mwRg">due piccole bambine</i>. If a group of children you are speaking of includes both boys and girls, use the masculine plural form. Unlike English, Italian has no capitalized adjectives, so, for example, "Italian" is always represented in lowercase in Italian, but again must agree in gender and number: <i id="mwRw">un bambino italiano</i>; <i id="mwSA">una bambina italiana</i>.</p>
+
+</section><section data-mw-section-id="4" id="mwSQ" aria-labelledby="Formal_and_familiar_pronouns"><div class="mw-heading mw-heading3"><h3 id="Formal_and_familiar_pronouns">Formal and familiar pronouns</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=4" title="Edit section: Formal and familiar pronouns"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwSg">In Italian, you use the polite form of you ("lei") with all the people you don't know; it doesn't matter whether they are older or younger than you, unless they are children. You'll use the familiar form ("tu") with the people you know and with children. The two forms differ in that 2nd person singular verb forms are used for "tu" and 3rd person singular verb forms are used for "lei" (which can also mean "she").</p>
+
+</section><section data-mw-section-id="5" id="mwSw" aria-labelledby="Addressing_people"><div class="mw-heading mw-heading3"><h3 id="Addressing_people">Addressing people</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=5" title="Edit section: Addressing people"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwTA">The formal way to address a man you meet for the first time is <i id="mwTQ">signore</i>, while the equivalent when addressing a woman is <i id="mwTg">signora</i>. <i id="mwTw">Signorina</i> may sometimes be used to address a very young, unmarried woman, but unless you are absolutely sure, it is best to default to <i id="mwUA">signora</i>. The corresponding plurals are <i id="mwUQ">signori</i> (all-male and mixed male and female groups) and, somewhat confusingly, <i id="mwUg">signore</i> (all-female groups). The Italian equivalent for the salutation "ladies and gentlemen" is thus "<i id="mwUw">signore e signori</i>". In informal situations, these terms are frequently dispensed with.</p>
+
+</section><section data-mw-section-id="6" id="mwVA" aria-labelledby="Possessives"><div class="mw-heading mw-heading3"><h3 id="Possessives">Possessives</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=6" title="Edit section: Possessives"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwVQ">English speakers are used to using possessive pronouns before nouns, as in "my book" or "your car". In Italian, things are usually a bit more complicated. With the exception of individual family members (<i id="mwVg">mia moglie</i> is "my wife"; <i id="mwVw">suo figlio</i> is "his/her son"), these kinds of phrases are replaced by <b id="mwWA">article + possessive pronoun + noun</b>, and both the article and the pronoun must agree in gender and number with the noun being modified. For example, "my book" would be <i id="mwWQ">il mio libro</i>; "your car" would be <i id="mwWg">la tua macchina</i>; "our houses" would be <i id="mwWw">le nostre case</i>. If you leave out the article, however, people will still understand you.</p>
+
+</section></section><section data-mw-section-id="7" id="mwXA" aria-labelledby="Pronunciation"><div class="mw-heading mw-heading2"><h2 id="Pronunciation">Pronunciation</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=7" title="Edit section: Pronunciation"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwXQ">Pronunciation is relatively easy in Italian since most words are pronounced exactly how they are written.  The main letters to watch out for are <b id="mwXg">c</b> and <b id="mwXw">g</b>, since their pronunciation varies based on the following vowel. Also, make sure to pronounce <b id="mwYA">r</b> and <b id="mwYQ">rr</b> differently: <i id="mwYg">caro</i> means dear, whereas <i id="mwYw">carro</i> means chariot.</p>
+
+<section data-mw-section-id="8" id="mwZA" aria-labelledby="Vowels"><div class="mw-heading mw-heading3"><h3 id="Vowels">Vowels</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=8" title="Edit section: Vowels"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwZQ"><dt id="mwZg">a</dt><dd id="mwZw">as in "father"</dd>
+<dt id="mwaA">e</dt><dd id="mwaQ">sometimes as in "set", sometimes more closed, identical to "e" in New Zealand English</dd>
+<dt id="mwag">i</dt><dd id="mwaw">as in "machine"</dd>
+<dt id="mwbA">o</dt><dd id="mwbQ">as in "oh", but make sure to avoid any "w" or "oo" sound at the end</dd>
+<dt id="mwbg">u</dt><dd id="mwbw">like 'oo' in "hoop"</dd></dl>
+
+</section><section data-mw-section-id="9" id="mwcA" aria-labelledby="Consonants"><div class="mw-heading mw-heading3"><h3 id="Consonants">Consonants</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=9" title="Edit section: Consonants"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<span class="mw-empty-elt" about="#mwt5" typeof="mw:Transclusion" id="mwcQ" data-mw='{"parts":[{"template":{"target":{"wt":"infobox","href":"./Template:Infobox"},"params":{"1":{"wt":"Silent I"},"2":{"wt":"If &apos;&apos;ci&apos;&apos;, &apos;&apos;gi&apos;&apos;, &apos;&apos;gli&apos;&apos; or &apos;&apos;sci&apos;&apos; is followed by another vowel, the &apos;&apos;i&apos;&apos; is silent. For example, &apos;&apos;giallo&apos;&apos; (yellow) is pronounced \"JAHL-loh\"."}},"i":0}}]}'><style data-mw-deduplicate="TemplateStyles:r5162413" typeof="mw:Extension/templatestyles" about="#mwt6" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'>.mw-parser-output .pp_infobox{color:#333;background-color:#effafa;font-size:90%;border:1px solid #ccc;padding-left:1em;padding-right:1em;text-align:left;width:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .pp_infobox td{color:inherit;background-color:inherit}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .pp_infobox td{color:inherit;background-color:inherit}}</style></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt5">
+<tbody><tr><td>
+<div style="font-weight:bold;">Silent I</div>
+
+<p>If <i>ci</i>, <i>gi</i>, <i>gli</i> or <i>sci</i> is followed by another vowel, the <i>i</i> is silent. For example, <i>giallo</i> (yellow) is pronounced "JAHL-loh".</p></td></tr>
+</tbody></table>
+
+<dl id="mwcg"><dt id="mwcw">b</dt><dd id="mwdA">like 'b' in "bed"</dd>
+<dt id="mwdQ">c</dt><dd id="mwdg">like 'ch' in "chipper" when before 'i' or 'e', like 'k' in "skin" otherwise</dd>
+<dt id="mwdw">d</dt><dd id="mweA">like 'd' in "dog"</dd>
+<dt id="mweQ">f</dt><dd id="mweg">like 'f' in "fear"</dd></dl>
+<figure typeof="mw:File/Thumb" id="mwew"><a href="https://en.wikivoyage.org/wiki/File:Florence_bridges.jpg" class="mw-file-description" id="mwfA"><img resource="https://en.wikivoyage.org/wiki/File:Florence_bridges.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Florence_bridges.jpg/330px-Florence_bridges.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="1965" data-file-height="1013" data-file-type="bitmap" height="155" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Florence_bridges.jpg/960px-Florence_bridges.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwfQ"/></a><figcaption id="mwfg">'f' like in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Firenze" title="Firenze" class="mw-redirect" id="mwfw">Firenze</a></figcaption></figure>
+<dl id="mwgA"><dt id="mwgQ">g</dt><dd id="mwgg">like 'g' in "go" (before 'a', 'o', 'u')<br id="mwgw"/>like 'j' in "jello" (before 'i' or 'e')</dd>
+<dt id="mwhA">h</dt><dd id="mwhQ">silent</dd>
+<dt id="mwhg">j</dt><dd id="mwhw">generally only appears in proper nouns (e.g. Juventus). Pronounced like 'y' in "yet".</dd>
+<dt id="mwiA">l</dt><dd id="mwiQ">like 'l' in "love"</dd>
+<dt id="mwig">m</dt><dd id="mwiw">like 'm' in "mother"</dd>
+<dt id="mwjA">n</dt><dd id="mwjQ">like 'n' in "nice"</dd>
+<dt id="mwjg">p</dt><dd id="mwjw">like 'p' in "spray"</dd>
+<dt id="mwkA">q</dt><dd id="mwkQ">like 'q' in "quest" (always with "u" except in some Arabic loanwords)</dd>
+<dt id="mwkg">r</dt><dd id="mwkw">trill with the tip of the tongue just as in Spanish. A double r (rr) requires a stronger trill.</dd>
+<dt id="mwlA">s</dt><dd id="mwlQ">like 's' in "gas", like 'z' in "lizard" when between vowels only in the North of Italy.</dd>
+<dt id="mwlg">t</dt><dd id="mwlw">like 't' in "stop"</dd>
+<dt id="mwmA">v</dt><dd id="mwmQ">like 'v' in "victory"</dd>
+<dt id="mwmg">z</dt><dd id="mwmw">like 'ds' in "toads" or like 'ts' in "coats"</dd></dl>
+
+</section><section data-mw-section-id="10" id="mwnA" aria-labelledby="Common_diphthongs"><div class="mw-heading mw-heading3"><h3 id="Common_diphthongs">Common diphthongs</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=10" title="Edit section: Common diphthongs"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwnQ"><dt id="mwng">ai</dt><dd id="mwnw">like 'i' in "fight"</dd>
+<dt id="mwoA">au</dt><dd id="mwoQ">like 'ow' in "brown"</dd></dl>
+
+<dl id="mwog"><dt id="mwow">ei</dt><dd id="mwpA">like 'ay' in "say"</dd>
+<dt id="mwpQ">eu</dt><dd id="mwpg">like h<b id="mwpw">ey you</b></dd>
+<dt id="mwqA">ee</dt><dd id="mwqQ">identical vowels [stress on the first vowel "idee" (ee-DEH-eh)]</dd></dl>
+
+<dl id="mwqg"><dt id="mwqw">ia</dt><dd id="mwrA">like s<b id="mwrQ">ee ya</b>, but with the 'a' as in "father"</dd>
+<dt id="mwrg">ie</dt><dd id="mwrw">similar to "yeah"</dd>
+<dt id="mwsA">ii</dt><dd id="mwsQ">identical vowels [stress on the first vowel "addii" (ahd-DEE-ee)]</dd>
+<dt id="mwsg">io</dt><dd id="mwsw">"EE-oh" like the 'eo' in "Leo"</dd>
+<dt id="mwtA">iu</dt><dd id="mwtQ">like 'ew' in "few"</dd></dl>
+
+<dl id="mwtg"><dt id="mwtw">oi</dt><dd id="mwuA">like 'oy' in "boy"</dd>
+<dt id="mwuQ">oo</dt><dd id="mwug">identical vowels [stress on the first vowel "zoo" (DZOH-oh)]</dd></dl>
+
+<dl id="mwuw"><dt id="mwvA">ua</dt><dd id="mwvQ">like 'wa' in "want"</dd>
+<dt id="mwvg">ue</dt><dd id="mwvw">like 'we' in "went"</dd>
+<dt id="mwwA">ui</dt><dd id="mwwQ">like "we"</dd>
+<dt id="mwwg">uo</dt><dd id="mwww">like "woe"</dd></dl>
+
+</section><section data-mw-section-id="11" id="mwxA" aria-labelledby="Digraphs"><div class="mw-heading mw-heading3"><h3 id="Digraphs">Digraphs</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=11" title="Edit section: Digraphs"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb" id="mwxQ"><a href="https://en.wikivoyage.org/wiki/File:Scicli_(Sicilia)_2010_018.jpg" class="mw-file-description" id="mwxg"><img resource="https://en.wikivoyage.org/wiki/File:Scicli_(Sicilia)_2010_018.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Scicli_%28Sicilia%29_2010_018.jpg/330px-Scicli_%28Sicilia%29_2010_018.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="604" data-file-height="402" data-file-type="bitmap" height="200" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/c/cb/Scicli_%28Sicilia%29_2010_018.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled 2x" class="mw-file-element" id="mwxw"/></a><figcaption id="mwyA">View of <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Scicli" title="Scicli" id="mwyQ">Scicli</a></figcaption></figure>
+<dl id="mwyg"><dt id="mwyw">ch</dt><dd id="mwzA">like 'k' in "keep"</dd>
+<dt id="mwzQ">sc</dt><dd id="mwzg">before "e" or "i", like 'sh' in "sheep"; before "a", "o" or "u" like 'sk' in "sky"</dd>
+<dt id="mwzw">sch</dt><dd id="mw0A">before 'e' or 'i' like 'sk' in "sky"</dd>
+<dt id="mw0Q">gn</dt><dd id="mw0g">like the 'ny' in "canyon"</dd>
+<dt id="mw0w">gh</dt><dd id="mw1A">like "g" in "get"</dd>
+<dt id="mw1Q">gli</dt><dd id="mw1g">like the 'li' in "million"; rarely like "glee" in words of Greek origin</dd></dl>
+
+</section><section data-mw-section-id="12" id="mw1w" aria-labelledby="Emphasis"><div class="mw-heading mw-heading3"><h3 id="Emphasis">Emphasis</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=12" title="Edit section: Emphasis"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mw2A">Accented words have the emphasis on the syllable with the accented letter. Unaccented words are normally pronounced with the emphasis on the penultimate or antepenultimate syllable.</p>
+
+</section></section><section data-mw-section-id="13" id="mw2Q" aria-labelledby="Cognates_in_English"><div class="mw-heading mw-heading2"><h2 id="Cognates_in_English">Cognates in English</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=13" title="Edit section: Cognates in English"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mw2g">English-speakers will find many Italian words easy to understand, if they know Latin-derived equivalents in English. For example, words that end in -tion in English as a rule end in -<span typeof="mw:Entity" id="mw2w">⁠</span>zione in Italian. So Italian <i id="mw3A">introduzione</i> is English "introduction", <i id="mw3Q">preparazione</i> is "preparation" and <i id="mw3g">riduzione</i> is "reduction". In addition, words that end in -ity in English as a rule end in -ità in Italian. So <i id="mw3w">università</i> is "university", <i id="mw4A">unità</i> is "unity", <i id="mw4Q">rapidità</i> is "rapidity" and <i id="mw4g">conduttività</i> is "conductivity", although the respective Italian words for "majority" and "minority" are <i id="mw4w">maggioranza</i> and <i id="mw5A">minoranza</i>, and similarly, <i id="mw5Q">sicurezza</i> is the common word for "security" or "safety". Another signpost to look for is that words that end in -ous in English usually end in -oso as masculine singular adjectives in Italian (see <a rel="mw:WikiLink" href="#Adjectives" class="mw-selflink-fragment" id="mw5g">#Adjectives</a> above for other forms), for example <i id="mw5w">generoso</i> (generous), and <i id="mw6A">armonioso</i> (harmonious), but perilous (dangerous) is <i id="mw6Q">pericoloso</i>. Moreover, the meanings can sometimes have diverged between English and Italian, so Italian <i id="mw6g">ricordare</i>, while cognate with English record, actually means "remember". So guessing the Italian word from the English Latin-derived equivalent doesn't always work, but it is still a good idea to try it in conversations.</p>
+
+<p id="mw6w">There are also some Italian words that were borrowed directly into English, but in some cases the meeting has shifted somewhat from the original Italian. For example, <i id="mw7A">vendetta</i> means revenge and <i id="mw7Q">donna</i> means woman (hence <i id="mw7g">prima donna</i>, which literally translates as "first woman") in Italian. When it comes to culinary terms, the Italian original is often a more generic term than the one borrowed into English. For instance, <i id="mw7w">prosciutto</i> refers to any kind of ham and <i id="mw8A">gelato</i> refers to any kind of ice cream in Italian. Be careful, though, as the meanings can sometimes be drastically different. For example, <i id="mw8Q">latte</i> means milk in Italian, so if you want coffee with milk, you need to ask for <i id="mw8g">caffè latte</i>. </p>
+
+<section data-mw-section-id="14" id="mw8w" aria-labelledby="False_friends"><div class="mw-heading mw-heading3"><h3 id="False_friends">False friends</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=14" title="Edit section: False friends"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mw9A">One serious false friend is <i id="mw9Q">accidenti</i>, which means "Damn!", rather than "accidents", and the singular <i id="mw9g">accidente</i> can also mean "damn", so if you want to describe an accident, use <i id="mw9w">incidente</i>, plural <i id="mw-A">incidenti</i>. Also, be careful to use the word <i id="mw-Q">preservativo</i> correctly: it means a condom, not a preservative! Preservatives, such as are used in food, are <i id="mw-g">conservanti</i>. The word <i id="mw-w">tipica</i> is used in the expression <i id="mw_A">cucina tipica</i>, often mistranslated as "typical cuisine," but it really means "authentic local cuisine". However, if you want to get the English sense of "typical" across, there are other words that you can consider, such as <i id="mw_Q">normale</i> (normal), <i id="mw_g">solito</i> (usual) or <i id="mw_w">ordinario</i> (ordinary).</p>
+
+</section></section><section data-mw-section-id="15" id="mwAQA" aria-labelledby="Phrase_list"><div class="mw-heading mw-heading2"><h2 id="Phrase_list">Phrase list</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=15" title="Edit section: Phrase list"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<p id="mwAQE">For this phrasebook, we use the polite form for all phrases, on the presumption that you'll mostly be talking to people you don't already know.</p>
+
+<section data-mw-section-id="16" id="mwAQI" aria-labelledby="Basics"><div class="mw-heading mw-heading3"><h3 id="Basics">Basics</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=16" title="Edit section: Basics"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<span class="mw-empty-elt" about="#mwt7" typeof="mw:Transclusion" id="mwAQM" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infobox&quot;,&quot;href&quot;:&quot;./Template:Infobox&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Common signs&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;\n; OPEN : APERTO (''ah-PEHR-toh'')\n; CLOSED : CHIUSO (''KYOO-soh'')\n; ENTRANCE : ENTRATA (''ehn-TRAH-tah'')\n; EXIT : USCITA (''oo-SHEE-tah'')\n; PUSH : SPINGERE (''SPEEN-jeh-reh'')\n; PULL : TIRARE (''tee-RAH-reh'')\n; TOILET : TOILETTE (''twah-LEHT'') / WC (''wee-CHEEH'')\n; MEN : UOMINI (''WOH-mee-nee'')\n; WOMEN : DONNE (''DOHN-neh'')\n; FORBIDDEN : PROIBITO (''proy-BEE-toh'') / VIETATO (''vee-eh-TAH-toh'')\n; NO SMOKING : NON FUMATORI (''nohn foo-mah-TOH-ree'') / VIETATO FUMARE (''vee-eh-tah-toh foo-MAH-reh'')&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt8" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt7">
+<tbody><tr><td>
+<div style="font-weight:bold;">Common signs</div>
+<p>
+<br/></p>
+<dl><dt>OPEN</dt><dd>APERTO (<i>ah-PEHR-toh</i>)</dd>
+<dt>CLOSED</dt><dd>CHIUSO (<i>KYOO-soh</i>)</dd>
+<dt>ENTRANCE</dt><dd>ENTRATA (<i>ehn-TRAH-tah</i>)</dd>
+<dt>EXIT</dt><dd>USCITA (<i>oo-SHEE-tah</i>)</dd>
+<dt>PUSH</dt><dd>SPINGERE (<i>SPEEN-jeh-reh</i>)</dd>
+<dt>PULL</dt><dd>TIRARE (<i>tee-RAH-reh</i>)</dd>
+<dt>TOILET</dt><dd>TOILETTE (<i>twah-LEHT</i>) / WC (<i>wee-CHEEH</i>)</dd>
+<dt>MEN</dt><dd>UOMINI (<i>WOH-mee-nee</i>)</dd>
+<dt>WOMEN</dt><dd>DONNE (<i>DOHN-neh</i>)</dd>
+<dt>FORBIDDEN</dt><dd>PROIBITO (<i>proy-BEE-toh</i>) / VIETATO (<i>vee-eh-TAH-toh</i>)</dd>
+<dt>NO SMOKING</dt><dd>NON FUMATORI (<i>nohn foo-mah-TOH-ree</i>) / VIETATO FUMARE (<i>vee-eh-tah-toh foo-MAH-reh</i>)</dd></dl></td></tr>
+</tbody></table>
+<p id="mwAQQ">
+<br id="mwAQU"/></p>
+<dl id="mwAQY"><dt id="mwAQc">Hello. (<i id="mwAQg">formal</i>)</dt><dd id="mwAQk">Salve. (<i id="mwAQo">SAHL-veh</i>)</dd>
+<dt id="mwAQs">Hello. (<i id="mwAQw">informal</i>)</dt><dd id="mwAQ0">Ciao. (<i id="mwAQ4">chow</i>)</dd>
+<dt id="mwAQ8">How are you?</dt><dd id="mwARA">Come stai? (<i id="mwARE">informal</i>)(<i id="mwARI">koh-meh STAHEE?</i>), Come sta? (<i id="mwARM">formal</i>)(<i id="mwARQ">koh-meh STAH?</i>)</dd>
+<dt id="mwARU">Fine, thank you.</dt><dd id="mwARY">Bene, grazie. (<i id="mwARc">BEH-neh, GRAHT-tsyeh</i>)</dd>
+<dt id="mwARg">What is your name?</dt><dd id="mwARk">Come ti chiami? (<i id="mwARo">informal</i>)(<i id="mwARs">KOH-meh tee kee-AH-mee?</i>), Come si chiama? (<i id="mwARw">formal</i>)(<i id="mwAR0">KOH-meh see kee-AH-mah?</i>)</dd>
+<dt id="mwAR4">My name is ______ .</dt><dd id="mwAR8">Mi chiamo ______ . (<i id="mwASA">mee kee-AH-moh _____</i>)</dd>
+<dt id="mwASE">Nice to meet you.</dt><dd id="mwASI">Piacere di conoscerla. (<i id="mwASM">formal</i>)(<i id="mwASQ">pyah-CHEH-reh dee koh-noh-SHEHR-lah</i>); Piacere di conoscerti (<i id="mwASU">pyah-CHEH-reh dee koh-noh-SHEHR-tee</i>) or just Ciao, piacere ("chow, pyah-CHEH-reh") (<i id="mwASY">informal</i>)</dd>
+<dt id="mwASc">Please.</dt><dd id="mwASg">Per favore (<i id="mwASk">PEHR fah-VOH-reh</i>) or Per piacere (<i id="mwASo">pehr pyah-CHEH-reh</i>)</dd>
+<dt id="mwASs">Thank you.</dt><dd id="mwASw">Grazie. (<i id="mwAS0">GRAHT-tsyeh</i>)</dd>
+<dt id="mwAS4">You're welcome.</dt><dd id="mwAS8">Prego. (<i id="mwATA">PREH-goh</i>)</dd>
+<dt id="mwATE">No problem.</dt><dd id="mwATI">Non c'è problema or Nessun problema (<i id="mwATM">non cheh proh-BLEH-mah</i>, <i id="mwATQ">neh-SOON proh-BLEM-mah</i>)</dd>
+<dt id="mwATU">Yes</dt><dd id="mwATY">Sì. (<i id="mwATc">SEE</i>)</dd>
+<dt id="mwATg">No</dt><dd id="mwATk">No. (<i id="mwATo">noh</i>)</dd>
+<dt id="mwATs">Excuse me</dt><dd id="mwATw">Mi scusi. (<i id="mwAT0">formal</i>)(<i id="mwAT4">mee SKOO-zee</i>), Scusa (<i id="mwAT8">informal</i>)(<i id="mwAUA">SKOO-zah</i>)</dd>
+<dt id="mwAUE">What's that?</dt><dd id="mwAUI">Che cos'è? (<i id="mwAUM">KAY kohz-AY</i>)</dd>
+<dt id="mwAUQ">I'm sorry.</dt><dd id="mwAUU">Mi dispiace. (<i id="mwAUY">mee dee-SPYA-chee</i>)</dd>
+<dt id="mwAUc">Goodbye. (informal)</dt><dd id="mwAUg">Ciao. (<i id="mwAUk">chow</i>)</dd>
+<dt id="mwAUo">Goodbye. (formal)</dt><dd id="mwAUs">Arrivederci. (<i id="mwAUw">ahr-ree-veh-DEHR-chee</i>)</dd>
+<dt id="mwAU0">See you.</dt><dd id="mwAU4">Ci vediamo. (<i id="mwAU8">chee veh-DYAH-moh</i>)</dd>
+<dt id="mwAVA">Sure.</dt><dd id="mwAVE">Certamente, or Certo (<i id="mwAVI">cher-tah-MEN-teh</i> or <i id="mwAVM">CHEHR-toh</i>)</dd>
+<dt id="mwAVQ">Really?</dt><dd id="mwAVU">Davvero? (<i id="mwAVY">dahv-VEH-roh?</i>)</dd></dl>
+<figure class="mw-default-size" typeof="mw:File/Thumb" id="mwAVc"><a href="https://en.wikivoyage.org/wiki/File:Colosseo_-_panoramio_(4).jpg" class="mw-file-description" id="mwAVg"><img resource="https://en.wikivoyage.org/wiki/File:Colosseo_-_panoramio_(4).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Colosseo_-_panoramio_%284%29.jpg/250px-Colosseo_-_panoramio_%284%29.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="2848" data-file-height="4288" data-file-type="bitmap" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Colosseo_-_panoramio_%284%29.jpg/500px-Colosseo_-_panoramio_%284%29.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwAVk"/></a><figcaption id="mwAVo">Visitors inside <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Rome/Colosseo" title="Rome/Colosseo" id="mwAVs">Colosseum</a> in Rome</figcaption></figure>
+<dl id="mwAVw"><dt id="mwAV0">I don't speak Italian.</dt><dd id="mwAV4">Non parlo italiano. (<i id="mwAV8">non PAHR-loh ee-tah-LYAH-noh</i>)</dd>
+<dt id="mwAWA">Do you speak English?</dt><dd id="mwAWE">Parla inglese? (<i id="mwAWI">Formal</i>)(<i id="mwAWM">PAHR-lah een-GLEH-zeh?</i>) Parli inglese? (<i id="mwAWQ">Informal</i>)(<i id="mwAWU">PAHR-lee een-GLEH-zeh?</i>)</dd>
+<dt id="mwAWY">Speak more slowly, please.</dt><dd id="mwAWc">Parli più lentamente, per favore. (<i id="mwAWg">formal</i>)(<i id="mwAWk">PAHR-lee pyoo lehn-tah-MEHN-teh, pehr fah-VOH-reh</i>), Parla più lentamente/piano (per favore). (<i id="mwAWo">informal</i>)(<i id="mwAWs">PAHR-lee pyoo lehn-tah-MEHN-teh/ PYAH-noh (pehr fah-VOH-reh)</i>)</dd>
+<dt id="mwAWw">I understand Italian a little.</dt><dd id="mwAW0">Capisco l’italiano solo un po'. (<i id="mwAW4">kah-PEES-koh lee-tah-LYAH-noh SOH-loh oon poh</i>)</dd>
+<dt id="mwAW8">I speak just a few words of Italian.</dt><dd id="mwAXA">Conosco solo poche parole in italiano. (<i id="mwAXE">koh-NOHS-koh SOH-loh POH-keh pah-ROH-leh een ee-tah-LYAH-noh</i>)</dd>
+<dt id="mwAXI">Is there someone here who speaks English?</dt><dd id="mwAXM">Qualcuno qui parla inglese? (<i id="mwAXQ">kwahl-KOO-noh PAHR-lah een-GLEH-zeh?</i>)</dd>
+<dt id="mwAXU">What does it mean?</dt><dd id="mwAXY">Cosa significa? or Cosa vuol dire? (<i id="mwAXc">KOH-zah see-NYEE-fee-kah?, KOH-zah vwohl DEE-reh?</i>)</dd>
+<dt id="mwAXg">I forgot.</dt><dd id="mwAXk">Ho dimenticato. (<i id="mwAXo">oh dee-mehn-tee-KAH-toh</i>)</dd>
+<dt id="mwAXs">Now I remember.</dt><dd id="mwAXw">Ora ricordo. (<i id="mwAX0">OH-rah ree-KOHR-doh</i>)</dd>
+<dt id="mwAX4">I don’t know.</dt><dd id="mwAX8">Non lo so. (<i id="mwAYA">nohn loh soh</i>)</dd>
+<dt id="mwAYE">After</dt><dd id="mwAYI">Dopo (<i id="mwAYM">DOH-poh</i>)</dd>
+<dt id="mwAYQ">Before</dt><dd id="mwAYU">Prima (<i id="mwAYY">PREE-mah</i>)</dd>
+<dt id="mwAYc">Wait!</dt><dd id="mwAYg">Aspetti! (<i id="mwAYk">formal</i>)(<i id="mwAYo">ahs-PEHT-tee</i>), Aspetta! (<i id="mwAYs">informal</i>)(<i id="mwAYw">ahs-PEHT-tah</i>)</dd>
+<dt id="mwAY0">I have a question.</dt><dd id="mwAY4">Ho una domanda. (<i id="mwAY8">oh OO-nah doh-MAHN-dah</i>)</dd>
+<dt id="mwAZA">Can you tell me...</dt><dd id="mwAZE">Può dirmi... (<i id="mwAZI">formal</i>)(<i id="mwAZM">pwoh DEER-mee</i>), Puoi dirmi... (<i id="mwAZQ">informal</i>)(<i id="mwAZU">pwoh-ee DEER-mee</i>)</dd>
+<dt id="mwAZY">How to get to...</dt><dd id="mwAZc">Come arrivo a... (<i id="mwAZg">KOH-meh ahr-REE-voh ah</i>)</dd>
+<dt id="mwAZk">Where/When do we meet?</dt><dd id="mwAZo">Dove/Quando ci incontriamo? (<i id="mwAZs">DOH-veh/ KWAHN-doh chee een-kohn-TRYAH-moh?</i>)</dd>
+<dt id="mwAZw">How is the weather?</dt><dd id="mwAZ0">Che tempo fa? (<i id="mwAZ4">keh TEHM-poh fah</i>)</dd>
+<dt id="mwAZ8">While</dt><dd id="mwAaA">Mentre (<i id="mwAaE">MEHN-treh</i>)</dd>
+<dt id="mwAaI">So</dt><dd id="mwAaM">Così (<i id="mwAaQ">koh-ZEE</i>)</dd>
+<dt id="mwAaU">Why/Because</dt><dd id="mwAaY">Perché (<i id="mwAac">pehr-KEH</i>)</dd></dl>
+
+<dl id="mwAag"><dt id="mwAak">Pardon?</dt><dd id="mwAao">Come? (<i id="mwAas">KOH-meh?</i>)</dd>
+<dt id="mwAaw">Help!</dt><dd id="mwAa0">Aiuto! (<i id="mwAa4">ah-YOO-toh!</i>)</dd>
+<dt id="mwAa8">Good morning.</dt><dd id="mwAbA">Buon giorno. (<i id="mwAbE">bwohn JOHR-noh</i>)</dd>
+<dt id="mwAbI">Good afternoon.</dt><dd id="mwAbM">Buon pomeriggio. (<i id="mwAbQ">bwohn poh-meh-REE-joh</i>)</dd></dl>
+<figure typeof="mw:File/Thumb" id="mwAbU"><a href="https://en.wikivoyage.org/wiki/File:Napoli-vista02.jpg" class="mw-file-description" id="mwAbY"><img resource="https://en.wikivoyage.org/wiki/File:Napoli-vista02.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Napoli-vista02.jpg/330px-Napoli-vista02.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="1280" data-file-height="960" data-file-type="bitmap" height="225" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Napoli-vista02.jpg/960px-Napoli-vista02.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwAbc"/></a><figcaption id="mwAbg"><i id="mwAbk">Buona sera, signorina, buona sera. It is time to say goodnight to <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Napoli" title="Napoli" class="mw-redirect" id="mwAbo">Napoli</a>...</i></figcaption></figure>
+<dl id="mwAbs"><dt id="mwAbw">Good evening.</dt><dd id="mwAb0">Buona sera. (<i id="mwAb4">bwoh-nah SEH-rah</i>)</dd>
+<dt id="mwAb8">Good night.</dt><dd id="mwAcA">Buona notte. (<i id="mwAcE">bwoh-nah NOHT-teh</i>)</dd>
+<dt id="mwAcI">I don't understand.</dt><dd id="mwAcM">Non capisco. (<i id="mwAcQ">nohn kah-PEES-koh</i>)</dd>
+<dt id="mwAcU">Where are the restrooms? (public place)</dt><dd id="mwAcY">Dov'è un bagno? (<i id="mwAcc">doh-VEH oon BAHN-yoh</i>)</dd>
+<dt id="mwAcg">Where is the bathroom? (someone's home)</dt><dd id="mwAck">Dov'è il bagno? (<i id="mwAco">doh-VEH eel BAHN-yoh</i>)</dd></dl>
+
+</section><section data-mw-section-id="17" id="mwAcs" aria-labelledby="Problems"><div class="mw-heading mw-heading3"><h3 id="Problems">Problems</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=17" title="Edit section: Problems"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwAcw"><dt id="mwAc0">Leave me alone.</dt><dd id="mwAc4">Mi lasci in pace. (formal) / Lasciami in pace. (informal) (<i id="mwAc8">mee LAH-shee een PAH-cheh</i>) (or Mi lasci stare [<i id="mwAdA">...STAH-reh</i>])</dd>
+<dt id="mwAdE">Don't touch me!</dt><dd id="mwAdI">Non mi toccare! (informal) (<i id="mwAdM">NOHN mee toh-KAH-reh!</i>)</dd>
+<dt id="mwAdQ">I'll call the police.</dt><dd id="mwAdU">Chiamo la polizia. (<i id="mwAdY">KYAH-moh lah poh-lee-TSEE-ah!</i>)</dd>
+<dt id="mwAdc">Help me!</dt><dd id="mwAdg">Aiutami! (informal) ("ah-YOO-tah-mi")</dd>
+<dt id="mwAdk">Police!</dt><dd id="mwAdo">Polizia! (<i id="mwAds">poh-lee-TSEE-ah!</i>)</dd>
+<dt id="mwAdw">Stop! Thief!</dt><dd id="mwAd0">Al ladro! (<i id="mwAd4">ahl LAH-droh!</i>)</dd>
+<dt id="mwAd8">Fire!</dt><dd id="mwAeA">Al fuoco! (<i id="mwAeE">ahl FWOH-koh!</i>)</dd>
+<dt id="mwAeI">I need your help.</dt><dd id="mwAeM">Ho bisogno del tuo aiuto (informal). (<i id="mwAeQ">oh bee-ZOH-nyoh dehl too-oh ah-YOO-toh</i>)</dd>
+<dt id="mwAeU">It's an emergency.</dt><dd id="mwAeY">È un'emergenza. (<i id="mwAec">eh oo-neh-mehr-JEN-tsah</i>)</dd>
+<dt id="mwAeg">I'm lost.</dt><dd id="mwAek">Mi sono perso (<i id="mwAeo">male</i>)(<i id="mwAes">mee soh-noh PEHR-soh</i>) / Mi sono persa (<i id="mwAew">female</i>)(<i id="mwAe0">mee soh-noh PEHR-sah</i>).</dd>
+<dt id="mwAe4">I lost my bag.</dt><dd id="mwAe8">Ho perso la mia borsa. (<i id="mwAfA">oh PEHR-soh lah MEE-ah BOHR-sah</i>)</dd>
+<dt id="mwAfE">I lost my wallet.</dt><dd id="mwAfI">Ho perso il mio portafoglio. (<i id="mwAfM">oh PEHR-soh eel myoh pohr-tah-FOH-lyoh</i>)</dd>
+<dt id="mwAfQ">I'm sick.</dt><dd id="mwAfU">Sono malato. (<i id="mwAfY">male</i>)(<i id="mwAfc">SOH-noh mah-LAH-toh</i>) / Sono malata (<i id="mwAfg">female</i>)(<i id="mwAfk">SOH-noh mah-LAH-tah</i>)</dd>
+<dt id="mwAfo">I've been injured.</dt><dd id="mwAfs">Sono ferito (<i id="mwAfw">male</i>)(<i id="mwAf0">SOH-noh feh-REE-toh</i>) / Sono ferita (<i id="mwAf4">female</i>)(<i id="mwAf8">SOH-noh feh-REE-tah</i>)</dd>
+<dt id="mwAgA">I need a doctor.</dt><dd id="mwAgE">Ho bisogno di un dottore. (<i id="mwAgI">oh bee-ZOH-nyoh dee oon dot-TOH-reh</i>)</dd>
+<dt id="mwAgM">Can I use your phone?</dt><dd id="mwAgQ">Posso usare il suo telefono? (<i id="mwAgU">formal</i>)(<i id="mwAgY">POS-soh oo-ZAH-reh eel soo-oh teh-LEH-foh-noh?</i>) / Posso usare il tuo telefono? (<i id="mwAgc">informal</i>)(<i id="mwAgg">POS-soh oo-ZAH-reh eel too-oh teh-LEH-foh-noh?</i>)</dd></dl>
+
+</section><section data-mw-section-id="18" id="mwAgk" aria-labelledby="Numbers"><div class="mw-heading mw-heading3"><h3 id="Numbers">Numbers</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=18" title="Edit section: Numbers"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb" id="mwAgo"><a href="https://en.wikivoyage.org/wiki/File:Milano_metropolitana_Garibaldi_M2_indicazioni_linee_S.JPG" class="mw-file-description" id="mwAgs"><img resource="https://en.wikivoyage.org/wiki/File:Milano_metropolitana_Garibaldi_M2_indicazioni_linee_S.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Milano_metropolitana_Garibaldi_M2_indicazioni_linee_S.JPG/330px-Milano_metropolitana_Garibaldi_M2_indicazioni_linee_S.JPG?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="1024" data-file-height="800" data-file-type="bitmap" height="234" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Milano_metropolitana_Garibaldi_M2_indicazioni_linee_S.JPG/960px-Milano_metropolitana_Garibaldi_M2_indicazioni_linee_S.JPG?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwAgw"/></a><figcaption id="mwAg0">Signage in the <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Milan" title="Milan" id="mwAg4">Milan</a> Metro, showing local train lines passing Garibaldi station</figcaption></figure>
+<p id="mwAg8">Unlike English, Italian uses the long scale, so <i id="mwAhA">un bilione</i> and <i id="mwAhE">un trilione</i> are not the same as the English "one billion" and "one trillion".</p>
+
+<dl id="mwAhI"><dt id="mwAhM">0</dt><dd id="mwAhQ">zero</dd>
+<dt id="mwAhU">1</dt><dd id="mwAhY">uno (<i id="mwAhc">OO-noh</i>)</dd>
+<dt id="mwAhg">2</dt><dd id="mwAhk">due (<i id="mwAho">DOO-eh</i>)</dd>
+<dt id="mwAhs">3</dt><dd id="mwAhw">tre (<i id="mwAh0">treh</i>)</dd>
+<dt id="mwAh4">4</dt><dd id="mwAh8">quattro (<i id="mwAiA">KWAH-troh</i>)</dd>
+<dt id="mwAiE">5</dt><dd id="mwAiI">cinque (<i id="mwAiM">CHEEN-kweh</i>)</dd>
+<dt id="mwAiQ">6</dt><dd id="mwAiU">sei (<i id="mwAiY">SEH-ee</i>)</dd>
+<dt id="mwAic">7</dt><dd id="mwAig">sette (<i id="mwAik">SEH-teh</i>)</dd>
+<dt id="mwAio">8</dt><dd id="mwAis">otto (<i id="mwAiw">OH-toh</i>)</dd>
+<dt id="mwAi0">9</dt><dd id="mwAi4">nove (<i id="mwAi8">NOH-veh</i>)</dd>
+<dt id="mwAjA">10</dt><dd id="mwAjE">dieci (<i id="mwAjI">DYEH-chee</i>)</dd>
+<dt id="mwAjM">11</dt><dd id="mwAjQ">undici (<i id="mwAjU">OON-dee-chee</i>)</dd>
+<dt id="mwAjY">12</dt><dd id="mwAjc">dodici (<i id="mwAjg">DOH-dee-chee</i>)</dd>
+<dt id="mwAjk">13</dt><dd id="mwAjo">tredici (<i id="mwAjs">TREH-dee-chee</i>)</dd>
+<dt id="mwAjw">14</dt><dd id="mwAj0">quattordici (<i id="mwAj4">kwahr-TOHR-dee-chee</i>)</dd>
+<dt id="mwAj8">15</dt><dd id="mwAkA">quindici (<i id="mwAkE">KWEEN-dee-chee</i>)</dd>
+<dt id="mwAkI">16</dt><dd id="mwAkM">sedici (<i id="mwAkQ">SEH-dee-chee</i>)</dd>
+<dt id="mwAkU">17</dt><dd id="mwAkY">diciassette (<i id="mwAkc">dee-chah-SSEH-teh</i>)</dd>
+<dt id="mwAkg">18</dt><dd id="mwAkk">diciotto (<i id="mwAko">dee-CHOH-toh</i>)</dd>
+<dt id="mwAks">19</dt><dd id="mwAkw">diciannove (<i id="mwAk0">dee-chah-NOH-veh</i>)</dd>
+<dt id="mwAk4">20</dt><dd id="mwAk8">venti (<i id="mwAlA">VEHN-tee</i>)</dd>
+<dt id="mwAlE">21</dt><dd id="mwAlI">ventuno (<i id="mwAlM">vehn-TOO-noh</i>)</dd>
+<dt id="mwAlQ">22</dt><dd id="mwAlU">ventidue (<i id="mwAlY">vehn-tee-DOO-eh</i>)</dd>
+<dt id="mwAlc">23</dt><dd id="mwAlg">ventitré (<i id="mwAlk">vehn-tee-TREH</i>)</dd>
+<dt id="mwAlo">30</dt><dd id="mwAls">trenta (<i id="mwAlw">TREHN-tah</i>)</dd>
+<dt id="mwAl0">40</dt><dd id="mwAl4">quaranta (<i id="mwAl8">kwah-RAHN-tah</i>)</dd>
+<dt id="mwAmA">50</dt><dd id="mwAmE">cinquanta (<i id="mwAmI">cheen-KWAHN-tah</i>)</dd>
+<dt id="mwAmM">60</dt><dd id="mwAmQ">sessanta (<i id="mwAmU">sehs-SAHN-tah</i>)</dd>
+<dt id="mwAmY">70</dt><dd id="mwAmc">settanta (<i id="mwAmg">seht-TAHN-tah</i>)</dd>
+<dt id="mwAmk">80</dt><dd id="mwAmo">ottanta (<i id="mwAms">oht-TAHN-tah</i>)</dd>
+<dt id="mwAmw">90</dt><dd id="mwAm0">novanta (<i id="mwAm4">noh-VAHN-tah</i>)</dd></dl>
+<figure typeof="mw:File/Thumb" id="mwAm8"><a href="https://en.wikivoyage.org/wiki/File:Spezie_Campo_dei_fiori_mercato_08.jpg" class="mw-file-description" id="mwAnA"><img resource="https://en.wikivoyage.org/wiki/File:Spezie_Campo_dei_fiori_mercato_08.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Spezie_Campo_dei_fiori_mercato_08.jpg/330px-Spezie_Campo_dei_fiori_mercato_08.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="2288" data-file-height="1712" data-file-type="bitmap" height="224" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Spezie_Campo_dei_fiori_mercato_08.jpg/960px-Spezie_Campo_dei_fiori_mercato_08.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwAnE"/></a><figcaption id="mwAnI">Spices for sale at the Campo dei Fiori market in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Rome" title="Rome" id="mwAnM">Rome</a></figcaption></figure>
+<dl id="mwAnQ"><dt id="mwAnU">100</dt><dd id="mwAnY">cento (<i id="mwAnc">CHEHN-toh</i>)</dd>
+<dt id="mwAng">200</dt><dd id="mwAnk">duecento (<i id="mwAno">dweh-CHEHN-toh</i>)</dd>
+<dt id="mwAns">300</dt><dd id="mwAnw">trecento (<i id="mwAn0">treh-CHEHN-toh</i>)</dd>
+<dt id="mwAn4">1,000</dt><dd id="mwAn8">mille (<i id="mwAoA">MEEL-leh</i>)</dd>
+<dt id="mwAoE">2,000</dt><dd id="mwAoI">duemila (<i id="mwAoM">dweh-MEE-lah</i>)</dd>
+<dt id="mwAoQ">1,000,000</dt><dd id="mwAoU">un milione (<i id="mwAoY">oon mee-LYOH-neh</i>)</dd>
+<dt id="mwAoc">1,000,000,000</dt><dd id="mwAog">un miliardo (<i id="mwAok">oo mee-LYAHR-doh</i>)</dd>
+<dt id="mwAoo">1,000,000,000,000</dt><dd id="mwAos">un bilione (<i id="mwAow">oo bee-LYOH-neh</i>)</dd>
+<dt id="mwAo0">number _____ (<i id="mwAo4">train, bus, etc.</i>)</dt><dd id="mwAo8">numero_____ (<i id="mwApA">NOO-meh-roh</i>)</dd>
+<dt id="mwApE">half</dt><dd id="mwApI">mezzo (<i id="mwApM">MEHD-dzoh</i>)</dd>
+<dt id="mwApQ">less</dt><dd id="mwApU">meno (<i id="mwApY">MEH-noh</i>)</dd>
+<dt id="mwApc">more</dt><dd id="mwApg">più (<i id="mwApk">pyoo</i>)</dd></dl>
+
+</section><section data-mw-section-id="19" id="mwApo" aria-labelledby="Time"><div class="mw-heading mw-heading3"><h3 id="Time">Time</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=19" title="Edit section: Time"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwAps"><dt id="mwApw">now</dt><dd id="mwAp0">adesso (<i id="mwAp4">ah-DEHSS-oh</i>) / ora (<i id="mwAp8">OH-rah</i>)</dd>
+<dt id="mwAqA">later</dt><dd id="mwAqE">più tardi (<i id="mwAqI">PYOO TAR-dee</i>) - dopo ("DOH-poh")</dd>
+<dt id="mwAqM">before</dt><dd id="mwAqQ">prima (<i id="mwAqU">PREE-ma</i>)</dd>
+<dt id="mwAqY">morning</dt><dd id="mwAqc">mattino (<i id="mwAqg">mah-TEEN-oh</i>) / mattina (<i id="mwAqk">mah-TEEN-ah</i>)</dd>
+<dt id="mwAqo">afternoon</dt><dd id="mwAqs">pomeriggio (<i id="mwAqw">poh-meh-REEJ-joh</i>)</dd>
+<dt id="mwAq0">evening</dt><dd id="mwAq4">sera (<i id="mwAq8">SEH-rah</i>)</dd>
+<dt id="mwArA">night</dt><dd id="mwArE">notte (<i id="mwArI">NOHT-teh</i>)</dd></dl>
+
+<section data-mw-section-id="20" id="mwArM" aria-labelledby="Clock_time"><div class="mw-heading mw-heading4"><h4 id="Clock_time">Clock time</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=20" title="Edit section: Clock time"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb" id="mwArQ"><a href="https://en.wikivoyage.org/wiki/File:Piadena_staz.jpg" class="mw-file-description" id="mwArU"><img resource="https://en.wikivoyage.org/wiki/File:Piadena_staz.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Piadena_staz.jpg/250px-Piadena_staz.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="2736" data-file-height="3648" data-file-type="bitmap" height="333" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Piadena_staz.jpg/500px-Piadena_staz.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwArY"/></a><figcaption id="mwArc">Le undici e nove</figcaption></figure>
+<dl id="mwArg"><dt id="mwArk">one o'clock AM</dt><dd id="mwAro">l'una or l'una del mattino (<i id="mwArs">LOO-nah</i>)</dd>
+<dt id="mwArw">two o'clock AM</dt><dd id="mwAr0">le due or le due del mattino (<i id="mwAr4">leh DOO-eh</i>)</dd>
+<dt id="mwAr8">noon</dt><dd id="mwAsA">mezzogiorno (<i id="mwAsE">mehd-dzoh-JOHR-noh</i>)</dd>
+<dt id="mwAsI">one o'clock PM</dt><dd id="mwAsM">le tredici or l'una del pomeriggio (<i id="mwAsQ">leh TREH-dee-chee</i>)</dd>
+<dt id="mwAsU">two o'clock PM</dt><dd id="mwAsY">le quattordici or le due del pomeriggio (<i id="mwAsc">leh kwaht-TOHR-dee-chee</i>)</dd>
+<dt id="mwAsg">midnight</dt><dd id="mwAsk">mezzanotte (<i id="mwAso">mehd-dzah-NOHT-teh</i>)</dd></dl>
+
+</section><section data-mw-section-id="21" id="mwAss" aria-labelledby="Duration"><div class="mw-heading mw-heading4"><h4 id="Duration">Duration</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=21" title="Edit section: Duration"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwAsw"><dt id="mwAs0">_____ minute(s)</dt><dd id="mwAs4">_____ minuto/ti (<i id="mwAs8">mee-NOO-toh/tee</i>)</dd>
+<dt id="mwAtA">_____ hour(s)</dt><dd id="mwAtE">_____ ora/e (<i id="mwAtI">OH-rah/eh</i>)</dd>
+<dt id="mwAtM">_____ day(s)</dt><dd id="mwAtQ">_____ giorno/ni (<i id="mwAtU">JOHR-noh/nee</i>)</dd>
+<dt id="mwAtY">_____ week(s)</dt><dd id="mwAtc">_____ settimana/ne (<i id="mwAtg">seht-tee-MAH-nah/neh</i>)</dd>
+<dt id="mwAtk">_____ month(s)</dt><dd id="mwAto">_____ mese/si (<i id="mwAts">MEH-zeh/zee</i>)</dd>
+<dt id="mwAtw">_____ year(s)</dt><dd id="mwAt0">_____ anno/ni (<i id="mwAt4">AHN-noh/nee</i>)</dd></dl>
+
+</section><section data-mw-section-id="22" id="mwAt8" aria-labelledby="Days"><div class="mw-heading mw-heading4"><h4 id="Days">Days</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=22" title="Edit section: Days"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwAuA"><dt id="mwAuE">today</dt><dd id="mwAuI">oggi (<i id="mwAuM">OHJ-jee</i>)</dd>
+<dt id="mwAuQ">yesterday</dt><dd id="mwAuU">ieri (<i id="mwAuY">YEH-ree</i>)</dd>
+<dt id="mwAuc">tomorrow</dt><dd id="mwAug">domani (<i id="mwAuk">doh-MAH-nee</i>)</dd>
+<dt id="mwAuo">day after tomorrow</dt><dd id="mwAus">dopo domani (<i id="mwAuw"> doh-poh doh-MAH-nee</i>)</dd>
+<dt id="mwAu0">this week</dt><dd id="mwAu4">questa settimana (<i id="mwAu8">KWEHS-tah seht-tee-MAH-nah</i>)</dd>
+<dt id="mwAvA">last week</dt><dd id="mwAvE">la settimana scorsa (<i id="mwAvI">lah set-tee-MAH-nah SKOR-sah</i>)</dd>
+<dt id="mwAvM">next week</dt><dd id="mwAvQ">la prossima settimana (<i id="mwAvU">lah PROHS-see-mah set-tee-MAH-nah</i>)</dd></dl>
+
+<dl id="mwAvY"><dt id="mwAvc">Sunday</dt><dd id="mwAvg">domenica (<i id="mwAvk">doh-MEH-nee-kah</i>)</dd>
+<dt id="mwAvo">Monday</dt><dd id="mwAvs">lunedì (<i id="mwAvw">loo-neh-DEE</i>)</dd>
+<dt id="mwAv0">Tuesday</dt><dd id="mwAv4">martedì (<i id="mwAv8">mahr-teh-DEE</i>)</dd>
+<dt id="mwAwA">Wednesday</dt><dd id="mwAwE">mercoledì (<i id="mwAwI">mehr-koh-leh-DEE</i>)</dd>
+<dt id="mwAwM">Thursday</dt><dd id="mwAwQ">giovedì (<i id="mwAwU">joh-veh-DEE</i>)</dd>
+<dt id="mwAwY">Friday</dt><dd id="mwAwc">venerdì (<i id="mwAwg">veh-nehr-DEE</i>)</dd>
+<dt id="mwAwk">Saturday</dt><dd id="mwAwo">sabato (<i id="mwAws">SAH-bah-toh</i>)</dd></dl>
+
+</section><section data-mw-section-id="23" id="mwAww" aria-labelledby="Months"><div class="mw-heading mw-heading4"><h4 id="Months">Months</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=23" title="Edit section: Months"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb" id="mwAw0"><a href="https://en.wikivoyage.org/wiki/File:Bari_-_panoramio_(4).jpg" class="mw-file-description" id="mwAw4"><img resource="https://en.wikivoyage.org/wiki/File:Bari_-_panoramio_(4).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bari_-_panoramio_%284%29.jpg/330px-Bari_-_panoramio_%284%29.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="1600" data-file-height="1200" data-file-type="bitmap" height="225" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bari_-_panoramio_%284%29.jpg/960px-Bari_-_panoramio_%284%29.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwAw8"/></a><figcaption id="mwAxA">Late October in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Bari" title="Bari" id="mwAxE">Bari</a></figcaption></figure>
+<dl id="mwAxI"><dt id="mwAxM">January</dt><dd id="mwAxQ">gennaio (<i id="mwAxU">jehn-NAH-yoh</i>)</dd>
+<dt id="mwAxY">February</dt><dd id="mwAxc">febbraio (<i id="mwAxg">fehb-BRAH-yoh</i>)</dd>
+<dt id="mwAxk">March</dt><dd id="mwAxo">marzo (<i id="mwAxs">MAR-tso</i>)</dd>
+<dt id="mwAxw">April</dt><dd id="mwAx0">aprile (<i id="mwAx4">ah-PREE-leh</i>)</dd>
+<dt id="mwAx8">May</dt><dd id="mwAyA">maggio (<i id="mwAyE">MAHD-joh</i>)</dd>
+<dt id="mwAyI">June</dt><dd id="mwAyM">giugno (<i id="mwAyQ">JOO-nyoh</i>)</dd>
+<dt id="mwAyU">July</dt><dd id="mwAyY">luglio (<i id="mwAyc">LOO-lyoh</i>)</dd>
+<dt id="mwAyg">August</dt><dd id="mwAyk">agosto (<i id="mwAyo">ah-GOHS-toh</i>)</dd>
+<dt id="mwAys">September</dt><dd id="mwAyw">settembre (<i id="mwAy0">seht-TEM-breh</i>)</dd>
+<dt id="mwAy4">October</dt><dd id="mwAy8">ottobre (<i id="mwAzA">oht-TOH-breh</i>)</dd>
+<dt id="mwAzE">November</dt><dd id="mwAzI">novembre (<i id="mwAzM">noh-VEHM-breh</i>)</dd>
+<dt id="mwAzQ">December</dt><dd id="mwAzU">dicembre (<i id="mwAzY">dee-CHEM-breh</i>)</dd></dl>
+
+</section><section data-mw-section-id="24" id="mwAzc" aria-labelledby="Writing_time_and_date"><div class="mw-heading mw-heading4"><h4 id="Writing_time_and_date">Writing time and date</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=24" title="Edit section: Writing time and date"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAzg">Italy uses the 24 hour clock.</p>
+
+<p id="mwAzk">First in dates is the day, then is the month, and last is the year.</p>
+
+<p id="mwAzo">For example: 23/1/2010 is in letters <i id="mwAzs">23 gennaio 2010</i>.</p>
+
+<p id="mwAzw">To write clock times, the hour is before the minutes and they are separated by "e" (and).</p>
+
+<p id="mwAz0">For example: 6:43 (written 6.43 in Italy) is read <i id="mwAz4">sei e quarantatre</i>.</p>
+
+<p id="mwAz8">In informal speech, Italians can use a more complex system with a 12 hours clock and words meaning "a quarter past/to" (e.g., 2.45 is <i id="mwA0A">le tre, meno un quarto</i>), but you won't find it written anywhere and everyone understands the 24-hour system. Only remember that you must mention the part of the day (mattina, pomeriggio etc.) instead of saying "am" and "pm".</p>
+
+</section></section><section data-mw-section-id="25" id="mwA0E" aria-labelledby="Colors"><div class="mw-heading mw-heading3"><h3 id="Colors">Colors</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=25" title="Edit section: Colors"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwA0I"><dt id="mwA0M">black</dt><dd id="mwA0Q">nero (<i id="mwA0U">NEH-roh</i>)</dd>
+<dt id="mwA0Y">white</dt><dd id="mwA0c">bianco (<i id="mwA0g">BYAHN-koh</i>)</dd>
+<dt id="mwA0k">gray</dt><dd id="mwA0o">grigio (<i id="mwA0s">GREE-joh</i>)</dd>
+<dt id="mwA0w">red</dt><dd id="mwA00">rosso (<i id="mwA04">ROHS-soh</i>)</dd>
+<dt id="mwA08">blue</dt><dd id="mwA1A">blu (<i id="mwA1E">bloo</i>) / azzurro (<i id="mwA1I">ahd-DZOOHR-roh</i>)</dd>
+<dt id="mwA1M">yellow</dt><dd id="mwA1Q">giallo (<i id="mwA1U">JAHL-loh</i>)</dd>
+<dt id="mwA1Y">green</dt><dd id="mwA1c">verde (<i id="mwA1g">VEHR-deh</i>)</dd>
+<dt id="mwA1k">orange</dt><dd id="mwA1o">arancione (<i id="mwA1s">ah-rahn-CHOH-neh</i>)</dd>
+<dt id="mwA1w">purple</dt><dd id="mwA10">viola (<i id="mwA14">vee-OH-lah</i>)</dd>
+<dt id="mwA18">brown</dt><dd id="mwA2A">marrone (<i id="mwA2E">mahr-ROH-neh</i>)</dd>
+<dt id="mwA2I">pink</dt><dd id="mwA2M">rosa (<i id="mwA2Q">ROH-sah</i>)</dd></dl>
+
+</section><section data-mw-section-id="26" id="mwA2U" aria-labelledby="Transportation"><div class="mw-heading mw-heading3"><h3 id="Transportation">Transportation</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=26" title="Edit section: Transportation"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb" id="mwA2Y"><a href="https://en.wikivoyage.org/wiki/File:Italo_Treno_number_9990_at_Verona_Porta_Nuova_train_station.jpg" class="mw-file-description" id="mwA2c"><img resource="https://en.wikivoyage.org/wiki/File:Italo_Treno_number_9990_at_Verona_Porta_Nuova_train_station.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Italo_Treno_number_9990_at_Verona_Porta_Nuova_train_station.jpg/330px-Italo_Treno_number_9990_at_Verona_Porta_Nuova_train_station.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="5184" data-file-height="3456" data-file-type="bitmap" height="200" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Italo_Treno_number_9990_at_Verona_Porta_Nuova_train_station.jpg/960px-Italo_Treno_number_9990_at_Verona_Porta_Nuova_train_station.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwA2g"/></a><figcaption id="mwA2k">Italo high-speed train</figcaption></figure>
+<section data-mw-section-id="27" id="mwA2o" aria-labelledby="Bus_and_train"><div class="mw-heading mw-heading4"><h4 id="Bus_and_train">Bus and train</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=27" title="Edit section: Bus and train"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwA2s"><dt id="mwA2w">Train</dt><dd id="mwA20">treno (<i id="mwA24">TREH-noh</i>)</dd>
+<dt id="mwA28">Bus</dt><dd id="mwA3A">autobus (<i id="mwA3E">OW-toh-boos</i>) or pullman (<i id="mwA3I">POOL-mahn</i>)</dd>
+<dt id="mwA3M">How much is a ticket to _____?</dt><dd id="mwA3Q">Quanto costa un biglietto per _____? (<i id="mwA3U">KWAHN-toh KOHS-tah oon bee-LYEHT-toh pehr</i>)</dd>
+<dt id="mwA3Y">One ticket to _____, please.</dt><dd id="mwA3c">Un biglietto per _____, per favore. (<i id="mwA3g">oon bee-LYEHT-toh pehr....pehr fah-VOH-reh</i>)</dd>
+<dt id="mwA3k">Where does this train/bus go?</dt><dd id="mwA3o">Dove va questo treno/autobus/pullman? (<i id="mwA3s">DOH-veh vah KWEHS-toh TREH-noh/OW-toh-boos/POOL-mahn</i>)</dd>
+<dt id="mwA3w">Where is the train/bus to _____?</dt><dd id="mwA30">Dov'è il treno/l'autobus per _____? (<i id="mwA34">doh-VEH eel TREH-noh/ low-TOH-boos</i>)</dd>
+<dt id="mwA38">Does this train/bus stop in _____?</dt><dd id="mwA4A">Questo treno/autobus si ferma a _____? (<i id="mwA4E">KWEHS-toh TREH-noh/ OW-toh-boos see FEHR-mah ah</i>)</dd>
+<dt id="mwA4I">When does the train/bus for _____ leave?</dt><dd id="mwA4M">Quando parte il treno/l'autobus per _____? (<i id="mwA4Q">KWAHN-doh PAHR-teh eel TREH-noh / LOW-toh-boos</i>)</dd>
+<dt id="mwA4U">When will this train/bus arrive in _____?</dt><dd id="mwA4Y">Questo treno/autobus quando arriva a _____? (<i id="mwA4c">KWEHS-toh TREH-noh/ OW-toh-boos KWAHN-doh ahr-REE-vah ah....</i>)</dd></dl>
+
+</section><section data-mw-section-id="28" id="mwA4g" aria-labelledby="Directions"><div class="mw-heading mw-heading4"><h4 id="Directions">Directions</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=28" title="Edit section: Directions"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwA4k"><dt id="mwA4o">How do I get to _____<span typeof="mw:DisplaySpace" id="mwA4s"> </span>?</dt><dd id="mwA4w">Come arrivo a _____<span typeof="mw:DisplaySpace" id="mwA40"> </span>? (<i id="mwA44">Koh-meh ahr-REE-voh ah...?</i>)</dd>
+<dt id="mwA48">...to the railway station?</dt><dd id="mwA5A">...alla stazione ferroviaria? (<i id="mwA5E">...ahl-lah stah-DSYOH-neh fehr-roh-VYAH-ryah?</i>)</dd>
+<dt id="mwA5I">...to the bus station?</dt><dd id="mwA5M">...alla stazione degli autobus? (<i id="mwA5Q">...ahl-lah stah-DSYOH-neh del-lee-OW-toh-boos?</i>)</dd>
+<dt id="mwA5U">...to the bus stop?</dt><dd id="mwA5Y">...alla fermata dell'autobus? (<i id="mwA5c">...ahl-lah fer-MAH-tah dehl-LOW-toh-boos?</i>)</dd>
+<dt id="mwA5g">...to the airport?</dt><dd id="mwA5k">...all'aeroporto? (<i id="mwA5o">...ahl-lah-eh-roh-POHR-toh?</i>)</dd>
+<dt id="mwA5s">...downtown?</dt><dd id="mwA5w">...in centro? (<i id="mwA50">...een CHEHN-troh</i>)</dd>
+<dt id="mwA54">...the youth hostel?</dt><dd id="mwA58">...all'ostello? (<i id="mwA6A">...ahl-LOHS-tehl-loh?</i>)</dd>
+<dt id="mwA6E">...the small hotel? / hotel?</dt><dd id="mwA6I">...all'albergo? hotel? (<i id="mwA6M">...ahl-lahl-BEHR-goh/ oh-TEHL?</i>)</dd>
+<dt id="mwA6Q">...the American/Canadian/Australian/British consulate?</dt><dd id="mwA6U">...al consolato americano/canadese/australiano/britannico? (<i id="mwA6Y">...ahl kohn-soh-LAH-toh ameh-ree-KAH-noh/ kah-nah-DEH-zeh/ ows-trah-LYAH-noh/ bree-TAHN-nee-koh?</i>)</dd>
+<dt id="mwA6c">Where are there a lot of...</dt><dd id="mwA6g">Dove ci sono molti... (<i id="mwA6k">DOH-veh chee SOH-noh MOHL-tee...</i>)</dd>
+<dt id="mwA6o">...hotels?</dt><dd id="mwA6s">...hotel? (<i id="mwA6w">...oh-TEHL?</i>)</dd>
+<dt id="mwA60">...restaurants?</dt><dd id="mwA64">...ristoranti? (<i id="mwA68">...rees-toh-RAHN-tee?</i>)</dd>
+<dt id="mwA7A">...bars?</dt><dd id="mwA7E">...bar? (<i id="mwA7I">bahr?</i>)</dd></dl>
+<figure typeof="mw:File/Thumb" id="mwA7M"><a href="https://en.wikivoyage.org/wiki/File:Vatican_Sunset_-_Rome,_Italy_-_Easter_2008.jpg" class="mw-file-description" id="mwA7Q"><img resource="https://en.wikivoyage.org/wiki/File:Vatican_Sunset_-_Rome,_Italy_-_Easter_2008.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Vatican_Sunset_-_Rome%2C_Italy_-_Easter_2008.jpg/330px-Vatican_Sunset_-_Rome%2C_Italy_-_Easter_2008.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="2500" data-file-height="1875" data-file-type="bitmap" height="225" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Vatican_Sunset_-_Rome%2C_Italy_-_Easter_2008.jpg/960px-Vatican_Sunset_-_Rome%2C_Italy_-_Easter_2008.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwA7U"/></a><figcaption id="mwA7Y">The <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Vatican" title="Vatican" class="mw-redirect" id="mwA7c">Vatican</a>, for instance, has quite a few sights to see</figcaption></figure>
+<dl id="mwA7g"><dt id="mwA7k">...sites to see?</dt><dd id="mwA7o">...cose da vedere? (<i id="mwA7s">KOH-zeh dah veh-DEH-reh?</i>) or ...luoghi da vedere? (<i id="mwA7w">...LWOH-gee dah veh-DEH-reh?</i>)</dd>
+<dt id="mwA70">Can you show (it to) me on the map?</dt><dd id="mwA74">Potreste mostrarmelo sulla mappa/carta stradale? (<i id="mwA78">plural "you"</i>)(<i id="mwA8A">poh-TREHS-teh mohs-TRAHR-meh-loh sool-lah MAHP-pa/KAHR-tah strah-DAH-leh?</i>) / Potrebbe mostrarmelo sulla mappa/carta stradale? (<i id="mwA8E">singular formal "you"</i>)(<i id="mwA8I">poh-TREHB-beh mohs-TRAHR-meh-loh sool-LAH MAHP-pa/KAHR-tah strah-DAH-leh?</i>) / Puoi mostrarmelo sulla mappa/carta stradale? (<i id="mwA8M">singular informal "you"</i>)(<i id="mwA8Q">poo-OH-ee-mohs-TRAHR-meh-loh sool-LAH MAHP-pa/KAHR-tah strah-DAH-leh?</i>)</dd>
+<dt id="mwA8U">street</dt><dd id="mwA8Y">strada (<i id="mwA8c">STRAH-dah</i>)</dd>
+<dt id="mwA8g">Turn left.</dt><dd id="mwA8k">Giri a sinistra. (<i id="mwA8o">formal</i>)(<i id="mwA8s">JEE-ree ah see-NEES-trah</i>) / Gira a sinistra. (<i id="mwA8w">informal</i>)(<i id="mwA80">JEE-rah ah see-NEES-trah</i>)</dd>
+<dt id="mwA84">Turn right.</dt><dd id="mwA88">Giri a destra. (<i id="mwA9A">formal</i>)(<i id="mwA9E">JEE-ree ah DEHS-trah</i>) / Gira a destra. (<i id="mwA9I">informal</i>)(<i id="mwA9M">JEE-ree ah DEHS-trah</i>)</dd>
+<dt id="mwA9Q">left</dt><dd id="mwA9U">sinistra (<i id="mwA9Y">see-NEES-trah</i>)</dd>
+<dt id="mwA9c">right</dt><dd id="mwA9g">destra (<i id="mwA9k">DEHS-trah</i>)</dd>
+<dt id="mwA9o">straight ahead</dt><dd id="mwA9s">diritto (<i id="mwA9w">dee-REET-toh</i>) / dritto (<i id="mwA90">DREET-toh</i>)</dd>
+<dt id="mwA94">towards the _____</dt><dd id="mwA98">verso il/la  _____ (<i id="mwA-A">VEHR-zoh eel...</i>)</dd>
+<dt id="mwA-E">past the _____</dt><dd id="mwA-I">dopo il/la _____ (<i id="mwA-M">DOH-poh eel...</i>)</dd>
+<dt id="mwA-Q">before the _____</dt><dd id="mwA-U">prima del/della _____ (<i id="mwA-Y">PREE-mah dehl...</i>)</dd>
+<dt id="mwA-c">next to the _____</dt><dd id="mwA-g">accanto al/alla _____ (<i id="mwA-k">ah-KAHN-toh ahl...</i>)</dd>
+<dt id="mwA-o">opposite the _____</dt><dd id="mwA-s">di fronte al/alla _____ (<i id="mwA-w">dee FRON-teh ahl...</i>)</dd>
+<dt id="mwA-0">north</dt><dd id="mwA-4">nord (<i id="mwA-8">nohrd</i>)   abbreviation N</dd>
+<dt id="mwA_A">south</dt><dd id="mwA_E">sud (<i id="mwA_I">sood</i>)   abbreviation S</dd>
+<dt id="mwA_M">east</dt><dd id="mwA_Q">est (<i id="mwA_U">ehst</i>)   abbreviation E</dd>
+<dt id="mwA_Y">west</dt><dd id="mwA_c">ovest (<i id="mwA_g">oh-VEHST</i>)   abbreviation O</dd>
+<dt id="mwA_k">Watch for the _____.</dt><dd id="mwA_o">Cerchi il/la (<i id="mwA_s">formal</i>)(<i id="mwA_w">CHEHR-kee eel...</i>) / Cerca il/la _____. (<i id="mwA_0">informal</i>)(<i id="mwA_4">CHEHR-kah eel...</i>)</dd>
+<dt id="mwA_8">Beware of the _____.</dt><dd id="mwBAA">"Presti attenzione al/alla .... (formal)/ Attento al/alla ....! (informal))</dd>
+<dt id="mwBAE">road</dt><dd id="mwBAI">strada (<i id="mwBAM">STRAH-dah</i>)</dd>
+<dt id="mwBAQ">intersection</dt><dd id="mwBAU">incrocio (<i id="mwBAY">een-KROH-choh</i>)</dd>
+<dt id="mwBAc">bend</dt><dd id="mwBAg">svolta (<i id="mwBAk">SVOL-tah</i>)</dd>
+<dt id="mwBAo">slope</dt><dd id="mwBAs">pendio (<i id="mwBAw">PEN-dee-oh</i>)</dd>
+<dt id="mwBA0">traffic light</dt><dd id="mwBA4">semaforo (<i id="mwBA8">sem-ah-FOR-oh</i>)</dd>
+<dt id="mwBBA">roundabout</dt><dd id="mwBBE">rotatoria (<i id="mwBBI">roh-tah-TOR-ee-ah</i>)</dd>
+<dt id="mwBBM">motorway</dt><dd id="mwBBQ">autostrada (<i id="mwBBU">ow-to-STRAH-dah</i>)</dd>
+<dt id="mwBBY">railway</dt><dd id="mwBBc">ferrovia (<i id="mwBBg">ferr-oh-VEE-ah</i>)</dd>
+<dt id="mwBBk">level crossing</dt><dd id="mwBBo">passaggio a livello (<i id="mwBBs">pahs-AH-jee-oh a lee-VELL-oh</i>)</dd>
+<dt id="mwBBw">bridge</dt><dd id="mwBB0">ponte (<i id="mwBB4">PON-teh</i>)</dd></dl>
+
+</section><section data-mw-section-id="29" id="mwBB8" aria-labelledby="Taxi"><div class="mw-heading mw-heading4"><h4 id="Taxi">Taxi</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=29" title="Edit section: Taxi"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb" id="mwBCA"><a href="https://en.wikivoyage.org/wiki/File:License_Free_Photo_-_Creative_Commons_by_gnuckx_(11645638846).jpg" class="mw-file-description" id="mwBCE"><img resource="https://en.wikivoyage.org/wiki/File:License_Free_Photo_-_Creative_Commons_by_gnuckx_(11645638846).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/License_Free_Photo_-_Creative_Commons_by_gnuckx_%2811645638846%29.jpg/330px-License_Free_Photo_-_Creative_Commons_by_gnuckx_%2811645638846%29.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="1391" data-file-height="924" data-file-type="bitmap" height="199" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/License_Free_Photo_-_Creative_Commons_by_gnuckx_%2811645638846%29.jpg/960px-License_Free_Photo_-_Creative_Commons_by_gnuckx_%2811645638846%29.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwBCI"/></a><figcaption id="mwBCM">Water taxi in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Venice" title="Venice" id="mwBCQ">Venice</a></figcaption></figure>
+<dl id="mwBCU"><dt id="mwBCY">Taxi!</dt><dd id="mwBCc">Taxi! (<i id="mwBCg">TAHK-see</i>)</dd>
+<dt id="mwBCk">Take me to _____, please.</dt><dd id="mwBCo">Mi porti a _____, per favore. (<i id="mwBCs">mee POHR-tee ah..., pehr fah-VOH-reh</i>)</dd>
+<dt id="mwBCw">How much does it cost to get to _____?</dt><dd id="mwBC0">Quanto costa andare a _____? (<i id="mwBC4">KWAHN-toh KOHS-tah ahn-DAH-reh ah...?</i>)</dd>
+<dt id="mwBC8">Please take me to_____.</dt><dd id="mwBDA">Per favore, mi porti a______. (<i id="mwBDE">pehr fah-VOH-reh, mee POHR-tee ah...</i>)</dd>
+<dt id="mwBDI">I'm in a hurry!</dt><dd id="mwBDM">Vado di fretta! / Ho fretta! (<i id="mwBDQ">VAH-doh dee FREHT-tah/ oh FREHT-tah</i>)</dd>
+<dt id="mwBDU">Stop here, please!</dt><dd id="mwBDY">Fermi qui, per favore! (<i id="mwBDc">FEHR-mee kwee pehr fah-VOH-reh</i>)</dd>
+<dt id="mwBDg">How much do I owe you?</dt><dd id="mwBDk">Quanto le devo? (formal) (<i id="mwBDo">KWAHN-toh leh DEH-voh</i>)</dd></dl>
+
+</section></section><section data-mw-section-id="30" id="mwBDs" aria-labelledby="Lodging"><div class="mw-heading mw-heading3"><h3 id="Lodging">Lodging</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=30" title="Edit section: Lodging"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwBDw"><dt id="mwBD0">Are there any rooms available?</dt><dd id="mwBD4">Ci sono camere libere? (<i id="mwBD8">chee soh-noh KAH-meh-reh LEE-behr-reh?</i>)</dd>
+<dt id="mwBEA">How much is a room for one person/two people?</dt><dd id="mwBEE">Quanto costa una stanza singola/doppia? (<i id="mwBEI">KWAHN-toh KOHS-tah OO-nah STAHN-tsah SEEN-goh-lah/ DOHP-pyah</i>)</dd>
+<dt id="mwBEM">Does the room come with...</dt><dd id="mwBEQ">La stanza ha ... (<i id="mwBEU">lah STAHN-tsah ah...</i>)</dd>
+<dt id="mwBEY">...bedsheets?</dt><dd id="mwBEc">...lenzuola? (<i id="mwBEg">...lehn-ZWOH-lah?</i>)</dd>
+<dt id="mwBEk">...a bathroom?</dt><dd id="mwBEo">...un bagno? (<i id="mwBEs">...oon BAH-nyoh?</i>)</dd>
+<dt id="mwBEw">...a telephone?</dt><dd id="mwBE0">...un telefono? (<i id="mwBE4">...oon teh-LEH-foh-noh</i>)</dd>
+<dt id="mwBE8">...a TV?</dt><dd id="mwBFA">...un televisore? (<i id="mwBFE">...oon teh-leh-VEE-soh-reh?</i>)</dd>
+<dt id="mwBFI">May I see the room first?</dt><dd id="mwBFM">Posso prima vedere la stanza? (<i id="mwBFQ">POHS-soh PREE-mah veh-DEH-reh lah STAHN-tsah?</i>)</dd>
+<dt id="mwBFU">Do you have anything quieter?</dt><dd id="mwBFY">Ha una stanza più silenziosa? (<i id="mwBFc">ah OO-nah STAHN-tsah pyoo see-lehn-TSYOH-zah?</i>)</dd>
+<dt id="mwBFg">...bigger?</dt><dd id="mwBFk">...più grande? (<i id="mwBFo">pyoo GRAHN-deh?</i>)</dd>
+<dt id="mwBFs">...cleaner?</dt><dd id="mwBFw">...più pulita? (<i id="mwBF0">pyoo poo-LEE-tah?</i>)</dd>
+<dt id="mwBF4">...cheaper?</dt><dd id="mwBF8">...più economica? (<i id="mwBGA">pyoo eh-koh-NOH-mee-kah?</i>)</dd></dl>
+<figure typeof="mw:File/Thumb" id="mwBGE"><a href="https://en.wikivoyage.org/wiki/File:Pisa,_Province_of_Pisa,_Italy_-_panoramio_(7).jpg" class="mw-file-description" id="mwBGI"><img resource="https://en.wikivoyage.org/wiki/File:Pisa,_Province_of_Pisa,_Italy_-_panoramio_(7).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pisa%2C_Province_of_Pisa%2C_Italy_-_panoramio_%287%29.jpg/330px-Pisa%2C_Province_of_Pisa%2C_Italy_-_panoramio_%287%29.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="1500" data-file-height="1000" data-file-type="bitmap" height="200" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pisa%2C_Province_of_Pisa%2C_Italy_-_panoramio_%287%29.jpg/960px-Pisa%2C_Province_of_Pisa%2C_Italy_-_panoramio_%287%29.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwBGM"/></a><figcaption id="mwBGQ">Campsites can also be an option</figcaption></figure>
+<dl id="mwBGU"><dt id="mwBGY">OK, I'll take it.</dt><dd id="mwBGc">Va bene, la prendo. (<i id="mwBGg">vah BEH-neh, lah PREHN-doh</i>)</dd>
+<dt id="mwBGk">I will stay for _____ night(s).</dt><dd id="mwBGo">Mi fermo per _____ notte(i). (<i id="mwBGs">mee FEHR-moh pehr...NOHT-teh(ee)</i>)</dd>
+<dt id="mwBGw">Can you suggest another hotel?</dt><dd id="mwBG0">Può suggerirmi un altro hotel? (<i id="mwBG4">pwoh soo-jeh-REER-mee oon AHL-troh OH-tehl?</i>)</dd>
+<dt id="mwBG8">Is there a safe?</dt><dd id="mwBHA">C'e una cassaforte? (<i id="mwBHE">cheh OO-nah kahs-sah-FOHR-teh?</i>)</dd>
+<dt id="mwBHI">Is breakfast/supper included?</dt><dd id="mwBHM">È inclusa la colazione/cena? (<i id="mwBHQ">EH een-KLOO-zah la koh-lah-TSYOH-neh/CHEH-nah?</i>)</dd>
+<dt id="mwBHU">What time is breakfast/supper?</dt><dd id="mwBHY">A che ora è la colazione/cena? (<i id="mwBHc">ah keh OH-rah EH lah koh-lah-TSYOH-neh/CHEH-nah</i>)</dd>
+<dt id="mwBHg">Please clean my room.</dt><dd id="mwBHk">Potrebbe pulire la mia camera, per favore. (<i id="mwBHo">poh-TREHB-beh poo-LEE-reh lah myah kah-MEH-rah, pehr fah-VOH-reh</i>)</dd>
+<dt id="mwBHs">Can you wake me at _____?</dt><dd id="mwBHw">Potrebbe svegliarmi alle _____? (<i id="mwBH0">poh-TREHB-beh sveh-LYAHR-mee AHL-leh....?</i>)</dd>
+<dt id="mwBH4">I want to check out.</dt><dd id="mwBH8">Vorrei fare il check out. (<i id="mwBIA">vohr-RAY FAH-reh eel check out</i>)</dd></dl>
+
+</section><section data-mw-section-id="31" id="mwBIE" aria-labelledby="Money"><div class="mw-heading mw-heading3"><h3 id="Money">Money</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=31" title="Edit section: Money"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwBII"><dt id="mwBIM">Are American/Australian/Canadian dollars accepted here?</dt><dd id="mwBIQ">Si accettano dollari americani/australiani/canadesi qui? (<i id="mwBIU">see aht-CHEHT-tah-noh DOHL-lah-ree ah-meh-ree-KAH-nee/ ows-trah-LYAH-nee/ kah-nah-DEH-see kwee?</i>)</dd>
+<dt id="mwBIY">Are British pounds accepted?</dt><dd id="mwBIc">Si accettano sterline inglesi? (<i id="mwBIg">see aht-CHEHT-tah-noh stehr-LEE-neh een-GLEH-zee?</i>)</dd>
+<dt id="mwBIk">Are credit cards accepted?</dt><dd id="mwBIo">Si accettano carte di credito? (<i id="mwBIs">see aht-CHEHT-tah-noh KAHR-teh dee kreh-DEE-toh?</i>)</dd>
+<dt id="mwBIw">Can you change money for me?</dt><dd id="mwBI0">Potrebbe cambiarmi del denaro? (<i id="mwBI4">poh-TREHB-beh kahm-BYAHR-mee dehl deh-NAH-roh?</i>)</dd>
+<dt id="mwBI8">Can you change British pounds for me?</dt><dd id="mwBJA">Potrebbe cambiarmi delle sterline inglesi? (<i id="mwBJE">poh-TREHB-beh kahm-BYAHR-mee DEHL-leh stehr-LEE-neh een-GLEH-zee?</i>)</dd>
+<dt id="mwBJI">Can you change American/Australian/Canadian dollars for me?</dt><dd id="mwBJM">Potrebbe cambiarmi dei dollari americani/australiani/canadesi? (<i id="mwBJQ">poh-TREHB-beh kahm-BYAHR-mee day DOHL-lah-ree ah-meh-ree-KAH-nee/ ows-trah-LYAH-nee/ kah-nah-DEH-see?</i>)</dd>
+<dt id="mwBJU">Where can I get money changed?</dt><dd id="mwBJY">Dove posso cambiare del denaro? (<i id="mwBJc">DOH-veh POHS-soh kahm-BYAH-reh dehl deh-NAH-roh?</i>)</dd>
+<dt id="mwBJg">Where can I get foreign money changed?</dt><dd id="mwBJk">Dove posso cambiare una valuta straniera? (<i id="mwBJo">DOH-veh POHS-soh kahm-BYAH-reh DEHL-lah vah-LOO-tah strah-NYEH-rah?</i>)</dd>
+<dt id="mwBJs">Can you change a traveler's check for me?</dt><dd id="mwBJw">Potrebbe cambiarmi questi traveller's cheque? (<i id="mwBJ0">poh-TREHB-beh kahm-BYAHR-mee KWEHS-tee TRAH-veh-lehrs checks?</i>)</dd>
+<dt id="mwBJ4">Where can I get a traveler's check changed?</dt><dd id="mwBJ8">Dove posso cambiare un traveller's cheque? (<i id="mwBKA">Doh-veh POHS-soh kahm-BYAH-reh oon TRAH-veh-lehrs check?</i>)</dd>
+<dt id="mwBKE">What is the exchange rate?</dt><dd id="mwBKI">Quant'è il tasso di cambio? (<i id="mwBKM">KWAHN-teh eel KAHM-byoh?</i>)</dd>
+<dt id="mwBKQ">Where is an automatic teller machine (ATM)?</dt><dd id="mwBKU">Dove posso trovare uno sportello Bancomat?  (<i id="mwBKY">DOH-veh POHS-soh troh-VAH-reh oon bahn-KOH-maht?</i>)</dd>
+<dt id="mwBKc">NOTE</dt><dd id="mwBKg">In Italy it is more common to say "Bancomat" for "ATM" and many people don't know the word "ATM" at all. Don't look for "ATM" on signs!</dd></dl>
+
+</section><section data-mw-section-id="32" id="mwBKk" aria-labelledby="Eating"><div class="mw-heading mw-heading3"><h3 id="Eating">Eating</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=32" title="Edit section: Eating"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb" id="mwBKo"><a href="https://en.wikivoyage.org/wiki/File:Rifugio_Alpino_Boffalora_(5).JPG" class="mw-file-description" id="mwBKs"><img resource="https://en.wikivoyage.org/wiki/File:Rifugio_Alpino_Boffalora_(5).JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rifugio_Alpino_Boffalora_%285%29.JPG/330px-Rifugio_Alpino_Boffalora_%285%29.JPG?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="2304" data-file-height="3456" data-file-type="bitmap" height="450" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rifugio_Alpino_Boffalora_%285%29.JPG/960px-Rifugio_Alpino_Boffalora_%285%29.JPG?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwBKw"/></a><figcaption id="mwBK0">Menu at a restaurant in Ossuccio, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Lombardy" title="Lombardy" id="mwBK4">Lombardy</a></figcaption></figure>
+<dl id="mwBK8"><dt id="mwBLA">A table for one person/two people, please.</dt><dd id="mwBLE">Un tavolo per uno/due, per favore. (<i id="mwBLI">oon tah-VOH-loh pehr OO-noh/ dweh, pehr fah-VOH-reh</i>)</dd>
+<dt id="mwBLM">Can I look at the menu, please?</dt><dd id="mwBLQ">Posso vedere il menu, per favore? (<i id="mwBLU">POHS-soh veh-DEH-reh eel meh-NOO, pehr fah-VOH-reh?</i>)</dd>
+<dt id="mwBLY">Can I look in the kitchen?</dt><dd id="mwBLc">Posso dare un'occhiata in cucina? (<i id="mwBLg">POHS-soh DAH-reh oon ohk-KYAH-tah een koo-CHEE-nah?</i>)</dd>
+<dt id="mwBLk">Is there a house specialty?</dt><dd id="mwBLo">C'è una specialità della casa? (<i id="mwBLs">cheh OO-nah speh-chah-lee-TAH DEHL-lah KAH-zah?</i>)</dd>
+<dt id="mwBLw">Is there a local specialty?</dt><dd id="mwBL0">C'è una specialità locale? (<i id="mwBL4">cheh OO-nah speh-chah-lee-TAH loh-KAH-leh?</i>)</dd>
+<dt id="mwBL8">I'm a vegetarian.</dt><dd id="mwBMA">Sono vegetariano/a (<i id="mwBME">SOH-noh veh-jeh-tah-RYAH-noh/ ah</i>)</dd>
+<dt id="mwBMI">I don't eat pork.</dt><dd id="mwBMM">Non mangio il maiale. (<i id="mwBMQ">nohn MAHN-joh eel mah-YAH-leh</i>)</dd>
+<dt id="mwBMU">I don't eat beef.</dt><dd id="mwBMY">Non mangio il manzo. (<i id="mwBMc">nohn MAHN-joh eel MAHN-dzoh</i>)</dd>
+<dt id="mwBMg">I only eat kosher food.</dt><dd id="mwBMk">Mangio solamente cibo kosher. (<i id="mwBMo">MAHN-joh soh-LAH-mehn-teh CHEE-boh KOH-shehr</i>)</dd>
+<dt id="mwBMs">Can you make it "lite", please? (<i id="mwBMw">less oil/butter/lard</i>)</dt><dd id="mwBM0">Potrebbe farlo leggero, per favore? (<i id="mwBM4">poh-TREHB-beh FAHR-loh lehd-JEH-roh, pehr fah-VOH-reh?</i>)</dd>
+<dd id="mwBM8">or   Potrebbe farlo con pochi grassi? (with little fat)  or  Potrebbe farlo con poco olio? (with little oil) (<i id="mwBNA">poh-TREHB-beh FAHR-loh kohn poh-KHEE GRAHS-see?</i>, <i id="mwBNE">poh-TREHB-beh FAHR-loh kohn POH-koh OH-lyoh?</i>)</dd>
+<dt id="mwBNI">fixed-price meal</dt><dd id="mwBNM">pranzo a prezzo fisso (<i id="mwBNQ">PRAH-tsoh ah PREHD-zoh FEES-soh</i>)</dd>
+<dt id="mwBNU">à la carte</dt><dd id="mwBNY">à la carte or alla carta (<i id="mwBNc">AH lah KAHR-tah</i>)</dd>
+<dt id="mwBNg">breakfast</dt><dd id="mwBNk">colazione (<i id="mwBNo">koh-lah-TSYOH-neh</i>)</dd>
+<dt id="mwBNs">lunch</dt><dd id="mwBNw">pranzo (<i id="mwBN0">PRAHN-dzoh</i>)</dd>
+<dt id="mwBN4">tea (<i id="mwBN8">meal</i>)</dt><dd id="mwBOA">tè (<i id="mwBOE">teh</i>)</dd>
+<dd id="mwBOI"><i id="mwBOM">if you mean the meal at the 4 or 5 in the afternoon, in Italian this is called  <b id="mwBOQ">merenda</b> (</i>meh-REHN-dah<i id="mwBOU">), but it usually is only for kids</i></dd>
+<dt id="mwBOY">supper</dt><dd id="mwBOc">cena (<i id="mwBOg">CHEH-nah</i>)</dd>
+<dt id="mwBOk">I would like _____.</dt><dd id="mwBOo">Vorrei  _____. (<i id="mwBOs">vohr-RAY</i>)</dd>
+<dt id="mwBOw">I would like a dish containing _____.</dt><dd id="mwBO0">Vorrei un piatto con  _____. (<i id="mwBO4">vohr-RAY oon PYAHT-toh kohn....</i>)</dd>
+<dt id="mwBO8">chicken</dt><dd id="mwBPA">il pollo (<i id="mwBPE">eel POHL-loh</i>)</dd>
+<dt id="mwBPI">beef</dt><dd id="mwBPM">il manzo (<i id="mwBPQ">eel MAHN-dzoh</i>)</dd>
+<dt id="mwBPU">fish</dt><dd id="mwBPY">il pesce (<i id="mwBPc">eel PEH-sheh</i>)</dd>
+<dt id="mwBPg">ham</dt><dd id="mwBPk">il prosciutto (<i id="mwBPo">eel proh-SHOOT-toh</i>)</dd>
+<dt id="mwBPs">cured, uncooked ham</dt><dd id="mwBPw">il prosciutto crudo (<i id="mwBP0">eel proh-SHOOT-toh CREW-doo</i>)</dd>
+<dt id="mwBP4">cooked ham</dt><dd id="mwBP8">il prosciutto cotto ()</dd>
+<dt id="mwBQA">sausage</dt><dd id="mwBQE">salsiccia (<i id="mwBQI">sahl-SEE-chah</i>)</dd>
+<dt id="mwBQM">cheese</dt><dd id="mwBQQ">formaggio (<i id="mwBQU">fohr-MAHD-joh</i>)</dd>
+<dt id="mwBQY">eggs</dt><dd id="mwBQc">uova (<i id="mwBQg">WOH-vah</i>)</dd>
+<dt id="mwBQk">salad</dt><dd id="mwBQo">insalata (<i id="mwBQs">een-sah-LAH-tah</i>)</dd>
+<dt id="mwBQw">(fresh) vegetables</dt><dd id="mwBQ0">verdure (fresche) (<i id="mwBQ4">vehr-DOO-reh FREHS-keh</i>)</dd>
+<dt id="mwBQ8">(fresh) fruit</dt><dd id="mwBRA">frutta (fresca) (<i id="mwBRE">FROOT-tah FREHS-kah</i>)</dd>
+<dt id="mwBRI">bread</dt><dd id="mwBRM">pane (<i id="mwBRQ">PAH-neh</i>)</dd>
+<dt id="mwBRU">toast</dt><dd id="mwBRY">toast (<i id="mwBRc">tohst</i>)</dd></dl>
+<figure typeof="mw:File/Thumb" id="mwBRg"><a href="https://en.wikivoyage.org/wiki/File:Tagliatelle_al_ragù_(image_modified).jpg" class="mw-file-description" id="mwBRk"><img resource="https://en.wikivoyage.org/wiki/File:Tagliatelle_al_ragù_(image_modified).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tagliatelle_al_rag%C3%B9_%28image_modified%29.jpg/330px-Tagliatelle_al_rag%C3%B9_%28image_modified%29.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="1569" data-file-height="1233" data-file-type="bitmap" height="236" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tagliatelle_al_rag%C3%B9_%28image_modified%29.jpg/960px-Tagliatelle_al_rag%C3%B9_%28image_modified%29.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwBRo"/></a><figcaption id="mwBRs">Fettuccine al ragù</figcaption></figure>
+<dl id="mwBRw"><dt id="mwBR0">noodles</dt><dd id="mwBR4">pasta (<i id="mwBR8">PAHS-tah</i>), or there are a number of different kinds of noodles, such as linguine (<i id="mwBSA">leen-GWEE-neh</i>), spaghetti (<i id="mwBSE">spah-GET-tee</i>), tagliatelle (<i id="mwBSI">tah-lyah-TEHL-leh</i>), fettuccine (<i id="mwBSM">feht-too-CHEE-neh</i>), etc.</dd>
+<dt id="mwBSQ">rice</dt><dd id="mwBSU">riso (<i id="mwBSY">REE-zoh</i>)</dd>
+<dt id="mwBSc">beans</dt><dd id="mwBSg">fagioli (<i id="mwBSk">fah-JOH-lee</i>) or fagiolini (<i id="mwBSo">fah-joh-LEE-nee</i>)(similar to beans but different)</dd>
+<dt id="mwBSs">May I have a glass of _____?</dt><dd id="mwBSw">Posso avere un bicchiere di _____? (<i id="mwBS0">POHS-soh ah-VEH-reh oon beek-KYEH-reh dee....?</i>)</dd>
+<dt id="mwBS4">May I have a cup of _____?</dt><dd id="mwBS8">Posso avere una tazza di _____? (<i id="mwBTA">POHS-soh ah-VEH-reh OO-nah TAHT-tsah dee...?</i>)</dd>
+<dt id="mwBTE">May I have a bottle of _____?</dt><dd id="mwBTI">Posso avere una bottiglia di _____? (<i id="mwBTM">POHS-soh ah-VEH-reh OO-nah boht-TEE-lyah dee...?</i>)</dd>
+<dt id="mwBTQ">coffee</dt><dd id="mwBTU">caffè (<i id="mwBTY">kahf-FEH</i>). If you want coffee with milk, you need to say <i id="mwBTc">caffè latte</i>.</dd>
+<dt id="mwBTg">tea (<i id="mwBTk">drink</i>)</dt><dd id="mwBTo">tè (<i id="mwBTs">TEH</i>)</dd>
+<dt id="mwBTw">juice</dt><dd id="mwBT0">succo (<i id="mwBT4">SOOK-koh</i>)</dd>
+<dt id="mwBT8">water</dt><dd id="mwBUA">acqua (<i id="mwBUE">AHK-kwah</i>)</dd>
+<dt id="mwBUI">bubbly water</dt><dd id="mwBUM">acqua frizzante (<i id="mwBUQ">AHK-kwah free-DZAHN-teh</i>)</dd>
+<dt id="mwBUU">milk</dt><dd id="mwBUY">latte</dd>
+<dt id="mwBUc">beer</dt><dd id="mwBUg">birra (<i id="mwBUk">beer-RAH</i>)</dd>
+<dt id="mwBUo">red/white wine</dt><dd id="mwBUs">vino rosso/bianco (<i id="mwBUw">VEE-noh ROHS-soh/ BYAHN-koh</i>)</dd>
+<dt id="mwBU0">May I have some _____?</dt><dd id="mwBU4">Posso aver del _____? (<i id="mwBU8">POHS-soh AH-vehr dehl...?</i>) or  Posso avere un po' di ____? (<i id="mwBVA">POHS-soh ah-VEH-reh oon POH dee...?</i>)</dd>
+<dt id="mwBVE">salt</dt><dd id="mwBVI">sale (<i id="mwBVM">SAH-leh</i>)</dd>
+<dt id="mwBVQ">black pepper</dt><dd id="mwBVU">pepe (<i id="mwBVY">PEH-peh</i>)</dd>
+<dt id="mwBVc">butter</dt><dd id="mwBVg">burro (<i id="mwBVk">BOOR-roh</i>)</dd>
+<dt id="mwBVo">Excuse me, waiter? (<i id="mwBVs">getting attention of server</i>)</dt><dd id="mwBVw">Scusi, cameriere?(m)/cameriera?(f) (<i id="mwBV0">SKOO-zee, kah-meh-RYEH-reh?/ kah-meh-RYEH-rah?</i>)</dd>
+<dt id="mwBV4">I'm finished.</dt><dd id="mwBV8">Ho finito. (<i id="mwBWA">oh fee-NEE-toh</i>)</dd>
+<dt id="mwBWE">It was delicious.</dt><dd id="mwBWI">Era squisito. (<i id="mwBWM">EH skwee-ZEE-toh</i>)</dd>
+<dt id="mwBWQ">Please clear the table.</dt><dd id="mwBWU">Potrebbe pulire il tavolo, per favore? (<i id="mwBWY">poh-TREH-beh poo-LEE-reh eel tah-VOH-loh, pehr fah-VOH-reh</i>)</dd>
+<dt id="mwBWc">The check, please.</dt><dd id="mwBWg">Il conto, per favore. (<i id="mwBWk">eel KOHN-toh, pehr fah-VOH-reh</i>)</dd></dl>
+
+</section><section data-mw-section-id="33" id="mwBWo" aria-labelledby="Bars"><div class="mw-heading mw-heading3"><h3 id="Bars">Bars</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=33" title="Edit section: Bars"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwBWs"><dt id="mwBWw">Do you serve alcohol?</dt><dd id="mwBW0">Servite alcolici? (<i id="mwBW4">sehr-VEE-teh ahl-KOH-lee-chee?</i>)</dd>
+<dt id="mwBW8">Is there table service?</dt><dd id="mwBXA">C'è il servizio al tavolo? (<i id="mwBXE">cheh eel sehr-VEE-zyoh ahl tah-VOH-loh?</i>)</dd>
+<dt id="mwBXI">A beer/two beers, please.</dt><dd id="mwBXM">Una birra/due birre, per favore. (<i id="mwBXQ">OO-nah BEER-rah/ dweh BEER-reh, pehr fah-VOH-reh</i>)</dd>
+<dt id="mwBXU">A glass of red/white wine, please.</dt><dd id="mwBXY">Un bicchiere di vino rosso/bianco, per favore. (<i id="mwBXc">oon beek-KYEH-reh dee VEE-noh ROHS-soh/ BYAHN-koh, pehr fah-VOH-reh</i>)</dd>
+<dt id="mwBXg">A pint, please.</dt><dd id="mwBXk">Un boccale, per favore. (<i id="mwBXo">oon bohk-KAH-leh, pehr fah-VOH-reh</i>)</dd>
+<dt id="mwBXs">A bottle, please.</dt><dd id="mwBXw">Una bottiglia, per favore. (<i id="mwBX0">OO-nah boht-TEE-lyah, pehr fah-VOH-reh</i>)</dd>
+<dt id="mwBX4">I'd like a_______?</dt><dd id="mwBX8">Vorrei un_____? (<i id="mwBYA">vohr-RAY oon...?</i>)</dd>
+<dt id="mwBYE">beer</dt><dd id="mwBYI">birra (<i id="mwBYM">BEER-rah</i>)</dd></dl>
+<figure typeof="mw:File/Thumb" id="mwBYQ"><a href="https://en.wikivoyage.org/wiki/File:Fiaschi_of_basic_Chianti.jpg" class="mw-file-description" id="mwBYU"><img resource="https://en.wikivoyage.org/wiki/File:Fiaschi_of_basic_Chianti.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fiaschi_of_basic_Chianti.jpg/330px-Fiaschi_of_basic_Chianti.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="1600" data-file-height="1200" data-file-type="bitmap" height="225" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fiaschi_of_basic_Chianti.jpg/960px-Fiaschi_of_basic_Chianti.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwBYY"/></a><figcaption id="mwBYc">Wine from Chianti in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Tuscany" title="Tuscany" id="mwBYg">Tuscany</a> in traditional bottles</figcaption></figure>
+<dl id="mwBYk"><dt id="mwBYo">wine</dt><dd id="mwBYs">vino (<i id="mwBYw">VEE-noh</i>)</dd>
+<dt id="mwBY0">gin</dt><dd id="mwBY4">gin (<i id="mwBY8">jeen</i>)</dd>
+<dt id="mwBZA">whiskey</dt><dd id="mwBZE">whisky (<i id="mwBZI">WEES-kee</i>)</dd>
+<dt id="mwBZM">vodka</dt><dd id="mwBZQ">vodka (<i id="mwBZU">VOHD-kah</i>)</dd>
+<dt id="mwBZY">rum</dt><dd id="mwBZc">rum (<i id="mwBZg">rohm</i>)</dd>
+<dt id="mwBZk">water</dt><dd id="mwBZo">acqua (<i id="mwBZs">AHK-kwah</i>)</dd>
+<dt id="mwBZw">club soda</dt><dd id="mwBZ0">club soda (<i id="mwBZ4">kloob SOH-dah</i>)</dd>
+<dt id="mwBZ8">tonic water</dt><dd id="mwBaA">acqua tonica (<i id="mwBaE">AHK-kwah toh-NEE-kah</i>)</dd>
+<dt id="mwBaI">orange juice</dt><dd id="mwBaM">succo di arancia (<i id="mwBaQ">SOOK-koh dee ah-RAHN-chah</i>)</dd>
+<dt id="mwBaU">Coke (<i id="mwBaY">soda</i>)</dt><dd id="mwBac">Coca Cola (<i id="mwBag">KOH-kah KOH-lah</i>)</dd>
+<dt id="mwBak">A soda.</dt><dd id="mwBao">Una soda. (<i id="mwBas">OO-nah SOH-dah</i>)</dd>
+<dt id="mwBaw">Are there some bar snacks?</dt><dd id="mwBa0">Ci sono degli stuzzichini? (<i id="mwBa4">CHEE SOH-noh deh-lyee stoo-zee-KEE-nee?</i>)</dd>
+<dt id="mwBa8">One more, please.</dt><dd id="mwBbA">Un altro, per favore. (<i id="mwBbE">oon AHL-troh, pehr fah-VOH-reh</i>)</dd>
+<dt id="mwBbI">Another round, please.</dt><dd id="mwBbM">Un altro giro, per favore. (<i id="mwBbQ">oon AHL-troh JEE-roh, pehr fah-VOH-reh</i>)</dd>
+<dt id="mwBbU">When is closing time?</dt><dd id="mwBbY">Qual è l'ora di chiusura? (<i id="mwBbc">kwah-LEH loh-RAH dee KYOO-zoo-rah?</i>)</dd></dl>
+
+</section><section data-mw-section-id="34" id="mwBbg" aria-labelledby="Shopping"><div class="mw-heading mw-heading3"><h3 id="Shopping">Shopping</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=34" title="Edit section: Shopping"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb" id="mwBbk"><a href="https://en.wikivoyage.org/wiki/File:Napoli_-_Negozio_di_prodotti_tipici_Campani.jpg" class="mw-file-description" id="mwBbo"><img resource="https://en.wikivoyage.org/wiki/File:Napoli_-_Negozio_di_prodotti_tipici_Campani.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Napoli_-_Negozio_di_prodotti_tipici_Campani.jpg/330px-Napoli_-_Negozio_di_prodotti_tipici_Campani.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="2592" data-file-height="1944" data-file-type="bitmap" height="225" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Napoli_-_Negozio_di_prodotti_tipici_Campani.jpg/960px-Napoli_-_Negozio_di_prodotti_tipici_Campani.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwBbs"/></a><figcaption id="mwBbw">Shop with local food and beverages in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Naples" title="Naples" id="mwBb0">Naples</a></figcaption></figure>
+<dl id="mwBb4"><dt id="mwBb8">Do you have this in my size?</dt><dd id="mwBcA">Ha questo della mia taglia? (<i id="mwBcE">ah KWEHS-toh DEHL-lah myah tah-LYAH?</i>)</dd>
+<dt id="mwBcI">How much is this?</dt><dd id="mwBcM">Quanto costa questo? (<i id="mwBcQ">KWAHN-toh KOHS-tah KWEHS-toh?</i>)</dd>
+<dt id="mwBcU">That's too expensive.</dt><dd id="mwBcY">È troppo caro/a. (<i id="mwBcc">EH TROHP-poh KAH-roh/ah</i>)</dd>
+<dt id="mwBcg">Would you take _____?</dt><dd id="mwBck">Prenderebbe _____? (<i id="mwBco">formal singular "you"</i>)(<i id="mwBcs">prehn-deh-REB-beh....?</i>) Prenderesti _____? (<i id="mwBcw">informal singular "you"</i>)(<i id="mwBc0">prehn-deh-REHS-tee....?</i>) / Prendereste _____? (<i id="mwBc4">plural "you"</i>)(<i id="mwBc8">prehn-deh-REHS-teh....?</i>)</dd>
+<dt id="mwBdA">expensive</dt><dd id="mwBdE">caro (<i id="mwBdI">KAH-roh</i>)</dd>
+<dt id="mwBdM">cheap</dt><dd id="mwBdQ">economico (<i id="mwBdU">eh-koh-NOH-mee-koh</i>)</dd>
+<dt id="mwBdY">I can't afford it.</dt><dd id="mwBdc">Non posso permettermelo. (<i id="mwBdg">nohn POHS-soh pehr-MEHT-tehr-meh-loh</i>)</dd>
+<dt id="mwBdk">I am looking for something cheaper.</dt><dd id="mwBdo">Cerco qualcosa di più economico. (<i id="mwBds">CHEHR-koh KWAHL-koh-zah dee pyoo eh-koh-NOH-mee-koh</i>)</dd>
+<dt id="mwBdw">I don't want it.</dt><dd id="mwBd0">Non lo voglio. (<i id="mwBd4">nohn loh VOH-lyoh</i>)</dd>
+<dt id="mwBd8">You're cheating me.</dt><dd id="mwBeA">Mi state imbrogliando. (<i id="mwBeE">mee STAH-teh eem-broh-LYAHN-doh</i>)</dd>
+<dt id="mwBeI">I'm not interested.</dt><dd id="mwBeM">Non son interessato. (<i id="mwBeQ">male</i>)(<i id="mwBeU">nohn sohn een-teh-rehs-SAH-toh) / Non son interessata. (</i>female<i id="mwBeY">)(</i>nohn sohn een-teh-rehs-SAH-tah)</dd>
+<dt id="mwBec">OK, I'll take it.</dt><dd id="mwBeg">Va bene, lo prendo. (<i id="mwBek">vah BEH-neh, loh PREHN-doh</i>)</dd>
+<dt id="mwBeo">Can I have a bag?</dt><dd id="mwBes">Posso avere una borsa/un sacchetto? (<i id="mwBew">POHS-soh AVEH-reh OO-nah BOOS-tah?</i>)</dd>
+<dt id="mwBe0">Do you ship (overseas)?</dt><dd id="mwBe4">Può spedirlo (all'estero)? (<i id="mwBe8">PWOH speh-DEER-loh (AHL-LEHS-teh-roh)?</i>)</dd>
+<dt id="mwBfA">I need...</dt><dd id="mwBfE">Ho bisogno di... (<i id="mwBfI">oh bee-ZOH-nyoh dee...</i>)</dd>
+<dt id="mwBfM">...toothpaste.</dt><dd id="mwBfQ">...dentifricio. (<i id="mwBfU">dehn-tee-FREE-choh</i>)</dd>
+<dt id="mwBfY">...toothbrush.</dt><dd id="mwBfc">...spazzolino da denti. (<i id="mwBfg">spaht-tsoh-LEE-noh dah DEHN-tee</i>)</dd>
+<dt id="mwBfk">...tampons.</dt><dd id="mwBfo">...tampone/assorbente. (<i id="mwBfs">tahm-POH-neh/ ahs-sohr-BEHN-teh</i>)</dd>
+<dt id="mwBfw">...soap.</dt><dd id="mwBf0">...sapone. (<i id="mwBf4">sah-POH-neh</i>)</dd>
+<dt id="mwBf8">...shampoo.</dt><dd id="mwBgA">...shampoo. (<i id="mwBgE">SHAHM-poh</i>)</dd>
+<dt id="mwBgI">...pain reliever.</dt><dd id="mwBgM">...aspirina. (<i id="mwBgQ">ahs-pee-REE-nah</i>)</dd>
+<dt id="mwBgU">...cold medicine.</dt><dd id="mwBgY">...medicina per il raffreddore. (<i id="mwBgc">meh-dee-CHEE-nah pehr eel rahf-frehd-DOH-reh</i>)</dd>
+<dt id="mwBgg">...stomach medicine.</dt><dd id="mwBgk">...una medicina per lo stomaco. (<i id="mwBgo">meh-dee-CHEE-nah pehr loh STOH-mah-koh</i>)</dd></dl>
+<figure typeof="mw:File/Thumb" id="mwBgs"><a href="https://en.wikivoyage.org/wiki/File:Corso_Buenos_Aires_in_Milan.jpg" class="mw-file-description" id="mwBgw"><img resource="https://en.wikivoyage.org/wiki/File:Corso_Buenos_Aires_in_Milan.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Corso_Buenos_Aires_in_Milan.jpg/330px-Corso_Buenos_Aires_in_Milan.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="1280" data-file-height="960" data-file-type="bitmap" height="225" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Corso_Buenos_Aires_in_Milan.jpg/960px-Corso_Buenos_Aires_in_Milan.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwBg0"/></a><figcaption id="mwBg4">Corso Buenos Aires, one of the busiest shopping streets in Milan</figcaption></figure>
+<dl id="mwBg8"><dt id="mwBhA">...a razor.</dt><dd id="mwBhE">...un rasoio. (<i id="mwBhI">oon rah-ZOH-yo</i>)</dd>
+<dt id="mwBhM">...an umbrella.</dt><dd id="mwBhQ">...un ombrello. (<i id="mwBhU">oon ohm-BREHL-loh</i>)</dd>
+<dt id="mwBhY">...sunblock lotion.</dt><dd id="mwBhc">...una crema solare. (<i id="mwBhg">KREH-mah soh-LAH-reh</i>)</dd>
+<dt id="mwBhk">...a postcard.</dt><dd id="mwBho">...una cartolina. (<i id="mwBhs">OO-nah kahr-toh-LEE-nah</i>)</dd>
+<dt id="mwBhw">...postage stamps.</dt><dd id="mwBh0">...francobolli. (<i id="mwBh4">frahn-koh-BOHL-lee</i>)</dd>
+<dt id="mwBh8">...batteries.</dt><dd id="mwBiA">...batterie. (<i id="mwBiE">baht-teh-REE-eh</i>)</dd>
+<dt id="mwBiI">...writing paper.</dt><dd id="mwBiM">...carta. (<i id="mwBiQ">KAHR-tah</i>)</dd>
+<dt id="mwBiU">...a pen.</dt><dd id="mwBiY">...una penna. (<i id="mwBic">OO-nah PEHN-nah</i>)</dd>
+<dt id="mwBig">...a pencil.</dt><dd id="mwBik">...una matita. (<i id="mwBio">OO-nah mah-TEE-tah</i>)</dd>
+<dt id="mwBis">...English-language books.</dt><dd id="mwBiw">...libri in inglese. (<i id="mwBi0">LEE-bree een een-GLEH-zeh</i>)</dd>
+<dt id="mwBi4">...English-language magazines.</dt><dd id="mwBi8">...riviste in inglese. (<i id="mwBjA">ree-VEES-teh een een-GLEH-zeh</i>)</dd>
+<dt id="mwBjE">...an English-language newspaper.</dt><dd id="mwBjI">...un giornale in inglese. (<i id="mwBjM">oon johr-NAH-leh een een-GLEH-zeh</i>)</dd>
+<dt id="mwBjQ">...an English-Italian dictionary.</dt><dd id="mwBjU">...un dizionario inglese-italiano. (<i id="mwBjY">oon dee-tsyoh-NAH-ryoh een-GLEH-zeh-ee-tah-LYAH-noh</i>)</dd></dl>
+
+</section><section data-mw-section-id="35" id="mwBjc" aria-labelledby="Driving"><div class="mw-heading mw-heading3"><h3 id="Driving">Driving</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=35" title="Edit section: Driving"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb" id="mwBjg"><a href="https://en.wikivoyage.org/wiki/File:A18_Noto.jpg" class="mw-file-description" id="mwBjk"><img resource="https://en.wikivoyage.org/wiki/File:A18_Noto.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/A18_Noto.jpg/330px-A18_Noto.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="972" data-file-height="612" data-file-type="bitmap" height="189" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/A18_Noto.jpg/960px-A18_Noto.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" id="mwBjo"/></a><figcaption id="mwBjs">Autostrada A18 in Sicily</figcaption></figure>
+<dl id="mwBjw"><dt id="mwBj0">I want to rent a car.</dt><dd id="mwBj4">Desidero noleggiare una macchina. (<i id="mwBj8">deh-SEE-deh-roh noh-lehd-JAH-reh OO-nah mahk-KEE-nah</i>)  or   Vorrei noleggiare una macchina (<i id="mwBkA">vohr-REY noh-lehd-JAH-reh OO-nah mahk-KEY-nah</i>)</dd>
+<dt id="mwBkE">Can I get insurance?</dt><dd id="mwBkI">Posso avere un'assicurazione? (<i id="mwBkM">POHS-soh ah-VEH-reh oo-nahs-see-koo-rah-TSYOH-neh?</i>)</dd>
+<dt id="mwBkQ">stop (<i id="mwBkU">on a street sign</i>)</dt><dd id="mwBkY">stop (<i id="mwBkc">stohp</i>)</dd>
+<dt id="mwBkg">one way</dt><dd id="mwBkk">senso unico (<i id="mwBko">SEHN-soh OO-nee-koh</i>)</dd>
+<dt id="mwBks">yield</dt><dd id="mwBkw">dare la precedenza (<i id="mwBk0">DAH-reh lah preh-cheh-DEHN-tsah</i>)</dd>
+<dt id="mwBk4">no entry</dt><dd id="mwBk8">divieto di accesso (<i id="mwBlA">dee-VYEH-toh dee aht-CHEHS-soh</i>)</dd>
+<dt id="mwBlE">no parking</dt><dd id="mwBlI">sosta vietata  (<i id="mwBlM">SOHS-tah vyeh-TAH-tah</i>)  or  divieto di sosta (<i id="mwBlQ">dee-VYEH-toh dee SOHS-tah</i>) or vietato parcheggiare (<i id="mwBlU">vyeh-TAH-toh pahr-kehd-JAH-reh</i>)</dd>
+<dt id="mwBlY">speed limit</dt><dd id="mwBlc">limite di velocità; (<i id="mwBlg">lee-MEE-teh dee veh-loh-chee-TAH</i>)</dd>
+<dt id="mwBlk">gas (<i id="mwBlo">petrol</i>) station</dt><dd id="mwBls">benzinaio (<i id="mwBlw">behn-dzee-NAH-yoh</i>) or distributore (di benzina) (<i id="mwBl0">dee-stree-buh-TOH-reh (dee behn-ZEE-nah)</i>) or stazione di rifornimento (<i id="mwBl4">stah-TSYOH-neh dee ree-fohr-nee-MEHN-toh</i>) or (on an autostrada / motorway) area di servizio (<i id="mwBl8">AH-reh-ah dee sehr-VEE-tsyoh</i>)</dd>
+<dt id="mwBmA">petrol</dt><dd id="mwBmE">benzina (only unleaded one) (<i id="mwBmI">behn-DZEE-nah</i>)</dd>
+<dt id="mwBmM">diesel</dt><dd id="mwBmQ">diesel (<i id="mwBmU">DEE-zehl</i>)  or  gasolio (<i id="mwBmY">gah-SOH-lyoh</i>)</dd></dl>
+
+</section><section data-mw-section-id="36" id="mwBmc" aria-labelledby="Authority"><div class="mw-heading mw-heading3"><h3 id="Authority">Authority</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Italian_phrasebook&amp;action=edit&amp;section=36" title="Edit section: Authority"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwBmg"><dt id="mwBmk">I haven't done anything wrong.</dt><dd id="mwBmo">Non ho fatto nulla di male. (<i id="mwBms">nohn oh FAHT-toh nool-lah dee MAH-leh</i>)</dd>
+<dt id="mwBmw">It was a misunderstanding.</dt><dd id="mwBm0">È stato un malinteso. (<i id="mwBm4">eh STAH-toh oon mah-LEEN-teh-zoh</i>)</dd>
+<dt id="mwBm8">Where are you taking me?</dt><dd id="mwBnA">Dove mi sta portando? (<i id="mwBnE">DOH-veh mee STAH pohr-TAHN-doh?</i>)</dd>
+<dt id="mwBnI">Am I under arrest?</dt><dd id="mwBnM">Sono in arresto? (<i id="mwBnQ">SOH-noh een ahr-REHS-toh?</i>)</dd>
+<dt id="mwBnU">I am an American/Australian/British/Canadian citizen.</dt><dd id="mwBnY">MALE: Sono un cittadino americano/australiano/britannico/canadese. (<i id="mwBnc">SOH-noh oon cheet-tah-DEE-noh ah-meh-ree-KAH-noh/ ows-trah-LYAH-noh/ bree-TAHN-nee-koh/ kah-nah-DEH-zeh</i>). FEMALE: Sono una cittadina americana/australiana/britannica/canadese. (<i id="mwBng">SOH-noh oo-nah CHEET-tah-dee-nah ah-meh-ree-KAH-nah/ ows-trah-LYAH-nah/ bree-TAHN-nee-kah/ kah-nah-DEH-zeh</i>)</dd>
+<dt id="mwBnk">I want to talk to the American/Australian/British/Canadian embassy/consulate.</dt><dd id="mwBno">Voglio parlare con l'ambasciata/il consolato americano/australiano/britannico/canadese. (<i id="mwBns">VOH-lyoh pahr-LAH-reh kohn lahm-bah-SHAH-tah/ eel kohn-soh-LAH-toh ah-meh-ree-KAH-noh/ ows-trah-LYAH-noh/ bree-TAHN-nee-koh/ kah-nah-DEH-zeh</i>)</dd>
+<dt id="mwBnw">I want to talk to a lawyer.</dt><dd id="mwBn0">Voglio parlare con un avvocato. (<i id="mwBn4">VOH-lyoh pahr-LAH-reh kohn oon ahv-voh-KAH-toh</i>)</dd>
+<dt id="mwBn8">Can I just pay a fine now?</dt><dd id="mwBoA">Posso semplicemente pagare una multa adesso? (<i id="mwBoE">POHS-soh sehm-plee-cheh-MEHN-teh pah-GAH-reh OO-nah MOOL-tah ah-DEHS-soh?</i>)</dd></dl>
