@@ -72,26 +72,26 @@ What should you know about Chinese pronounciation?|"<p id=""mwTw"">To bridge the
 
 <p id=""mwYg"">Some pinyin vowels (especially ""e"", ""i"", ""ü"") can be tricky, so it is best to get a native speaker to demonstrate. Also, beware of the spelling rules listed in the <a rel=""mw:WikiLink"" href=""#exceptions"" class=""mw-selflink-fragment"" id=""mwYw"">exceptions</a> below.</p>
 "
-<dt id=""mwZQ"">a</dt>|"<dd id=""mwZg"">as in f<b id=""mwZw"">a</b>ther; otherwise</dd>"
-<dt id=""mwaA"">a in ian and yan</dt>|"<dd id=""mwaQ"">as ""e"" in ""b<b id=""mwag"">e</b>t"" or ""t<b id=""mwaw"">e</b>xt"" (just the English short ""e"" sound)</dd>"
-<dt id=""mwbA"">e</dt>|"<dd id=""mwbQ"">unrounded back vowel (IPA [ɤ]), similar to d<b id=""mwbg"">uh</b>; in unstressed syllables, a schwa (IPA [ə]), like ide<b id=""mwbw"">a</b></dd>"
-<dt id=""mwcA"">i</dt>|"<dd id=""mwcQ"">as in s<b id=""mwcg"">ee</b> or k<b id=""mwcw"">ey</b>;<br id=""mwdA""/>after <i id=""mwdQ"">ch</i>, <i id=""mwdg"">sh</i>, <i id=""mwdw"">zh</i>, <i id=""mweA"">c</i>, <i id=""mweQ"">s</i>, <i id=""mweg"">z</i> or <i id=""mwew"">r</i>, not really a vowel at all but just a stretched-out consonant sound</dd>"
-<dt id=""mwfA"">o</dt>|"<dd id=""mwfQ"">as in m<b id=""mwfg"">o</b>re<br id=""mwfw""/>after <i id=""mwgA"">b</i>, <i id=""mwgQ"">p</i>, <i id=""mwgg"">m</i>, or <i id=""mwgw"">f</i>, as in <b id=""mwhA"">wa</b>r</dd>"
-<dt id=""mwhQ"">u</dt>|"<dd id=""mwhg"">as in s<b id=""mwhw"">oo</b>n; but read <b id=""mwiA"">ü</b> in <i id=""mwiQ"">ju</i>, <i id=""mwig"">qu</i>, <i id=""mwiw"">yu</i> and <i id=""mwjA"">xu</i></dd>"
-<dt id=""mwjQ"">ü</dt>|"<dd id=""mwjg"">as in French l<b id=""mwjw"">u</b>ne or German gr<b id=""mwkA"">ü</b>n; pronounced like ""ee"" but with rounded lips</dd>"
+a|"as in f<b id=""mwZw"">a</b>ther; otherwise"
+a in ian and yan|"as ""e"" in ""b<b id=""mwag"">e</b>t"" or ""t<b id=""mwaw"">e</b>xt"" (just the English short ""e"" sound)"
+e|"unrounded back vowel (IPA [ɤ]), similar to d<b id=""mwbg"">uh</b>; in unstressed syllables, a schwa (IPA [ə]), like ide<b id=""mwbw"">a</b>"
+i|"as in s<b id=""mwcg"">ee</b> or k<b id=""mwcw"">ey</b>;<br id=""mwdA""/>after <i id=""mwdQ"">ch</i>, <i id=""mwdg"">sh</i>, <i id=""mwdw"">zh</i>, <i id=""mweA"">c</i>, <i id=""mweQ"">s</i>, <i id=""mweg"">z</i> or <i id=""mwew"">r</i>, not really a vowel at all but just a stretched-out consonant sound"
+o|"as in m<b id=""mwfg"">o</b>re<br id=""mwfw""/>after <i id=""mwgA"">b</i>, <i id=""mwgQ"">p</i>, <i id=""mwgg"">m</i>, or <i id=""mwgw"">f</i>, as in <b id=""mwhA"">wa</b>r"
+u|"as in s<b id=""mwhw"">oo</b>n; but read <b id=""mwiA"">ü</b> in <i id=""mwiQ"">ju</i>, <i id=""mwig"">qu</i>, <i id=""mwiw"">yu</i> and <i id=""mwjA"">xu</i>"
+ü|"as in French l<b id=""mwjw"">u</b>ne or German gr<b id=""mwkA"">ü</b>n; pronounced like ""ee"" but with rounded lips"
 What are the most important vowel combinations in Chinese?|"These are the most important vowel combinations in Chinese: ai, ao, ei, ia, ia in <b id=""mwoQ"">ia</b>n (but not iang), iao, ie, iong, iu, ou, ua & uo"
-<dt id=""mwlA"">ai</dt>|"<dd id=""mwlQ"">as in p<b id=""mwlg"">ie</b></dd>"
-<dt id=""mwlw"">ao</dt>|"<dd id=""mwmA"">as in p<b id=""mwmQ"">ou</b>ch</dd>"
-<dt id=""mwmg"">ei</dt>|"<dd id=""mwmw"">as in p<b id=""mwnA"">ay</b></dd>"
-<dt id=""mwnQ"">ia</dt>|"<dd id=""mwng"">as in <b id=""mwnw"">ya</b></dd>"
-<dt id=""mwoA"">ia in <b id=""mwoQ"">ia</b>n (but not iang)</dt>|"<dd id=""mwog"">as in '<b id=""mwow"">ye</b>s</dd>"
-<dt id=""mwpA"">iao</dt>|"<dd id=""mwpQ"">as in m<b id=""mwpg"">eow</b></dd>"
-<dt id=""mwpw"">ie</dt>|"<dd id=""mwqA"">as in <b id=""mwqQ"">ye</b>s</dd>"
-<dt id=""mwqg"">iong</dt>|"<dd id=""mwqw"">as in P<b id=""mwrA"">yong</b>yang</dd>"
-<dt id=""mwrQ"">iu</dt>|"<dd id=""mwrg"">as in <b id=""mwrw"">yo</b>del</dd>"
-<dt id=""mwsA"">ou</dt>|"<dd id=""mwsQ"">as in m<b id=""mwsg"">o</b>w</dd>"
-<dt id=""mwsw"">ua</dt>|"<dd id=""mwtA"">as in <b id=""mwtQ"">wa</b>nt</dd>"
-<dt id=""mwtg"">uo</dt>|"<dd id=""mwtw"">as in <b id=""mwuA"">wa</b>r</dd>"
+ai|"as in p<b id=""mwlg"">ie</b>"
+ao|"as in p<b id=""mwmQ"">ou</b>ch"
+ei|"as in p<b id=""mwnA"">ay</b>"
+ia|"as in <b id=""mwnw"">ya</b>"
+ia in <b id=""mwoQ"">ia</b>n (but not iang)|"as in '<b id=""mwow"">ye</b>s"
+iao|"as in m<b id=""mwpg"">eow</b>"
+ie|"as in <b id=""mwqQ"">ye</b>s"
+iong|"as in P<b id=""mwrA"">yong</b>yang"
+iu|"as in <b id=""mwrw"">yo</b>del"
+ou|"as in m<b id=""mwsg"">o</b>w"
+ua|"as in <b id=""mwtQ"">wa</b>nt"
+uo|"as in <b id=""mwuA"">wa</b>r"
 What should you know about Chinese with respect to consonants?|"<p id=""mwug"">Chinese stops distinguish between <i id=""mwuw"">aspirated</i> and <i id=""mwvA"">unaspirated</i>, not <i id=""mwvQ"">unvoiced</i> and <i id=""mwvg"">voiced</i> as in English, and Chinese lacks voiced stops. Aspirated sounds are pronounced with a distinctive puff of air as they are pronounced in English when at the beginning of a word, while unaspirated sounds are pronounced without the puff, as in English when found in clusters.</p>
 
 <p id=""mwvw"">Place a hand in front of your mouth and compare <b id=""mwwA"">p</b>it (aspirated) with s<b id=""mwwQ"">p</b>it (unaspirated) to see the difference. Note that the list below only gives approximate pronunciations, as many of these consonants have no equivalent in English.  As Mandarin does not have voiced stops or affricates, all the consonants listed in the ""unaspirated"" column should be pronounced unvoiced.</p>
@@ -99,34 +99,34 @@ What should you know about Chinese with respect to consonants?|"<p id=""mwug"">C
 "
 What are some examples of aspirated consonants in Chinese?|b, d, g, j, zh and z
 What are some examples of unaspirated consonants in Chinese?|p, t, k, q, ch and c
-<b id=""mwyw"">b</b>|as in s<b id=""mwzg"">p</b>ot
-<b id=""mw0A"">p</b>|as in <b id=""mw0w"">p</b>it
-<b id=""mw1g"">d</b>|as in s<b id=""mw2Q"">t</b>op
-<b id=""mw2w"">t</b>|as in <b id=""mw3g"">t</b>ongue
-<b id=""mw4Q"">g</b>|as in s<b id=""mw5A"">k</b>in
-<b id=""mw5g"">k</b>|as in <b id=""mw6Q"">k</b>ing
-<b id=""mw7A"">j</b>|as in i<b id=""mw7w"">tch</b>y
-<b id=""mw8Q"">q</b>|as in <b id=""mw9A"">ch</b>eap
-<b id=""mw9w"">zh</b>|as in <b id=""mw-g"">j</b>ungle
-<b id=""mw_A"">ch</b>|as in <b id=""mw_w"">ch</b>ore
-<b id=""mwAQI"">z</b>|as in pi<b id=""mwAQU"">zz</b>a
-<b id=""mwAQc"">c</b>|as in ra<b id=""mwAQo"">ts</b>
-<dt id=""mwAQ0"">m</dt>|"<dd id=""mwAQ4"">as in <b id=""mwAQ8"">m</b>ow</dd>"
-<dt id=""mwARA"">f</dt>|"<dd id=""mwARE"">as in <b id=""mwARI"">f</b>un</dd>"
-<dt id=""mwARM"">n</dt>|"<dd id=""mwARQ"">as in <b id=""mwARU"">n</b>one or no<b id=""mwARY"">n</b>e</dd>"
-<dt id=""mwARc"">l</dt>|"<dd id=""mwARg"">as in <b id=""mwARk"">l</b>ease</dd>"
-<dt id=""mwARo"">h</dt>|"<dd id=""mwARs"">a throaty <b id=""mwARw"">h</b> sound as in Scottish lo<b id=""mwAR0"">ch</b>/Spanish <b id=""mwAR4"">j</b>efe (IPA: [x])</dd>"
-<dt id=""mwAR8"">x</dt>|"<dd id=""mwASA"">as in <b id=""mwASE"">sh</b>eep, but softer than sh</dd>"
-<dt id=""mwASI"">sh</dt>|"<dd id=""mwASM"">as in <b id=""mwASQ"">sh</b>oot</dd>"
-<dt id=""mwASU"">r</dt>|"<dd id=""mwASY"">as in fai<b id=""mwASc"">r</b></dd>"
-<dt id=""mwASg"">s</dt>|"<dd id=""mwASk"">as in <b id=""mwASo"">s</b>ag</dd>"
-<dt id=""mwASs"">ng</dt>|"<dd id=""mwASw"">as in si<b id=""mwAS0"">ng</b></dd>"
-<dt id=""mwAS4"">w</dt>|"<dd id=""mwAS8"">as in <b id=""mwATA"">w</b>ing but <b id=""mwATE"">silent</b> in <i id=""mwATI"">wu</i>. Before a, ai, ang, eng, and/or o</dd>"
-<dt id=""mwATM"">y</dt>|"<dd id=""mwATQ"">as in <b id=""mwATU"">y</b>et but <b id=""mwATY"">silent</b> in <i id=""mwATc"">yi</i>, <i id=""mwATg"">yu</i></dd>"
+b|as in s<b id=""mwzg"">p</b>ot
+p|as in <b id=""mw0w"">p</b>it
+d|as in s<b id=""mw2Q"">t</b>op
+t|as in <b id=""mw3g"">t</b>ongue
+g|as in s<b id=""mw5A"">k</b>in
+k|as in <b id=""mw6Q"">k</b>ing
+j|as in i<b id=""mw7w"">tch</b>y
+q|as in <b id=""mw9A"">ch</b>eap
+zh|as in <b id=""mw-g"">j</b>ungle
+ch|as in <b id=""mw_w"">ch</b>ore
+z|as in pi<b id=""mwAQU"">zz</b>a
+c|as in ra<b id=""mwAQo"">ts</b>
+m|"as in <b id=""mwAQ8"">m</b>ow"
+f|"as in <b id=""mwARI"">f</b>un"
+n|"as in <b id=""mwARU"">n</b>one or no<b id=""mwARY"">n</b>e"
+l|"as in <b id=""mwARk"">l</b>ease"
+h|"a throaty <b id=""mwARw"">h</b> sound as in Scottish lo<b id=""mwAR0"">ch</b>/Spanish <b id=""mwAR4"">j</b>efe (IPA: [x])"
+x|"as in <b id=""mwASE"">sh</b>eep, but softer than sh"
+sh|"as in <b id=""mwASQ"">sh</b>oot"
+r|"as in fai<b id=""mwASc"">r</b>"
+s|"as in <b id=""mwASo"">s</b>ag"
+ng|"as in si<b id=""mwAS0"">ng</b>"
+w|"as in <b id=""mwATA"">w</b>ing but <b id=""mwATE"">silent</b> in <i id=""mwATI"">wu</i>. Before a, ai, ang, eng, and/or o"
+y|"as in <b id=""mwATU"">y</b>et but <b id=""mwATY"">silent</b> in <i id=""mwATc"">yi</i>, <i id=""mwATg"">yu</i>"
 What should you know about exceptions to consonant rules in Chinese?|"<p id=""mwAUs"">There are a fairly large number of niggling exceptions to the basic rules above, based on the position of the sound.</p>"
-<dt id=""mwAU0"">wu-</dt>|"<dd id=""mwAU4"">as <b id=""mwAU8"">u-</b>, so 五百 (五百) <i id=""mwAVA"">wubai</i> is pronounced ""<b id=""mwAVE"">u</b>bai""</dd>"
-<dt id=""mwAVI"">yi-</dt>|"<dd id=""mwAVM"">as <b id=""mwAVQ"">i-</b>, so 一个 (一個) <i id=""mwAVU"">yige</i> is pronounced ""<b id=""mwAVY"">i</b>ge""</dd>"
-<dt id=""mwAVc"">yu-</dt>|"<dd id=""mwAVg"">as <b id=""mwAVk"">ü-</b>, so 豫园 (豫園) <i id=""mwAVo"">Yuyuan</i> is pronounced ""<b id=""mwAVs"">ü</b>-<b id=""mwAVw"">ü</b>an""</dd>"
+wu-|"as <b id=""mwAU8"">u-</b>, so 五百 (五百) <i id=""mwAVA"">wubai</i> is pronounced ""<b id=""mwAVE"">u</b>bai"""
+yi-|"as <b id=""mwAVQ"">i-</b>, so 一个 (一個) <i id=""mwAVU"">yige</i> is pronounced ""<b id=""mwAVY"">i</b>ge"""
+yu-|"as <b id=""mwAVk"">ü-</b>, so 豫园 (豫園) <i id=""mwAVo"">Yuyuan</i> is pronounced ""<b id=""mwAVs"">ü</b>-<b id=""mwAVw"">ü</b>an"""
 How do you use tone marks in Chinese?|"
 <p>If you are confused by how to put tone marks above the Hanyu Pinyin, follow the steps below:</p>
 
@@ -361,114 +361,114 @@ What should you know about greeting someone in Chinese?|"<p>The literal translat
 <dt>No, I haven't yet.</dt>
 <dd>还没吃 (還沒吃) <i>Hái méi chī</i></dd></dl></td></tr>
 "
-<dd id=""mwAqs"">你好。 (你好。)</dd>|<dt id=""mwAqo"">Hello.  <i id=""mwAqw"">Nǐ hǎo</i>.</dt>
-"<dd id=""mwAq8"">喂。 (喂。) (In Malaysia and Singapore, the English ""hello"" is typically used instead)</dd>"|<dt id=""mwAq0"">Hello. (<i id=""mwAq4"">only on the telephone</i>) <i id=""mwArA"">Wéi.</i> </dt>
-<dd id=""mwArI"">你好吗？ (你好嗎？)</dd>|<dt id=""mwArE"">How are you? <i id=""mwArM"">Nǐ hǎo ma?</i> (In Indonesia, it is often shortened as <i id=""mwArQ"">Nǐ hăo?</i>)</dt>
-<dd id=""mwArY"">还不错。 (還不錯。)</dd>|<dt id=""mwArU"">Not bad <i id=""mwArc"">Hái búcuò.</i></dt>
-<dd id=""mwArk"">很好, 谢谢。 (很好，謝謝。)</dd>|<dt id=""mwArg"">Fine, thank you. <i id=""mwAro"">Hěn hǎo, xièxie.</i></dt>
-<dd id=""mwArw"">请问你叫什么名字？ (請問你叫什麼名字？)</dd>|<dt id=""mwArs"">May I please ask, what is your name? <i id=""mwAr0"">Qǐngwèn nǐjiào shěnme míngzì?</i></dt>
-<dd id=""mwAr8"">你叫什么名字？ (你叫什麼名字？)</dd>|<dt id=""mwAr4"">What is your name? <i id=""mwAsA"">Nǐ jiào shénme míngzì?</i></dt>
-<dd id=""mwAsI"">我叫 _____ 。 (我叫 _____ 。)</dd>|<dt id=""mwAsE"">My name is ______ . <i id=""mwAsM"">Wǒ jiào ______ .</i></dt>
-<dd id=""mwAsU"">很高兴认识你。 (很高興認識你。) / 幸会。 (幸會。)</dd>|<dt id=""mwAsQ"">Nice to meet you. <i id=""mwAsY"">Hěn gāoxìng rènshi nǐ.</i> / <i id=""mwAsc"">Xìng huì.</i></dt>
-<dd id=""mwAsk"">请。 (請。)</dd>|"<dt id=""mwAsg"">Please. <i id=""mwAso"">Qǐng.</i></dt>"
-<dd id=""mwAsw"">谢谢。 (謝謝。)</dd>|"<dt id=""mwAss"">Thank you. <i id=""mwAs0"">Xièxie.</i></dt>"
-<dd id=""mwAs8"">不客气。 (不客氣。)</dd>|"<dt id=""mwAs4"">You're welcome. <i id=""mwAtA"">Bú kèqi.</i></dt>"
-<dd id=""mwAtM"">请问。 (請問。)</dd>|"<dt id=""mwAtE"">Excuse me. (<i id=""mwAtI"">getting attention</i>) <i id=""mwAtQ"">qǐng wèn.</i></dt>"
-<dd id=""mwAtc"">打扰一下。 (打擾一下。) / 麻烦您一下。 (麻煩您一下。).</dd>|<dt id=""mwAtU"">Excuse me. (<i id=""mwAtY"">begging pardon</i>) <i id=""mwAtg"">Dǎrǎo yixià</i> / <i id=""mwAtk"">Máfan nín yíxià</i></dt>
-<dd id=""mwAtw"">对不起。 (對不起。) / 请让一下。 (請讓一下。) </dd>|"<dt id=""mwAto"">Excuse me. (<i id=""mwAts"">coming through</i>) ‘’Duìbùqǐ’’ / <i id=""mwAt0"">Qǐng ràng yixià</i></dt>"
-<dd id=""mwAt8"">对不起。 (對不起。)</dd>|"<dt id=""mwAt4"">I'm sorry.  <i id=""mwAuA"">Duìbuqǐ.</i></dt>"
-<dd id=""mwAuI"">没关系。 (沒關系。)</dd>|"<dt id=""mwAuE"">It's okay. (polite response to ""I'm sorry"")  <i id=""mwAuM"">méiguānxi.</i></dt>"
-<dd id=""mwAuU"">再见。 (再見。)</dd>|"<dt id=""mwAuQ"">Goodbye  <i id=""mwAuY"">Zàijiàn</i></dt>"
-<dd id=""mwAuk"">拜拜。 (拜拜。)</dd>|"<dt id=""mwAuc"">Goodbye (<i id=""mwAug"">informal</i>)  <i id=""mwAuo"">Bai-bai</i> (Byebye) (In Indonesia, the more common phrase is <i id=""mwAus"">Dà-dà</i>)</dt>"
-<dd id=""mwAu0"">我不会说汉语。 (我不會說漢語。)</dd>|<dt id=""mwAuw"">I can't speak Chinese. <i id=""mwAu4"">Wǒ bú huì shuō hànyǔ.</i></dt>
-<dd id=""mwAvA"">你会说英语吗？ (你會說英語嗎？)</dd>|<dt id=""mwAu8"">Do you speak English? <i id=""mwAvE"">Nǐ huì shuō Yīngyǔ ma?</i></dt>
-<dd id=""mwAvM"">这里有人会说英语吗？ (這裏有人會說英語嗎？)</dd>|<dt id=""mwAvI"">Is there someone here who speaks English? <i id=""mwAvQ"">Zhèlĭ yǒu rén hùi shuō Yīngyǔ ma?</i></dt>
-<dd id=""mwAvY"">救命！ (救命!)</dd>|<dt id=""mwAvU"">Help! (in emergencies) <i id=""mwAvc"">Jiùmìng!</i></dt>
-<dd id=""mwAvk"">早安。 (早安。)</dd>|<dt id=""mwAvg"">Good morning. <i id=""mwAvo"">Zǎo'ān.</i></dt>
-<dd id=""mwAvw"">晚上好。 (晚上好。)</dd>|<dt id=""mwAvs"">Good evening. <i id=""mwAv0"">Wǎnshàng hǎo.</i></dt>
-<dd id=""mwAv8"">晚安。 (晚安。)</dd>|<dt id=""mwAv4"">Good night. <i id=""mwAwA"">Wǎn'ān.</i></dt>
-<dd id=""mwAwI"">我听不懂。 (我聽不懂。) (when listening) / 我看不懂。 (我看不懂。) (when reading) (In Indonesia, the more common phrase is 我不知道)</dd>|<dt id=""mwAwE"">I don't understand. <i id=""mwAwM"">Wǒ tīng bu dǒng.</i> / <i id=""mwAwQ"">Wǒ kàn bu dǒng.</i> (<i id=""mwAwU"">Wǒ bù zhī dào</i>)</dt>
-<dd id=""mwAwc"">厕所在哪里？ (廁所在哪裡？</dd>|<dt id=""mwAwY"">Where is the toilet?) <i id=""mwAwg"">Cèsuǒ zài nǎlǐ?</i></dt>
-<dd id=""mwAwo"">洗手间在哪里？ (洗手間在哪裡？</dd>|<dt id=""mwAwk"">Where is the bathroom（polite)?) <i id=""mwAws"">Xǐshǒujiān zài nǎlǐ?</i></dt>
-<dd id=""mwAw0"">____ 怎么说？ (____ 怎麼說？</dd>|<dt id=""mwAww"">How do you say ____?) <i id=""mwAw4"">____ zěnme shuō?</i></dt>
+你好。 (你好。)|Hello.  <i id=""mwAqw"">Nǐ hǎo</i>.
+"喂。 (喂。) (In Malaysia and Singapore, the English ""hello"" is typically used instead)"|Hello. (<i id=""mwAq4"">only on the telephone</i>) <i id=""mwArA"">Wéi.</i> 
+你好吗？ (你好嗎？)|How are you? <i id=""mwArM"">Nǐ hǎo ma?</i> (In Indonesia, it is often shortened as <i id=""mwArQ"">Nǐ hăo?</i>)
+还不错。 (還不錯。)|Not bad <i id=""mwArc"">Hái búcuò.</i>
+很好, 谢谢。 (很好，謝謝。)|Fine, thank you. <i id=""mwAro"">Hěn hǎo, xièxie.</i>
+请问你叫什么名字？ (請問你叫什麼名字？)|May I please ask, what is your name? <i id=""mwAr0"">Qǐngwèn nǐjiào shěnme míngzì?</i>
+你叫什么名字？ (你叫什麼名字？)|What is your name? <i id=""mwAsA"">Nǐ jiào shénme míngzì?</i>
+我叫 _____ 。 (我叫 _____ 。)|My name is ______ . <i id=""mwAsM"">Wǒ jiào ______ .</i>
+很高兴认识你。 (很高興認識你。) / 幸会。 (幸會。)|Nice to meet you. <i id=""mwAsY"">Hěn gāoxìng rènshi nǐ.</i> / <i id=""mwAsc"">Xìng huì.</i>
+请。 (請。)</dd>|"Please. <i id=""mwAso"">Qǐng.</i>"
+谢谢。 (謝謝。)</dd>|"Thank you. <i id=""mwAs0"">Xièxie.</i>"
+不客气。 (不客氣。)</dd>|"You're welcome. <i id=""mwAtA"">Bú kèqi.</i>"
+请问。 (請問。)</dd>|"Excuse me. (<i id=""mwAtI"">getting attention</i>) <i id=""mwAtQ"">qǐng wèn.</i>"
+打扰一下。 (打擾一下。) / 麻烦您一下。 (麻煩您一下。).|"Excuse me. (<i id=""mwAtY"">begging pardon</i>) <i id=""mwAtg"">Dǎrǎo yixià</i> / <i id=""mwAtk"">Máfan nín yíxià</i>
+对不起。 (對不起。) / 请让一下。 (請讓一下。) </dd>|"Excuse me. (<i id=""mwAts"">coming through</i>) ‘’Duìbùqǐ’’ / <i id=""mwAt0"">Qǐng ràng yixià</i>"
+对不起。 (對不起。)</dd>|"I'm sorry.  <i id=""mwAuA"">Duìbuqǐ.</i>"
+没关系。 (沒關系。)</dd>|"It's okay. (polite response to ""I'm sorry"")  <i id=""mwAuM"">méiguānxi.</i>"
+再见。 (再見。)</dd>|"Goodbye  <i id=""mwAuY"">Zàijiàn</i>"
+拜拜。 (拜拜。)</dd>|"Goodbye (<i id=""mwAug"">informal</i>)  <i id=""mwAuo"">Bai-bai</i> (Byebye) (In Indonesia, the more common phrase is <i id=""mwAus"">Dà-dà</i>)"
+我不会说汉语。 (我不會說漢語。)|I can't speak Chinese. <i id=""mwAu4"">Wǒ bú huì shuō hànyǔ.</i>
+你会说英语吗？ (你會說英語嗎？)|Do you speak English? <i id=""mwAvE"">Nǐ huì shuō Yīngyǔ ma?</i>
+这里有人会说英语吗？ (這裏有人會說英語嗎？)|Is there someone here who speaks English? <i id=""mwAvQ"">Zhèlĭ yǒu rén hùi shuō Yīngyǔ ma?</i>
+救命！ (救命!)|Help! (in emergencies) <i id=""mwAvc"">Jiùmìng!</i>
+早安。 (早安。)|Good morning. <i id=""mwAvo"">Zǎo'ān.</i>
+晚上好。 (晚上好。)|Good evening. <i id=""mwAv0"">Wǎnshàng hǎo.</i>
+晚安。 (晚安。)|Good night. <i id=""mwAwA"">Wǎn'ān.</i>
+我听不懂。 (我聽不懂。) (when listening) / 我看不懂。 (我看不懂。) (when reading) (In Indonesia, the more common phrase is 我不知道)|I don't understand. <i id=""mwAwM"">Wǒ tīng bu dǒng.</i> / <i id=""mwAwQ"">Wǒ kàn bu dǒng.</i> (<i id=""mwAwU"">Wǒ bù zhī dào</i>)
+厕所在哪里？ (廁所在哪裡？|Where is the toilet?) <i id=""mwAwg"">Cèsuǒ zài nǎlǐ?</i>
+洗手间在哪里？ (洗手間在哪裡？|Where is the bathroom（polite)?) <i id=""mwAws"">Xǐshǒujiān zài nǎlǐ?</i>
+____ 怎么说？ (____ 怎麼說？|How do you say ____?) <i id=""mwAw4"">____ zěnme shuō?</i>
 What should you know about Datong?|"There is a hanging Monastery
 <figure class=""mw-default-size"" typeof=""mw:File/Thumb"" id=""mwAxA""><a href=""//en.wikivoyage.org/wiki/File:Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg"" class=""mw-file-description"" id=""mwAxE""><img resource=""//en.wikivoyage.org/wiki/File:Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg/250px-Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail"" decoding=""async"" data-file-width=""5472"" data-file-height=""3648"" data-file-type=""bitmap"" height=""167"" width=""250"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg/500px-Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x"" class=""mw-file-element"" id=""mwAxI""/></a><figcaption id=""mwAxM"">Hanging Monastery in <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Datong_City"" title=""Datong City"" class=""mw-redirect"" id=""mwAxQ"">Datong</a></figcaption></figure>
 "
 What should you know about yes and no in Chinese?|"
 <p>Chinese does not have words for ""yes"" and ""no"" as such; instead, questions are typically answered by repeating the verb. There are common examples.</p>
 <p>If all this seems like too much to handle, you can say ""yes"" with a short falling-tone grunt (嗯 <i>ǹg</i>), and you'll usually be understood if you say 不 <i>bù</i> for ""no"".</p>"
-<dd>是 (是), 不是 (不是)</dd>|<dt>To be or not to be <i>shì</i>, <i>bú shì</i></dt>
-<dd>有 (有), 没有 (没有)</dd>|<dt>To have or not have / there is or is not <i>yǒu</i>, <i>méi yǒu</i></dt>
-<dd>对 (對), 不对 (不對)</dd>|<dt>To be right or wrong <i>duì</i>, <i>bú duì</i></dt>
-<dd id=""mwAxg"">不要打扰我。 (不要打擾我。)</dd>|"<dt id=""mwAxc"">Leave me alone. <i id=""mwAxk"">búyào dǎrǎo wǒ</i></dt>"
-<dd id=""mwAxs"">我不要！ (我不要！)</dd>|"<dt id=""mwAxo"">I don't want it! (useful for people who come up trying to sell you something) <i id=""mwAxw"">wǒ búyào!</i></dt>"
-<dd id=""mwAx4"">不要碰我！ (不要碰我！)</dd>|"<dt id=""mwAx0"">Don't touch me! <i id=""mwAx8"">búyào pèng wǒ!</i></dt>"
-<dd id=""mwAyE"">我要叫警察了。 (我要叫警察了。)</dd>|"<dt id=""mwAyA"">I'll call the police. <i id=""mwAyI"">wǒ yào jiào jǐngchá le</i></dt>"
-<dd id=""mwAyQ"">警察！ (警察！)</dd>|"<dt id=""mwAyM"">Police! <i id=""mwAyU"">jǐngchá!</i></dt>"
-<dd id=""mwAyc"">住手！小偷！ (住手！小偷！)</dd>|"<dt id=""mwAyY"">Stop! Thief! <i id=""mwAyg"">zhùshǒu! xiǎotōu!</i></dt>"
-<dd id=""mwAyo"">我需要你的帮助。 (我需要你的幫助。)</dd>|"<dt id=""mwAyk"">I need your help. <i id=""mwAys"">wǒ xūyào nǐde bāngzhù</i></dt>"
-<dd id=""mwAy0"">这是紧急情况。 (這是緊急情況。)</dd>|"<dt id=""mwAyw"">It's an emergency. <i id=""mwAy4"">zhèshì jǐnjí qíngkuàng</i></dt>"
-<dd id=""mwAzA"">我迷路了。 (我迷路了。)</dd>|"<dt id=""mwAy8"">I'm lost. <i id=""mwAzE"">wǒ mílù le</i></dt>"
-<dd id=""mwAzM"">我的包丢了。 (我的包丟了。)</dd>|"<dt id=""mwAzI"">I lost my bag. <i id=""mwAzQ"">wǒ de bāo diūle</i></dt>"
-<dd id=""mwAzY"">我的钱包丢了。 (我的錢包丟了。)</dd>|"<dt id=""mwAzU"">I lost my wallet. <i id=""mwAzc"">wǒ de qiánbāo diūle</i></dt>"
-<dd id=""mwAzk"">我生病了。 (我生病了。)</dd>|"<dt id=""mwAzg"">I'm sick. <i id=""mwAzo"">wǒ shēngbìng le</i></dt>"
-<dd id=""mwAzw"">我受伤了。 (我受傷了。)</dd>|"<dt id=""mwAzs"">I've been injured. <i id=""mwAz0"">wǒ shòushāng le</i></dt>"
-<dd id=""mwAz8"">我需要医生。 (我需要醫生。)</dd>|"<dt id=""mwAz4"">I need a doctor. <i id=""mwA0A"">wǒ xūyào yīshēng</i></dt>"
-<dd id=""mwA0I"">我可以打个电话吗？ (我可以打個電話嗎？)</dd>|"<dt id=""mwA0E"">Can I use your phone? <i id=""mwA0M"">wǒ kěyǐ dǎ ge diànhuà ma?</i></dt>"
+是 (是), 不是 (不是)|To be or not to be <i>shì</i>, <i>bú shì</i>
+有 (有), 没有 (没有)|To have or not have / there is or is not <i>yǒu</i>, <i>méi yǒu</i>
+对 (對), 不对 (不對)|To be right or wrong <i>duì</i>, <i>bú duì</i>
+不要打扰我。 (不要打擾我。)|"Leave me alone. <i id=""mwAxk"">búyào dǎrǎo wǒ</i>"
+我不要！ (我不要！)|"I don't want it! (useful for people who come up trying to sell you something) <i id=""mwAxw"">wǒ búyào!</i>"
+不要碰我！ (不要碰我！)|"Don't touch me! <i id=""mwAx8"">búyào pèng wǒ!</i>"
+我要叫警察了。 (我要叫警察了。)|"I'll call the police. <i id=""mwAyI"">wǒ yào jiào jǐngchá le</i>"
+警察！ (警察！)|"Police! <i id=""mwAyU"">jǐngchá!</i>"
+住手！小偷！ (住手！小偷！)|"Stop! Thief! <i id=""mwAyg"">zhùshǒu! xiǎotōu!</i>"
+我需要你的帮助。 (我需要你的幫助。)|"I need your help. <i id=""mwAys"">wǒ xūyào nǐde bāngzhù</i>"
+这是紧急情况。 (這是緊急情況。)|"It's an emergency. <i id=""mwAy4"">zhèshì jǐnjí qíngkuàng</i>"
+我迷路了。 (我迷路了。)|"I'm lost. <i id=""mwAzE"">wǒ mílù le</i>"
+我的包丢了。 (我的包丟了。)|"I lost my bag. <i id=""mwAzQ"">wǒ de bāo diūle</i>"
+我的钱包丢了。 (我的錢包丟了。)|"I lost my wallet. <i id=""mwAzc"">wǒ de qiánbāo diūle</i>"
+我生病了。 (我生病了。)|"I'm sick. <i id=""mwAzo"">wǒ shēngbìng le</i>"
+我受伤了。 (我受傷了。)|"I've been injured. <i id=""mwAz0"">wǒ shòushāng le</i>"
+我需要医生。 (我需要醫生。)|"I need a doctor. <i id=""mwA0A"">wǒ xūyào yīshēng</i>"
+我可以打个电话吗？ (我可以打個電話嗎？)|"Can I use your phone? <i id=""mwA0M"">wǒ kěyǐ dǎ ge diànhuà ma?</i>"
 How do you ask a question in Chinese?|"<p>There are many ways to ask a question in Chinese. Here are two easy ones for travelers...</p>
 <dl><dt>Verb/Adj. + 不 (不) <i>bù</i> + Verb/Adj.</dt><dd>Example - 好不好？ （好不好？）<i>hăo bù hăo?</i> - Is that okay? / Are you all right? (literally - good not good?)</dd></dl>
 <p>Exception - 有没有？ （有沒有？） <i>yŏu méi yŏu?</i> - Do you have? (literally - have not have?)</p>
 <dl><dt>Sentence + 吗 （嗎） ma</dt><dd>Example -  你是中国人吗？ （你是中國人嗎？） <i>nĭ shì zhōngguóren ma?</i> - Are you Chinese? (literally - you are Chinese + ma)</dd></dl></td></tr>
 "
 What should you know about Miaoli County?|"There is a temple <figure class=""mw-default-size"" typeof=""mw:File/Thumb"" id=""mwA0Y""><a href=""//en.wikivoyage.org/wiki/File:Miaoli-County_Taiwan_Quanhua-Temple-02.jpg"" class=""mw-file-description"" id=""mwA0c""><img resource=""//en.wikivoyage.org/wiki/File:Miaoli-County_Taiwan_Quanhua-Temple-02.jpg"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Miaoli-County_Taiwan_Quanhua-Temple-02.jpg/250px-Miaoli-County_Taiwan_Quanhua-Temple-02.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail"" decoding=""async"" data-file-width=""5289"" data-file-height=""3526"" data-file-type=""bitmap"" height=""167"" width=""250"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Miaoli-County_Taiwan_Quanhua-Temple-02.jpg/500px-Miaoli-County_Taiwan_Quanhua-Temple-02.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x"" class=""mw-file-element"" id=""mwA0g""/></a><figcaption id=""mwA0k"">Quanhua Temple in <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Miaoli_County"" title=""Miaoli County"" id=""mwA0o"">Miaoli County</a></figcaption></figure>"
-<dd id=""mwA00"">医生 (醫生)</dd>|<dt id=""mwA0w"">Doctor <i id=""mwA04"">yīshēng</i></dt>
-<dd id=""mwA1A"">护士 (護士)</dd>|<dt id=""mwA08"">Nurse <i id=""mwA1E"">hùshi</i></dt>
-<dd id=""mwA1M"">医院 (醫院)</dd>|<dt id=""mwA1I"">Hospital <i id=""mwA1Q"">yīyuàn</i></dt>
-<dd id=""mwA1Y"">中药 (中藥)</dd>|<dt id=""mwA1U"">Chinese medicine <i id=""mwA1c"">zhōngyào</i></dt>
-<dd id=""mwA1k"">西药 (西藥)</dd>|<dt id=""mwA1g"">Western medicine <i id=""mwA1o"">xīyào</i></dt>
-<dd id=""mwA10"">我生病了。 (我生病了。)</dd>|<dt id=""mwA1w"">I am sick. <i id=""mwA14"">wǒ shēngbìng le</i></dt>
-<dd id=""mwA2A"">我的 ____ 疼/痛。 ( 我的 ____ 疼/痛。)</dd>|<dt id=""mwA18"">My _____ hurts. <i id=""mwA2E"">wŏde ____ téng/tòng</i></dt>
-<dd id=""mwA2Q"">疼/痛 (疼/痛) </dd>|<dt id=""mwA2M"">Painful <i id=""mwA2U"">téng/tòng</i></dt>
-<dd id=""mwA2c"">不舒服 (不舒服)</dd>|<dt id=""mwA2Y"">Sick/Uncomfortable <i id=""mwA2g"">bù shūfu</i></dt>
-<dd id=""mwA2o"">痒 (痒)</dd>|<dt id=""mwA2k"">Itchy/ticklish <i id=""mwA2s"">yǎng</i></dt>
-<dd id=""mwA20"">酸 (酸)</dd>|<dt id=""mwA2w"">Sore (In muscle strains) <i id=""mwA24"">suān</i></dt>
-<dd id=""mwA3E"">发热 (發熱) / 发烧 (發燒)</dd>|<dt id=""mwA3A"">Fever <i id=""mwA3I"">fārè</i> / <i id=""mwA3M"">fāshāo</i></dt>
-<dd id=""mwA3U"">咳嗽  (咳嗽)</dd>|<dt id=""mwA3Q"">Cough <i id=""mwA3Y"">késòu</i></dt>
-<dd id=""mwA3g"">打喷嚏 (打噴嚏)</dd>|<dt id=""mwA3c"">Sneeze <i id=""mwA3k"">dǎ pēntì</i></dt>
-<dd id=""mwA3s"">拉肚子 (拉肚子) / 泻肚子 (瀉肚子)</dd>|<dt id=""mwA3o"">Diarrhoea <i id=""mwA3w"">lā dùzi</i> / <i id=""mwA30"">xiè dùzi</i></dt>
-<dd id=""mwA38"">呕吐 (嘔吐)</dd>|<dt id=""mwA34"">Vomiting <i id=""mwA4A"">ŏu tù</i></dt>
-<dd id=""mwA4I"">流鼻涕 (流鼻涕)</dd>|<dt id=""mwA4E"">Running nose <i id=""mwA4M"">liú bítì</i></dt>
-<dd id=""mwA4U"">痰 (痰)</dd>|<dt id=""mwA4Q"">Phlegm <i id=""mwA4Y"">tán</i></dt>
-<dd id=""mwA4g"">割伤 (割傷) / 伤口 (傷口)</dd>|<dt id=""mwA4c"">Cut/wound <i id=""mwA4k"">gēshāng</i> / <i id=""mwA4o"">shāngkǒu</i></dt>
-<dd id=""mwA4w"">烧伤 (燒傷)</dd>|<dt id=""mwA4s"">Burn <i id=""mwA40"">shāoshāng</i></dt>
-<dd id=""mwA5A"">手 (手)</dd>|<dt id=""mwA48"">Hands <i id=""mwA5E"">shǒu</i></dt>
-<dd id=""mwA5M"">手臂 (手臂) / 胳膊 (胳膊)</dd>|<dt id=""mwA5I"">Arms <i id=""mwA5Q"">shǒubì</i> / <i id=""mwA5U"">gēbo</i></dt>
-<dd id=""mwA5c"">手指 (手指)</dd>|<dt id=""mwA5Y"">Fingers <i id=""mwA5g"">shǒuzhǐ</i></dt>
-<dd id=""mwA5o"">手腕 (手腕) </dd>|<dt id=""mwA5k"">Wrist <i id=""mwA5s"">shǒuwàn</i></dt>
-<dd id=""mwA50"">肩膀 (肩膀)</dd>|<dt id=""mwA5w"">Shoulder <i id=""mwA54"">jiānbǎng</i></dt>
-<dd id=""mwA6A"">脚 (腳) </dd>|<dt id=""mwA58"">Feet <i id=""mwA6E"">jiǎo</i></dt>
-<dd id=""mwA6M"">脚趾 (腳趾) </dd>|<dt id=""mwA6I"">Toes <i id=""mwA6Q"">jiáozhǐ</i></dt>
-<dd id=""mwA6Y"">腿 (腿)</dd>|<dt id=""mwA6U"">Legs <i id=""mwA6c"">tuǐ</i></dt>
-<dd id=""mwA6k"">指甲 (指甲)</dd>|<dt id=""mwA6g"">Nails <i id=""mwA6o"">zhǐjia</i></dt>
-<dd id=""mwA6w"">身体 (身體)</dd>|<dt id=""mwA6s"">Body <i id=""mwA60"">shēntǐ</i></dt>
-<dd id=""mwA68"">眼睛 (眼睛)</dd>|<dt id=""mwA64"">Eyes <i id=""mwA7A"">yǎnjīng</i></dt>
-<dd id=""mwA7I"">耳朵 (耳朵)</dd>|<dt id=""mwA7E"">Ears <i id=""mwA7M"">ěrduo</i></dt>
-<dd id=""mwA7U"">鼻子 (鼻子)</dd>|<dt id=""mwA7Q"">Nose <i id=""mwA7Y"">bízi</i></dt>
-<dd id=""mwA7g"">脸 (臉)</dd>|<dt id=""mwA7c"">Face <i id=""mwA7k"">liǎn</i></dt>
-<dd id=""mwA7s"">头发 (頭髮)</dd>|<dt id=""mwA7o"">Hair <i id=""mwA7w"">tóufa</i></dt>
-<dd id=""mwA74"">头 (頭)</dd>|<dt id=""mwA70"">Head <i id=""mwA78"">tóu</i></dt>
-<dd id=""mwA8E"">脖子 (脖子) / 颈项 (頸項)</dd>|<dt id=""mwA8A"">Neck <i id=""mwA8I"">bózi</i> / <i id=""mwA8M"">jǐngxiàng</i></dt>
-<dd id=""mwA8U"">喉咙 (喉嚨)</dd>|<dt id=""mwA8Q"">Throat <i id=""mwA8Y"">hóulóng</i></dt>
-<dd id=""mwA8g"">胸 (胸)</dd>|<dt id=""mwA8c"">Chest <i id=""mwA8k"">xiōng</i></dt>
-<dd id=""mwA8s"">肚子 (肚子) / 腹 (腹)</dd>|<dt id=""mwA8o"">Abdomen <i id=""mwA8w"">dùzi</i> / <i id=""mwA80"">fù</i></dt>
-<dd id=""mwA88"">腰 (腰)</dd>|<dt id=""mwA84"">Hip/Waist <i id=""mwA9A"">yāo</i></dt>
-<dd id=""mwA9I"">屁股 (屁股)</dd>|<dt id=""mwA9E"">Buttocks <i id=""mwA9M"">pìgu</i></dt>
-<dd id=""mwA9U"">背 (背)</dd>|<dt id=""mwA9Q"">Back <i id=""mwA9Y"">bèi</i></dt>
-<dd id=""mwA9k"">医疗保险 (醫療保險)</dd>|<dt id=""mwA9g"">Medical Insurance <i id=""mwA9o"">yīliáo bǎoxiǎn</i></dt>
-<dd id=""mwA9w"">医生费 (醫生費)</dd>|<dt id=""mwA9s"">Doctor's fees <i id=""mwA90"">yīshēng fèi</i></dt>
-<dd id=""mwA98"">处方 (處方) / 药方 (藥方)</dd>|<dt id=""mwA94"">Prescription <i id=""mwA-A"">chǔfāng</i> / <i id=""mwA-E"">yàofāng</i></dt>
-<dd id=""mwA-M"">药 (藥)</dd>|<dt id=""mwA-I"">Medicine <i id=""mwA-Q"">yào</i></dt>
-<dd id=""mwA-Y"">药店 (藥店)</dd>|<dt id=""mwA-U"">Pharmacy <i id=""mwA-c"">yàodiàn</i></dt>
+医生 (醫生)|Doctor <i id=""mwA04"">yīshēng</i>
+护士 (護士)|Nurse <i id=""mwA1E"">hùshi</i>
+医院 (醫院)|Hospital <i id=""mwA1Q"">yīyuàn</i>
+中药 (中藥)|Chinese medicine <i id=""mwA1c"">zhōngyào</i>
+西药 (西藥)|Western medicine <i id=""mwA1o"">xīyào</i>
+我生病了。 (我生病了。)|I am sick. <i id=""mwA14"">wǒ shēngbìng le</i>
+我的 ____ 疼/痛。 ( 我的 ____ 疼/痛。)|My _____ hurts. <i id=""mwA2E"">wŏde ____ téng/tòng</i>
+疼/痛 (疼/痛) |Painful <i id=""mwA2U"">téng/tòng</i>
+不舒服 (不舒服)|Sick/Uncomfortable <i id=""mwA2g"">bù shūfu</i>
+痒 (痒)|Itchy/ticklish <i id=""mwA2s"">yǎng</i>
+酸 (酸)|Sore (In muscle strains) <i id=""mwA24"">suān</i>
+发热 (發熱) / 发烧 (發燒)|Fever <i id=""mwA3I"">fārè</i> / <i id=""mwA3M"">fāshāo</i>
+咳嗽  (咳嗽)|Cough <i id=""mwA3Y"">késòu</i>
+打喷嚏 (打噴嚏)|Sneeze <i id=""mwA3k"">dǎ pēntì</i>
+拉肚子 (拉肚子) / 泻肚子 (瀉肚子)|Diarrhoea <i id=""mwA3w"">lā dùzi</i> / <i id=""mwA30"">xiè dùzi</i>
+呕吐 (嘔吐)|Vomiting <i id=""mwA4A"">ŏu tù</i>
+流鼻涕 (流鼻涕)|Running nose <i id=""mwA4M"">liú bítì</i>
+痰 (痰)|Phlegm <i id=""mwA4Y"">tán</i>
+割伤 (割傷) / 伤口 (傷口)|Cut/wound <i id=""mwA4k"">gēshāng</i> / <i id=""mwA4o"">shāngkǒu</i>
+烧伤 (燒傷)|Burn <i id=""mwA40"">shāoshāng</i>
+手 (手)|Hands <i id=""mwA5E"">shǒu</i>
+手臂 (手臂) / 胳膊 (胳膊)|Arms <i id=""mwA5Q"">shǒubì</i> / <i id=""mwA5U"">gēbo</i>
+手指 (手指)|Fingers <i id=""mwA5g"">shǒuzhǐ</i>
+手腕 (手腕) |Wrist <i id=""mwA5s"">shǒuwàn</i>
+肩膀 (肩膀)|Shoulder <i id=""mwA54"">jiānbǎng</i>
+脚 (腳) |Feet <i id=""mwA6E"">jiǎo</i>
+脚趾 (腳趾) |Toes <i id=""mwA6Q"">jiáozhǐ</i>
+腿 (腿)|Legs <i id=""mwA6c"">tuǐ</i>
+指甲 (指甲)|Nails <i id=""mwA6o"">zhǐjia</i>
+身体 (身體)|Body <i id=""mwA60"">shēntǐ</i>
+眼睛 (眼睛)|Eyes <i id=""mwA7A"">yǎnjīng</i>
+耳朵 (耳朵)|Ears <i id=""mwA7M"">ěrduo</i>
+鼻子 (鼻子)|Nose <i id=""mwA7Y"">bízi</i>
+脸 (臉)|Face <i id=""mwA7k"">liǎn</i>
+头发 (頭髮)|Hair <i id=""mwA7w"">tóufa</i>
+头 (頭)|Head <i id=""mwA78"">tóu</i>
+脖子 (脖子) / 颈项 (頸項)|Neck <i id=""mwA8I"">bózi</i> / <i id=""mwA8M"">jǐngxiàng</i>
+喉咙 (喉嚨)|Throat <i id=""mwA8Y"">hóulóng</i>
+胸 (胸)|Chest <i id=""mwA8k"">xiōng</i>
+肚子 (肚子) / 腹 (腹)|Abdomen <i id=""mwA8w"">dùzi</i> / <i id=""mwA80"">fù</i>
+腰 (腰)|Hip/Waist <i id=""mwA9A"">yāo</i>
+屁股 (屁股)|Buttocks <i id=""mwA9M"">pìgu</i>
+背 (背)|Back <i id=""mwA9Y"">bèi</i>
+医疗保险 (醫療保險)|Medical Insurance <i id=""mwA9o"">yīliáo bǎoxiǎn</i>
+医生费 (醫生費)|Doctor's fees <i id=""mwA90"">yīshēng fèi</i>
+处方 (處方) / 药方 (藥方)|Prescription <i id=""mwA-A"">chǔfāng</i> / <i id=""mwA-E"">yàofāng</i>
+药 (藥)|Medicine <i id=""mwA-Q"">yào</i>
+药店 (藥店)|Pharmacy <i id=""mwA-c"">yàodiàn</i>
 What should you know about number gestures in Chinese?|"<tbody><tr><td>
 <p>Chinese people use a set of gestures for the numbers 1-10. They're a useful way to communicate prices and quantities, especially if you're having trouble understanding or pronouncing the Chinese word for a number. The gestures vary a bit by region.</p>
 <ul class=""gallery mw-gallery-traditional"" typeof=""mw:Extension/gallery"" about=""#mwt22"" id=""mwA-o"" data-mw='{""name"":""gallery"",""attrs"":{},""body"":{}}'>
@@ -488,61 +488,61 @@ What should you know about number gestures in Chinese?|"<tbody><tr><td>
 </tbody></table>
 "
 What should you know about numbers in Chinese?|"<p id=""mwBDM"">Chinese numbers are very regular. While Western numerals have become more common and are universally understood, the Chinese numerals shown below are still used, particularly in informal contexts like markets.</p>"
-<dd id=""mwBDY"">〇 (〇) / 零 (零)</dd>|<dt id=""mwBDU"">0 <i id=""mwBDc"">líng</i></dt>
-<dd id=""mwBDk"">一 (一)</dd>|<dt id=""mwBDg"">1 <i id=""mwBDo"">yī</i> (pronounced <i id=""mwBDs"">yāo</i> when reading numbers like ID card or telephone numbers)</dt>
-<dd id=""mwBD0"">二 (二)</dd>|<dt id=""mwBDw"">2 <i id=""mwBD4"">èr</i> (两 (兩) <i id=""mwBD8"">liǎng</i> is used when specifying quantities)</dt>
-<dd id=""mwBEE"">三 (三)</dd>|<dt id=""mwBEA"">3 <i id=""mwBEI"">sān</i></dt>
-<dd id=""mwBEQ"">四 (四)</dd>|<dt id=""mwBEM"">4 <i id=""mwBEU"">sì</i></dt>
-<dd id=""mwBEc"">五 (五)</dd>|<dt id=""mwBEY"">5 <i id=""mwBEg"">wǔ</i></dt>
-<dd id=""mwBEo"">六 (六)</dd>|<dt id=""mwBEk"">6 <i id=""mwBEs"">liù</i></dt>
-<dd id=""mwBE0"">七 (七)</dd>|<dt id=""mwBEw"">7 <i id=""mwBE4"">qī</i></dt>
-<dd id=""mwBFA"">八 (八)</dd>|<dt id=""mwBE8"">8 <i id=""mwBFE"">bā</i></dt>
-<dd id=""mwBFM"">九 (九)</dd>|<dt id=""mwBFI"">9 <i id=""mwBFQ"">jiǔ</i></dt>
-<dd id=""mwBFY"">十 (十)</dd>|<dt id=""mwBFU"">10 <i id=""mwBFc"">shí</i></dt>
-<dd id=""mwBFk"">十一 (十一)</dd>|<dt id=""mwBFg"">11 <i id=""mwBFo"">shí-yī</i></dt>
-<dd id=""mwBFw"">十二 (十二)</dd>|<dt id=""mwBFs"">12 <i id=""mwBF0"">shí-èr</i></dt>
-<dd id=""mwBF8"">十三 (十三)</dd>|<dt id=""mwBF4"">13 <i id=""mwBGA"">shí-sān</i></dt>
-<dd id=""mwBGI"">十四 (十四)</dd>|<dt id=""mwBGE"">14 <i id=""mwBGM"">shí-sì</i></dt>
-<dd id=""mwBGU"">十五 (十五)</dd>|<dt id=""mwBGQ"">15 <i id=""mwBGY"">shí-wǔ</i></dt>
-<dd id=""mwBGg"">十六 (十六)</dd>|<dt id=""mwBGc"">16 <i id=""mwBGk"">shí-liù</i></dt>
-<dd id=""mwBGs"">十七 (十七)</dd>|<dt id=""mwBGo"">17 <i id=""mwBGw"">shí-qī</i></dt>
-<dd id=""mwBG4"">十八 (十八)</dd>|<dt id=""mwBG0"">18 <i id=""mwBG8"">shí-bā</i></dt>
-<dd id=""mwBHE"">十九 (十九)</dd>|<dt id=""mwBHA"">19 <i id=""mwBHI"">shí-jiǔ</i></dt>
-<dd id=""mwBHQ"">二十 (二十)</dd>|<dt id=""mwBHM"">20 <i id=""mwBHU"">èr-shí</i></dt>
-<dd id=""mwBHc"">二十一 (二十一)</dd>|<dt id=""mwBHY"">21 <i id=""mwBHg"">èr-shí-yī</i></dt>
-<dd id=""mwBHo"">二十二 (二十二)</dd>|<dt id=""mwBHk"">22 <i id=""mwBHs"">èr-shí-èr</i></dt>
-<dd id=""mwBH0"">二十三 (二十三)</dd>|<dt id=""mwBHw"">23 <i id=""mwBH4"">èr-shí-sān</i></dt>
-<dd id=""mwBIA"">三十 (三十)</dd>|<dt id=""mwBH8"">30 <i id=""mwBIE"">sān-shí</i></dt>
-<dd id=""mwBIM"">四十 (四十)</dd>|<dt id=""mwBII"">40 <i id=""mwBIQ"">sì-shí</i></dt>
-<dd id=""mwBIY"">五十 (五十)</dd>|<dt id=""mwBIU"">50 <i id=""mwBIc"">wǔ-shí</i></dt>
-<dd id=""mwBIk"">六十 (六十)</dd>|<dt id=""mwBIg"">60 <i id=""mwBIo"">liù-shí</i></dt>
-<dd id=""mwBIw"">七十 (七十)</dd>|<dt id=""mwBIs"">70 <i id=""mwBI0"">qī-shí</i></dt>
-<dd id=""mwBI8"">八十 (八十)</dd>|<dt id=""mwBI4"">80 <i id=""mwBJA"">bā-shí</i></dt>
-<dd id=""mwBJI"">九十 (九十)</dd>|<dt id=""mwBJE"">90 <i id=""mwBJM"">jiǔ-shí</i></dt>
+〇 (〇) / 零 (零)|0 <i id=""mwBDc"">líng</i>
+一 (一)|1 <i id=""mwBDo"">yī</i> (pronounced <i id=""mwBDs"">yāo</i> when reading numbers like ID card or telephone numbers)
+二 (二)|2 <i id=""mwBD4"">èr</i> (两 (兩) <i id=""mwBD8"">liǎng</i> is used when specifying quantities)
+三 (三)|3 <i id=""mwBEI"">sān</i>
+四 (四)|4 <i id=""mwBEU"">sì</i>
+五 (五)|5 <i id=""mwBEg"">wǔ</i>
+六 (六)|6 <i id=""mwBEs"">liù</i>
+七 (七)|7 <i id=""mwBE4"">qī</i>
+八 (八)|8 <i id=""mwBFE"">bā</i>
+九 (九)|9 <i id=""mwBFQ"">jiǔ</i>
+十 (十)|10 <i id=""mwBFc"">shí</i>
+十一 (十一)|11 <i id=""mwBFo"">shí-yī</i>
+十二 (十二)|12 <i id=""mwBF0"">shí-èr</i>
+十三 (十三)|13 <i id=""mwBGA"">shí-sān</i>
+十四 (十四)|14 <i id=""mwBGM"">shí-sì</i>
+十五 (十五)|15 <i id=""mwBGY"">shí-wǔ</i>
+十六 (十六)|16 <i id=""mwBGk"">shí-liù</i>
+十七 (十七)|17 <i id=""mwBGw"">shí-qī</i>
+十八 (十八)|18 <i id=""mwBG8"">shí-bā</i>
+十九 (十九)|19 <i id=""mwBHI"">shí-jiǔ</i>
+二十 (二十)|20 <i id=""mwBHU"">èr-shí</i>
+二十一 (二十一)|21 <i id=""mwBHg"">èr-shí-yī</i>
+二十二 (二十二)|22 <i id=""mwBHs"">èr-shí-èr</i>
+二十三 (二十三)|23 <i id=""mwBH4"">èr-shí-sān</i>
+三十 (三十)|30 <i id=""mwBIE"">sān-shí</i>
+四十 (四十)|40 <i id=""mwBIQ"">sì-shí</i>
+五十 (五十)|50 <i id=""mwBIc"">wǔ-shí</i>
+六十 (六十)|60 <i id=""mwBIo"">liù-shí</i>
+七十 (七十)|70 <i id=""mwBI0"">qī-shí</i>
+八十 (八十)|80 <i id=""mwBJA"">bā-shí</i>
+九十 (九十)|90 <i id=""mwBJM"">jiǔ-shí</i>
 What should you know about numbers greater than 100 in Chinese?|"<p id=""mwBJU"">For numbers above 100, any ""gaps"" must be filled in with 零 <i id=""mwBJY"">líng</i>, as e.g. 一百一 <i id=""mwBJc"">yībǎiyī</i> would otherwise be taken as shorthand for ""110"". A single unit of tens may be written and pronounced either 一十 <i id=""mwBJg"">yīshí</i> or just 十 <i id=""mwBJk"">shí</i>.</p>"
 What should you know about the difference between <i>Shí kuài</i> or <i>sì kuài</i>?</div>|"<p>In southern China, Taiwan, Malaysia and Singapore, many speakers don't distinguish the <i>sh</i> and <i>s</i> sounds, which means that in these areas, the only reliable difference between <i>shí</i> (ten) and <i>sì</i> (four) is the tone. So if you're talking to someone from southern China, it's important to listen for the tone when they tell you a number, lest you think something costs 4 yuan when it's really 10.</p>"
-<dd id=""mwBJw"">一百 (一百)</dd>|<dt id=""mwBJs"">100 <i id=""mwBJ0"">yī-bǎi</i></dt>
-<dd id=""mwBJ8"">一百零一 (一百零一)</dd>|<dt id=""mwBJ4"">101 <i id=""mwBKA"">yī-bǎi-líng-yī</i></dt>
-<dd id=""mwBKI"">一百一十 (一百一十)</dd>|<dt id=""mwBKE"">110 <i id=""mwBKM"">yī-bǎi-yī-shí</i></dt>
-<dd id=""mwBKU"">一百一十一 (一百一十一)</dd>|<dt id=""mwBKQ"">111 <i id=""mwBKY"">yī-bǎi-yī-shí-yī</i></dt>
-<dd id=""mwBKg"">二百 (二百) (written) or 两百 (兩百) (colloquial)</dd>|<dt id=""mwBKc"">200 <i id=""mwBKk"">èr-bǎi</i> or <i id=""mwBKo"">liǎng-bǎi</i></dt>
-<dd id=""mwBKw"">三百 (三百)</dd>|<dt id=""mwBKs"">300 <i id=""mwBK0"">sān-bǎi</i></dt>
-<dd id=""mwBK8"">五百 (五百)</dd>|<dt id=""mwBK4"">500 <i id=""mwBLA"">wǔ-bǎi</i></dt>
-<dd id=""mwBLI"">一千 (一千)</dd>|<dt id=""mwBLE"">1000 <i id=""mwBLM"">yī-qiān</i></dt>
-<dd id=""mwBLU"">二千 (二千) (written) or  两千 (兩千) (colloquial)</dd>|<dt id=""mwBLQ"">2000 <i id=""mwBLY"">èr-qiān</i> or <i id=""mwBLc"">liǎng-qiān</i></dt>
+一百 (一百)|100 <i id=""mwBJ0"">yī-bǎi</i>
+一百零一 (一百零一)|101 <i id=""mwBKA"">yī-bǎi-líng-yī</i>
+一百一十 (一百一十)|110 <i id=""mwBKM"">yī-bǎi-yī-shí</i>
+一百一十一 (一百一十一)|111 <i id=""mwBKY"">yī-bǎi-yī-shí-yī</i>
+二百 (二百) (written) or 两百 (兩百) (colloquial)|200 <i id=""mwBKk"">èr-bǎi</i> or <i id=""mwBKo"">liǎng-bǎi</i>
+三百 (三百)|300 <i id=""mwBK0"">sān-bǎi</i>
+五百 (五百)|500 <i id=""mwBLA"">wǔ-bǎi</i>
+一千 (一千)|1000 <i id=""mwBLM"">yī-qiān</i>
+二千 (二千) (written) or  两千 (兩千) (colloquial)|2000 <i id=""mwBLY"">èr-qiān</i> or <i id=""mwBLc"">liǎng-qiān</i>
 What should you know about numbers starting from 10,000?|"<p id=""mwBLg"">Numbers starting from 10,000 are grouped by in units of four digits starting with 万 (萬) <i id=""mwBLk"">wàn</i> (ten thousand). ""One million"" in Chinese is thus ""hundred ten-thousands"" 一百万 (一百萬), and ""one billion"" is ""ten hundred-millions"" 十亿 (十億).</p>"
-<dd id=""mwBLw"">一万 (一萬)</dd>|<dt id=""mwBLs"">10,000 <i id=""mwBL0"">yī-wàn</i></dt>
-<dd id=""mwBL8"">一万零一 (一萬零一)</dd>|<dt id=""mwBL4"">10,001 <i id=""mwBMA"">yī-wàn-líng-yī</i></dt>
-<dd id=""mwBMI"">一万零二 (一萬零二)</dd>|<dt id=""mwBME"">10,002 <i id=""mwBMM"">yī-wàn-líng-èr</i></dt>
-<dd id=""mwBMU"">二万 (二萬) (written) or 两万 (兩萬) (colloquial)</dd>|<dt id=""mwBMQ"">20,000 <i id=""mwBMY"">èr-wàn</i> or <i id=""mwBMc"">liǎng-wàn</i></dt>
-<dd id=""mwBMk"">五万 (五萬)</dd>|<dt id=""mwBMg"">50,000 <i id=""mwBMo"">wǔ-wàn</i></dt>
-<dd id=""mwBMw"">十万 (十萬)</dd>|<dt id=""mwBMs"">100,000 <i id=""mwBM0"">shí-wàn</i></dt>
-<dd id=""mwBM8"">二十万 (二十萬)</dd>|<dt id=""mwBM4"">200,000 <i id=""mwBNA"">èr-shí-wàn</i></dt>
-<dd id=""mwBNI"">一百万 (一百萬)</dd>|<dt id=""mwBNE"">1,000,000 <i id=""mwBNM"">yī-bǎi-wàn</i></dt>
-<dd id=""mwBNU"">一千万 (一千萬)</dd>|<dt id=""mwBNQ"">10,000,000 <i id=""mwBNY"">yī-qiān-wàn</i></dt>
-<dd id=""mwBNg"">一亿 (一億)</dd>|<dt id=""mwBNc"">100,000,000 <i id=""mwBNk"">yī-yì</i></dt>
-<dd id=""mwBNs"">十亿 (十億)</dd>|<dt id=""mwBNo"">1,000,000,000 <i id=""mwBNw"">shí-yì</i></dt>
-<dd id=""mwBN4"">一万亿 (一萬億) or 一兆 (一兆)</dd>|<dt id=""mwBN0"">1,000,000,000,000 <i id=""mwBN8"">yī-wàn-yì</i> or <i id=""mwBOA"">yī-zhào</i></dt>
+一万 (一萬)|10,000 <i id=""mwBL0"">yī-wàn</i>
+一万零一 (一萬零一)|10,001 <i id=""mwBMA"">yī-wàn-líng-yī</i>
+一万零二 (一萬零二)|10,002 <i id=""mwBMM"">yī-wàn-líng-èr</i>
+二万 (二萬) (written) or 两万 (兩萬) (colloquial)|20,000 <i id=""mwBMY"">èr-wàn</i> or <i id=""mwBMc"">liǎng-wàn</i>
+五万 (五萬)|50,000 <i id=""mwBMo"">wǔ-wàn</i>
+十万 (十萬)|100,000 <i id=""mwBM0"">shí-wàn</i>
+二十万 (二十萬)|200,000 <i id=""mwBNA"">èr-shí-wàn</i>
+一百万 (一百萬)|1,000,000 <i id=""mwBNM"">yī-bǎi-wàn</i>
+一千万 (一千萬)|10,000,000 <i id=""mwBNY"">yī-qiān-wàn</i>
+一亿 (一億)|100,000,000 <i id=""mwBNk"">yī-yì</i>
+十亿 (十億)|1,000,000,000 <i id=""mwBNw"">shí-yì</i>
+一万亿 (一萬億) or 一兆 (一兆)|1,000,000,000,000 <i id=""mwBN8"">yī-wàn-yì</i> or <i id=""mwBOA"">yī-zhào</i>
 
 <dd id=""mwBOM"">number <i id=""mwBOQ""><b id=""mwBOU"">measure word</b></i> (路(路) <i id=""mwBOY"">lù</i>, 号(號) <i id=""mwBOc"">hào</i>, ...) _____ (火车 (火車) <i id=""mwBOg"">huǒ chē</i>, 公共汽车 (公共汽車) <i id=""mwBOk"">gōng gòng qì chē</i>, etc.)</dd>
 <dt id=""mwBOE"">number _____ (<i id=""mwBOI"">train, bus, etc.</i>)</dt>
@@ -551,17 +551,17 @@ What should you know about measure words?|"<p id=""mwBOo"">Measure words are use
 
 <p id=""mwBO0"">When unsure, use 个 (個) <i id=""mwBO4"">ge</i>; even though it may not be correct, you will probably be understood because it is the generic and most common measure word.</p>
 "
-<dd id=""mwBPE"">一个人 (一個人)</dd>|<dt id=""mwBPA"">one person <i id=""mwBPI"">yí ge rén</i></dt>
-<dd id=""mwBPQ"">两个苹果 (兩個蘋果)</dd>|<dt id=""mwBPM"">two apples <i id=""mwBPU"">liǎng ge píngguǒ</i></dt>
-<dd id=""mwBPc"">一片面包 (一片麵包)</dd>|<dt id=""mwBPY"">one slice of bread <i id=""mwBPg"">yí piàn miàn bāo</i></dt>
-<dd id=""mwBPo"">一块蛋糕  (一塊蛋糕)</dd>|<dt id=""mwBPk"">one piece of cake <i id=""mwBPs"">yí kuài dàn gāo</i></dt>
+一个人 (一個人)|one person <i id=""mwBPI"">yí ge rén</i>
+两个苹果 (兩個蘋果)|two apples <i id=""mwBPU"">liǎng ge píngguǒ</i>
+一片面包 (一片麵包)|one slice of bread <i id=""mwBPg"">yí piàn miàn bāo</i>
+一块蛋糕  (一塊蛋糕)|one piece of cake <i id=""mwBPs"">yí kuài dàn gāo</i>
 What should you be be careful with respect to counter words in Chinese?|"<p id=""mwBPw"">Be careful about using the right counter words for the latter two. 一个面包 (一個麵包) <i id=""mwBP0"">yí ge miàn bāo</i> and 一个蛋糕 (一個蛋糕) <i id=""mwBP4"">yí ge dàn gāo</i> refer to a whole loaf of bread and a whole cake respectively.</p>
 
 <p id=""mwBP8"">Note that two of something always uses 两 (兩) <i id=""mwBQA"">liǎng</i> rather than 二 (二) <i id=""mwBQE"">èr</i>).</p>
 "
-<dd id=""mwBQQ"">半 (半)</dd>|<dt id=""mwBQM"">half <i id=""mwBQU"">bàn</i></dt>
-<dd id=""mwBQc"">少于 (少於)</dd>|<dt id=""mwBQY"">less than <i id=""mwBQg"">shǎoyú</i></dt>
-<dd id=""mwBQo"">多于 (多於)</dd>|<dt id=""mwBQk"">more than <i id=""mwBQs"">duōyú</i></dt>
+半 (半)|half <i id=""mwBQU"">bàn</i>
+少于 (少於)|less than <i id=""mwBQg"">shǎoyú</i>
+多于 (多於)|more than <i id=""mwBQs"">duōyú</i>
 What should you know about Financial forms in Chinese?|"<p id=""mwBQ0"">There are also more complex forms of these characters, used in financial contexts to prevent fraud by adding strokes on characters. Most travellers are unlikely to need to recognize them, but they are used in situations such as writing cheques and printing banknotes.</p>
 
 <table class=""wikitable"" id=""mwBQ4"">
@@ -572,190 +572,189 @@ What should you know about Financial forms in Chinese?|"<p id=""mwBQ0"">There ar
 <td id=""mwBTM"">Value</td><td id=""mwBTQ"">0</td><td id=""mwBTU"">1</td><td id=""mwBTY"">2</td><td id=""mwBTc"">3</td><td id=""mwBTg"">4</td><td id=""mwBTk"">5</td><td id=""mwBTo"">6</td><td id=""mwBTs"">7</td><td id=""mwBTw"">8</td><td id=""mwBT0"">9</td><td id=""mwBT4"">10</td><td id=""mwBT8"">100</td><td id=""mwBUA"">1,000</td><td id=""mwBUE"">10,000</td><td id=""mwBUI"">100,000,000</td></tr>
 </tbody></table>
 "
-<
 What should you know about ordinal numbers in Chinese?|"<p id=""mwBUQ"">Ordinal numbers in Chinese are straightforward. Just add 第 (第) <i id=""mwBUU"">dì</i> before the cardinal number.</p>"
-<dd id=""mwBUg"">第一 (第一)</dd>|<dt id=""mwBUc"">first <i id=""mwBUk"">dì yī</i></dt>
-<dd id=""mwBUs"">第二 (第二)</dd>|<dt id=""mwBUo"">second <i id=""mwBUw"">dì èr</i></dt>
-<dd id=""mwBU4"">第三 (第三)</dd>|<dt id=""mwBU0"">third <i id=""mwBU8"">dì sān</i></dt>
-<dd id=""mwBVg"">现在 (現在)</dd>|<dt id=""mwBVc"">now <i id=""mwBVk"">xiànzài</i></dt>
-<dd id=""mwBVs"">以后 (以後) / 稍后(稍後)</dd>|<dt id=""mwBVo"">later <i id=""mwBVw"">yǐhòu</i> / <i id=""mwBV0"">shāohòu</i></dt>
-<dd id=""mwBV8"">以前 (以前)</dd>|<dt id=""mwBV4"">before <i id=""mwBWA"">yǐqián</i></dt>
-<dd id=""mwBWI"">早上 (早上) <i id=""mwBWM"">zǎoshang</i> / 上午 (上午) <i id=""mwBWQ"">shàngwǔ</i></dd>|<dt id=""mwBWE"">morning</dt>
-<dd id=""mwBWY"">中午 (中午) <i id=""mwBWc"">zhōngwǔ</i></dd>|<dt id=""mwBWU"">noon</dt>
-<dd id=""mwBWk"">下午 (下午) <i id=""mwBWo"">xiàwǔ</i></dd>|<dt id=""mwBWg"">afternoon</dt>
-<dd id=""mwBWw"">傍晚 (傍晚) <i id=""mwBW0"">bàngwǎn</i></dd>|<dt id=""mwBWs"">evening</dt>
-<dd id=""mwBW8"">晚上 (晚上) <i id=""mwBXA"">wǎnshang</i></dd>|<dt id=""mwBW4"">night</dt>|
-<dd id=""mwBXI"">半夜 (半夜) / 午夜 (午夜)</dd>|<dt id=""mwBXE"">midnight <i id=""mwBXM"">bànyè</i> / <i id=""mwBXQ"">wǔyè</i></dt>
-<dd id=""mwBXg"">现在几点？ (現在幾點？)</dd>|<dt id=""mwBXc"">What time is it? <i id=""mwBXk"">Xiànzài jǐ diǎn?</i></dt>
-<dd id=""mwBXs"">早上9点钟。 (早上9點鐘。)</dd>|<dt id=""mwBXo"">It is nine in the morning. <i id=""mwBXw"">Zǎoshàng jǐu diǎn zhōng.</i></dt>
-<dd id=""mwBX8"">下午3点半 (下午3點半) / 下午3点30分 (下午3點30分)</dd>|<dt id=""mwBX0"">3<span typeof=""mw:Nowiki"" id=""mwBX4"">:</span>30 PM <i id=""mwBYA"">Xiàwǔ sān diǎn bàn</i> / <i id=""mwBYE"">Xiàwǔ sāndiǎn sānshí fēn</i></dt>
-<dd id=""mwBYQ"">下午3点38分 (下午3點38分)</dd>|<dt id=""mwBYI"">3<span typeof=""mw:Nowiki"" id=""mwBYM"">:</span>38 PM <i id=""mwBYU"">Xiàwǔ sāndiǎn sānshíbā fēn</i></dt>
+第一 (第一)|first <i id=""mwBUk"">dì yī</i>
+第二 (第二)|second <i id=""mwBUw"">dì èr</i>
+第三 (第三)|third <i id=""mwBU8"">dì sān</i>
+现在 (現在)|now <i id=""mwBVk"">xiànzài</i>
+以后 (以後) / 稍后(稍後)|later <i id=""mwBVw"">yǐhòu</i> / <i id=""mwBV0"">shāohòu</i>
+以前 (以前)|before <i id=""mwBWA"">yǐqián</i>
+早上 (早上) / 上午 (上午)|morning <i id=""mwBWM"">zǎoshang</i> / <i id=""mwBWQ"">shàngwǔ</i>
+中午 (中午)|noon <i id=""mwBWc"">zhōngwǔ</i>
+下午 (下午)|afternoon <i id=""mwBWo"">xiàwǔ</i>
+傍晚 (傍晚)|evening <i id=""mwBW0"">bàngwǎn</i>
+晚上 (晚上)|night <i id=""mwBXA"">wǎnshang</i>
+半夜 (半夜) / 午夜 (午夜)|midnight <i id=""mwBXM"">bànyè</i> / <i id=""mwBXQ"">wǔyè</i>
+现在几点？ (現在幾點？)|What time is it? <i id=""mwBXk"">Xiànzài jǐ diǎn?</i>
+早上9点钟。 (早上9點鐘。)|It is nine in the morning. <i id=""mwBXw"">Zǎoshàng jǐu diǎn zhōng.</i>
+下午3点半 (下午3點半) / 下午3点30分 (下午3點30分)|3<span typeof=""mw:Nowiki"" id=""mwBX4"">:</span>30 PM <i id=""mwBYA"">Xiàwǔ sān diǎn bàn</i> / <i id=""mwBYE"">Xiàwǔ sāndiǎn sānshí fēn</i>
+下午3点38分 (下午3點38分)|3<span typeof=""mw:Nowiki"" id=""mwBYM"">:</span>38 PM <i id=""mwBYU"">Xiàwǔ sāndiǎn sānshíbā fēn</i>
 What word should you use for hours in writing in Chinese?|"<p id=""mwBYY"">In formal writing, 时 (時) <i id=""mwBYc"">shí</i> is used instead of 点 (點) <i id=""mwBYg"">diǎn</i> to indicate hours when telling time. Therefore, the time 3<span typeof=""mw:Nowiki"" id=""mwBYk"">:</span>30 PM would be written as 下午3时30分 (下午3時30分) in formal writing. This form is, however, not used in speech.</p>"
-<dd id=""mwBY0"">_____ 秒 (秒)</dd>|<dt id=""mwBYw"">_____ seconds(s) <i id=""mwBY4"">miǎo</i></dt>
-<dd id=""mwBZA"">_____ 分钟 (分鐘)</dd>|<dt id=""mwBY8"">_____ minute(s) <i id=""mwBZE"">fēnzhōng</i></dt>
-<dd id=""mwBZM"">_____ 个小时 (個小時) / _____ 个钟头 (個鍾頭)</dd>|<dt id=""mwBZI"">_____ hour(s) <i id=""mwBZQ"">ge xiǎoshí</i> / <i id=""mwBZU"">ge zhōngtóu</i></dt>
-<dd id=""mwBZc"">_____ 天 (天) (colloquial) / _____ 日 (日) (formal)</dd>|<dt id=""mwBZY"">_____ day(s) <i id=""mwBZg"">tiān</i> / <i id=""mwBZk"">rì</i></dt>
-<dd id=""mwBZs"">_____ 个礼拜 (個禮拜) (colloquial) / _____ 个星期 (個星期) / _____ 周 (週)</dd>|<dt id=""mwBZo"">_____ week(s) <i id=""mwBZw"">ge lǐbài</i> / <i id=""mwBZ0"">ge xīngqī</i> / <i id=""mwBZ4"">zhōu</i></dt>
-<dd id=""mwBaA"">_____ 个月 (個月)</dd>|<dt id=""mwBZ8"">_____ month(s) <i id=""mwBaE"">ge yùe</i></dt>
-<dd id=""mwBaM"">_____ 年 (年)</dd>|<dt id=""mwBaI"">_____ year(s) <i id=""mwBaQ"">nián</i></dt>
-<dd id=""mwBag"">今天 (今天)</dd>|<dt id=""mwBac"">today <i id=""mwBak"">jīntiān</i></dt>
-<dd id=""mwBas"">昨天 (昨天)</dd>|<dt id=""mwBao"">yesterday <i id=""mwBaw"">zuótiān</i></dt>
-<dd id=""mwBa4"">前天 (前天)</dd>|<dt id=""mwBa0"">the day before yesterday <i id=""mwBa8"">qiántiān</i></dt>
-<dd id=""mwBbE"">明天 (明天)</dd>|<dt id=""mwBbA"">tomorrow <i id=""mwBbI"">míngtiān</i></dt>
-<dd id=""mwBbQ"">后天 (後天)</dd>|<dt id=""mwBbM"">the day after tomorrow <i id=""mwBbU"">hòutiān</i></dt>
-<dd id=""mwBbc"">这个星期 (這個星期) / 这个礼拜 (這個禮拜) (colloquial) / 这周 （這週）</dd>|<dt id=""mwBbY"">this week <i id=""mwBbg"">zhège xīngqī</i> / <i id=""mwBbk"">zhège lǐbài</i> / <i id=""mwBbo"">zhè zhōu</i></dt>
-<dd id=""mwBbw"">上个星期 (上個星期) / 上个礼拜 (上個禮拜) (colloquial) / 上周 (上週)</dd>|<dt id=""mwBbs"">last week <i id=""mwBb0"">shàngge xīngqī</i> / <i id=""mwBb4"">shàngge lǐbài</i> / <i id=""mwBb8"">shàng zhōu</i></dt>
-<dd id=""mwBcE"">下个星期 (下個星期) / 下个礼拜 (下個禮拜) (colloquial) / 下周 (下週)</dd>|<dt id=""mwBcA"">next week <i id=""mwBcI"">xiàge xīngqī</i> / <i id=""mwBcM"">xiàge lǐbài</i> / <i id=""mwBcQ"">xià zhōu</i></dt>
+_____ 秒 (秒)|_____ seconds(s) <i id=""mwBY4"">miǎo</i>
+_____ 分钟 (分鐘)|_____ minute(s) <i id=""mwBZE"">fēnzhōng</i>
+_____ 个小时 (個小時) / _____ 个钟头 (個鍾頭)|_____ hour(s) <i id=""mwBZQ"">ge xiǎoshí</i> / <i id=""mwBZU"">ge zhōngtóu</i>
+_____ 天 (天) (colloquial) / _____ 日 (日) (formal)|_____ day(s) <i id=""mwBZg"">tiān</i> / <i id=""mwBZk"">rì</i>
+_____ 个礼拜 (個禮拜) (colloquial) / _____ 个星期 (個星期) / _____ 周 (週)|_____ week(s) <i id=""mwBZw"">ge lǐbài</i> / <i id=""mwBZ0"">ge xīngqī</i> / <i id=""mwBZ4"">zhōu</i>
+_____ 个月 (個月)|_____ month(s) <i id=""mwBaE"">ge yùe</i>
+_____ 年 (年)|_____ year(s) <i id=""mwBaQ"">nián</i>
+今天 (今天)|today <i id=""mwBak"">jīntiān</i>
+昨天 (昨天)|yesterday <i id=""mwBaw"">zuótiān</i>
+前天 (前天)|the day before yesterday <i id=""mwBa8"">qiántiān</i>
+明天 (明天)|tomorrow <i id=""mwBbI"">míngtiān</i>
+后天 (後天)|the day after tomorrow <i id=""mwBbU"">hòutiān</i>
+这个星期 (這個星期) / 这个礼拜 (這個禮拜) (colloquial) / 这周 （這週）|this week <i id=""mwBbg"">zhège xīngqī</i> / <i id=""mwBbk"">zhège lǐbài</i> / <i id=""mwBbo"">zhè zhōu</i>
+上个星期 (上個星期) / 上个礼拜 (上個禮拜) (colloquial) / 上周 (上週)|last week <i id=""mwBb0"">shàngge xīngqī</i> / <i id=""mwBb4"">shàngge lǐbài</i> / <i id=""mwBb8"">shàng zhōu</i>
+下个星期 (下個星期) / 下个礼拜 (下個禮拜) (colloquial) / 下周 (下週)|next week <i id=""mwBcI"">xiàge xīngqī</i> / <i id=""mwBcM"">xiàge lǐbài</i> / <i id=""mwBcQ"">xià zhōu</i>
 What should you know about weekdays in Chinese?|"<p id=""mwBcU"">Weekdays in Chinese are easy: starting with 1 for Monday, just add the number after 星期 (星期) <i id=""mwBcY"">xīngqī</i>. In <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Taiwan"" title=""Taiwan"" id=""mwBcc"">Taiwan</a> and Singapore, 星期 (星期) is pronounced <i id=""mwBcg"">xīngqí</i> (second tone on the second syllable).</p>"
-<dd id=""mwBcs"">星期天 (星期天) / 星期日 (星期日)</dd>|<dt id=""mwBco"">Sunday <i id=""mwBcw"">xīngqītiān</i> / <i id=""mwBc0"">xīngqīrì</i></dt>
-<dd id=""mwBc8"">星期一 (星期一)</dd>|<dt id=""mwBc4"">Monday <i id=""mwBdA"">xīngqīyī</i></dt>
-<dd id=""mwBdI"">星期二 (星期二)</dd>|<dt id=""mwBdE"">Tuesday <i id=""mwBdM"">xīngqī'èr</i></dt>
-<dd id=""mwBdU"">星期三 (星期三)</dd>|<dt id=""mwBdQ"">Wednesday <i id=""mwBdY"">xīngqīsān</i></dt>
-<dd id=""mwBdg"">星期四 (星期四)</dd>|<dt id=""mwBdc"">Thursday <i id=""mwBdk"">xīngqīsì</i></dt>
-<dd id=""mwBds"">星期五 (星期五)</dd>|<dt id=""mwBdo"">Friday <i id=""mwBdw"">xīngqīwǔ</i></dt>
-<dd id=""mwBd4"">星期六 (星期六)</dd>|<dt id=""mwBd0"">Saturday <i id=""mwBd8"">xīngqīliù</i></dt>
+星期天 (星期天) / 星期日 (星期日)|Sunday <i id=""mwBcw"">xīngqītiān</i> / <i id=""mwBc0"">xīngqīrì</i>
+星期一 (星期一)|Monday <i id=""mwBdA"">xīngqīyī</i>
+星期二 (星期二)|Tuesday <i id=""mwBdM"">xīngqī'èr</i>
+星期三 (星期三)|Wednesday <i id=""mwBdY"">xīngqīsān</i>
+星期四 (星期四)|Thursday <i id=""mwBdk"">xīngqīsì</i>
+星期五 (星期五)|Friday <i id=""mwBdw"">xīngqīwǔ</i>
+星期六 (星期六)|Saturday <i id=""mwBd8"">xīngqīliù</i>
 What should you know about 星期 (星期) in colloquial usage?|"<p id=""mwBeA"">In colloquial usage, 星期 (星期) can also be replaced with 礼拜 (禮拜) <i id=""mwBeE"">lǐbài</i> or just 拜 (拜) <i id=""mwBeI"">bài</i>, and 周 (週) <i id=""mwBeM"">zhōu</i>, but only 礼拜天 (禮拜天) <i id=""mwBeQ"">lǐbàitiān</i> and 周日 (週日) <i id=""mwBeU"">zhōurì</i> are used, while 礼拜日 (禮拜日) or 周天 (週天) are not used. 礼拜 (禮拜) <i id=""mwBeY"">lǐbài</i> on its own without a suffix can also be used to refer to Sunday. A common way to refer to Saturday and Sunday collectively is 拜六礼拜 (拜六禮拜) <i id=""mwBec"">bài lìu lǐ bài</i>.</p>"
 What should you know about Kaohsiung?|"There is a Lantern Festival
 <figure class=""mw-default-size"" typeof=""mw:File/Thumb"" id=""mwBek""><a href=""//en.wikivoyage.org/wiki/File:Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg"" class=""mw-file-description"" id=""mwBeo""><img resource=""//en.wikivoyage.org/wiki/File:Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg/250px-Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail"" decoding=""async"" data-file-width=""5626"" data-file-height=""3690"" data-file-type=""bitmap"" height=""164"" width=""250"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg/500px-Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x"" class=""mw-file-element"" id=""mwBes""/></a><figcaption id=""mwBew"">Lantern Festival in <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Kaohsiung"" title=""Kaohsiung"" id=""mwBe0"">Kaohsiung</a></figcaption></figure>
 "
 What should you know about months in Chinese?|"<p id=""mwBe4"">Months in Chinese are also easy: starting with 1 for January, just add the number before 月 (月) <i id=""mwBe8"">yuè</i>.</p>"
-<dd id=""mwBfI"">一月 (一月)</dd>|<dt id=""mwBfE"">January <i id=""mwBfM"">yī yuè</i></dt>
-<dd id=""mwBfU"">二月 (二月)</dd>|<dt id=""mwBfQ"">February <i id=""mwBfY"">èr yuè</i></dt>
-<dd id=""mwBfg"">三月 (三月)</dd>|<dt id=""mwBfc"">March <i id=""mwBfk"">sān yuè</i></dt>
-<dd id=""mwBfs"">四月 (四月)</dd>|<dt id=""mwBfo"">April <i id=""mwBfw"">sì yuè</i></dt>
-<dd id=""mwBf4"">五月 (五月)</dd>|<dt id=""mwBf0"">May <i id=""mwBf8"">wŭ yuè</i></dt>
-<dd id=""mwBgE"">六月 (六月)</dd>|<dt id=""mwBgA"">June <i id=""mwBgI"">liù yuè</i></dt>
-<dd id=""mwBgQ"">七月 (七月)</dd>|<dt id=""mwBgM"">July <i id=""mwBgU"">qī yuè</i></dt>
-<dd id=""mwBgc"">八月 (八月)</dd>|<dt id=""mwBgY"">August <i id=""mwBgg"">bā yuè</i></dt>
-<dd id=""mwBgo"">九月 (九月)</dd>|<dt id=""mwBgk"">September <i id=""mwBgs"">jiŭ yuè</i></dt>
-<dd id=""mwBg0"">十月 (十月)</dd>|<dt id=""mwBgw"">October <i id=""mwBg4"">shí yuè</i></dt>
-<dd id=""mwBhA"">十一月 (十一月)</dd>|<dt id=""mwBg8"">November <i id=""mwBhE"">shí yī yuè</i></dt>
-<dd id=""mwBhM"">十二月 (十二月)</dd>|<dt id=""mwBhI"">December <i id=""mwBhQ"">shí èr yuè</i></dt>
+一月 (一月)|January <i id=""mwBfM"">yī yuè</i>
+二月 (二月)|February <i id=""mwBfY"">èr yuè</i>
+三月 (三月)|March <i id=""mwBfk"">sān yuè</i>
+四月 (四月)|April <i id=""mwBfw"">sì yuè</i>
+五月 (五月)|May <i id=""mwBf8"">wŭ yuè</i>
+六月 (六月)|June <i id=""mwBgI"">liù yuè</i>
+七月 (七月)|July <i id=""mwBgU"">qī yuè</i>
+八月 (八月)|August <i id=""mwBgg"">bā yuè</i>
+九月 (九月)|September <i id=""mwBgs"">jiŭ yuè</i>
+十月 (十月)|October <i id=""mwBg4"">shí yuè</i>
+十一月 (十一月)|November <i id=""mwBhE"">shí yī yuè</i>
+十二月 (十二月)|December <i id=""mwBhQ"">shí èr yuè</i>
 What should you know about writing dates in Chinese?|"<p id=""mwBhc"">In Chinese, years of the Gregorian calendars are generally read as individual digits. For instance, the year 1945 (the last year of World War II) is read as <i id=""mwBhg"">yī jǐu sì wǔ nián</i>. The exception is the last year of each millennium, an example being the year 2000, which is read <i id=""mwBhk"">liǎng qiān nián</i> as if it were an ordinary number.</p>
 <p id=""mwBiQ"">When writing the date, you name the month <i id=""mwBiU"">(number (1-12) + 月 (月) </i>yuè<i id=""mwBiY"">)</i>, before inserting the day <i id=""mwBic"">(number (1-31) + 日(日) </i>rì<i id=""mwBig"">/ 号(號) </i>hào<i id=""mwBik"">)</i>. Note that the usage of 号(號) <i id=""mwBio"">hào</i> is more colloquial than that of 日(日) <i id=""mwBis"">rì</i>, the latter of which is used in writing and formal speech.</p>"
 What should you know about writing dates in the lunar calendar?|"<p>If you are attempting to name a date in the Chinese lunar calendar, add the words 农历 (農曆) before the name of the month to distinguish it from the months of the solar calendar, although it is not strictly necessary. There are some differences: The words 日(日) <i>rì</i>/ 号(號) <i>hào</i> are generally not required when stating dates in the lunar calendar; it is assumed. Besides that, the 1st Month is called 正月 (正月) <i>zhēngyuè</i>. If the number of the day is less than 11, the word 初 (初) is used before the value of the day. Besides that, if the value of the day is more than 20, the word 廿 (廿) <i>niàn</i> is used, so the 23rd day is 廿三 (廿三) for example.</p>"
-<dd id=""mwBhw"">(农历)八月十五 ((農曆)八月十五)</dd>|<dt id=""mwBhs"">15th day of the 8th lunar month (the mid-autumn festival) <i id=""mwBh0"">(nónglì) bāyuè shí-wǔ</i>.</dt>
-<dd id=""mwBh8"">(农历)正月初一 ((農曆)正月初一)</dd>|<dt id=""mwBh4"">1st day of the 1st lunar month <i id=""mwBiA"">(nónglì) zhèngyuè chūyī</i>.</dt>
-<dd id=""mwBiI"">(农历)九月廿三 ((農曆)九月廿三)</dd>|<dt id=""mwBiE"">23rd day of the 9th lunar month <i id=""mwBiM"">(nónglì) jiŭ yuè niànsān</i>.</dt>
-<dd id=""mwBi4"">一月六号 (一月六號) or 一月六日 (一月六日)</dd>|<dt id=""mwBi0"">6th January <i id=""mwBi8"">yī yuè liù hào</i> or <i id=""mwBjA"">yī yuè liù rì</i></dt>
-<dd id=""mwBjI"">十二月二十五号 (十二月二十五號)</dd>|<dt id=""mwBjE"">25th December <i id=""mwBjM"">shí-èr yuè èr-shí-wǔ hào</i></dt>
+(农历)八月十五 ((農曆)八月十五)|15th day of the 8th lunar month (the mid-autumn festival) <i id=""mwBh0"">(nónglì) bāyuè shí-wǔ</i>.
+(农历)正月初一 ((農曆)正月初一)|1st day of the 1st lunar month <i id=""mwBiA"">(nónglì) zhèngyuè chūyī</i>.
+(农历)九月廿三 ((農曆)九月廿三)|23rd day of the 9th lunar month <i id=""mwBiM"">(nónglì) jiŭ yuè niànsān</i>.
+一月六号 (一月六號) or 一月六日 (一月六日)|6th January <i id=""mwBi8"">yī yuè liù hào</i> or <i id=""mwBjA"">yī yuè liù rì</i>
+十二月二十五号 (十二月二十五號)|25th December <i id=""mwBjM"">shí-èr yuè èr-shí-wǔ hào</i>
 What should you know about dates in Taiwan?|"<p id=""mwBjQ"">In <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Taiwan"" title=""Taiwan"" id=""mwBjU"">Taiwan</a>, <b id=""mwBjY""><a rel=""mw:WikiLink/Interwiki"" href=""https://en.wikipedia.org/wiki/Republic%20of%20China%20calendar"" title=""w:Republic of China calendar"" class=""extiw"" id=""mwBjc"">Minguo calendar</a></b> (民國紀年/民国纪年) is also frequently used. 2023 in the Gregorian calendar corresponds to <i id=""mwBjg"">Minguo 112 nian</i> (民國112年/民国112年). If you see some dates like ""112/12/25"" (Minguo 112, December 25) in Taiwan, they are probably using the Minguo calendar to address the year. To convert Minguo year into the Gregorian calendar, add 1911 (The last year before the Republic of China was established) in Minguo year. Therefore, <i id=""mwBjk"">Minguo 100 nian</i> (民國100年/民国100年) is 2012 in the Gregorian calendar. Years before 1912 (i.e. You will get zero or a negative number when subtracting 1911) will add the ""前"" prefix before the year. So <i id=""mwBjo"">Minguo qian 2 nian</i> (民國前2年/民国前2年) is 1910 in the Gregorian calendar.</p>"
-<dd id=""mwBj4"">黑色 (黑色)</dd>|<dt id=""mwBj0"">black <i id=""mwBj8"">hēi sè</i></dt>
-<dd id=""mwBkE"">白色 (白色)</dd>|<dt id=""mwBkA"">white <i id=""mwBkI"">bái sè</i></dt>
-<dd id=""mwBkQ"">灰色 (灰色)</dd>|<dt id=""mwBkM"">grey <i id=""mwBkU"">huī sè</i></dt>
-<dd id=""mwBkc"">红色 (紅色)</dd>|<dt id=""mwBkY"">red <i id=""mwBkg"">hóng sè</i></dt>
-<dd id=""mwBko"">蓝色 (藍色)</dd>|<dt id=""mwBkk"">blue <i id=""mwBks"">lán sè</i></dt>
-<dd id=""mwBk0"">黄色 (黄色)</dd>|<dt id=""mwBkw"">yellow <i id=""mwBk4"">huáng sè</i></dt>
-<dd id=""mwBlA"">绿色 (綠色) / 青色 (青色)</dd>|<dt id=""mwBk8"">green <i id=""mwBlE"">lǜ sè</i> / <i id=""mwBlI"">qīng sè</i></dt>
-<dd id=""mwBlQ"">橙色 (橙色)</dd>|<dt id=""mwBlM"">orange <i id=""mwBlU"">chéng sè</i></dt>
-<dd id=""mwBlc"">紫色 (紫色)</dd>|<dt id=""mwBlY"">purple <i id=""mwBlg"">zǐ sè</i></dt>
-<dd id=""mwBlo"">褐色 (褐色) / 棕色 (棕色)</dd>|<dt id=""mwBlk"">brown <i id=""mwBls"">hè sè</i> / <i id=""mwBlw"">zōng sè</i></dt>
-<dd id=""mwBl4"">金色 (金色)</dd>|<dt id=""mwBl0"">gold <i id=""mwBl8"">jīn se</i></dt>
-<dd id=""mwBmE"">你们有没有其他颜色? (你們有沒有其他顏色?)</dd>|<dt id=""mwBmA"">Do you have it in another colour? <i id=""mwBmI"">nǐmen yǒu méiyǒu qítā yánsè<span typeof=""mw:DisplaySpace"" id=""mwBmM""> </span>?</i></dt>
+黑色 (黑色)|black <i id=""mwBj8"">hēi sè</i>
+白色 (白色)|white <i id=""mwBkI"">bái sè</i>
+灰色 (灰色)|grey <i id=""mwBkU"">huī sè</i>
+红色 (紅色)|red <i id=""mwBkg"">hóng sè</i>
+蓝色 (藍色)|blue <i id=""mwBks"">lán sè</i>
+黄色 (黄色)|yellow <i id=""mwBk4"">huáng sè</i>
+绿色 (綠色) / 青色 (青色)|green <i id=""mwBlE"">lǜ sè</i> / <i id=""mwBlI"">qīng sè</i>
+橙色 (橙色)|orange <i id=""mwBlU"">chéng sè</i>
+紫色 (紫色)|purple <i id=""mwBlg"">zǐ sè</i>
+褐色 (褐色) / 棕色 (棕色)|brown <i id=""mwBls"">hè sè</i> / <i id=""mwBlw"">zōng sè</i>
+金色 (金色)|gold <i id=""mwBl8"">jīn se</i>
+你们有没有其他颜色? (你們有沒有其他顏色?)|Do you have it in another colour? <i id=""mwBmI"">nǐmen yǒu méiyǒu qítā yánsè<span typeof=""mw:DisplaySpace"" id=""mwBmM""> </span>?</i>
 What should you know about colours in Chinese?|"<p id=""mwBmQ""><i id=""mwBmU"">Sè</i> means 'colour' so <i id=""mwBmY"">hóng sè</i> is literally 'red colour'.
 More common for brown and easier to remember is 'coffee colour': 咖啡色 (咖啡色) <i id=""mwBmc"">kā fēi sè</i></p>"
-<dd id=""mwBnE"">去______的票多少钱? (去______的票多少錢?)</dd>|<dt id=""mwBnA"">How much is a ticket to _____? <i id=""mwBnI"">qù _____ de piào duō shǎo qián?</i></dt>
-<dd id=""mwBnQ"">去不去... (火车站)? (去不去... (火車站)?)</dd>|<dt id=""mwBnM"">Do you go to... (the central station)? <i id=""mwBnU"">qù bu qù... (huǒ chē zhàn)</i></dt>
-<dd id=""mwBnc"">公交车 (公交車) (China) / 公车 (公車) (Taiwan) / 巴士 (巴士) (Singapore)</dd>|<dt id=""mwBnY"">bus <i id=""mwBng"">gōng jiāo chē</i> / <i id=""mwBnk"">gōng chē</i> / <i id=""mwBno"">bā shì</i></dt>
-<dd id=""mwBnw"">火车 (火車)</dd>|"<dt id=""mwBns"">slow train <i id=""mwBn0"">huǒ chē</i></dt>
+去______的票多少钱? (去______的票多少錢?)|How much is a ticket to _____? <i id=""mwBnI"">qù _____ de piào duō shǎo qián?</i>
+去不去... (火车站)? (去不去... (火車站)?)|Do you go to... (the central station)? <i id=""mwBnU"">qù bu qù... (huǒ chē zhàn)</i>
+公交车 (公交車) (China) / 公车 (公車) (Taiwan) / 巴士 (巴士) (Singapore)|bus <i id=""mwBng"">gōng jiāo chē</i> / <i id=""mwBnk"">gōng chē</i> / <i id=""mwBno"">bā shì</i>
+火车 (火車)</dd>|"<dt id=""mwBns"">slow train <i id=""mwBn0"">huǒ chē</i></dt>
 <figure class=""mw-default-size"" typeof=""mw:File/Thumb"" id=""mwBmo""><a href=""//en.wikivoyage.org/wiki/File:CR_HXD1_Yuanlong.jpg"" class=""mw-file-description"" id=""mwBms""><img resource=""//en.wikivoyage.org/wiki/File:CR_HXD1_Yuanlong.jpg"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/CR_HXD1_Yuanlong.jpg/250px-CR_HXD1_Yuanlong.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail"" decoding=""async"" data-file-width=""5122"" data-file-height=""3162"" data-file-type=""bitmap"" height=""154"" width=""250"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/CR_HXD1_Yuanlong.jpg/500px-CR_HXD1_Yuanlong.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x"" class=""mw-file-element"" id=""mwBmw""/></a><figcaption id=""mwBm0"">Trains in <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Tianshui"" title=""Tianshui"" id=""mwBm4"">Tianshui</a></figcaption></figure>"
-<dd id=""mwBn8"">高铁 (高鐵)</dd>|<dt id=""mwBn4"">high-speed train <i id=""mwBoA"">gāo tiě</i></dt>
-<dd id=""mwBoI"">地铁 (地鐵) (China &amp; Singapore) / 捷运 (捷運)</dd>|<dt id=""mwBoE"">metro / subway <i id=""mwBoM"">dì tiě</i> / <i id=""mwBoQ"">jié yùn</i> (Taiwan)</dt>
-<dd id=""mwBoY"">电车 (電車)</dd>|<dt id=""mwBoU"">tram / streetcar <i id=""mwBoc"">diàn chē</i></dt>
-<dd id=""mwBok"">轻轨 (輕軌) / 轻铁 (輕鐵) (in Hong Kong)</dd>|<dt id=""mwBog"">light rail <i id=""mwBoo"">qīng guǐ</i></dt>
-<dd id=""mwBo8"">怎么去_____? (怎麼去_____?)</dd>|<dt id=""mwBo0"">How do I get to _____<span typeof=""mw:DisplaySpace"" id=""mwBo4""> </span>? <i id=""mwBpA"">zěnme qù _____?</i></dt>
-<dd id=""mwBpI"">...火车站? (...火車站?)?</dd>|<dt id=""mwBpE"">...the train station? <i id=""mwBpM"">...huǒchēzhàn</i></dt>
-<dd id=""mwBpU"">...汽车站? (汽車站?) (China) / ...巴士站? (..巴士站?)? (Singapore)</dd>|<dt id=""mwBpQ"">...the bus station? <i id=""mwBpY"">..qìchēzhàn? </i> / <i id=""mwBpc"">...bāshìzhàn</i></dt>
-<dd id=""mwBpk"">...飞机场? (...飛機場?) / ...机场? ( ...機場?)</dd>|<dt id=""mwBpg"">...the airport? <i id=""mwBpo"">...fēi jī chǎng?</i> / <i id=""mwBps"">... jī chǎng?</i></dt>
-<dd id=""mwBp0"">街 (街)</dd>|<dt id=""mwBpw"">street <i id=""mwBp4"">jiē</i></dt>
-<dd id=""mwBqA"">路 (路)</dd>|<dt id=""mwBp8"">road <i id=""mwBqE"">lù</i></dt>
-<dd id=""mwBqQ"">左转 (左轉)</dd>|<dt id=""mwBqM"">Turn left. <i id=""mwBqU"">zuǒ zhuǎn</i></dt>
-<dd id=""mwBqc"">右转 (右轉)</dd>|<dt id=""mwBqY"">Turn right. <i id=""mwBqg"">yòu zhuǎn</i></dt>
-<dd id=""mwBqo"">直走 (直走)</dd>|<dt id=""mwBqk"">Go straight <i id=""mwBqs"">zhízŏu</i></dt>
-<dd id=""mwBq0"">到了 (到了)</dd>|<dt id=""mwBqw"">I've reached my destination <i id=""mwBq4"">dàole</i></dt>
-<dd id=""mwBrA"">掉头 (掉頭)</dd>|<dt id=""mwBq8"">U-turn <i id=""mwBrE"">diàotóu</i></dt>
-<dd id=""mwBrM"">师傅 (師傅)</dd>|<dt id=""mwBrI"">Taxi driver <i id=""mwBrQ"">shīfu</i></dt>
-<dd id=""mwBrY"">请打表 (請打表)</dd>|<dt id=""mwBrU"">Please use the meter machine <i id=""mwBrc"">qǐng dǎbiǎo</i></dt>
-<dd id=""mwBrk"">请把空调开大点。 (請把空調開大點。) (China) / 请把冷气开大一点。 (請把冷氣開大一點。) (Singapore)</dd>|<dt id=""mwBrg"">Please turn up the aircon/heater <i id=""mwBro"">qǐng bǎ kōngtiáo kāi dàdiǎn</i> / <i id=""mwBrs"">qǐng bǎ lěngqì kāi dà yīdiǎn</i></dt>
-<dd id=""mwBr0"">左 (左)</dd>|<dt id=""mwBrw"">left <i id=""mwBr4"">zuǒ</i></dt>
-<dd id=""mwBsA"">右 (右)</dd>|<dt id=""mwBr8"">right <i id=""mwBsE"">yòu</i></dt>
-<dd id=""mwBsM"">_____前面 (_____前面)</dd>|<dt id=""mwBsI"">in front of the _____ <i id=""mwBsQ"">_____ qiánmiàn</i></dt>
-<dd id=""mwBsY"">_____后面 (_____後面)</dd>|<dt id=""mwBsU"">behind the _____ <i id=""mwBsc"">_____ hòumiàn</i></dt>
-<dd id=""mwBsk"">往前走 (往前走) / 直走 (直走)</dd>|<dt id=""mwBsg"">straight ahead <i id=""mwBso"">wǎngqián zǒu</i> / <i id=""mwBss"">zhí zǒu</i></dt>
-<dd id=""mwBs0"">里面 (裡面)</dd>|<dt id=""mwBsw"">inside <i id=""mwBs4"">lǐ miàn</i></dt>
-<dd id=""mwBtA"">外面 (外面)</dd>|<dt id=""mwBs8"">outside <i id=""mwBtE"">wài miàn</i></dt>
-<dd id=""mwBtM"">北 (北)</dd>|<dt id=""mwBtI"">north <i id=""mwBtQ"">bĕi</i></dt>
-<dd id=""mwBtY"">南 (南)</dd>|<dt id=""mwBtU"">south <i id=""mwBtc"">nán</i></dt>
-<dd id=""mwBtk"">东 (東)</dd>|<dt id=""mwBtg"">east <i id=""mwBto"">dōng</i></dt>
-<dd id=""mwBtw"">西 (西)</dd>|<dt id=""mwBts"">west <i id=""mwBt0"">xī</i></dt>
-<dd id=""mwBuE"">出租车 (出租車) (in China) / 计程车 (計程車) (in Taiwan) / 德士 (德士) (in Singapore)</dd>|<dt id=""mwBuA"">Taxi <i id=""mwBuI"">chū zū chē</i> / <i id=""mwBuM"">jìchéngchē</i> / dé shì</dt>
-<dd id=""mwBuU"">请开到_____。 (請開到_____。)</dd>|<dt id=""mwBuQ"">Take me to _____, please. <i id=""mwBuY"">qǐng kāidào _____。</i></dt>
-<dt>入口 (入口)</dt>|<dd>Entrance [<i>rùkǒu</i>]</dd>
-<dt>出口 (出口)</dt>|<dd>Exit [<i>chūkǒu</i>]</dd>
-<dt>大・中・小 (大・中・小) [<i>dà / zhōng / xiǎo</i>]</dt>|<dd>Large / Medium / Small</dd>
-<dt>推 (推)</dt>|<dd>Push [<i>tuī</i>]</dd>
-<dt>拉 (拉)</dt>|<dd>Pull [<i>lā</i>]</dd>
-<dt>厕所 (廁所) / 洗手间  (洗手間) / 盥洗室 (盥洗室)</dt>|<dd>Toilet [<i>cèsuǒ</i>] / [<i>xǐshǒujiān</i>] / [<i>guànxǐshì</i>]</dd>
-<dt>男 (男)</dt>|<dd>Men [<i>nán</i>]</dd>
-<dt>女 (女)</dt>|<dd>Women [<i>nǚ</i>]</dd>
-<dt>禁止 (禁止)</dt>|<dd>Forbidden [<i>jìnzhǐ</i>]</dd>
-<dt>吸烟 (吸煙)</dt>|<dd>Smoking [<i>xīyān</i>]</dd>
-<dt>饮水 (飲水) / 饮用水 (飲用水)</dt>|<dd>Drinking water [<i>yǐnshuǐ</i>] / [<i>yǐnyòngshuǐ</i>]</dd>
-<dd id=""mwBvA"">你们有房间吗？ (你們有房間嗎？)</dd>|<dt id=""mwBu8"">Do you have any rooms available? <i id=""mwBvE"">Nǐmen yǒu fángjiān ma?</i></dt>
-<dd id=""mwBvM"">有没有... (有沒有...)</dd>|<dt id=""mwBvI"">Does the room come with... <i id=""mwBvQ"">Yǒu méiyǒu…</i></dt>
-<dd id=""mwBvY"">...床单？ (...床單？) </dd>|<dt id=""mwBvU"">...bedsheets? <i id=""mwBvc"">...chuángdān?</i></dt>
-<dd id=""mwBvk"">...浴室？ (浴室？) (in China) / ...冲凉房？ (...沖涼房？) (in Singapore)</dd>|<dt id=""mwBvg"">...a bathroom? <i id=""mwBvo"">...yùshì?</i> / <i id=""mwBvs"">...chōngliángfáng?</i></dt>
-<dd id=""mwBv0"">...电话？ (...電話？)</dd>|<dt id=""mwBvw"">...a telephone? <i id=""mwBv4"">...diànhuà?</i></dt>
-<dd id=""mwBwA"">...电视机？ (...電視機？)  …</dd>|<dt id=""mwBv8"">...a TV? <i id=""mwBwE"">diànshìjī?</i></dt>
-<dd id=""mwBwM"">我打算住_____晚。 (我打算住_____晚。)</dd>|<dt id=""mwBwI"">I will stay for _____ night(s). <i id=""mwBwQ"">Wǒ dǎsuàn zhù _____ wǎn.</i></dt>
-<dd id=""mwBwY"">你们有没有保险箱？ (你們有沒有保險箱？)</dd>|<dt id=""mwBwU"">Do you have a safe? <i id=""mwBwc"">Nǐmen yǒu méiyǒu bǎoxiǎn xiāng?</i></dt>
-<dd id=""mwBwk"">请明天早上_____叫醒我。 (請明天早上_____叫醒我。)</dd>|<dt id=""mwBwg"">Can you wake me at _____? <i id=""mwBwo"">Qǐng míngtiān zǎoshàng  _____ jiàoxǐng wǒ.</i></dt>
-<dd id=""mwBww"">我想退房。 (我想退房。)</dd>|<dt id=""mwBws"">I want to check out. <i id=""mwBw0"">Wǒ xiǎng tuìfáng.</i></dt>
+高铁 (高鐵)|high-speed train <i id=""mwBoA"">gāo tiě</i>
+地铁 (地鐵) (China &amp; Singapore) / 捷运 (捷運)|metro / subway <i id=""mwBoM"">dì tiě</i> / <i id=""mwBoQ"">jié yùn</i> (Taiwan)
+电车 (電車)|tram / streetcar <i id=""mwBoc"">diàn chē</i>
+轻轨 (輕軌) / 轻铁 (輕鐵) (in Hong Kong)|light rail <i id=""mwBoo"">qīng guǐ</i>
+怎么去_____? (怎麼去_____?)|How do I get to _____<span typeof=""mw:DisplaySpace"" id=""mwBo4""> </span>? <i id=""mwBpA"">zěnme qù _____?</i>
+...火车站? (...火車站?)?|...the train station? <i id=""mwBpM"">...huǒchēzhàn</i>
+...汽车站? (汽車站?) (China) / ...巴士站? (..巴士站?)? (Singapore)|...the bus station? <i id=""mwBpY"">..qìchēzhàn? </i> / <i id=""mwBpc"">...bāshìzhàn</i>
+...飞机场? (...飛機場?) / ...机场? ( ...機場?)|...the airport? <i id=""mwBpo"">...fēi jī chǎng?</i> / <i id=""mwBps"">... jī chǎng?</i>
+街 (街)|street <i id=""mwBp4"">jiē</i>
+路 (路)|road <i id=""mwBqE"">lù</i>
+左转 (左轉)|Turn left. <i id=""mwBqU"">zuǒ zhuǎn</i>
+右转 (右轉)|Turn right. <i id=""mwBqg"">yòu zhuǎn</i>
+直走 (直走)|Go straight <i id=""mwBqs"">zhízŏu</i>
+到了 (到了)|I've reached my destination <i id=""mwBq4"">dàole</i>
+掉头 (掉頭)|U-turn <i id=""mwBrE"">diàotóu</i>
+师傅 (師傅)|Taxi driver <i id=""mwBrQ"">shīfu</i>
+请打表 (請打表)|Please use the meter machine <i id=""mwBrc"">qǐng dǎbiǎo</i>
+请把空调开大点。 (請把空調開大點。) (China) / 请把冷气开大一点。 (請把冷氣開大一點。) (Singapore)|Please turn up the aircon/heater <i id=""mwBro"">qǐng bǎ kōngtiáo kāi dàdiǎn</i> / <i id=""mwBrs"">qǐng bǎ lěngqì kāi dà yīdiǎn</i>
+左 (左)|left <i id=""mwBr4"">zuǒ</i>
+右 (右)|right <i id=""mwBsE"">yòu</i>
+_____前面 (_____前面)|in front of the _____ <i id=""mwBsQ"">_____ qiánmiàn</i>
+_____后面 (_____後面)|behind the _____ <i id=""mwBsc"">_____ hòumiàn</i>
+往前走 (往前走) / 直走 (直走)|straight ahead <i id=""mwBso"">wǎngqián zǒu</i> / <i id=""mwBss"">zhí zǒu</i>
+里面 (裡面)|inside <i id=""mwBs4"">lǐ miàn</i>
+外面 (外面)|outside <i id=""mwBtE"">wài miàn</i>
+北 (北)|north <i id=""mwBtQ"">bĕi</i>
+南 (南)|south <i id=""mwBtc"">nán</i>
+东 (東)|east <i id=""mwBto"">dōng</i>
+西 (西)|west <i id=""mwBt0"">xī</i>
+出租车 (出租車) (in China) / 计程车 (計程車) (in Taiwan) / 德士 (德士) (in Singapore)|Taxi <i id=""mwBuI"">chū zū chē</i> / <i id=""mwBuM"">jìchéngchē</i> / dé shì
+请开到_____。 (請開到_____。)|Take me to _____, please. <i id=""mwBuY"">qǐng kāidào _____。</i>
+入口 (入口)|Entrance [<i>rùkǒu</i>]
+出口 (出口)|Exit [<i>chūkǒu</i>]
+大・中・小 (大・中・小) [<i>dà / zhōng / xiǎo</i>]|Large / Medium / Small
+推 (推)|Push [<i>tuī</i>]
+拉 (拉)|Pull [<i>lā</i>]
+厕所 (廁所) / 洗手间  (洗手間) / 盥洗室 (盥洗室)|Toilet [<i>cèsuǒ</i>] / [<i>xǐshǒujiān</i>] / [<i>guànxǐshì</i>]
+男 (男)|Men [<i>nán</i>]
+女 (女)|Women [<i>nǚ</i>]
+禁止 (禁止)|Forbidden [<i>jìnzhǐ</i>]
+吸烟 (吸煙)|Smoking [<i>xīyān</i>]
+饮水 (飲水) / 饮用水 (飲用水)|Drinking water [<i>yǐnshuǐ</i>] / [<i>yǐnyòngshuǐ</i>]
+你们有房间吗？ (你們有房間嗎？)|Do you have any rooms available? <i id=""mwBvE"">Nǐmen yǒu fángjiān ma?</i>
+有没有... (有沒有...)|Does the room come with... <i id=""mwBvQ"">Yǒu méiyǒu…</i>
+...床单？ (...床單？) |...bedsheets? <i id=""mwBvc"">...chuángdān?</i>
+...浴室？ (浴室？) (in China) / ...冲凉房？ (...沖涼房？) (in Singapore)|...a bathroom? <i id=""mwBvo"">...yùshì?</i> / <i id=""mwBvs"">...chōngliángfáng?</i>
+...电话？ (...電話？)|...a telephone? <i id=""mwBv4"">...diànhuà?</i>
+...电视机？ (...電視機？)  …|...a TV? <i id=""mwBwE"">diànshìjī?</i>
+我打算住_____晚。 (我打算住_____晚。)|I will stay for _____ night(s). <i id=""mwBwQ"">Wǒ dǎsuàn zhù _____ wǎn.</i>
+你们有没有保险箱？ (你們有沒有保險箱？)|Do you have a safe? <i id=""mwBwc"">Nǐmen yǒu méiyǒu bǎoxiǎn xiāng?</i>
+请明天早上_____叫醒我。 (請明天早上_____叫醒我。)|Can you wake me at _____? <i id=""mwBwo"">Qǐng míngtiān zǎoshàng  _____ jiàoxǐng wǒ.</i>
+我想退房。 (我想退房。)|I want to check out. <i id=""mwBw0"">Wǒ xiǎng tuìfáng.</i>
 What should you know about money in Chinese?|"<p id=""mwBxQ"">The base unit of currency in Chinese is the 元 (<i id=""mwBxU"">yuán</i>), which could be translated as ""dollar"", or simply transliterated as ""yuan"", depending on what currency you are referring to. In financial contexts, such as when writing cheques and printing banknotes, 元 is written as 圆 (圓). One yuan is divided into 10 角 (<i id=""mwBxY"">jiǎo</i>), which is in turn divided into 10 分 (<i id=""mwBxc"">fēn</i>). Colloquially, the yuan is often referred to as the 块 (塊) (<i id=""mwBxg"">kuài</i>), while the jiao is referred to as the 毛 (<i id=""mwBxk"">máo</i>).</p>"
-<dd id=""mwBxw"">付 (付)</dd>|<dt id=""mwBxs"">pay <i id=""mwBx0"">fù</i></dt>
-<dd id=""mwBx8"">现金 (現金)</dd>|<dt id=""mwBx4"">cash <i id=""mwByA"">xiàn jīn</i></dt>
-<dd id=""mwByI"">信用卡 (信用卡)</dd>|<dt id=""mwByE"">credit card <i id=""mwByM"">xìn yòng kǎ</i></dt>
-<dd id=""mwByU"">借记卡 (借記卡)</dd>|<dt id=""mwByQ"">debit card <i id=""mwByY"">jiè jì kǎ</i></dt>
-<dd id=""mwByg"">支票</dd>|<dt id=""mwByc"">check <i id=""mwByk"">zhīpiào</i></dt>
-<dd id=""mwBys"">外汇 (外匯)</dd>|<dt id=""mwByo"">foreign exchange <i id=""mwByw"">wài huì</i></dt>
-<dd id=""mwBy4"">换钱 (換錢)</dd>|<dt id=""mwBy0"">to change money <i id=""mwBy8"">huàn qián</i></dt>
-<dd id=""mwBzE"">汇率 (匯率)</dd>|<dt id=""mwBzA"">exchange rate <i id=""mwBzI"">huìlǜ</i></dt>
-<dd id=""mwBzQ"">人民币 (人民幣)</dd>|<dt id=""mwBzM"">Chinese yuan <i id=""mwBzU"">rénmínbì</i></dt>
-<dd id=""mwBzc"">新台币 (新臺幣) / 台币 (臺幣)</dd>|<dt id=""mwBzY"">New Taiwan dollar <i id=""mwBzg"">xīn tái bì</i> / <i id=""mwBzk"">tái bì</i></dt>
-<dd id=""mwBzs"">港元 (港元) / 港币 (港幣)</dd>|<dt id=""mwBzo"">Hong Kong dollar <i id=""mwBzw"">gǎng yuán</i> / <i id=""mwBz0"">gǎng bì</i></dt>
-<dd id=""mwBz8"">葡币 (葡幣) / 澳门元 (澳門元)</dd>|<dt id=""mwBz4"">Macau pataca <i id=""mwB0A"">pú bì</i> / <i id=""mwB0E"">ào mén yuán</i></dt>
-<dd id=""mwB0M"">新加坡元 (新加坡元) / 新币 (新幣)</dd>|<dt id=""mwB0I"">Singapore dollar <i id=""mwB0Q"">xīnjiāpō yuán</i> / <i id=""mwB0U"">xīn bì</i></dt>
-<dd id=""mwB0c"">马来西亚令吉 (馬來西亞令吉) / 马币 (馬幣)</dd>|<dt id=""mwB0Y"">Malaysian ringgit <i id=""mwB0g"">mǎláixīyà lìngjí</i> / <i id=""mwB0k"">mǎ bì</i></dt>
-<dd id=""mwB0s"">日元 (日元) / 日币 (日幣)</dd>|<dt id=""mwB0o"">Japanese yen <i id=""mwB0w"">rìyuán</i> / <i id=""mwB00"">rìbì</i></dt>
-<dd id=""mwB08"">韩元 (韓元) / 韩币 (韓幣)</dd>|<dt id=""mwB04"">South Korean won <i id=""mwB1A"">hányuán</i> / <i id=""mwB1E"">hánbì</i></dt>
-<dd id=""mwB1M"">越南盾 (越南盾)</dd>|<dt id=""mwB1I"">Vietnamese dong <i id=""mwB1Q"">yuènán dùn</i></dt>
-<dd id=""mwB1Y"">泰铢 (泰銖)</dd>|<dt id=""mwB1U"">Thai baht <i id=""mwB1c"">tàizhū</i></dt>
-<dd id=""mwB1k"">印尼盾 (印尼盾)</dd>|<dt id=""mwB1g"">Indonesian rupiah <i id=""mwB1o"">yìnní dùn</i></dt>
-<dd id=""mwB1w"">美元 (美元) / 美金 (美金)</dd>|<dt id=""mwB1s"">US dollar <i id=""mwB10"">měi yuán</i> / <i id=""mwB14"">měi jīn</i></dt>
-<dd id=""mwB2A"">欧元 (歐元)</dd>|<dt id=""mwB18"">Euros <i id=""mwB2E"">ōu yuán</i></dt>
-<dd id=""mwB2M"">英镑 (英鎊)</dd>|<dt id=""mwB2I"">British pounds <i id=""mwB2Q"">yīng bàng</i></dt>
+付 (付)|pay <i id=""mwBx0"">fù</i>
+现金 (現金)|cash <i id=""mwByA"">xiàn jīn</i>
+信用卡 (信用卡)|credit card <i id=""mwByM"">xìn yòng kǎ</i>
+借记卡 (借記卡)|debit card <i id=""mwByY"">jiè jì kǎ</i>
+支票|check <i id=""mwByk"">zhīpiào</i>
+外汇 (外匯)|foreign exchange <i id=""mwByw"">wài huì</i>
+换钱 (換錢)|to change money <i id=""mwBy8"">huàn qián</i>
+汇率 (匯率)|exchange rate <i id=""mwBzI"">huìlǜ</i>
+人民币 (人民幣)|Chinese yuan <i id=""mwBzU"">rénmínbì</i>
+新台币 (新臺幣) / 台币 (臺幣)|New Taiwan dollar <i id=""mwBzg"">xīn tái bì</i> / <i id=""mwBzk"">tái bì</i>
+港元 (港元) / 港币 (港幣)|Hong Kong dollar <i id=""mwBzw"">gǎng yuán</i> / <i id=""mwBz0"">gǎng bì</i>
+葡币 (葡幣) / 澳门元 (澳門元)|Macau pataca <i id=""mwB0A"">pú bì</i> / <i id=""mwB0E"">ào mén yuán</i>
+新加坡元 (新加坡元) / 新币 (新幣)|Singapore dollar <i id=""mwB0Q"">xīnjiāpō yuán</i> / <i id=""mwB0U"">xīn bì</i>
+马来西亚令吉 (馬來西亞令吉) / 马币 (馬幣)|Malaysian ringgit <i id=""mwB0g"">mǎláixīyà lìngjí</i> / <i id=""mwB0k"">mǎ bì</i>
+日元 (日元) / 日币 (日幣)|Japanese yen <i id=""mwB0w"">rìyuán</i> / <i id=""mwB00"">rìbì</i>
+韩元 (韓元) / 韩币 (韓幣)|South Korean won <i id=""mwB1A"">hányuán</i> / <i id=""mwB1E"">hánbì</i>
+越南盾 (越南盾)|Vietnamese dong <i id=""mwB1Q"">yuènán dùn</i>
+泰铢 (泰銖)|Thai baht <i id=""mwB1c"">tàizhū</i>
+印尼盾 (印尼盾)|Indonesian rupiah <i id=""mwB1o"">yìnní dùn</i>
+美元 (美元) / 美金 (美金)|US dollar <i id=""mwB10"">měi yuán</i> / <i id=""mwB14"">měi jīn</i>
+欧元 (歐元)|Euros <i id=""mwB2E"">ōu yuán</i>
+英镑 (英鎊)|British pounds <i id=""mwB2Q"">yīng bàng</i>
 What should you know about certain characters when ordering in Chinese?|"<p>Look for these characters to get an idea of what you're ordering. With help from <i>The Eater's Guide to Chinese Characters</i> (J. McCawley).</p>"
-<dd>丁 (丁)</dd>|<dt>cubed/diced <i>dīng</i></dt>
-<dd>片 (片)</dd>|<dt>thinly sliced <i>piàn</i></dt>
-<dd>丝 (絲)</dd>|<dt>shredded <i>sī</i></dt>
-<dd>块 (塊)</dd>|<dt>chunk/cut into bite-sized pieces <i>kuài</i></dt>
-<dd>球 (球)</dd>|<dt>curled <i>qiú</i></dt>
-<dd>炒 (炒)</dd>|<dt>stir-fried <i>chăo</i></dt>
-<dd>炸 (炸)</dd>|<dt>deep-fried <i>zhá</i></dt>
-<dd>煎 (煎)</dd>|<dt>pan-fried <i>jiān</i></dt>
-<dd>蒸 (蒸)</dd>|<dt>steamed <i>zhēng</i></dt>
-<dd>煮 (煮)</dd>|<dt>boiled <i>zhǔ</i></dt>
-<dd>烤 (烤)</dd>|<dt>dry-roasted <i>kăo</i></dt>
-<dd>烧 (燒)</dd>|<dt>roasted w/ sauce <i>shāo</i></dt>
-<dd id=""mwB2k"">请给我看看菜单。 (請給我看看菜單。)</dd>|<dt id=""mwB2g"">Can I look at the menu, please? <i id=""mwB2o"">qǐng gěi wǒ kànkan càidān.</i></dt>
-<dd id=""mwB2w"">你有没有英文菜单？ (你有沒有英文菜單？)</dd>|"<dt id=""mwB2s"">Do you have an English menu? <i id=""mwB20"">nǐ yŏu méi yǒu yīngwén càidān?</i></dt>
+丁 (丁)|cubed/diced <i>dīng</i>
+片 (片)|thinly sliced <i>piàn</i>
+丝 (絲)|shredded <i>sī</i>
+块 (塊)|chunk/cut into bite-sized pieces <i>kuài</i>
+球 (球)|curled <i>qiú</i>
+炒 (炒)|stir-fried <i>chăo</i>
+炸 (炸)|deep-fried <i>zhá</i>
+煎 (煎)|pan-fried <i>jiān</i>
+蒸 (蒸)|steamed <i>zhēng</i>
+煮 (煮)|boiled <i>zhǔ</i>
+烤 (烤)|dry-roasted <i>kăo</i>
+烧 (燒)|roasted w/ sauce <i>shāo</i>
+请给我看看菜单。 (請給我看看菜單。)|Can I look at the menu, please? <i id=""mwB2o"">qǐng gěi wǒ kànkan càidān.</i>
+你有没有英文菜单？ (你有沒有英文菜單？)|"Do you have an English menu? <i id=""mwB20"">nǐ yŏu méi yǒu yīngwén càidān?</i>
 
 <dd id=""mwB24""><i id=""mwB28"">(Listen for...</i>
 <dt id=""mwB3E"">Yes, we have one.</dt><dd id=""mwB3I"">有(有) <i id=""mwB3M"">yǒu</i></dd>
 <dt id=""mwB3Q"">No, we don't.</dt><dd id=""mwB3U"">没有 (沒有) <i id=""mwB3Y"">méi yǒu</i></dd>"
-<dd id=""mwB3g"">打包 (打包) / 外带 (外帶)</dd>|<dt id=""mwB3c"">Takeout / take away<i id=""mwB3k"">dǎ bāo</i> / <i id=""mwB3o"">wài dài'</i></dt>
-<dd id=""mwB3w"">这边吃 (這邊吃) / 内用 (內用)</dd>|<dt id=""mwB3s"">Eat here<i id=""mwB30"">zhèbiān chī</i> / <i id=""mwB34"">nèi yòng</i></dt>
-<dd id=""mwB4A"">堂吃 (堂吃)/ 堂食 (堂食)</dd>|<dt id=""mwB38"">Dine in<i id=""mwB4E"">tángchī</i>  / <i id=""mwB4I"">tángshí</i></dt>
+打包 (打包) / 外带 (外帶)|Takeout / take away<i id=""mwB3k"">dǎ bāo</i> / <i id=""mwB3o"">wài dài'</i>
+这边吃 (這邊吃) / 内用 (內用)|Eat here<i id=""mwB30"">zhèbiān chī</i> / <i id=""mwB34"">nèi yòng</i>
+堂吃 (堂吃)/ 堂食 (堂食)|Dine in<i id=""mwB4E"">tángchī</i>  / <i id=""mwB4I"">tángshí</i>
 What should you know about being vegetarian in chinese?|"If you're a vegetarian traveling in China, you may find that a common reaction to <b>我吃素 <i>wǒ chī sù</i></b> is <b>你信佛吗？ <i>nǐ xìn fó ma?</i></b> (""Are you Buddhist?"", literally ""Do you believe in Buddhism?""). As with other yes-or-no questions, the correct responses repeat the verb:</p>
 
 <dl><dt>Yes</dt>
@@ -763,140 +762,139 @@ What should you know about being vegetarian in chinese?|"If you're a vegetarian 
 <dt>No</dt>
 <dd>不信 <i>bú xìn</i> (I don't believe)</dd></dl></td></tr>
 "
-<dd id=""mwB4Y"">我吃素 (我吃素)</dd>|<dt id=""mwB4U"">I'm a vegetarian <i id=""mwB4c"">wǒ chī sù</i></dt>
-<dd id=""mwB4k"">我只吃清真食品 (我只吃清真食品)</dd>|<dt id=""mwB4g"">I only eat Halal food. <i id=""mwB4o"">wǒ zhǐ chī qīngzhēn shípǐn</i></dt>
-<dd id=""mwB40"">早饭 (早飯) / 早餐 (早餐)</dd>|<dt id=""mwB4w"">breakfast <i id=""mwB44"">zǎofàn</i> / <i id=""mwB48"">zǎocān</i></dt>
-<dd id=""mwB5E"">午饭 (午飯) / 中饭 (中飯) / 午餐 (午餐)</dd>|<dt id=""mwB5A"">lunch <i id=""mwB5I"">wǔfàn</i> / <i id=""mwB5M"">zhōngfàn</i> / <i id=""mwB5Q"">wǔcān</i></dt>
-<dd id=""mwB5Y"">晚饭 (晚飯) / 晚餐 (晚餐)</dd>|<dt id=""mwB5U"">supper <i id=""mwB5c"">wǎnfàn</i> / <i id=""mwB5g"">wǎncān</i></dt>
-<dd id=""mwB5s"">牛肉 (牛肉)</dd>|<dt id=""mwB5o"">beef <i id=""mwB5w""> niúròu</i></dt>
-<dd id=""mwB54"">猪肉 (豬肉), or sometimes simply 肉 (肉)</dd>|<dt id=""mwB50"">pork <i id=""mwB58"">zhūròu</i>，or <i id=""mwB6A"">ròu</i>.</dt>
-<dd id=""mwB6I"">羊肉 (羊肉)</dd>|<dt id=""mwB6E"">mutton <i id=""mwB6M""> yángròu</i></dt>
-<dd id=""mwB6U"">鸡肉 (雞肉)</dd>|<dt id=""mwB6Q"">chicken <i id=""mwB6Y"">jīròu</i></dt>
-<dd id=""mwB6g"">鸭 (鴨)</dd>|<dt id=""mwB6c"">duck <i id=""mwB6k"">yā</i></dt>
-<dd id=""mwB6s"">鹅 (鵝)</dd>|<dt id=""mwB6o"">goose <i id=""mwB6w"">é</i></dt>
-<dd id=""mwB64"">鱼 (魚)</dd>|<dt id=""mwB60"">fish <i id=""mwB68"">yú</i></dt>
-<dd id=""mwB7E"">奶酪 (奶酪)</dd>|<dt id=""mwB7A"">cheese <i id=""mwB7I"">nǎilào</i></dt>
-<dd id=""mwB7Q"">鸡蛋 (雞蛋) / 蛋 (蛋) (the former specifically refers to chicken eggs, the latter can be used generally for any type of egg)</dd>|<dt id=""mwB7M"">eggs <i id=""mwB7U"">jīdàn</i> / <i id=""mwB7Y"">dàn</i></dt>
-<dd id=""mwB7g"">新鲜 (新鮮)</dd>|<dt id=""mwB7c"">fresh <i id=""mwB7k"">xīnxiān</i></dt>
-<dd id=""mwB7s"">水果 (水果)</dd>|<dt id=""mwB7o"">fruit <i id=""mwB7w"">shuĭguǒ</i></dt>
-<dd id=""mwB74"">蔬菜 (蔬菜) / 青菜 (青菜)</dd>|<dt id=""mwB70"">vegetables <i id=""mwB78"">shūcài</i> / <i id=""mwB8A"">qīngcài</i></dt>
-<dd id=""mwB8I"">面包 (麵包)</dd>|<dt id=""mwB8E"">bread <i id=""mwB8M"">miànbāo</i></dt>
-<dd id=""mwB8U"">面条 (麵條)</dd>|<dt id=""mwB8Q"">noodles <i id=""mwB8Y"">miàntiáo</i></dt>
-<dd id=""mwB8g"">炒饭 (炒飯)</dd>|<dt id=""mwB8c"">fried rice <i id=""mwB8k"">chǎofàn</i></dt>
-<dd id=""mwB8s"">饺子 (餃子)</dd>|<dt id=""mwB8o"">dumpling <i id=""mwB8w"">jiǎozi</i></dt>
-<dd id=""mwB84"">米饭 (米飯) (China) / 饭 (飯) (Singapore)</dd>|<dt id=""mwB80"">cooked rice <i id=""mwB88"">mĭfàn</i> / <i id=""mwB9A"">fàn</i></dt>
-<dd id=""mwB9I"">米 (米)</dd>|<dt id=""mwB9E"">raw rice <i id=""mwB9M"">mĭ</i></dt>
-<dd id=""mwB9U"">粥 (粥) / 稀饭 (稀飯) </dd>|<dt id=""mwB9Q"">congee / rice porridge <i id=""mwB9Y"">zhōu</i> / <i id=""mwB9c"">xīfàn</i></dt>
-<dd id=""mwB9k"">咖啡 (咖啡)</dd>|<dt id=""mwB9g"">coffee <i id=""mwB9o"">kāfēi</i></dt>
-<dd id=""mwB9w"">黑咖啡 (黑咖啡)</dd>|<dt id=""mwB9s"">black coffee <i id=""mwB90"">hēi kāfēi</i></dt>
-<dd id=""mwB98"">奶 (奶) / 牛奶 (牛奶) </dd>|<dt id=""mwB94"">milk <i id=""mwB-A"">nǎi</i> / <i id=""mwB-E"">niúnǎi</i> (The former is more general, while the latter specifically refers to cow's milk.)</dt>
-<dd id=""mwB-M"">奶油 (奶油) (in China and Taiwan) / 牛油 (牛油) (in Singapore)</dd>|<dt id=""mwB-I"">butter <i id=""mwB-Q"">nǎiyóu</i> / <i id=""mwB-U"">niúyóu</i></dt>
-<dd id=""mwB-c"">糖 (糖)</dd>|"<dt id=""mwB-Y"">sugar <i id=""mwB-g"">táng</i> (Also means ""candy"".)</dt>"
-<dd id=""mwB-o"">盐 (鹽)</dd>|<dt id=""mwB-k"">salt <i id=""mwB-s"">yán</i></dt>
-<dd id=""mwB-0"">胡椒粉（胡椒粉</dd>|<dt id=""mwB-w"">ground pepper）<i id=""mwB-4"">hújiāo fěn</i></dt>
-<dd id=""mwB_A"">酱油 (醬油)</dd>|<dt id=""mwB-8"">soy sauce <i id=""mwB_E"">jiàngyóu</i></dt>
-<dd id=""mwB_M"">鱼露 (魚露)</dd>|<dt id=""mwB_I"">fish sauce <i id=""mwB_Q"">yúlù</i></dt>
-<dd id=""mwB_Y"">蚝油 (蠔油)</dd>|<dt id=""mwB_U"">oyster sauce <i id=""mwB_c"">háoyóu</i></dt>
-<dd id=""mwB_o"">茶 (茶)</dd>|"<dt id=""mwB_g"">tea (<i id=""mwB_k"">drink</i>) <i id=""mwB_s"">chá</i></dt>
+我吃素 (我吃素)|I'm a vegetarian <i id=""mwB4c"">wǒ chī sù</i>
+我只吃清真食品 (我只吃清真食品)|I only eat Halal food. <i id=""mwB4o"">wǒ zhǐ chī qīngzhēn shípǐn</i>
+早饭 (早飯) / 早餐 (早餐)|breakfast <i id=""mwB44"">zǎofàn</i> / <i id=""mwB48"">zǎocān</i>
+午饭 (午飯) / 中饭 (中飯) / 午餐 (午餐)|lunch <i id=""mwB5I"">wǔfàn</i> / <i id=""mwB5M"">zhōngfàn</i> / <i id=""mwB5Q"">wǔcān</i>
+晚饭 (晚飯) / 晚餐 (晚餐)|supper <i id=""mwB5c"">wǎnfàn</i> / <i id=""mwB5g"">wǎncān</i>
+牛肉 (牛肉)|beef <i id=""mwB5w""> niúròu</i>
+猪肉 (豬肉), or sometimes simply 肉 (肉)|pork <i id=""mwB58"">zhūròu</i>，or <i id=""mwB6A"">ròu</i>.
+羊肉 (羊肉)|mutton <i id=""mwB6M""> yángròu</i>
+鸡肉 (雞肉)|chicken <i id=""mwB6Y"">jīròu</i>
+鸭 (鴨)|duck <i id=""mwB6k"">yā</i>
+鹅 (鵝)|goose <i id=""mwB6w"">é</i>
+鱼 (魚)|fish <i id=""mwB68"">yú</i>
+奶酪 (奶酪)|cheese <i id=""mwB7I"">nǎilào</i>
+鸡蛋 (雞蛋) / 蛋 (蛋) (the former specifically refers to chicken eggs, the latter can be used generally for any type of egg)|eggs <i id=""mwB7U"">jīdàn</i> / <i id=""mwB7Y"">dàn</i>
+新鲜 (新鮮)|fresh <i id=""mwB7k"">xīnxiān</i>
+水果 (水果)|fruit <i id=""mwB7w"">shuĭguǒ</i>
+蔬菜 (蔬菜) / 青菜 (青菜)|vegetables <i id=""mwB78"">shūcài</i> / <i id=""mwB8A"">qīngcài</i>
+面包 (麵包)|bread <i id=""mwB8M"">miànbāo</i>
+面条 (麵條)|noodles <i id=""mwB8Y"">miàntiáo</i>
+炒饭 (炒飯)|fried rice <i id=""mwB8k"">chǎofàn</i>
+饺子 (餃子)|dumpling <i id=""mwB8w"">jiǎozi</i>
+米饭 (米飯) (China) / 饭 (飯) (Singapore)|cooked rice <i id=""mwB88"">mĭfàn</i> / <i id=""mwB9A"">fàn</i>
+米 (米)|raw rice <i id=""mwB9M"">mĭ</i>
+粥 (粥) / 稀饭 (稀飯) </dd>|<dt id=""mwB9Q"">congee / rice porridge <i id=""mwB9Y"">zhōu</i> / <i id=""mwB9c"">xīfàn</i></dt>
+咖啡 (咖啡)|coffee <i id=""mwB9o"">kāfēi</i>
+黑咖啡 (黑咖啡)|black coffee <i id=""mwB90"">hēi kāfēi</i>
+奶 (奶) / 牛奶 (牛奶) </dd>|<dt id=""mwB94"">milk <i id=""mwB-A"">nǎi</i> / <i id=""mwB-E"">niúnǎi</i> (The former is more general, while the latter specifically refers to cow's milk.)</dt>
+奶油 (奶油) (in China and Taiwan) / 牛油 (牛油) (in Singapore)|butter <i id=""mwB-Q"">nǎiyóu</i> / <i id=""mwB-U"">niúyóu</i>
+糖 (糖)|"sugar <i id=""mwB-g"">táng</i> (Also means ""candy"".)"
+盐 (鹽)|salt <i id=""mwB-s"">yán</i>
+胡椒粉（胡椒粉</dd>|<dt id=""mwB-w"">ground pepper）<i id=""mwB-4"">hújiāo fěn</i></dt>
+酱油 (醬油)|soy sauce <i id=""mwB_E"">jiàngyóu</i>
+鱼露 (魚露)|fish sauce <i id=""mwB_Q"">yúlù</i>
+蚝油 (蠔油)|oyster sauce <i id=""mwB_c"">háoyóu</i>
+茶 (茶)|"tea (<i id=""mwB_k"">drink</i>) <i id=""mwB_s"">chá</i>
 <figure class=""mw-default-size"" typeof=""mw:File/Thumb"" id=""mwCCI""><a href=""//en.wikivoyage.org/wiki/File:Slow_Life_in_A_Tea_House_01_edited.jpg"" class=""mw-file-description"" id=""mwCCM""><img resource=""//en.wikivoyage.org/wiki/File:Slow_Life_in_A_Tea_House_01_edited.jpg"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Slow_Life_in_A_Tea_House_01_edited.jpg/250px-Slow_Life_in_A_Tea_House_01_edited.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail"" decoding=""async"" data-file-width=""7352"" data-file-height=""4523"" data-file-type=""bitmap"" height=""154"" width=""250"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Slow_Life_in_A_Tea_House_01_edited.jpg/500px-Slow_Life_in_A_Tea_House_01_edited.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x"" class=""mw-file-element"" id=""mwCCQ""/></a><figcaption id=""mwCCU"">A tea house in <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Chongqing"" title=""Chongqing"" id=""mwCCY"">Chongqing</a></figcaption></figure>"
-<dd id=""mwB_0"">绿茶 (綠茶)</dd>|<dt id=""mwB_w"">green tea <i id=""mwB_4"">lǜ chá</i></dt>
-<dd id=""mwCAA"">花茶 (花茶)</dd>|<dt id=""mwB_8"">scented tea <i id=""mwCAE"">huāchá</i></dt>
-<dd id=""mwCAM"">红茶 (紅茶)</dd>|<dt id=""mwCAI"">black tea <i id=""mwCAQ"">hóngchá</i></dt>
-<dd id=""mwCAY"">果汁 (果汁)</dd>|<dt id=""mwCAU"">juice <i id=""mwCAc"">guǒzhī</i></dt>
-<dd id=""mwCAk"">水 (水)</dd>|<dt id=""mwCAg"">water <i id=""mwCAo"">shuĭ</i></dt>
-<dd id=""mwCAw"">矿泉水 (礦泉水)</dd>|<dt id=""mwCAs"">natural mineral water <i id=""mwCA0"">kuàngquán shuǐ</i></dt>
-<dd id=""mwCA8"">啤酒 (啤酒)</dd>|<dt id=""mwCA4"">beer <i id=""mwCBA"">píjiŭ</i></dt>
-<dd id=""mwCBI"">红/白 葡萄酒 (紅/白 葡萄酒)</dd>|<dt id=""mwCBE"">red/white wine <i id=""mwCBM"">hóng/bái pútáojiŭ</i></dt>
-
-<dd id=""mwCBY"">服务员！ (服務員！) </dd>|"<dt id=""mwCBQ"">Excuse me, waiter? (<i id=""mwCBU"">getting attention of server</i>)</dt>
+绿茶 (綠茶)|green tea <i id=""mwB_4"">lǜ chá</i>
+花茶 (花茶)|scented tea <i id=""mwCAE"">huāchá</i>
+红茶 (紅茶)|black tea <i id=""mwCAQ"">hóngchá</i>
+果汁 (果汁)|juice <i id=""mwCAc"">guǒzhī</i>
+水 (水)|water <i id=""mwCAo"">shuĭ</i>
+矿泉水 (礦泉水)|natural mineral water <i id=""mwCA0"">kuàngquán shuǐ</i>
+啤酒 (啤酒)|beer <i id=""mwCBA"">píjiŭ</i>
+红/白 葡萄酒 (紅/白 葡萄酒)|red/white wine <i id=""mwCBM"">hóng/bái pútáojiŭ</i>
+服务员！ (服務員！)|"Excuse me, waiter? (<i id=""mwCBU"">getting attention of server</i>)
 <i id=""mwCBc"">fúwùyuán</i> <br id=""mwCBg""/> In Taiwan and Singapore, it is common to call a waitress using the term 小姐 <i id=""mwCBk"">xiǎojiě</i>, but this is a euphemism for ""prostitute"" in mainland China and would thus be highly offensive.
 "
-<dd id=""mwCBs"">很好吃。(很好吃。) (eating) / 很好喝。（很好喝。 (drinking)</dd>|<dt id=""mwCBo"">It was delicious. <i id=""mwCBw"">hěn hǎochī</i> / <i id=""mwCB0"">hěn hǎohē</i></dt>
-<dd id=""mwCB8"">买单 (買單)</dd>|<dt id=""mwCB4"">The check, please. <i id=""mwCCA"">mǎidān</i></dt>
-<dd id=""mwCCk"">卖不卖酒？ (賣不賣酒？)</dd>|<dt id=""mwCCg"">Do you serve alcohol? <i id=""mwCCo""> mài búmài jiǔ?</i></dt>
-<dd id=""mwCCw"">有没有餐桌服务？ (有沒有餐桌服務？)</dd>|<dt id=""mwCCs"">Is there table service? <i id=""mwCC0"">yǒu méiyǒu cānzhuō fúwù?</i></dt>
-<dd id=""mwCC8"">请给我一杯/两杯啤酒。 (請給我一杯/兩杯啤酒。)</dd>|<dt id=""mwCC4"">A beer/two beers, please. <i id=""mwCDA"">qǐng gěiwǒ yìbēi/liǎngbēi píjiǔ</i></dt>
-<dd id=""mwCDI"">请给我一杯红/白葡萄酒。 (請給我一杯紅/白葡萄酒。)</dd>|<dt id=""mwCDE"">A glass of red/white wine, please. <i id=""mwCDM"">qǐng gěi wǒ yìbēi hóng/bái pútáojiǔ</i></dt>
-<dd id=""mwCDU"">请给我一品脱。(請給我一品脫。)</dd>|<dt id=""mwCDQ"">A pint, please. <i id=""mwCDY"">qǐng gěi wǒ yìpǐntuō</i></dt>
-<dd id=""mwCDg"">请给我一瓶。 (請給我一瓶。)</dd>|<dt id=""mwCDc"">A bottle, please. <i id=""mwCDk"">qǐng gěi wǒ yìpíng</i></dt>
-<dd id=""mwCD0"">请给我_____和_____。 (請給我_____和_____。)</dd>|<dt id=""mwCDo"">_____ (<i id=""mwCDs"">hard liquor</i>) and _____ (<i id=""mwCDw"">mixer</i>), please. <i id=""mwCD4"">qǐng gěi wǒ _____ hé _____</i></dt>
-<dd id=""mwCEA"">白酒 (白酒)</dd>|<dt id=""mwCD8"">baijiu (Chinese hard liquor) <i id=""mwCEE"">báijiǔ</i></dt>
-<dd id=""mwCEM"">威士忌 (威士忌)</dd>|<dt id=""mwCEI"">whiskey <i id=""mwCEQ"">wēishìjì</i></dt>
-<dd id=""mwCEY"">伏特加 (伏特加)</dd>|<dt id=""mwCEU"">vodka <i id=""mwCEc"">fútèjiā</i></dt>
-<dd id=""mwCEk"">兰姆酒 (蘭姆酒)</dd>|<dt id=""mwCEg"">rum <i id=""mwCEo"">lánmǔjiǔ</i></dt>
-<dd id=""mwCEw"">水 (水)</dd>|<dt id=""mwCEs"">water <i id=""mwCE0"">shuǐ</i></dt>
-<dd id=""mwCE8"">矿泉水 (礦泉水)</dd>|<dt id=""mwCE4"">mineral spring (i.e. bottled) water <i>kuàngquánshuǐ</i></dt>
-<dd id=""mwCFE"">开水 (開水)</dd>|<dt id=""mwCFA"">boiled water <i>kāishuǐ</i></dt>
-<dd id=""mwCFM"">苏打水 (蘇打水)</dd>|<dt id=""mwCFI"">club soda <i>sūdǎshuǐ</i></dt>
-<dd id=""mwCFU"">通宁水 (通寧水)</dd>|<dt id=""mwCFQ"">tonic water <i>tōngníngshuǐ</i></dt>
-<dd id=""mwCFc"">橙汁 (橙汁)</dd>|<dt id=""mwCFY"">orange juice <i>chéngzhī</i></dt>
-<dd id=""mwCFo"">可乐 (可樂)</dd>|<dt id=""mwCFg"">Coke (<i id=""mwCFk"">soda</i>) <i id=""mwCFs"">kělè</i></dt>
-<dd id=""mwCF0"">有没有吧台点心？ (有沒有吧臺點心？)</dd>|<dt id=""mwCFw"">Do you have any bar snacks? <i id=""mwCF4"">yǒu méiyǒu bātái diǎnxīn?</i></dt>
-<dd id=""mwCGA"">请再给我一个。 (請再給我一個。)</dd>|<dt id=""mwCF8"">One more, please. <i>qǐng zài gěi wǒ yíge</i></dt>
-<dd id=""mwCGI"">请再来一轮。 (請再來一輪。)</dd>|<dt id=""mwCGE"">Another round, please. <i>qǐng zàilái yìlún</i></dt>
-<dd id=""mwCGQ"">几点打烊/关门？ (幾點打烊/關門？)</dd>|<dt id=""mwCGM"">When is closing time? <i>jǐdiǎn dǎyáng/guānmén?</i></dt>
-<dd id=""mwCGY"">厕所在哪里？ (廁所在那裏？)</dd>|<dt id=""mwCGU"">Where is the toilet? <i id=""mwCGc"">cèsuǒ zài nǎlǐ?</i></dt>
-<dd id=""mwCGk"">洗手间在哪里？ (洗手間在哪裡？)</dd>|<dt id=""mwCGg"">Where is the washroom? <i id=""mwCGo"">xǐshǒujiān zài nǎlǐ?</i></dt>
-<dd id=""mwCGw"">你好帅。 (你好帥。)</dd>|<dt id=""mwCGs"">You're handsome. <i id=""mwCG0"">nǐ hǎo shuài</i></dt>
-<dd id=""mwCG8"">你好漂亮。 (你好漂亮。)</dd>|<dt id=""mwCG4"">You're pretty. <i id=""mwCHA"">nǐ hǎo piàoliang</i></dt>
+很好吃。(很好吃。) (eating) / 很好喝。（很好喝。 (drinking)|It was delicious. <i id=""mwCBw"">hěn hǎochī</i> / <i id=""mwCB0"">hěn hǎohē</i>
+买单 (買單)|The check, please. <i id=""mwCCA"">mǎidān</i>
+卖不卖酒？ (賣不賣酒？)|Do you serve alcohol? <i id=""mwCCo""> mài búmài jiǔ?</i>
+有没有餐桌服务？ (有沒有餐桌服務？)|Is there table service? <i id=""mwCC0"">yǒu méiyǒu cānzhuō fúwù?</i>
+请给我一杯/两杯啤酒。 (請給我一杯/兩杯啤酒。)|A beer/two beers, please. <i id=""mwCDA"">qǐng gěiwǒ yìbēi/liǎngbēi píjiǔ</i>
+请给我一杯红/白葡萄酒。 (請給我一杯紅/白葡萄酒。)|A glass of red/white wine, please. <i id=""mwCDM"">qǐng gěi wǒ yìbēi hóng/bái pútáojiǔ</i>
+请给我一品脱。(請給我一品脫。)|A pint, please. <i id=""mwCDY"">qǐng gěi wǒ yìpǐntuō</i>
+请给我一瓶。 (請給我一瓶。)|A bottle, please. <i id=""mwCDk"">qǐng gěi wǒ yìpíng</i>
+请给我_____和_____。 (請給我_____和_____。)|_____ (<i id=""mwCDs"">hard liquor</i>) and _____ (<i id=""mwCDw"">mixer</i>), please. <i id=""mwCD4"">qǐng gěi wǒ _____ hé _____</i>
+白酒 (白酒)|baijiu (Chinese hard liquor) <i id=""mwCEE"">báijiǔ</i>
+威士忌 (威士忌)|whiskey <i id=""mwCEQ"">wēishìjì</i>
+伏特加 (伏特加)|vodka <i id=""mwCEc"">fútèjiā</i>
+兰姆酒 (蘭姆酒)|rum <i id=""mwCEo"">lánmǔjiǔ</i>
+水 (水)|water <i id=""mwCE0"">shuǐ</i>
+矿泉水 (礦泉水)|mineral spring (i.e. bottled) water <i>kuàngquánshuǐ</i>
+开水 (開水)|boiled water <i>kāishuǐ</i>
+苏打水 (蘇打水)|club soda <i>sūdǎshuǐ</i>
+通宁水 (通寧水)|tonic water <i>tōngníngshuǐ</i>
+橙汁 (橙汁)|orange juice <i>chéngzhī</i>
+可乐 (可樂)|Coke (<i id=""mwCFk"">soda</i>) <i id=""mwCFs"">kělè</i>
+有没有吧台点心？ (有沒有吧臺點心？)|Do you have any bar snacks? <i id=""mwCF4"">yǒu méiyǒu bātái diǎnxīn?</i>
+请再给我一个。 (請再給我一個。)|One more, please. <i>qǐng zài gěi wǒ yíge</i>
+请再来一轮。 (請再來一輪。)|Another round, please. <i>qǐng zàilái yìlún</i>
+几点打烊/关门？ (幾點打烊/關門？)|When is closing time? <i>jǐdiǎn dǎyáng/guānmén?</i>
+厕所在哪里？ (廁所在那裏？)|Where is the toilet? <i id=""mwCGc"">cèsuǒ zài nǎlǐ?</i>
+洗手间在哪里？ (洗手間在哪裡？)|Where is the washroom? <i id=""mwCGo"">xǐshǒujiān zài nǎlǐ?</i>
+你好帅。 (你好帥。)|You're handsome. <i id=""mwCG0"">nǐ hǎo shuài</i>
+你好漂亮。 (你好漂亮。)|You're pretty. <i id=""mwCHA"">nǐ hǎo piàoliang</i>
 What should you know about haggling in Chinese?|<p id=""mwCHg"">Bargaining (还价 (還價) <i id=""mwCHk"">huán jià</i>) is possible (and expected) in markets and many small shops. The first price you are given will usually be hugely inflated - it's up to you to <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Haggle"" title=""Haggle"" class=""mw-redirect"" id=""mwCHo"">haggle</a> it down to something more acceptable. This will probably feel awkward if you aren't used to it, and you may worry about ending up cheating the seller. Don't worry - sellers won't take a price that's too low, and you will usually end up agreeing on a price that's considerably lower than the starting one but still allows the seller to make a profit. Try starting at around 20-30% of the original price; you can always work up from there. The exceptions to the rule are supermarkets, large department stores, bookshops and some of the higher end boutiques, most of which will have signs letting you know that haggling is unacceptable in these stores.</p>
-<dd id=""mwCH0"">有没有我的尺码？ (有沒有我的尺碼？)</dd>|<dt id=""mwCHw"">Do you have this in my size? <i id=""mwCH4"">yǒu méiyǒu wǒde chǐmǎ?</i></dt>
-<dd id=""mwCIA"">这个多少钱？ (這個多少錢？)</dd>|<dt id=""mwCH8"">How much is this? <i id=""mwCIE"">zhège duōshǎo qián?</i></dt>
-<dd id=""mwCIM"">太贵了。 (太貴了。)</dd>|<dt id=""mwCII"">That's too expensive. <i id=""mwCIQ"">tài guì le</i></dt>
-<dd id=""mwCIY"">_____元可以吗？ (_____元可以嗎？)</dd>|<dt id=""mwCIU"">Would you take _____? <i id=""mwCIc"">_____ yuán kěyǐ ma?</i></dt>
-<dd id=""mwCIk"">贵 (貴)</dd>|<dt id=""mwCIg"">expensive <i id=""mwCIo"">guì</i></dt>
-<dd id=""mwCIw"">便宜 (便宜)</dd>|<dt id=""mwCIs"">cheap <i id=""mwCI0"">piányi</i></dt>
-<dd id=""mwCI8"">我带的钱不够。 (我帶的錢不夠。)</dd>|<dt id=""mwCI4"">I can't afford it. <i id=""mwCJA"">wǒ dài de qián búgòu</i></dt>
-<dd id=""mwCJI"">我不要。 (我不要。)</dd>|<dt id=""mwCJE"">I don't want it. <i id=""mwCJM"">wǒ bú yào</i></dt>
-<dd id=""mwCJU"">你欺骗我。 (你欺騙我。)</dd>|<dt id=""mwCJQ"">You're cheating me. <i id=""mwCJY"">nǐ qīpiàn wǒ</i> <b id=""mwCJc"">Use with caution!</b></dt>
-<dd id=""mwCJk"">我没有兴趣。 ( 我沒有興趣。)</dd>|<dt id=""mwCJg"">I'm not interested. <i id=""mwCJo"">wǒ méiyǒu xìngqù</i></dt>
-<dd id=""mwCJw"">我要买这个。 (我要買這個。)</dd>|<dt id=""mwCJs"">OK, I'll take it. <i id=""mwCJ0"">wǒ yào mǎi zhège</i></dt>
-<dd id=""mwCJ8"">你要不要袋子？ / 要 / 不要 </dd>|<dt id=""mwCJ4"">Do you need a carrier-bag? / Yes / No <i id=""mwCKA"">nǐ yào bu yào dàizi?</i> / <i id=""mwCKE"">yào</i> / <i id=""mwCKI"">bú yào</i></dt>
-<dd id=""mwCKQ"">请给我个袋子。 (請給我個袋子。)</dd>|<dt id=""mwCKM"">Please provide me with a carrier-bag. <i id=""mwCKU"">qǐng gěi wǒ ge dàizi</i></dt>
-<dd id=""mwCKc"">可以邮寄到海外吗？ (可以郵寄到海外嗎？)</dd>|<dt id=""mwCKY"">Do you ship (overseas)? <i id=""mwCKg"">kěyǐ yóujì dào hǎiwài ma?</i></dt>
-<dd id=""mwCKo"">我要_____ (我要_____)</dd>|<dt id=""mwCKk"">I need... <i id=""mwCKs"">wǒ yào _____</i></dt>
-<dd id=""mwCK0"">牙膏 (牙膏)</dd>|<dt id=""mwCKw"">...toothpaste. <i id=""mwCK4"">yágāo</i></dt>
-<dd id=""mwCLA"">牙刷 (牙刷)</dd>|<dt id=""mwCK8"">...a toothbrush. <i id=""mwCLE"">yáshuā</i></dt>
-<dd id=""mwCLM"">卫生巾 (衛生巾)</dd>|<dt id=""mwCLI"">...sanitary napkins. <i id=""mwCLQ"">wèishēngjīn</i></dt>
-<dd id=""mwCLY"">卫生棉条 (衛生棉條)</dd>|<dt id=""mwCLU"">...tampons. <i id=""mwCLc"">wèishēng miántiáo</i></dt>
-<dd id=""mwCLk"">肥皂 (肥皂)</dd>|<dt id=""mwCLg"">...soap. <i id=""mwCLo"">féizào</i></dt>
-<dd id=""mwCLw"">洗发精 (洗髮精)</dd>|<dt id=""mwCLs"">...shampoo. <i id=""mwCL0"">xǐfàjīng</i></dt>
-<dd id=""mwCMA"">止疼药 (止疼藥)</dd>|<dt id=""mwCL4"">...pain reliever. <i id=""mwCL8"">e.g., aspirin or ibuprofen</i> <i id=""mwCME"">zhǐténg yào</i></dt>
-<dd id=""mwCMM"">感冒药 (感冒藥)</dd>|<dt id=""mwCMI"">...cold medicine. <i id=""mwCMQ"">gǎnmào yào</i></dt>
-<dd id=""mwCMY"">胃肠药 (胃腸藥)</dd>|<dt id=""mwCMU"">...stomach medicine. <i id=""mwCMc"">wèicháng yào</i></dt>
-<dd id=""mwCMk"">剃须刀 (剃鬚刀)</dd>|<dt id=""mwCMg"">...a razor. <i id=""mwCMo"">tìxūdāo</i></dt>
-<dd id=""mwCMw"">雨伞 (雨傘 )</dd>|<dt id=""mwCMs"">...an umbrella. <i id=""mwCM0"">yǔsǎn</i></dt>
-<dd id=""mwCM8"">防晒霜 (防晒霜)</dd>|<dt id=""mwCM4"">...sunblock lotion. <i id=""mwCNA"">fángshàishuāng</i></dt>
-<dd id=""mwCNI"">明信片 (明信片)</dd>|<dt id=""mwCNE"">...a postcard. <i id=""mwCNM"">míngxìnpiàn</i></dt>
-<dd id=""mwCNU"">邮票 (郵票)</dd>|<dt id=""mwCNQ"">...postage stamps. <i id=""mwCNY"">yóupiào</i></dt>
-<dd id=""mwCNg"">电池 (電池)</dd>|<dt id=""mwCNc"">...batteries. <i id=""mwCNk"">diànchí</i></dt>
-<dd id=""mwCNs"">纸 (紙)</dd>|<dt id=""mwCNo"">...writing paper. <i id=""mwCNw"">zhǐ</i></dt>
-<dd id=""mwCN4"">笔 (筆)</dd>|<dt id=""mwCN0"">...a pen. <i id=""mwCN8"">bǐ</i></dt>
-<dd id=""mwCOE"">铅笔 (鉛筆)</dd>|<dt id=""mwCOA"">...a pencil. <i id=""mwCOI"">qiānbǐ</i></dt>
-<dd id=""mwCOQ"">眼镜 (眼鏡)</dd>|<dt id=""mwCOM"">...glasses. <i id=""mwCOU"">yǎnjìng</i></dt>
-<dd id=""mwCOc"">英文书 (英文書)</dd>|<dt id=""mwCOY"">...English-language books. <i id=""mwCOg"">Yīngwén shū</i></dt>
-<dd id=""mwCOo"">英文杂志 (英文雜誌)</dd>|<dt id=""mwCOk"">...English-language magazines. <i id=""mwCOs"">Yīngwén zázhì</i></dt>
-<dd id=""mwCO0"">英文报纸 (英文報紙)</dd>|<dt id=""mwCOw"">...an English-language newspaper. <i id=""mwCO4"">Yīngwén bàozhǐ</i></dt>
-<dd id=""mwCPA"">汉英词典 (漢英詞典)</dd>|<dt id=""mwCO8"">...a Chinese-English dictionary. <i id=""mwCPE"">Hàn-Yīng cídiǎn</i></dt>
-<dd id=""mwCPM"">英汉词典 (英漢詞典)</dd>|<dt id=""mwCPI"">...an English-Chinese dictionary. <i id=""mwCPQ"">Yīng-Hàn cídiǎn</i></dt>
-<dd id=""mwCP0"">我想要租车。 (我想要租車。)</dd>|<dt id=""mwCPw"">I want to rent a car. <i id=""mwCP4"">wǒ xiǎngyào zūchē</i></dt>
-<dd id=""mwCQA"">我可以买保险吗？ (我可以買保險嗎？)</dd>|<dt id=""mwCP8"">Can I get insurance? <i id=""mwCQE"">wǒ kěyǐ mǎi bǎoxiǎn ma?</i></dt>
-<dd id=""mwCQQ"">停 (停)</dd>|<dt id=""mwCQI"">stop (<i id=""mwCQM"">on a street sign</i>) <i id=""mwCQU"">tíng</i></dt>
-<dd id=""mwCQc"">单行道 (單行道 )</dd>|<dt id=""mwCQY"">one way <i id=""mwCQg"">dānxíngdào</i></dt>
-<dd id=""mwCQo"">让路 (讓路)</dd>|<dt id=""mwCQk"">yield <i id=""mwCQs"">rànglù</i></dt>
-<dd id=""mwCQ0"">禁止停车 (禁止停車)</dd>|<dt id=""mwCQw"">no parking <i id=""mwCQ4"">jìnzhǐ tíngchē</i></dt>
-<dd id=""mwCRA"">速度限制 (速度限制)</dd>|<dt id=""mwCQ8"">speed limit <i id=""mwCRE"">sùdù xiànzhì</i></dt>
-<dd id=""mwCRQ"">加油站 (加油站)</dd>|<dt id=""mwCRI"">gas (<i id=""mwCRM"">petrol</i>) station <i id=""mwCRU"">jiāyóuzhàn</i></dt>
-<dd id=""mwCRc"">汽油 (汽油)</dd>|<dt id=""mwCRY"">petrol <i id=""mwCRg"">qìyóu</i></dt>
-<dd id=""mwCRo"">柴油 (柴油)</dd>|<dt id=""mwCRk"">diesel <i id=""mwCRs"">cháiyóu</i></dt>
-<dd id=""mwCSQ"">我没有做错事。 (我沒有做錯事。)</dd>|<dt id=""mwCSM"">I haven't done anything wrong. <i id=""mwCSU"">wǒ méiyǒu zuòcuò shì</i></dt>
-<dd id=""mwCSc"">这是误会。 (這是誤會。)</dd>|<dt id=""mwCSY"">It was a misunderstanding. <i id=""mwCSg"">zhè shì wùhuì</i></dt>
-<dd id=""mwCSo"">你带我去哪里？ (你帶我去哪里？)</dd>|<dt id=""mwCSk"">Where are you taking me? <i id=""mwCSs"">nǐ dài wǒ qù nǎlǐ?</i></dt>
-<dd id=""mwCS0"">我被捕了吗？ (我被捕了嗎？)</dd>|<dt id=""mwCSw"">Am I under arrest? <i id=""mwCS4"">wǒ bèibǔle ma?</i></dt>
-<dd id=""mwCTA"">我是 美国/澳洲/英国/加拿大 公民。 (我是 美國/澳洲/英國/加拿大 公民。)</dd>|<dt id=""mwCS8"">I am an American/Australian/British/Canadian citizen. <i id=""mwCTE"">wǒ shì měiguó/àozhōu/yīngguó/jiānádà gōngmín</i></dt>
-<dd id=""mwCTM"">我希望跟 美国/澳洲/英国/加拿大 的 大使馆/领事馆 联系。 (我希望跟 美國/澳洲/英國/加拿大 的 大使館/領事館 聯繫。)</dd>|<dt id=""mwCTI"">I want to talk to the American/Australian/British/Canadian embassy/consulate. <i id=""mwCTQ"">wǒ xīwàng gēn měiguó/àozhōu/yīngguó/jiānádà de dàshǐguǎn/lǐngshìguǎn liánxì</i></dt>
-<dd id=""mwCTY"">我希望跟律师联系。 (我希望跟律師聯繫。)</dd>|<dt id=""mwCTU"">I want to talk to a lawyer. <i id=""mwCTc"">wǒ xīwàng gēn lǜshī liánxì</i></dt>
-<dd id=""mwCTk"">我可以现在支付罚款吗？ (我可以現在支付罰款嗎？)</dd>|<dt id=""mwCTg"">Can I just pay a fine now? <i id=""mwCTo"">wǒ kěyǐ xiànzài zhīfù fákuǎn ma?</i></dt>
+有没有我的尺码？ (有沒有我的尺碼？)|Do you have this in my size? <i id=""mwCH4"">yǒu méiyǒu wǒde chǐmǎ?</i>
+这个多少钱？ (這個多少錢？)|How much is this? <i id=""mwCIE"">zhège duōshǎo qián?</i>
+太贵了。 (太貴了。)|That's too expensive. <i id=""mwCIQ"">tài guì le</i>
+_____元可以吗？ (_____元可以嗎？)|Would you take _____? <i id=""mwCIc"">_____ yuán kěyǐ ma?</i>
+贵 (貴)|expensive <i id=""mwCIo"">guì</i>
+便宜 (便宜)|cheap <i id=""mwCI0"">piányi</i>
+我带的钱不够。 (我帶的錢不夠。)|I can't afford it. <i id=""mwCJA"">wǒ dài de qián búgòu</i>
+我不要。 (我不要。)|I don't want it. <i id=""mwCJM"">wǒ bú yào</i>
+你欺骗我。 (你欺騙我。)|You're cheating me. <i id=""mwCJY"">nǐ qīpiàn wǒ</i> <b id=""mwCJc"">Use with caution!</b>
+我没有兴趣。 ( 我沒有興趣。)|I'm not interested. <i id=""mwCJo"">wǒ méiyǒu xìngqù</i>
+我要买这个。 (我要買這個。)|OK, I'll take it. <i id=""mwCJ0"">wǒ yào mǎi zhège</i>
+你要不要袋子？ / 要 / 不要 |Do you need a carrier-bag? / Yes / No <i id=""mwCKA"">nǐ yào bu yào dàizi?</i> / <i id=""mwCKE"">yào</i> / <i id=""mwCKI"">bú yào</i>
+请给我个袋子。 (請給我個袋子。)|Please provide me with a carrier-bag. <i id=""mwCKU"">qǐng gěi wǒ ge dàizi</i>
+可以邮寄到海外吗？ (可以郵寄到海外嗎？)|Do you ship (overseas)? <i id=""mwCKg"">kěyǐ yóujì dào hǎiwài ma?</i>
+我要_____ (我要_____)|I need... <i id=""mwCKs"">wǒ yào _____</i>
+牙膏 (牙膏)|...toothpaste. <i id=""mwCK4"">yágāo</i>
+牙刷 (牙刷)|...a toothbrush. <i id=""mwCLE"">yáshuā</i>
+卫生巾 (衛生巾)|...sanitary napkins. <i id=""mwCLQ"">wèishēngjīn</i>
+卫生棉条 (衛生棉條)|...tampons. <i id=""mwCLc"">wèishēng miántiáo</i>
+肥皂 (肥皂)|...soap. <i id=""mwCLo"">féizào</i>
+洗发精 (洗髮精)|...shampoo. <i id=""mwCL0"">xǐfàjīng</i>
+止疼药 (止疼藥)|...pain reliever. <i id=""mwCL8"">e.g., aspirin or ibuprofen</i> <i id=""mwCME"">zhǐténg yào</i>
+感冒药 (感冒藥)|...cold medicine. <i id=""mwCMQ"">gǎnmào yào</i>
+胃肠药 (胃腸藥)|...stomach medicine. <i id=""mwCMc"">wèicháng yào</i>
+剃须刀 (剃鬚刀)|...a razor. <i id=""mwCMo"">tìxūdāo</i>
+雨伞 (雨傘 )|...an umbrella. <i id=""mwCM0"">yǔsǎn</i>
+防晒霜 (防晒霜)|...sunblock lotion. <i id=""mwCNA"">fángshàishuāng</i>
+明信片 (明信片)|...a postcard. <i id=""mwCNM"">míngxìnpiàn</i>
+邮票 (郵票)|...postage stamps. <i id=""mwCNY"">yóupiào</i>
+电池 (電池)|...batteries. <i id=""mwCNk"">diànchí</i>
+纸 (紙)|...writing paper. <i id=""mwCNw"">zhǐ</i>
+笔 (筆)|...a pen. <i id=""mwCN8"">bǐ</i>
+铅笔 (鉛筆)|...a pencil. <i id=""mwCOI"">qiānbǐ</i>
+眼镜 (眼鏡)|...glasses. <i id=""mwCOU"">yǎnjìng</i>
+英文书 (英文書)|...English-language books. <i id=""mwCOg"">Yīngwén shū</i>
+英文杂志 (英文雜誌)|...English-language magazines. <i id=""mwCOs"">Yīngwén zázhì</i>
+英文报纸 (英文報紙)|...an English-language newspaper. <i id=""mwCO4"">Yīngwén bàozhǐ</i>
+汉英词典 (漢英詞典)|...a Chinese-English dictionary. <i id=""mwCPE"">Hàn-Yīng cídiǎn</i>
+英汉词典 (英漢詞典)|...an English-Chinese dictionary. <i id=""mwCPQ"">Yīng-Hàn cídiǎn</i>
+我想要租车。 (我想要租車。)|I want to rent a car. <i id=""mwCP4"">wǒ xiǎngyào zūchē</i>
+我可以买保险吗？ (我可以買保險嗎？)|Can I get insurance? <i id=""mwCQE"">wǒ kěyǐ mǎi bǎoxiǎn ma?</i>
+停 (停)|stop (<i id=""mwCQM"">on a street sign</i>) <i id=""mwCQU"">tíng</i>
+单行道 (單行道 )|one way <i id=""mwCQg"">dānxíngdào</i>
+让路 (讓路)|yield <i id=""mwCQs"">rànglù</i>
+禁止停车 (禁止停車)|no parking <i id=""mwCQ4"">jìnzhǐ tíngchē</i>
+速度限制 (速度限制)|speed limit <i id=""mwCRE"">sùdù xiànzhì</i>
+加油站 (加油站)|gas (<i id=""mwCRM"">petrol</i>) station <i id=""mwCRU"">jiāyóuzhàn</i>
+汽油 (汽油)|petrol <i id=""mwCRg"">qìyóu</i>
+柴油 (柴油)|diesel <i id=""mwCRs"">cháiyóu</i>
+我没有做错事。 (我沒有做錯事。)|I haven't done anything wrong. <i id=""mwCSU"">wǒ méiyǒu zuòcuò shì</i>
+这是误会。 (這是誤會。)|It was a misunderstanding. <i id=""mwCSg"">zhè shì wùhuì</i>
+你带我去哪里？ (你帶我去哪里？)|Where are you taking me? <i id=""mwCSs"">nǐ dài wǒ qù nǎlǐ?</i>
+我被捕了吗？ (我被捕了嗎？)|Am I under arrest? <i id=""mwCS4"">wǒ bèibǔle ma?</i>
+我是 美国/澳洲/英国/加拿大 公民。 (我是 美國/澳洲/英國/加拿大 公民。)|I am an American/Australian/British/Canadian citizen. <i id=""mwCTE"">wǒ shì měiguó/àozhōu/yīngguó/jiānádà gōngmín</i>
+我希望跟 美国/澳洲/英国/加拿大 的 大使馆/领事馆 联系。 (我希望跟 美國/澳洲/英國/加拿大 的 大使館/領事館 聯繫。)|I want to talk to the American/Australian/British/Canadian embassy/consulate. <i id=""mwCTQ"">wǒ xīwàng gēn měiguó/àozhōu/yīngguó/jiānádà de dàshǐguǎn/lǐngshìguǎn liánxì</i>
+我希望跟律师联系。 (我希望跟律師聯繫。)|I want to talk to a lawyer. <i id=""mwCTc"">wǒ xīwàng gēn lǜshī liánxì</i>
+我可以现在支付罚款吗？ (我可以現在支付罰款嗎？)|Can I just pay a fine now? <i id=""mwCTo"">wǒ kěyǐ xiànzài zhīfù fákuǎn ma?</i>
 What should you know about telephones and the internet in China?|"<p>In most Chinese cities, there are no telephone booths. Instead, small street shops have telephones which can usually be used for national calls. Look for signs like this:</p>
 <dl><dd>公用电话 (公用電話) Public Telephone</dd></dl>
 <p>Most cafes are cheaper than in hotels. Many mid-range hotels and chains now offer free wireless or plug-in internet. Those cafes are quite hidden sometimes and you should look for the following Chinese characters:</p>
@@ -904,20 +902,20 @@ What should you know about telephones and the internet in China?|"<p>In most Chi
 "
 公用电话 (公用電話)|Public Telephone
 网吧 (網吧) / 网咖 (網咖)|Internet Cafe
-<dd id=""mwCT8"">手机 （手機）(China and Taiwan) / 手提电话（手提電話) (Singapore)</dd>|<dt id=""mwCT4"">mobile phone <i id=""mwCUA"">shǒujī</i> / <i id=""mwCUE"">shǒutí diànhuà</i></dt>
-<dd id=""mwCUM"">可以打国际电话吗? (可以打國際電話嗎?)</dd>|<dt id=""mwCUI"">Can I make international calls here? <i id=""mwCUQ"">kěyǐ dǎ guójì diànhuà ma?</i></dt>
-<dd id=""mwCUY"">打到 美国/澳洲/英国/加拿大 是多少钱? (打到 美國/澳洲/英國/加拿大 是多少錢?)</dd>|<dt id=""mwCUU"">How much is it to America/Australia/Britain/Canada? <i id=""mwCUc"">dǎdào měiguó/àozhōu/yīngguó/jiānádà shì duōshǎo qián?</i></dt>
-<dd id=""mwCUk"">哪里有网吧? (哪裏有網吧?)</dd>|<dt id=""mwCUg"">Where can I find an Internet cafe? <i id=""mwCUo"">nǎlǐ yǒu wǎng bā?</i></dt>
-<dd id=""mwCUw"">一小时是多少钱? (一小時是多少錢?)</dd>|<dt id=""mwCUs"">How much is it per hour? <i id=""mwCU0"">yī xiǎoshí shì duōshǎo qián?</i></dt>
+手机 （手機）(China and Taiwan) / 手提电话（手提電話) (Singapore)|mobile phone <i id=""mwCUA"">shǒujī</i> / <i id=""mwCUE"">shǒutí diànhuà</i>
+可以打国际电话吗? (可以打國際電話嗎?)|Can I make international calls here? <i id=""mwCUQ"">kěyǐ dǎ guójì diànhuà ma?</i>
+打到 美国/澳洲/英国/加拿大 是多少钱? (打到 美國/澳洲/英國/加拿大 是多少錢?)|How much is it to America/Australia/Britain/Canada? <i id=""mwCUc"">dǎdào měiguó/àozhōu/yīngguó/jiānádà shì duōshǎo qián?</i>
+哪里有网吧? (哪裏有網吧?)|Where can I find an Internet cafe? <i id=""mwCUo"">nǎlǐ yǒu wǎng bā?</i>
+一小时是多少钱? (一小時是多少錢?)|How much is it per hour? <i id=""mwCU0"">yī xiǎoshí shì duōshǎo qián?</i>
 
-<dd id=""mwCVE"">痛 and 不痛</dd>|"<dt id=""mwCVA"">""Pain"" and ""no pain"" <i id=""mwCVI"">tòng</i> and <i id=""mwCVM"">bú tòng</i></dt>"
-<dd id=""mwCVU"">好 and 不好</dd>|"<dt id=""mwCVQ"">""Good"" and ""not good"" <i id=""mwCVY"">hǎo</i> and <i id=""mwCVc"">bù hǎo</i></dt>"
-<dd id=""mwCVk"">很好</dd>|"<dt id=""mwCVg"">""Very good"" or ""great"" <i id=""mwCVo"">hěn hǎo</i></dt>"
-<dd id=""mwCVw"">要 and 不要</dd>|"<dt id=""mwCVs"">""Want"" and ""don't want"" <i id=""mwCV0"">yào</i> and <i id=""mwCV4"">bú yào</i></dt>"
-<dd id=""mwCWA"">痒</dd>|"<dt id=""mwCV8"">""That tickles"" <i id=""mwCWE"">yǎng</i></dt>"
-<dd id=""mwCWM"">痛不痛？</dd>||"<dt id=""mwCWI"">""Does this hurt?"" <i id=""mwCWQ"">tòng bú tòng?</i> or <i id=""mwCWU"">tòng ma?</i>. For either, answer <i id=""mwCWY"">tòng</i> or <i id=""mwCWc"">bú tòng</i>.</dt>"
-<dd id=""mwCWk"">正规按摩 (正規按摩)</dd>|"<dt id=""mwCWg"">Legitimate massage (one without sexual services) <i id=""mwCWo"">zhèngguī ànmó</i></dt>"
-<dd id=""mwCWw"">色情按摩</dd>|"<dt id=""mwCWs"">""Happy ending"" massage <i id=""mwCW0"">sèqíng ànmó</i></dt>"
+痛 and 不痛|"""Pain"" and ""no pain"" <i id=""mwCVI"">tòng</i> and <i id=""mwCVM"">bú tòng</i>"
+好 and 不好|"""Good"" and ""not good"" <i id=""mwCVY"">hǎo</i> and <i id=""mwCVc"">bù hǎo</i>"
+很好|"""Very good"" or ""great"" <i id=""mwCVo"">hěn hǎo</i>"
+要 and 不要|"""Want"" and ""don't want"" <i id=""mwCV0"">yào</i> and <i id=""mwCV4"">bú yào</i>"
+痒|"""That tickles"" <i id=""mwCWE"">yǎng</i>"
+痛不痛？|"""Does this hurt?"" <i id=""mwCWQ"">tòng bú tòng?</i> or <i id=""mwCWU"">tòng ma?</i>. For either, answer <i id=""mwCWY"">tòng</i> or <i id=""mwCWc"">bú tòng</i>."
+正规按摩 (正規按摩)|"Legitimate massage (one without sexual services) <i id=""mwCWo"">zhèngguī ànmó</i>"
+色情按摩|"""Happy ending"" massage <i id=""mwCW0"">sèqíng ànmó</i>"
 
 What should you know about learning more Chinese?|"<p id=""mwCW8"">Chinese language learning is flourishing as foreigners recognize the importance of gaining the ability to effectively communicate with a population of 1.3+ billion people. Due to the rapid rise of the Chinese teaching industry however, finding consistent quality instruction can be difficult. Many Chinese language schools and institutes have opened up over the past decade both abroad as well as within China, though before enrolling it is definitely recommended to thoroughly research and speak with current or former students to ensure that effective education is being provided.</p>
 
