@@ -163,20 +163,20 @@ What should you know about the six cases of nouns and adjectives?|"<p id=""mwAR0
 <td style=""background: #faf5ff; color: black;"" id=""mwAVE"">I walked <b id=""mwAVI"">with him</b></td></tr>
 "
 What should you know about Russian phoneticization?|"<p id=""mwAVQ""><i id=""mwAVU"">See <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Wikivoyage:Pseudo-phoneticization_guide"" title=""Wikivoyage:Pseudo-phoneticization guide"" id=""mwAVY"">Wikivoyage:Pseudo-phoneticization guide</a> for guidance on the phoneticizations below</i></p>"
-OPEN|Открыто / Работает
-CLOSED|Закрыто / Не работает
-ENTRANCE|Вход
-EXIT|Выход
-PUSH|От себя
-PULL|К себе / На себя
-TOILET|Туалет
-MEN|М
-WOMEN|Ж
-NO ENTRANCE|Входа нет / Вход воспрещён
-[ENTRY] FORBIDDEN|Проход воспрещён / Проход закрыт
-PLEASE KNOCK BEFORE ENTERING|Без стука не входить
-NO SMOKING|Не курить
-DANGER - NO ENTRY!|Не влезай - убьёт!
+Открыто / Работает|OPEN
+Закрыто / Не работает|CLOSED
+Вход|ENTRANCE
+Выход|EXIT
+От себя|PUSH
+К себе / На себя|PULL
+Туалет|TOILET
+М|MEN
+Ж|WOMEN
+Входа нет / Вход воспрещён|NO ENTRANCE
+Проход воспрещён / Проход закрыт|[ENTRY] FORBIDDEN
+Без стука не входить|PLEASE KNOCK BEFORE ENTERING
+Не курить|NO SMOKING
+Не влезай - убьёт!|DANGER - NO ENTRY!
 What should you know about names in Russian?|"<p>Russians take three names, a first name (имя), patronymic (отчество), and last name (фамилия). The unfamiliar patronymic is the name of one's father plus an ending of -ovich, -yevich, or -yich for men, -yevna, -ovna or -ichna for women. For example, if the father's name is Пётр (Peter), the patronymic would be Петрович (Petrovich) for a man, and Петровна (Petrovna) for a woman. To use someone's name informally, you can refer to them using the first or (less commonly) last name, while to do so formally would require either first name + patronymic, or a title + last name. For example, you can refer to President Vladimir Vladimirovich Putin (Президент Владимир Владимирович Путин) informally as Vladimir (if you know him personally) or just Putin. To refer to him more formally—and you generally should use the formal name in Russian—you would need to refer to him as Vladimir Vladimirovich or President Putin.</p>
 
 <p>Last names also vary based on gender, often with an ""a"" added to the end of the male last name for the female version. For instance, the wife of former Russian prime minister Dmitry Medvedev is known as Svetlana Medvedev<b>a</b>.</p>
@@ -288,10 +288,10 @@ What should you know about some of the examples in this Russian phrasebook?|"<p 
 Меня укусила собака|"I've been bitten by a dog. (<i id=""mwAg8"">me-NYAH oo-koo-SEE-lah suh-BAH-kuh</i>)"
 Мне нужен врач.|"I need a doctor. (<i id=""mwAhI"">mnyeh NOO-zhyhn vrahch</i>)"
 Пожалуйста, вызовите Скорую помощь.|"Please call an ambulance. (<i id=""mwAhU"">Puh-ZHAH-looy-stuh VYH-zaw-vee-teh SKAW-roo-yoo PAW-mushch</i>)"
-Можно от вас позвонить?|"Can I use your phone?(<i id=""mwAhg"">MOH-zhnuh aht vahs puhz-vah-NEET’?</i>) <i id=""mwAho"">(this can be used only for stationary phone, not for mobile. Asking a mobile phone from unknown person is generally not polite, as this is commonly done by con artists. In some cases a person may allow you to make a call from his cell phone to another cell phone number in the same province, but not to a landline phone number or to a non-local cell phone number.)</i>"
+Можно от вас позвонить?|"Can I use your phone? (<i id=""mwAhg"">MOH-zhnuh aht vahs puhz-vah-NEET’?</i>) <i id=""mwAho"">(this can be used only for stationary phone, not for mobile. Asking a mobile phone from unknown person is generally not polite, as this is commonly done by con artists. In some cases a person may allow you to make a call from his cell phone to another cell phone number in the same province, but not to a landline phone number or to a non-local cell phone number.)</i>"
 What should you know about nouns with respect to singular and plural forms?|"<p id=""mwAhw"">Russian nouns have a dual form, used with 2, 3, and 4, as well as singular and plural. Singular quantities and any quantities that end in 1 (21, 301, etc.) use the nominative singular: одна минута, двадцать один час. Quantities 2<span typeof=""mw:Entity"" id=""mwAh0"">–</span>4 use the genitive singular: две минуты, три минуты, четыре минуты. Quantities greater than four use the genitive plural:  пять минут, одиннадцать минут, тринадцать минут, etc.</p>"
 ноль/нуль|"0 (<i id=""mwAiE"">nohl’</i>/<i id=""mwAiI"">nool’</i>)"
-один <i id=""mwAiY"">m</i>, одна (<i id=""mwAic"">ahd-NAH</i>) <i id=""mwAig"">f</i>, одно <i id=""mwAio"">n</i>|"1 (<i id=""mwAiU"">ah-DEEN</i>), (<i id=""mwAik"">ahd-NOH</i>) (one can say раз (raz) when counting something)"
+один <i id=""mwAiY"">m</i>, одна <i id=""mwAig"">f</i>, одно <i id=""mwAio"">n</i>|"1 (<i id=""mwAiU"">ah-DEEN</i>), (<i id=""mwAic"">ahd-NAH</i>), (<i id=""mwAik"">ahd-NOH</i>) (one can say раз (raz) when counting something)"
 два <i id=""mwAi4"">mn</i>, две <i id=""mwAjA"">f</i>|"2 (<i id=""mwAi0"">dvah</i>), (<i id=""mwAi8"">dvyeh</i>)"
 три|"3 (<i id=""mwAjM"">tree</i>)"
 четыре|"4 (<i id=""mwAjY"">chee-TYH-ree</i>)"
@@ -551,12 +551,12 @@ What should you know about names of cities and streets?|"<p>A lot of city, stree
 яйца/ами|"eggs (<i id=""mwBTQ"">YIGH-tsah / YIGH-tsah-mee</i>)"
 салат/ом|"salad (<i id=""mwBTc"">sah-LAHT / sah-LAHT-ohm</i>)"
 картофель|"potato (<i id=""mwBTo"">kahr-TOH-fehl'</i>)"
-(свежие/ими) овощи/ами|"(fresh) vegetables (<i id=""mwBT0"">(SVYEH-zhyh-yeh / SVYEH-zhyh-mee OH-vuh-shee/ uh-vuh-SHAH-mee</i>)"
+(свежие/ими) овощи/ами|"(fresh) vegetables (<i id=""mwBT0"">(SVYEH-zhyh-yeh / SVYEH-zhyh-mee OH-vuh-shee/ uh-vuh-SHAH-mee</i>))"
 помидор|"tomato (<i id=""mwBUA"">puh-mee-DOHR</i>)"
 капуста|"cabbage (<i id=""mwBUM"">kah-POOS-tuh</i>)"
 морковь|"carrot (<i id=""mwBUY"">mahr-KOHF</i>)"
 свёкла|"beet (<i id=""mwBUk"">SVYOHL-kuh</i>)"
-(свежие/ими) фрукты/ами|"(fresh) fruit (<i id=""mwBUw"">(SVYEH-zhyh-yeh / SVYEH-zhyh-mee FROOK-tyh / FROOK-tuh-mee</i>)"
+(свежие/ими) фрукты/ами|"(fresh) fruit (<i id=""mwBUw"">(SVYEH-zhyh-yeh / SVYEH-zhyh-mee FROOK-tyh / FROOK-tuh-mee</i>))"
 ягоды|"berries (<i id=""mwBU8"">YAH-guh-dyh</i>)"
 клубинка|"strawberry (<i id=""mwBVI"">kloo-BEEN-kuh</i>)"
 банан|"banana (<i id=""mwBVU"">bah-NAHN</i>)"
@@ -622,10 +622,10 @@ What should you know about names of cities and streets?|"<p>A lot of city, stree
 Я не могу себе этого позволить.|"I can't afford it. (<i id=""mwBhU"">yah nee mah-GOOH see-BYEH EH-tuh-vuh paz-VOH-leet’</i>)"
 Я это не хочу.|"I don't want it. (<i id=""mwBhg"">yah EH-tuh nee khah-CHOO</i>)"
 Вы меня обманываете.|"You're cheating me. (<i id=""mwBhs"">vyh mee-NYAH ab-MAH-nyh-vah-ee-tyeh</i>)"
-Мне это не интересно..|"I'm not interested. (<i id=""mwBh4"">mnyeh EH-tuh nee een-tee-RYEHS-nuh</i>)"
+Мне это не интересно.|"I'm not interested. (<i id=""mwBh4"">mnyeh EH-tuh nee een-tee-RYEHS-nuh</i>)"
 Хорошо, я возьму.|"OK, I'll take it. (<i id=""mwBiE"">khah-rah-SHOH, yah vahz’-MOO</i>)"
 Дайте, пожалуйста, пакет.|"Can I have a bag? (<i id=""mwBiQ"">DIGH-tyeh, puh-ZHAH-luh-stuh, pah-KYEHT</i>)"
-У вас есть доставка (за границу)?|"Do you ship (overseas)? (<i id=""mwBic"">oo vahs yehst’ dahs-TAHF-kah (zah grah-NEET-sooh)</i>"
+У вас есть доставка (за границу)?|"Do you ship (overseas)? (<i id=""mwBic"">oo vahs yehst’ dahs-TAHF-kah (zah grah-NEET-sooh)</i>)"
 Давайте две.|"Give me two <i id=""mwBik"">(items of something)</i>. (<i id=""mwBis"">dah-VIGH-tyeh DVYEH</i>)"
 Мне нужен/нужна/нужно/нужны...|"I need... (<i id=""mwBi4"">mnyeh NOO-zhehn / nooh-ZHNAH / NOOZH-nuh / nooh-ZHNYH</i>)"
 ...зубная паста.|"...toothpaste. (<i id=""mwBjE"">ZOOB-nuh-yuh PAHS-tuh</i>)"
@@ -650,19 +650,19 @@ What should you know about names of cities and streets?|"<p>A lot of city, stree
 ...русско-английский словарь.|"...a Russian-English dictionary. (<i id=""mwBms"">ROO-skuh ahn-GLEE-skee slah-VAHR’</i>)"
 Я хочу взять машину напрокат.|"I want to rent a car. (<i id=""mwBnA"">yah khah-CHOO vzyaht’ mah-SHYH-noo nuh-prah-KAHT</i>)"
 Я могу взять страховку?|"Can I get insurance? (<i id=""mwBnM"">yah mah-GOO vzyaht’ strah-KHOHF-koo</i>)"
-СТОП|"Stop (<i id=""mwBnU"">on a street sign</i>)(<i id=""mwBnc"">stohp</i>)"
+СТОП|"Stop (<i id=""mwBnU"">on a street sign</i>) (<i id=""mwBnc"">stohp</i>)"
 одностороннее движение|"One way (<i id=""mwBno"">uhd-nuh-stah-ROHN-nee-yeh dvee-ZHEH-nee-yeh</i>)"
 уступите дорогу|"Yield (<i id=""mwBn0"">oo-stoo-PEE-tyeh dah-ROH-goo</i>)"
 парковки нет|"No parking (<i id=""mwBoA"">pahr-KOHF-kee nyeht</i>)"
 ограничение скорости|"Speed limit (<i id=""mwBoM"">ah-grah-nee-CHEH-nyh-yeh SKOH-ruh-stee</i>)"
 (авто)заправка|"Gas (<i id=""mwBoU"">petrol</i>) station (<i id=""mwBoc"">(AHF-tuh) zah-PRAHF-kuh</i>)"
 бензин|"Petrol (<i id=""mwBoo"">been-ZEEN</i>)"
-дизель (дизельное топливо)|"Diesel (<i id=""mwBo0"">DEE-zehl’ (DEE-zehl’-nuh-yeh TOH-plee-vuh</i>)"
+дизель (дизельное топливо)|"Diesel (<i id=""mwBo0"">DEE-zehl’ (DEE-zehl’-nuh-yeh TOH-plee-vuh</i>))"
 Я ничего плохого не делал(а).|"I haven't done anything wrong. (<i id=""mwBpI"">yah nee-chee-VOH plah-KHOH-vuh nee DYEH-luhl/luh-luh</i>)"
 Мои документы в порядке. |"My papers are in order (<i id=""mwBpU"">muh-yee duh-koo-MYEHN-tyh fpahr-YAHD-kee</i>) (intonation must fall, otherwise you might be asking a question!)"
 Мы друг друга не поняли.|"It was a misunderstanding. (<i id=""mwBpg"">myh droog DROO-guh nyee POHN-yuh-lee</i>)"
 Везите меня в полицию.|"Take me to the police. (<i id=""mwBps"">vee-ZEE-tyeh meen-YAH fpuh-LEE-tsyh-yuh</i>)"
-Куда вы меня везёте?</i>|"<dt id=""mwBpw"">Where are you taking me? (<i id=""mwBp4"">koo-DAH vyh meen-YAH vee-ZYOH-tyeh?)"
+Куда вы меня везёте?|"Where are you taking me? (<i id=""mwBp4"">koo-DAH vyh meen-YAH vee-ZYOH-tyeh?)"
 К полиции.|"To the police (<i id=""mwBqQ"">kpuh-LEE-tsyh</i>)"
 К моему дому.|"To my house (<i id=""mwBqc"">kmuh-yuh-MOO DOH-moo</i>)</dd></dd>"
 Я арестован(а)?|"Am I under arrest? (<i id=""mwBqo"">yah ah-ryees-TOH-vuhn/vuh-nah?</i>)"
