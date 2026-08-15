@@ -388,9 +388,9 @@ What should you know about greeting someone in Chinese?|"<p>The literal translat
 晚上好。 (晚上好。)|Good evening. <i id=""mwAv0"">Wǎnshàng hǎo.</i>
 晚安。 (晚安。)|Good night. <i id=""mwAwA"">Wǎn'ān.</i>
 我听不懂。 (我聽不懂。) (when listening) / 我看不懂。 (我看不懂。) (when reading) (In Indonesia, the more common phrase is 我不知道)|I don't understand. <i id=""mwAwM"">Wǒ tīng bu dǒng.</i> / <i id=""mwAwQ"">Wǒ kàn bu dǒng.</i> (<i id=""mwAwU"">Wǒ bù zhī dào</i>)
-厕所在哪里？ (廁所在哪裡？|Where is the toilet?) <i id=""mwAwg"">Cèsuǒ zài nǎlǐ?</i>
-洗手间在哪里？ (洗手間在哪裡？|Where is the bathroom（polite)?) <i id=""mwAws"">Xǐshǒujiān zài nǎlǐ?</i>
-____ 怎么说？ (____ 怎麼說？|How do you say ____?) <i id=""mwAw4"">____ zěnme shuō?</i>
+厕所在哪里？ (廁所在哪裡？)|Where is the toilet? <i id=""mwAwg"">Cèsuǒ zài nǎlǐ?</i>
+洗手间在哪里？ (洗手間在哪裡？)|Where is the bathroom（polite)? <i id=""mwAws"">Xǐshǒujiān zài nǎlǐ?</i>
+____ 怎么说？ (____ 怎麼說？)|How do you say ____? <i id=""mwAw4"">____ zěnme shuō?</i>
 What should you know about Datong?|"There is a hanging Monastery
 <figure class=""mw-default-size"" typeof=""mw:File/Thumb"" id=""mwAxA""><a href=""//en.wikivoyage.org/wiki/File:Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg"" class=""mw-file-description"" id=""mwAxE""><img resource=""//en.wikivoyage.org/wiki/File:Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg/250px-Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail"" decoding=""async"" data-file-width=""5472"" data-file-height=""3648"" data-file-type=""bitmap"" height=""167"" width=""250"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg/500px-Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x"" class=""mw-file-element"" id=""mwAxI""/></a><figcaption id=""mwAxM"">Hanging Monastery in <a rel=""mw:WikiLink"" href=""//en.wikivoyage.org/wiki/Datong_City"" title=""Datong City"" class=""mw-redirect"" id=""mwAxQ"">Datong</a></figcaption></figure>
 "
