@@ -418,7 +418,7 @@ Oui.|Yes. (<i id=""mwA54"">WEE</i>)
 Non.|No. (<i id=""mwA6E"">NOH</i>)
 Pardon. ( informal ); Excusez-moi. ( formal )|Excuse me. (<i id=""mwA6Q"">pahr-DOHN</i>); (<i id=""mwA6U"">ehk-SKEW-zay MWAH</i>)
 (Je suis) Désolé(e). ; Je m'excuse. Pardon |(I am) Sorry. (<i id=""mwA6g"">zhuh swee DAY-zoh-LAY</i>); (<i id=""mwA6k"">zhuh me-SKEWZ</i>). ( par-DONG )
-Au revoir. : Salut ( informal )|Goodbye (<i id=""mwA6w"">oh ruh-VWAHR</i>) : ( saa-LU )
+Au revoir : Salut ( informal )|Goodbye (<i id=""mwA6w"">oh ruh-VWAHR</i>) : ( saa-LU )
 Salut. |Goodbye (informal) (<i id=""mwA68"">sah-LUU</i>)
 Je ne parle pas [bien] français. |I can't speak French [well]. (<i id=""mwA7I"">zhuh nuh PAHRL pah [byang] frahn-SEH </i>)
 Parlez-vous anglais<span typeof=""mw:DisplaySpace"" id=""mwA7U""> </span>?|Do you speak English? (<i id=""mwA7Y"">par-lay VOO ahng-LEH?</i>)
@@ -732,7 +732,7 @@ travaux|roadworks (<i id=""mwB90"">trah-vo</i>)
 route barrée|road closed (<i id=""mwB-A"">root BAH-ray</i>)
 déviation|"diversion (<i id=""mwB-M"">day-vee-ah-SYO(N)</i>)"
 cédez le passage|"give way / yield (<i id=""mwB-Y"">SAY-day luh pah-SAAZH</i>)"
-Taxi<span typeof=""mw:DisplaySpace"" id=""mwB-8""> </span>!|""">Taxi! (<i id=""mwB_A"">tahk-SEE!</i>)
+Taxi<span typeof=""mw:DisplaySpace"" id=""mwB-8""> </span>!|"Taxi! (<i id=""mwB_A"">tahk-SEE!</i>)
 <figure typeof=""mw:File/Thumb"" id=""mwB-g""><a href=""//en.wikivoyage.org/wiki/File:20151107_lyon236.jpg"" class=""mw-file-description"" id=""mwB-k""><img resource=""//en.wikivoyage.org/wiki/File:20151107_lyon236.jpg"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/20151107_lyon236.jpg/330px-20151107_lyon236.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail"" decoding=""async"" data-file-width=""3872"" data-file-height=""2592"" data-file-type=""bitmap"" height=""201"" width=""300"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/20151107_lyon236.jpg/960px-20151107_lyon236.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x"" class=""mw-file-element"" id=""mwB-o""/></a><figcaption id=""mwB-s"">Taxi in Lyon</figcaption></figure>"
 Déposez-moi à _____, je vous prie.|Take me to _____, please. (<i id=""mwB_M"">DAY-poh-zay-MWAH ah _____, zhuh voo PREE</i>)
 Combien ça coûte d'aller à _____<span typeof=""mw:DisplaySpace"" id=""mwB_Y""> </span>?|How much does it cost to get to _____? (<i id=""mwB_c"">kahm-BYENG suh-LA koo-TEEL dah-LAY ah _____?</i>)
