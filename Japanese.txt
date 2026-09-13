@@ -1,0 +1,1251 @@
+<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr" data-mw-parsoid-version="0.24.0.0-alpha19" data-mw-html-version="2.8.0"><section data-mw-section-id="0" id="mwAQ"><p id="mwAg"><span class="countryData" data-country-calling-code="+81" data-local-dialing-code="" data-currency="JPY, ¥" style="display:none;" about="#mwt1" typeof="mw:Transclusion" id="mwAw" data-mw='{"parts":[{"template":{"target":{"wt":"pagebanner ","href":"./Template:Pagebanner"},"params":{"1":{"wt":" Osaka banner.jpg"}},"i":0}}]}'></span><meta typeof="mw:Extension/indicator" about="#mwt1" id="mwBA" data-mw='{"name":"indicator","attrs":{"name":"GPX"},"body":{"extsrc":"[[File:GPX Document rev3-20x20.png|20px|link=https://tools.wmflabs.org/wikivoyage/w/poi2gpx.php?print=gpx&amp;lang={{CONTENTLANG}}&amp;name={{FULLPAGENAMEE}}|Download GPX file for this article]]"}}'/><link rel="mw:PageProp/Category" href="./Category:Has_custom_banner" about="#mwt1" id="mwBQ"/></p>
+
+<figure typeof="mw:File/Thumb" id="mwBg"><a href="https://en.wikivoyage.org/wiki/File:Chingodo_Lanterns.JPG" class="mw-file-description" id="mwBw"><img resource="https://en.wikivoyage.org/wiki/File:Chingodo_Lanterns.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chingodo_Lanterns.JPG/250px-Chingodo_Lanterns.JPG?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chingodo_Lanterns.JPG/500px-Chingodo_Lanterns.JPG?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="800" data-file-height="600" data-file-type="bitmap" height="180" width="240" class="mw-file-element" id="mwCA"/></a><figcaption id="mwCQ">Japanese writing on a temple lantern, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Tokyo/Asakusa" title="Tokyo/Asakusa" id="mwCg">Asakusa</a>, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Tokyo" title="Tokyo" id="mwCw">Tokyo</a></figcaption></figure>
+
+<p id="mwDA"><b id="mwDQ">Japanese</b> (<span lang="ja" about="#mwt5" typeof="mw:Transclusion" id="mwDg" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"日本語"}},"i":0}}]}'>日本語</span> <i id="mwDw">nihongo</i>) is spoken in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Japan" title="Japan" id="mwEA">Japan</a>, and essentially nowhere else other than areas of Micronesia, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Brazil" title="Brazil" id="mwEQ">Brazil</a>, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Peru" title="Peru" id="mwEg">Peru</a>, the <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/United_States_of_America" title="United States of America" class="mw-redirect" id="mwEw">United States</a> and <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Taiwan" title="Taiwan" id="mwFA">Taiwan</a> where there is a long-established Japanese diaspora, with sizeable Japanese-speaking expatriate communities in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/South_Korea" title="South Korea" id="mwFQ">South Korea</a>, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/China" title="China" id="mwFg">China</a> and <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Singapore" title="Singapore" id="mwFw">Singapore</a>. Japanese may be distantly related to <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Korean_phrasebook" title="Korean phrasebook" id="mwGA">Korean</a>, but is entirely unrelated to <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Chinese_phrasebook" title="Chinese phrasebook" id="mwGQ">Chinese</a>, though it uses a large amount of imported Chinese vocabulary. The written form uses a combination of Katakana, Hiragana and Kanji characters which were all derived from Chinese characters.</p>
+
+<p id="mwGg">The <b id="mwGw"><a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Japanese_phrasebook" class="mw-selflink selflink" id="mwHA">Japanese</a></b> language has several distinct dialects. Standard Japanese (<i id="mwHQ">hyōjungo</i> 標準語), which is based on the Tokyo dialect, is taught in schools and understood by all people throughout the country. The slang-heavy dialect of the <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Kansai" title="Kansai" id="mwHg">Kansai</a> region is particularly famous in Japanese pop culture, while the northern <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Tohoku" title="Tohoku" id="mwHw">Tohoku</a> region and southern <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Kyushu" title="Kyushu" id="mwIA">Kyushu</a> are famous for their impenetrable dialects. On the southern islands of <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Okinawa" title="Okinawa" id="mwIQ">Okinawa</a>, many of the closely related <b id="mwIg">Ryukyuan</b> languages are spoken, mostly by the elderly, while many locals speak Okinawan Japanese, a dialect that borrows much vocabulary from Ryukyuan languages. In northern <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Hokkaido" title="Hokkaido" id="mwIw">Hokkaido</a>, a rare few still speak <b id="mwJA">Ainu</b>.</p>
+
+<meta property="mw:PageProp/toc" id="mwJQ" data-mw='{"autoGenerated":true}'/></section><section data-mw-section-id="1" id="mwJg" aria-labelledby="Pronunciation_guide"><div class="mw-heading mw-heading2"><h2 id="Pronunciation_guide">Pronunciation guide</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=1" title="Edit section: Pronunciation guide"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwJw">Japanese is not a tonal language like Chinese or Thai. The vowels are pronounced virtually identical to the "Italian way" and there are very few consonants that do not exist in English. All syllables are to be pronounced equal in length. Long vowels take the length of two syllables. Combinations like <i id="mwKA">kya</i> are treated like one syllable and are the only occurrence of glides (semivowels), all other syllables are to be pronounced rather separately.</p>
+
+<p id="mwKQ">Also avoid placing too much emphasis on particular words or syllables. Although Japanese does have a form of stress and intonation, it is significantly flatter than English. Word stress is much more subtle and neglecting it at this point should not interfere with meaning. Trying to keep your intonation flat will make your attempts to speak Japanese more comprehensible to local listeners. When asking questions, you can raise the tone at the end, as in English.</p>
+
+<section data-mw-section-id="2" id="mwKg" aria-labelledby="Vowels"><div class="mw-heading mw-heading3"><h3 id="Vowels">Vowels</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=2" title="Edit section: Vowels"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwKw">Japanese has only five basic vowels, but the distinction between short and long vowels is important. For example, 少女 (<i id="mwLA">shōjo</i>, with a long first vowel) means "teenage girl", while 処女 (<i id="mwLQ">shojo</i>, with a short first vowel) means "virgin woman". Even when it comes to proper nouns, you will not be understood if you do not distinguish the long and short vowels correctly. The sounds below are first given in romanized Japanese, then hiragana and finally katakana.</p>
+
+<p id="mwLg">The <b id="mwLw">short vowels</b> are:</p>
+<dl id="mwMA"><dt id="mwMQ">a, あ, ア</dt><dd id="mwMg">like 'a' in "p<b id="mwMw">a</b>lm"</dd>
+<dt id="mwNA">i, い, イ</dt><dd id="mwNQ">like 'i' in "mar<b id="mwNg">i</b>ne"</dd>
+<dt id="mwNw">u, う, ウ</dt><dd id="mwOA">like 'oo' in "h<b id="mwOQ">oo</b>p", but short (said without rounded lips)</dd>
+<dt id="mwOg">e, え, エ</dt><dd id="mwOw">like 'e' in "s<b id="mwPA">e</b>t"</dd>
+<dt id="mwPQ">o, お, オ</dt><dd id="mwPg">like 'o' in "r<b id="mwPw">o</b>pe", but less round</dd></dl>
+
+<p id="mwQA">Note that "u" is often weak at the end of syllables.  In particular, the common endings <i id="mwQQ">desu</i> and <i id="mwQg">masu</i> are usually pronounced as <i id="mwQw">des</i> and <i id="mwRA">mas</i> respectively. Also, the kana "do" and "to" are sometimes pronounced with a weak "o".</p>
+
+<p id="mwRQ">The <b id="mwRg">long vowels</b> are generally the same sound as the short vowels, only held approximately 60% longer. The long vowels, marked with a macron (¯) or by two adjacent vowels, are:</p>
+<dl id="mwRw"><dt id="mwSA">ā, ああ, アー</dt><dd id="mwSQ">like 'a' in "f<b id="mwSg">a</b>ther"</dd>
+<dt id="mwSw">ii or ī, いい, イー</dt><dd id="mwTA">like 'ee' in "ch<b id="mwTQ">ee</b>se"</dd>
+<dt id="mwTg">ū, うう, ウー</dt><dd id="mwTw">like 'oo' in "h<b id="mwUA">oo</b>p"</dd>
+<dt id="mwUQ">ei or ē, えい, ええ, エー</dt><dd id="mwUg">like the 'ay' in "p<b id="mwUw">ay</b>"</dd>
+<dt id="mwVA">ō, おお, おう, オー</dt><dd id="mwVQ">stretch out the 'o' in "s<b id="mwVg">o</b>ap"</dd></dl>
+
+<p id="mwVw">All descriptions above are approximations, it's best to practice with a native speaker.</p>
+
+</section><section data-mw-section-id="3" id="mwWA" aria-labelledby="Consonants"><div class="mw-heading mw-heading3"><h3 id="Consonants">Consonants</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=3" title="Edit section: Consonants"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<span class="mw-empty-elt" about="#mwt6" typeof="mw:Transclusion" id="mwWQ" data-mw='{"parts":[{"template":{"target":{"wt":"infobox","href":"./Template:Infobox"},"params":{"1":{"wt":"Note on vocalization"},"2":{"wt":"Japanese words starting with h/k/s/t are often vocalized on later positions in compounds. Place name examples:\n*Hashi (橋, bridge) > -bashi\n*Kawa (川, river) > -gawa\n*Saka (坂, slope) > -zaka\n*Tōri (通り, street) > -dōri"}},"i":0}}]}'><style data-mw-deduplicate="TemplateStyles:r5162413" typeof="mw:Extension/templatestyles" about="#mwt7" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'>.mw-parser-output .pp_infobox{color:#333;background-color:#effafa;font-size:90%;border:1px solid #ccc;padding-left:1em;padding-right:1em;text-align:left;width:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .pp_infobox td{color:inherit;background-color:inherit}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .pp_infobox td{color:inherit;background-color:inherit}}</style></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt6">
+<tbody><tr><td>
+<div style="font-weight:bold;">Note on vocalization</div>
+
+<p>Japanese words starting with h/k/s/t are often vocalized on later positions in compounds. Place name examples:</p>
+<ul><li>Hashi (橋, bridge) > -bashi</li>
+<li>Kawa (川, river) > -gawa</li>
+<li>Saka (坂, slope) > -zaka</li>
+<li>Tōri (通り, street) > -dōri</li></ul></td></tr>
+</tbody></table>
+
+<p id="mwWg">With the solitary exception of "n" (ん・ン), consonants in Japanese are always followed by a vowel to form a syllable. Consonants and vowels are not freely combinable as in English, see table on the right for all possible syllables and note irregularities like し <i id="mwWw">shi</i> or ふ <i id="mwXA">fu</i>. Certain syllables can be marked with diacritics, which alters the pronunciation of the consonant part. The list below first gives the consonant part of the syllable in romanized Japanese, then the Japanese syllables that the sound occurs in first in Hiragana, then Katakana.</p>
+
+<dl id="mwXQ"><dt id="mwXg">k in かきくけこ・カキクケコ (ka ki ku ke ko)</dt><dd id="mwXw">like 'k' in "king"</dd>
+<dt id="mwYA">g in がぎぐげご・ガギグゲゴ (ga gi gu ge go)</dt><dd id="mwYQ">like 'g' in "go"</dd>
+<dt id="mwYg">s in さすせそ・サスセソ (sa su se so)</dt><dd id="mwYw">like 's' in "sit"</dd>
+<dt id="mwZA">z in ざずぜぞ・ザズゼゾ・づ・ヅ (za zu ze zo) (dzu) (zu)</dt><dd id="mwZQ">like 'z' in "haze"</dd>
+<dt id="mwZg">t in たてと・タテト (ta te to)</dt><dd id="mwZw">like 't' in "top"</dd>
+<dt id="mwaA">d in だでど・ダデド (da de do)</dt><dd id="mwaQ">like 'd' in "dog"</dd>
+<dt id="mwag">n in なにぬねの・ナニヌネノ (na ni nu ne no)</dt><dd id="mwaw">like 'n' in "nice"</dd>
+<dt id="mwbA">h in はひへほ・ハヒヘホ (ha/wa hi fu/hu he/e ho)</dt><dd id="mwbQ">like 'h' in "help"</dd>
+<dt id="mwbg">p in ぱぴぷぺぽ・パピプペポ (pa pi pu pe po)</dt><dd id="mwbw">like 'p' in "pig"</dd>
+<dt id="mwcA">b in ばびぶべぼ・バビブベボ (ba bi bu be bo)</dt><dd id="mwcQ">like 'b' in "bed"</dd>
+<dt id="mwcg">m in まみむめも・マミムメモ (ma mi mu me mo)</dt><dd id="mwcw">like 'm' in "mother"</dd>
+<dt id="mwdA">y in やゆよ・ヤユヨ (ya yu yo)</dt><dd id="mwdQ">like 'y' in "yard"</dd>
+<dt id="mwdg">r in らりるれろ・ラリルレロ (ra ri ru re ro)</dt><dd id="mwdw">no equivalent in English, a sound between 'l', 'r' and 'd', but close to a very soft 'r'</dd>
+<dt id="mweA">w in わを・ワヲ (wa wo/o)</dt><dd id="mweQ">like 'w' in "wall"</dd></dl>
+
+<dl id="mweg"><dt id="mwew">sh in し・シ (shi)</dt><dd id="mwfA">like 'sh' in "sheep"</dd>
+<dt id="mwfQ">j in じ・ジ・ぢ・ヂ (ji)</dt><dd id="mwfg">like 'j' in "jar"</dd>
+<dt id="mwfw">ch in ち・チ (chi)</dt><dd id="mwgA">like 'ch' in "touch"</dd>
+<dt id="mwgQ">ts in つ・ツ (tsu)</dt><dd id="mwgg">like 'ts' in "hot soup"</dd>
+<dt id="mwgw">f in ふ・フ (fu/hu)</dt><dd id="mwhA">no equivalent in English, somewhere between 'h' and 'f', but you will be understood if you pronounce it either way</dd></dl>
+
+<dl id="mwhQ"><dt id="mwhg">n, ん, ン (-n)</dt><dd id="mwhw">short 'n', slides towards 'm' in some cases</dd></dl>
+
+</section><section data-mw-section-id="4" id="mwiA" aria-labelledby="Small_symbols"><div class="mw-heading mw-heading3"><h3 id="Small_symbols">Small symbols</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=4" title="Edit section: Small symbols"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwiQ">The symbols つ・ツ and やゆよ・ヤユヨ, as well as あいうえお・アイウエオ can be written in a smaller size. In the latter group, this is almost always seen only in katakana, as it is only used for loan words. The small つ・ツ indicates a glottal stop, as listed below, while for the rest of the symbols, indicates that they are to be pronounced as part of the same syllable of the preceding symbol. For instance, in the loan word フォーク (<i id="mwig">fōku</i>), from English "fork", note the smaller size of the オ, which is why it is <i id="mwiw">not</i> pronounced <i id="mwjA">fuōku</i>. To highlight the importance of this distinction, びょういん (<i id="mwjQ">byōin</i>, with the small よ) means hospital, and びよういん (<i id="mwjg">biyōin</i>, with the big よ pronounced as a separate syllable from the び) means beauty salon.</p>
+
+<dl id="mwjw"><dt id="mwkA">っ・ッ (small <i id="mwkQ">tsu</i>)</dt><dd id="mwkg">glottal stop; the following consonant is prepared, held and stopped for the duration of one syllable. For example, にっぽん <i id="mwkw">nippon</i> is pronounced "nip-(pause)-pon".  (Note that the double consonants <i id="mwlA">nn, mm</i>, which are not written with っ, do not have this pause.)</dd></dl>
+
+</section><section data-mw-section-id="5" id="mwlQ" aria-labelledby="Examples"><div class="mw-heading mw-heading3"><h3 id="Examples">Examples</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=5" title="Edit section: Examples"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<ul id="mwlg"><li id="mwlw"><i id="mwmA">kon'nichiwa</i> → <i id="mwmQ">kon-nee-chee-wa</i> (<b id="mwmg">not</b> <i id="mwmw">kounneeCHEEua</i>)</li>
+<li id="mwnA"><i id="mwnQ">sumimasen</i> → <i id="mwng">soo-mee-mah-sen</i> (<b id="mwnw">not</b> <i id="mwoA">sue my maysen</i>)</li>
+<li id="mwoQ"><i id="mwog">onegai shimasu</i> → <i id="mwow">oh-neh-gigh shee-mahss</i> (<b id="mwpA">not</b> <i id="mwpQ">ouneeGAY SHYmessu</i>)</li></ul>
+
+</section></section><section data-mw-section-id="6" id="mwpg" aria-labelledby="Grammar"><div class="mw-heading mw-heading2"><h2 id="Grammar">Grammar</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=6" title="Edit section: Grammar"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<p id="mwpw">Japanese sentence structure is very similar to that of <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Korean_phrasebook" title="Korean phrasebook" id="mwqA">Korean</a>, so speakers of Korean will find many aspects of Japanese grammar familiar, and vice versa.</p>
+
+<p id="mwqQ">Unlike English, which uses the <i id="mwqg">subject-verb-object</i> syntax, Japanese syntax is <i id="mwqw">subject-object-verb</i>. Japanese uses postpositions instead of prepositions (<i id="mwrA">Japan in</i> and not <i id="mwrQ">in Japan</i>). However, unlike many European languages, it has no gender, declensions or plurals. Nouns never decline while adjectives follow a generally standard conjugation pattern. However, verbs have extensive conjugation patterns and many Japanese lessons for foreign language learners are about getting these conjugations right. Verbs and adjectives also conjugate by politeness level, though, and in a rather peculiar way.</p>
+
+<p id="mwrg">Japanese is an agglutinative language, meaning several morphemes which have purely grammatical functions are glued to the end of a word stem to express the grammatical function. The more the intended meaning differs from the basic form of the word, the more morphemes are glued together.</p>
+
+<table cellpadding="8" border="0" cellspacing="0" style="color: black; background-color: #EEE" id="mwrw">
+<tbody id="mwsA"><tr id="mwsQ"><th colspan="5" id="mwsg">Japanese verb and adjective conjugation</th></tr>
+<tr id="mwsw">
+<td rowspan="3" style="vertical-align: top; color: black; background-color: #CCC;" id="mwtA"><b id="mwtQ">stem</b><br id="mwtg"/>見 <i id="mwtw">mi</i></td>
+<td id="mwuA"><b id="mwuQ">basic form</b><br id="mwug"/>見る <i id="mwuw">miru</i>, "to see"</td>
+<td id="mwvA"><b id="mwvQ">polite basic form</b><br id="mwvg"/>見ます <i id="mwvw">mimasu</i>, "to see" (pol.)</td>
+<td id="mwwA"><b id="mwwQ">negative form</b><br id="mwwg"/>見ない <i id="mwww">minai</i>, "to not see"</td>
+<td id="mwxA"><b id="mwxQ">pol. neg. form</b><br id="mwxg"/>見ません <i id="mwxw">mimasen</i>, "to not see" (pol.)</td></tr>
+<tr id="mwyA">
+<td id="mwyQ"><b id="mwyg">past tense</b><br id="mwyw"/>見た <i id="mwzA">mita</i>, "seen"</td>
+<td id="mwzQ"><b id="mwzg">pol. past tense</b><br id="mwzw"/>見ました <i id="mw0A">mimashita</i>, "seen" (pol.)</td>
+<td id="mw0Q"><b id="mw0g">neg. past tense</b><br id="mw0w"/>見なかった <i id="mw1A">minakatta</i>, "not seen"</td>
+<td id="mw1Q"><b id="mw1g">pol. neg. past tense</b><br id="mw1w"/>見ませんでした <i id="mw2A">mimasendeshita</i>, "not seen" (pol.)</td></tr>
+<tr id="mw2Q">
+<td id="mw2g"><b id="mw2w">possibility</b><br id="mw3A"/>見える <i id="mw3Q">mieru</i>, "can see"</td>
+<td id="mw3g"><b id="mw3w">pol. possibility</b><br id="mw4A"/>見えます <i id="mw4Q">miemasu</i>, "can see" (pol.)</td>
+<td id="mw4g"><b id="mw4w">neg. possibility</b><br id="mw5A"/>見えない <i id="mw5Q">mienai</i>, "can not see"</td>
+<td id="mw5g"><b id="mw5w">pol. negative form</b><br id="mw6A"/>見えません <i id="mw6Q">miemasen</i>, "can not see" (pol.)</td></tr>
+<tr id="mw6g">
+<td style="vertical-align: top; color: black; background-color: #CCC;" id="mw6w"><b id="mw7A">stem</b><br id="mw7Q"/>赤 <i id="mw7g">aka</i></td>
+<td id="mw7w"><b id="mw8A">adjective</b><br id="mw8Q"/>赤い <i id="mw8g">akai</i>, "red"</td>
+<td id="mw8w"><b id="mw9A">negative form</b><br id="mw9Q"/>赤くない <i id="mw9g">akakunai</i>, "not red"</td>
+<td id="mw9w"><b id="mw-A">neg. past tense</b><br id="mw-Q"/>赤くなかった <i id="mw-g">akakunakatta</i>, "was not red"</td></tr>
+</tbody></table>
+
+<section data-mw-section-id="7" id="mw-w" aria-labelledby="Forming_sentences"><div class="mw-heading mw-heading3"><h3 id="Forming_sentences">Forming sentences</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=7" title="Edit section: Forming sentences"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<span class="mw-empty-elt" about="#mwt8" typeof="mw:Transclusion" id="mw_A" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infobox&quot;,&quot;href&quot;:&quot;./Template:Infobox&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Particle pronunciation&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;The hiragana syllables '''は ''ha''''', '''へ ''he''''' and '''を ''wo''''' are pronounced as '''''wa''''', '''''e''''' and '''''o''''' respectively when used as a particle.&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt9" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt8">
+<tbody><tr><td>
+<div style="font-weight:bold;">Particle pronunciation</div>
+
+<p>The hiragana syllables <b>は <i>ha</i></b>, <b>へ <i>he</i></b> and <b>を <i>wo</i></b> are pronounced as <i><b>wa</b></i>, <i><b>e</b></i> and <i><b>o</b></i> respectively when used as a particle.</p></td></tr>
+</tbody></table>
+
+<p id="mw_Q">Japanese grammar generally employs a subject-object-verb order, but is very modular and flexible since the grammatical meaning of a word is expressed by the morphemes glued to its end and special marker particles. The two most important particles are the topic marker は <i id="mw_g">wa</i> and the object marker を <i id="mw_w">o</i>.</p>
+
+<dl id="mwAQA"><dd id="mwAQE">I saw the movie.</dd>
+<dd id="mwAQI"><span lang="ja" about="#mwt10" typeof="mw:Transclusion" id="mwAQM" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"私&apos;&apos;&apos;は&apos;&apos;&apos;映画&apos;&apos;&apos;を&apos;&apos;&apos;見ました。"}},"i":0}}]}'>私<b>は</b>映画<b>を</b>見ました。</span></dd>
+<dd id="mwAQQ"><i id="mwAQU">Watashi-<b id="mwAQY">wa</b> eiga-<b id="mwAQc">o</b> mimashita.</i></dd>
+<dd id="mwAQg"><i id="mwAQk">I-[<b id="mwAQo">topic</b>] movie-[<b id="mwAQs">object</b>] seen.</i></dd></dl>
+
+<p id="mwAQw">It becomes a little more complicated if both objects and subjects are mixed within a sentence and the subject marker が <i id="mwAQ0">ga</i> is thrown in.</p>
+
+<dl id="mwAQ4"><dd id="mwAQ8">I discovered that she likes tea.</dd>
+<dd id="mwARA"><span lang="ja" about="#mwt11" typeof="mw:Transclusion" id="mwARE" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"私&apos;&apos;&apos;は&apos;&apos;&apos;彼女&apos;&apos;&apos;が&apos;&apos;&apos;お茶&apos;&apos;&apos;を&apos;&apos;&apos;好きな事&apos;&apos;&apos;が&apos;&apos;&apos;分かった。"}},"i":0}}]}'>私<b>は</b>彼女<b>が</b>お茶<b>を</b>好きな事<b>が</b>分かった。</span><br id="mwARI"/><i id="mwARM">Watashi-<b id="mwARQ">wa</b> kanojo-<b id="mwARU">ga</b> ocha-<b id="mwARY">o</b> sukinakoto-<b id="mwARc">ga</b> wakatta.</i></dd>
+<dd id="mwARg"><i id="mwARk">I-[<b id="mwARo">topic</b>] she-[<b id="mwARs">subj.</b>] tea-[<b id="mwARw">obj.</b>] like-[<b id="mwAR0">subj.</b>] understood.</i></dd></dl>
+
+<p id="mwAR4">Students of the language can spend years wrapping their heads around the difference between the <i id="mwAR8">topic</i> of a sentence (marked by は <i id="mwASA">wa</i>) and the <i id="mwASE">subject</i> of a sentence (marked by が <i id="mwASI">ga</i>).  However, as a beginner, you can fairly safely always use は <i id="mwASM">wa</i> to mark the person doing the action and get your message across.</p>
+
+<p id="mwASQ">Some other useful particles are:</p>
+
+<dl id="mwASU"><dt id="mwASY">の no</dt><dd id="mwASc">possessive marker</dd>
+<dd id="mwASg">The mother's child</dd>
+<dd id="mwASk"><span lang="ja" about="#mwt12" typeof="mw:Transclusion" id="mwASo" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"母&apos;&apos;&apos;の&apos;&apos;&apos;子"}},"i":0}}]}'>母<b>の</b>子</span></dd>
+<dd id="mwASs"><i id="mwASw">haha <b id="mwAS0">no</b> ko</i></dd></dl>
+
+<dl id="mwAS4"><dt id="mwAS8">で de, に ni</dt><dd id="mwATA">indicating places and times</dd>
+<dd id="mwATE">in Tokyo</dd>
+<dd id="mwATI"><span lang="ja" about="#mwt13" typeof="mw:Transclusion" id="mwATM" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"東京で"}},"i":0}}]}'>東京で</span></dd>
+<dd id="mwATQ"><i id="mwATU">Tōkyō-<b id="mwATY">de</b></i></dd>
+<dd id="mwATc">at 2 o'clock</dd>
+<dd id="mwATg"><span lang="ja" about="#mwt14" typeof="mw:Transclusion" id="mwATk" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"２時に"}},"i":0}}]}'>２時に</span></dd>
+<dd id="mwATo"><i id="mwATs">niji-<b id="mwATw">ni</b></i></dd></dl>
+
+<dl id="mwAT0"><dt id="mwAT4">から kara, へ e, まで made</dt><dd id="mwAT8">from, towards, to</dd>
+<dd id="mwAUA">From here...</dd>
+<dd id="mwAUE"><span lang="ja" about="#mwt15" typeof="mw:Transclusion" id="mwAUI" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"ここから..."}},"i":0}}]}'>ここから...</span></dd>
+<dd id="mwAUM"><i id="mwAUQ">koko <b id="mwAUU">kara</b></i>...</dd>
+<dd id="mwAUY">towards Osaka</dd>
+<dd id="mwAUc"><span lang="ja" about="#mwt16" typeof="mw:Transclusion" id="mwAUg" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"大阪へ"}},"i":0}}]}'>大阪へ</span></dd>
+<dd id="mwAUk"><i id="mwAUo"> Ōsaka-<b id="mwAUs">e</b></i></dd>
+<dd id="mwAUw">to Nara.</dd>
+<dd id="mwAU0"><span lang="ja" about="#mwt17" typeof="mw:Transclusion" id="mwAU4" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"奈良まで"}},"i":0}}]}'>奈良まで</span></dd>
+<dd id="mwAU8"><i id="mwAVA">Nara-<b id="mwAVE">made</b></i>.</dd></dl>
+
+<dl id="mwAVI"><dt id="mwAVM">と to, か ka</dt><dd id="mwAVQ">and, or</dd>
+<dd id="mwAVU">This and that.</dd>
+<dd id="mwAVY"><span lang="ja" about="#mwt18" typeof="mw:Transclusion" id="mwAVc" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"これとそれ"}},"i":0}}]}'>これとそれ</span></dd>
+<dd id="mwAVg"><i id="mwAVk">kore <b id="mwAVo">to</b> sore</i></dd>
+<dd id="mwAVs">This or that.</dd>
+<dd id="mwAVw"><span lang="ja" about="#mwt19" typeof="mw:Transclusion" id="mwAV0" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"これかそれ"}},"i":0}}]}'>これかそれ</span></dd>
+<dd id="mwAV4"><i id="mwAV8">kore <b id="mwAWA">ka</b> sore</i></dd></dl>
+
+<dl id="mwAWE"><dt id="mwAWI">か？ ka?</dt><dd id="mwAWM">question forming particle</dd>
+<dd id="mwAWQ">Are you going to Tokyo?</dd>
+<dd id="mwAWU"><span lang="ja" about="#mwt20" typeof="mw:Transclusion" id="mwAWY" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"東京に行きますか？"}},"i":0}}]}'>東京に行きますか？</span></dd>
+<dd id="mwAWc"><i id="mwAWg">Tōkyō ni ikimasu <b id="mwAWk">ka?</b> </i></dd></dl>
+
+</section><section data-mw-section-id="8" id="mwAWo" aria-labelledby='The_verb_"to_be"'><div class="mw-heading mw-heading3"><h3 id='The_verb_"to_be"'><span id="The_verb_.22to_be.22" typeof="mw:FallbackId"></span>The verb "to be"</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=8" title='Edit section: The verb "to be"'><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAWs">Japanese does not have an exact equivalent to the English verb "to be".  Instead, the easiest way to form <b id="mwAWw">"A equals B"</b> type expressions like "I am ..." or "This is ..." is the pattern <b id="mwAW0">A <i id="mwAW4">wa</i>, B <i id="mwAW8">desu</i></b>.</p>
+
+<dl id="mwAXA"><dd id="mwAXE"><span lang="ja" about="#mwt21" typeof="mw:Transclusion" id="mwAXI" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"私は、山田です。"}},"i":0}}]}'>私は、山田です。</span> <i id="mwAXM">Watashi wa, Yamada desu</i> ("I [am] Yamada.")</dd>
+<dd id="mwAXQ"><span lang="ja" about="#mwt22" typeof="mw:Transclusion" id="mwAXU" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"これは、りんごです。"}},"i":0}}]}'>これは、りんごです。</span> <i id="mwAXY">Kore wa, ringo desu</i> ("This [is] apple.")</dd>
+<dd id="mwAXc"><span lang="ja" about="#mwt23" typeof="mw:Transclusion" id="mwAXg" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"それは、赤いです。"}},"i":0}}]}'>それは、赤いです。</span> <i id="mwAXk">Sore wa, akai desu</i> ("That [is] red.").</dd></dl>
+
+<p id="mwAXo">The word です　<i id="mwAXs">desu</i> here is <i id="mwAXw">not</i> a verb, it's a polite copula (linking word), which can be omitted in colloquial speech or replaced with other copulas including でした <i id="mwAX0">deshita</i> (polite past), でしょう <i id="mwAX4">deshō</i> (polite suggestion) or だ <i id="mwAX8">da</i> (plain).  The topic indicated by は <i id="mwAYA">wa</i> is also optional and is often implied by context:</p>
+
+<dl id="mwAYE"><dd id="mwAYI"><span lang="ja" about="#mwt24" typeof="mw:Transclusion" id="mwAYM" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"あなたはだれですか？"}},"i":0}}]}'>あなたはだれですか？</span> <i id="mwAYQ">Anata wa dare desu ka?</i> ("Who [are] you?")</dd>
+<dd id="mwAYU"><span lang="ja" about="#mwt25" typeof="mw:Transclusion" id="mwAYY" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"山田です。"}},"i":0}}]}'>山田です。</span> <i id="mwAYc">Yamada desu.</i> ("[I am] Yamada.")</dd>
+<dd id="mwAYg"><span lang="ja" about="#mwt26" typeof="mw:Transclusion" id="mwAYk" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"これは何ですか？"}},"i":0}}]}'>これは何ですか？</span> <i id="mwAYo">Kore wa nan desu ka?</i> ("What [is] this?")</dd>
+<dd id="mwAYs"><span lang="ja" about="#mwt27" typeof="mw:Transclusion" id="mwAYw" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"りんごです。"}},"i":0}}]}'>りんごです。</span> <i id="mwAY0">Ringo desu</i>. ("[This is] an apple.")</dd>
+<dd id="mwAY4"><span lang="ja" about="#mwt28" typeof="mw:Transclusion" id="mwAY8" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"それは何色ですか？"}},"i":0}}]}'>それは何色ですか？</span> <i id="mwAZA">Sore wa nani-iro desu ka?</i> ("What color [is] that?")<br id="mwAZE"/></dd>
+<dd id="mwAZI"><span lang="ja" about="#mwt29" typeof="mw:Transclusion" id="mwAZM" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"赤いです。"}},"i":0}}]}'>赤いです。</span> <i id="mwAZQ">Akai desu</i>. ("[That is] red.")</dd></dl>
+
+<p id="mwAZU">The two verbs いる <i id="mwAZY">iru</i> > <i id="mwAZc">imasu</i> and ある <i id="mwAZg">aru</i> > <i id="mwAZk">arimasu</i> express the <b id="mwAZo">physical presence</b> of a person or animal in the former case, or an object in the latter case.  To say <b id="mwAZs">"A is located in B</b>", use the pattern <b id="mwAZw">A <i id="mwAZ0">ga</i> B <i id="mwAZ4">ni imasu/arimasu</i> </b>:</p>
+
+<dl id="mwAZ8"><dd id="mwAaA"><span lang="ja" about="#mwt30" typeof="mw:Transclusion" id="mwAaE" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"山田さんがここにいます。"}},"i":0}}]}'>山田さんがここにいます。</span> <i id="mwAaI">Yamada-san ga koko ni imasu.</i> ("Mr. Yamada is [physically located] here.")</dd>
+<dd id="mwAaM"><span lang="ja" about="#mwt31" typeof="mw:Transclusion" id="mwAaQ" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"本が棚にありますか？"}},"i":0}}]}'>本が棚にありますか？</span>　<i id="mwAaU">Hon ga tana ni arimasu ka?</i> ("Is there a book on the shelf?")</dd>
+<dd id="mwAaY"><span lang="ja" about="#mwt32" typeof="mw:Transclusion" id="mwAac" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"はい、あります。"}},"i":0}}]}'>はい、あります。</span> <i id="mwAag">Hai, arimasu.</i> ("Yes, [the book] is [on the shelf].")</dd></dl>
+
+</section><section data-mw-section-id="9" id="mwAak" aria-labelledby="Addressing_others"><div class="mw-heading mw-heading3"><h3 id="Addressing_others">Addressing others</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=9" title="Edit section: Addressing others"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<span class="mw-empty-elt" about="#mwt33" typeof="mw:Transclusion" id="mwAao" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infobox&quot;,&quot;href&quot;:&quot;./Template:Infobox&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Me, myself and I&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;As long as you're not 100% sure what you're doing you should always refer to yourself as 私 ''watashi'' and address others by their last name + さん ''san''. If you feel adventurous, here are a number of ways to address people.\n\n'''I'''\n; {{Lang|ja|私}} ''watashi'', ''watakushi'' : the most common polite form for \&quot;I\&quot;, lit. \&quot;private\&quot;\n; {{Lang|ja|あたし}} ''atashi'' : informal feminine version of ''watashi''\n; {{Lang|ja|うち}} ''uchi'' : Western dialect form of ''watashi'', lit \&quot;(my) house\&quot;, usually used to refer to one's family or home\n; {{Lang|ja|僕}} ''boku'' : boyish and more informal, used only by males\n; {{Lang|ja|俺}} ''ore'' : male speak (rude)\n\n'''you'''\n; {{Lang|ja|あなた}} ''anata'' : most common form for \&quot;you\&quot;, not too direct\n; {{Lang|ja|あんた}} ''anta'' : more direct, tends to be insulting\n; {{Lang|ja|君}} ''kimi'' : more direct, mostly by the older person or from a man to a woman \n; {{Lang|ja|お前}} ''omae'' : very direct and informal, used only by males\n; {{Lang|ja|てめえ}} ''temē'' : ''very'' rude, used only by males\n&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt34" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt33">
+<tbody><tr><td>
+<div style="font-weight:bold;">Me, myself and I</div>
+
+<p>As long as you're not 100% sure what you're doing you should always refer to yourself as 私 <i>watashi</i> and address others by their last name + さん <i>san</i>. If you feel adventurous, here are a number of ways to address people.</p>
+
+<p><b>I</b></p>
+<dl><dt><span lang="ja">私</span> <i>watashi</i>, <i>watakushi</i></dt><dd>the most common polite form for "I", lit. "private"</dd>
+<dt><span lang="ja">あたし</span> <i>atashi</i></dt><dd>informal feminine version of <i>watashi</i></dd>
+<dt><span lang="ja">うち</span> <i>uchi</i></dt><dd>Western dialect form of <i>watashi</i>, lit "(my) house", usually used to refer to one's family or home</dd>
+<dt><span lang="ja">僕</span> <i>boku</i></dt><dd>boyish and more informal, used only by males</dd>
+<dt><span lang="ja">俺</span> <i>ore</i></dt><dd>male speak (rude)</dd></dl>
+
+<p><b>you</b></p>
+<dl><dt><span lang="ja">あなた</span> <i>anata</i></dt><dd>most common form for "you", not too direct</dd>
+<dt><span lang="ja">あんた</span> <i>anta</i></dt><dd>more direct, tends to be insulting</dd>
+<dt><span lang="ja">君</span> <i>kimi</i></dt><dd>more direct, mostly by the older person or from a man to a woman</dd>
+<dt><span lang="ja">お前</span> <i>omae</i></dt><dd>very direct and informal, used only by males</dd>
+<dt><span lang="ja">てめえ</span> <i>temē</i></dt><dd><i>very</i> rude, used only by males</dd></dl></td></tr>
+
+</tbody></table>
+
+<p id="mwAas">More a cultural than a grammatical problem is the problem of addressing somebody. Even though there exist a multitude of words with the meaning "you", it is generally avoided to address somebody directly. The closest equivalent to "you" is あなた <i id="mwAaw">anata</i>, but it's only used among close friends, to address people of lower status than you, or by women to address their male lovers. It is usually preferred to address somebody by family name, title or status, applying appropriate honorifics.</p>
+
+<p id="mwAa0">Note that in Japan, it is generally rude to address people by first name, and last names are almost always used instead. The exception to this rule are children of elementary school age or younger, and friends you are very close to. When names are written in Japanese, they always follow the Eastern name order (like Chinese and Korean names), with the last name always written before the first name, which is contrary to common practice in English-speaking countries. This means that someone known as Taro Yamada in English will have his name written as 山田太郎 (<i id="mwAa4">yamada tarō</i>) in Japanese.</p>
+
+<dl id="mwAa8"><dt id="mwAbA"><span lang="ja" about="#mwt35" typeof="mw:Transclusion" id="mwAbE" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"さん"}},"i":0}}]}'>さん</span> <i id="mwAbI">-san</i></dt><dd id="mwAbM">The most basic honorific, about equivalent to Mr. or Ms. (no distinction between the two in Japanese). 山田さん <i id="mwAbQ">Yamada-san</i>: Mister Yamada</dd>
+<dt id="mwAbU"><span lang="ja" about="#mwt36" typeof="mw:Transclusion" id="mwAbY" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"様"}},"i":0}}]}'>様</span> <i id="mwAbc">-sama</i></dt><dd id="mwAbg">Politer than <i id="mwAbk">-san</i>, used to address people ranking higher on the social ladder, such as your supervisor or boss, or even deities. It is also used by shop assistants to address customers.</dd>
+<dt id="mwAbo"><span lang="ja" about="#mwt37" typeof="mw:Transclusion" id="mwAbs" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"ちゃん"}},"i":0}}]}'>ちゃん</span> <i id="mwAbw">-chan</i></dt><dd id="mwAb0">Used to address children of elementary school age or younger and (usually female) close friends.</dd>
+<dt id="mwAb4"><span lang="ja" about="#mwt38" typeof="mw:Transclusion" id="mwAb8" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"君"}},"i":0}}]}'>君</span> <i id="mwAcA">-kun</i></dt><dd id="mwAcE">Used to address boys of elementary school age or younger and male close friends.</dd>
+<dt id="mwAcI"><span lang="ja" about="#mwt39" typeof="mw:Transclusion" id="mwAcM" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"先生"}},"i":0}}]}'>先生</span> <i id="mwAcQ">sensei</i></dt><dd id="mwAcU">Used to address teachers, medical doctors and dentists. The person's surname can be appended at the beginning if necessary for disambiguation.</dd>
+<dt id="mwAcY"><span lang="ja" about="#mwt40" typeof="mw:Transclusion" id="mwAcc" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"お客様"}},"i":0}}]}'>お客様</span> <i id="mwAcg">okyaku-sama</i></dt><dd id="mwAck">"Honored Mr/Ms customer", used by hotel or shop employees to address you.</dd>
+<dt id="mwAco"><span lang="ja" about="#mwt41" typeof="mw:Transclusion" id="mwAcs" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"店長さん"}},"i":0}}]}'>店長さん</span> <i id="mwAcw">tenchō-san</i></dt><dd id="mwAc0">The way to address the manager of a shop, though not the other employees.</dd>
+<dt id="mwAc4"><span lang="ja" about="#mwt42" typeof="mw:Transclusion" id="mwAc8" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"お兄さん"}},"i":0}}]}'>お兄さん</span> <i id="mwAdA">onīsan</i>, <span lang="ja" about="#mwt43" typeof="mw:Transclusion" id="mwAdE" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"お姉さん"}},"i":0}}]}'>お姉さん</span> <i id="mwAdI">onēsan</i></dt><dd id="mwAdM">Literally "big brother" and "big sister" respectively, is used to address young people who you're having a hard time finding a better honorific for.</dd>
+<dt id="mwAdQ"><span lang="ja" about="#mwt44" typeof="mw:Transclusion" id="mwAdU" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"お爺さん"}},"i":0}}]}'>お爺さん</span> <i id="mwAdY">ojīsan</i>, <span lang="ja" about="#mwt45" typeof="mw:Transclusion" id="mwAdc" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"お婆さん"}},"i":0}}]}'>お婆さん</span> <i id="mwAdg">obāsan</i></dt><dd id="mwAdk">"Grandpa" and "grandma", very popular to address old people. Cuter when used with <i id="mwAdo">-chan</i>.</dd>
+<dt id="mwAds"><span lang="ja" about="#mwt46" typeof="mw:Transclusion" id="mwAdw" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"そちら"}},"i":0}}]}'>そちら</span> <i id="mwAd0">sochira</i></dt><dd id="mwAd4">Means something like "on your side" and is used when absolutely no better honorific can be found.</dd></dl>
+
+<p id="mwAd8">There are also several different words for "I", with 私 <i id="mwAeA">watashi</i> being the most commonly used. Grammatically it's often unnecessary to use the words "you" or "I" as the intended meaning is obvious from context, so they should generally be avoided. Sometimes people will also call themselves by their own name. When doing so they must not add any additional honorifics though; one only does this when addressing others.</p>
+
+<p id="mwAeE">There's no specific form for "we" or the plural "you". To address groups of people you add the plural particle たち <i id="mwAeI">-tachi</i> to somebody within the group or the group designator.</p>
+
+<dl id="mwAeM"><dt id="mwAeQ"><span lang="ja" about="#mwt47" typeof="mw:Transclusion" id="mwAeU" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"私たち"}},"i":0}}]}'>私たち</span> <i id="mwAeY">watashi-tachi</i></dt><dd id="mwAec">lit. "the group around myself", meaning "we"</dd>
+<dt id="mwAeg"><span lang="ja" about="#mwt48" typeof="mw:Transclusion" id="mwAek" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"我々"}},"i":0}}]}'>我々</span> <i id="mwAeo">ware-ware</i></dt><dd id="mwAes">a less formal way of saying "we"</dd>
+<dt id="mwAew"><span lang="ja" about="#mwt49" typeof="mw:Transclusion" id="mwAe0" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"あなたたち"}},"i":0}}]}'>あなたたち</span> <i id="mwAe4">anata-tachi</i></dt><dd id="mwAe8">"the group around you", plural "you"</dd>
+<dt id="mwAfA"><span lang="ja" about="#mwt50" typeof="mw:Transclusion" id="mwAfE" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"子供たち"}},"i":0}}]}'>子供たち</span> <i id="mwAfI">kodomo-tachi</i></dt><dd id="mwAfM">"a group of children", meaning "the children"</dd>
+<dt id="mwAfQ"><span lang="ja" about="#mwt51" typeof="mw:Transclusion" id="mwAfU" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"山田さんたち"}},"i":0}}]}'>山田さんたち</span> <i id="mwAfY">Yamada-san-tachi</i></dt><dd id="mwAfc">"the group around Yamada-<i id="mwAfg">san</i>", everybody you'd associate with Mr. Yamada, based on context</dd></dl>
+
+<p id="mwAfk">Japanese traditionally lacked third person pronouns, and while 彼 (<i id="mwAfo">kare</i>) and 彼女 (<i id="mwAfs">kanojo</i>) were repurposed during the Meiji era as "he" and "she" respectively for translating European texts, they sound awfully stilted if you use them when talking to people. Stick to using last name + honorific instead. If you do not know the person's name, you can say この人 (<i id="mwAfw">ko no hito</i>, "this person"), あの人 (<i id="mwAf0">a no hito</i>, "that person" if far from your listener) or その人 (<i id="mwAf4">so no hito</i>, "that person" if close to your listener).　</p>
+
+</section></section><section data-mw-section-id="10" id="mwAf8" aria-labelledby="Reading_and_writing"><div class="mw-heading mw-heading2"><h2 id="Reading_and_writing">Reading and writing</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=10" title="Edit section: Reading and writing"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAgA">Reading and writing Japanese are advanced skills which take years of work to gain much real proficiency. Japanese people use three different writing systems of various complexity, two of which (<i id="mwAgE"><b id="mwAgI">hiragana</b></i> and <i id="mwAgM"><b id="mwAgQ">katakana</b></i>) are syllabic and relatively easy to learn with 50 characters each.</p>
+
+<p id="mwAgU">The clincher is the set of Chinese characters known as <i id="mwAgY"><b id="mwAgc">kanji</b></i>, roughly 2,000 of which are in daily use while many more exist. The components of kanji originated as pictures representing concepts, and even though kanji have since evolved dramatically and many have long since jettisoned any connection to the original concept, the meaning of a few simple kanji can still be guessed at (see below).</p>
+
+<span class="mw-empty-elt" about="#mwt52" typeof="mw:Transclusion" id="mwAgg" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infobox&quot;,&quot;href&quot;:&quot;./Template:Infobox&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Kanji abbreviations&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;Kanji abbreviations can be tricky because readings different from their component words are liberally used. For example, railway line names may take a kanji from each city on their ends and apply different readings - you can understand them only after looking at kanjis used. Examples: \n*Keisei (京成) Line: Tokyo (東'''京''') and Narita ('''成'''田)\n*Keihan (京阪) Line: Kyoto ('''京'''都) and Osaka (大'''阪''')\n*Suigun (水郡) Line: Mito ('''水'''戸) and Koriyama ('''郡'''山)\nThis convention may extend to other kanji-culture countries.\n*Kanpu (関釜) Ferry connects Shimonoseki (下'''関''') and Busan ('''釜'''山), South Korea.\n&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt53" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt52">
+<tbody><tr><td>
+<div style="font-weight:bold;">Kanji abbreviations</div>
+
+<p>Kanji abbreviations can be tricky because readings different from their component words are liberally used. For example, railway line names may take a kanji from each city on their ends and apply different readings - you can understand them only after looking at kanjis used. Examples: </p>
+<ul><li>Keisei (京成) Line: Tokyo (東<b>京</b>) and Narita (<b>成</b>田)</li>
+<li>Keihan (京阪) Line: Kyoto (<b>京</b>都) and Osaka (大<b>阪</b>)</li>
+<li>Suigun (水郡) Line: Mito (<b>水</b>戸) and Koriyama (<b>郡</b>山)</li></ul>
+<p>This convention may extend to other kanji-culture countries.</p>
+<ul><li>Kanpu (関釜) Ferry connects Shimonoseki (下<b>関</b>) and Busan (<b>釜</b>山), South Korea.</li></ul></td></tr>
+
+</tbody></table>
+
+<p id="mwAgk">One difficulty in reading Japanese lies often in the fact that a kanji can have <b id="mwAgo">several different pronunciations</b>. The kanji 人 for example has the meaning of "person", and by itself it may be pronounced <i id="mwAgs">hito</i>. The kanji 大 means "big" (imagine a person with outstretched arms) and can be pronounced as <i id="mwAgw">dai</i> or <i id="mwAg0">ō</i>. Together they form the word 大人 "adult" (lit. <i id="mwAg4">big person</i>), which is pronounced <i id="mwAg8">otona</i> <span typeof="mw:Entity" id="mwAhA">—</span> a pronunciation that has no relation to <i id="mwAhE">dai</i>, <i id="mwAhI">ō</i>, or <i id="mwAhM">hito</i>. In the word <span lang="ja" about="#mwt54" typeof="mw:Transclusion" id="mwAhQ" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"外国人"}},"i":0}}]}'>外国人</span> <i id="mwAhU">gaikokujin</i> ("foreigner", lit. <i id="mwAhY">outside country person</i>) the same kanji 人 is pronounced <i id="mwAhc">jin</i>. These pronunciations exist because a single kanji may be used to write one or more different words, or parts of words. These "readings" are normally categorized as either Sino-Japanese (<span lang="ja" about="#mwt55" typeof="mw:Transclusion" id="mwAhg" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"音読み"}},"i":0}}]}'>音読み</span> <i id="mwAhk">on'yomi</i>, a Japanese approximation of the Chinese pronunciation of the character at the time it was introduced to Japanese) or native Japanese (<span lang="ja" about="#mwt56" typeof="mw:Transclusion" id="mwAho" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"訓読み"}},"i":0}}]}'>訓読み</span> <i id="mwAhs">kun'yomi</i>, based on the pronunciation of a native Japanese word). Generally, kanji are read with their native Japanese reading when on their own (eg. <span lang="ja" about="#mwt57" typeof="mw:Transclusion" id="mwAhw" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"話"}},"i":0}}]}'>話</span>, <i id="mwAh0"><u id="mwAh4">hanashi</u></i>) and with Sino-Japanese readings when part of compound words (eg. <span lang="ja" about="#mwt58" typeof="mw:Transclusion" id="mwAh8" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"電話"}},"i":0}}]}'>電話</span>, <i id="mwAiA">den<u id="mwAiE">wa</u></i>), though there are many exceptions.</p>
+
+<p id="mwAiI">While knowing <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Chinese_phrasebook" title="Chinese phrasebook" id="mwAiM">Chinese</a> will give one a huge advantage in tackling kanji, and someone who knows Chinese would generally be able to guess the meanings of new kanji with about 70% accuracy, one should still be careful. While most characters have similar meanings in both Japanese and Chinese, there are a few which have drastically different meanings. For example, the word <span lang="hani" about="#mwt59" typeof="mw:Transclusion" id="mwAiQ" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"hani"},"2":{"wt":"手紙"}},"i":0}}]}'>手紙</span>, literally "hand paper", means "toilet paper" (<i id="mwAiU">shǒuzhǐ</i>) in China, but "letter" (<i id="mwAiY">tegami</i>) in Japan; <span lang="ja" about="#mwt60" typeof="mw:Transclusion" id="mwAic" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"仕草"}},"i":0}}]}'>仕草</span> (<i id="mwAig">shigusa</i>) 'behaviour' is only in Japanese. A list of these terms with different meanings can be referred in this <a rel="mw:WikiLink/Interwiki" href="https://en.wiktionary.org/wiki/Appendix:False%20friends%20between%20Chinese%20and%20Japanese" title="wikt:Appendix:False friends between Chinese and Japanese" class="extiw" id="mwAik">Wiktionary page</a>.</p>
+
+<p id="mwAio">In addition, many kanji used in Japanese have since become less used in Chinese (e.g. <span lang="ja" about="#mwt61" typeof="mw:Transclusion" id="mwAis" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"ja"},"2":{"wt":"犬"}},"i":0}}]}'>犬</span> <i id="mwAiw">inu</i>, meaning "dog"), meaning that while a native speaker of Chinese would likely recognize them, foreign language learners of Chinese may not be familiar with these characters as they are rarely used outside of idioms, proverbs and compound words. Moreover, the difference between Chinese and Japanese syntax means that different combinations of kanji can also result in drastically different meanings with amusing results. For instance, the kanji for the Japanese surname <i id="mwAi0">Inukai</i> (犬飼), which means "someone who raises dogs" in Japanese, will be interpreted as "to be raised by a dog" by a Chinese speaker.</p>
+
+<p id="mwAi4">Kanji are mixed with hiragana and katakana in everyday writing for historical reasons. Japan initially adopted Classical Chinese as its literary language, but later used Chinese characters as alphabets to suit Japanese grammar and syntax. Cursive forms of these characters were then simplified into hiragana by women in the imperial court, and their printed form into katakana by Buddhist monks.</p>
+
+<p id="mwAi8">Until 1946, Japanese used <i id="mwAjA">Kyujitai</i> 'old script' is highly same to traditional Chinese (if you are not professional, you can say it is the same); but after it, Japanese uses <i id="mwAjE">Shinjitai</i> 'new script', which became more different from simplified Chinese. </p>
+
+<p id="mwAjI">Shin.: 実</p>
+
+<p id="mwAjM">Kyu. and trad. Chinese: 實</p>
+
+<p id="mwAjQ">Simp. Chinese: 实</p>
+
+<p id="mwAjU">Meaning: "real"</p>
+
+<p id="mwAjY">There are also several competing systems for rendering Japanese in the Latin alphabet, although the <b id="mwAjc"><a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/Hepburn_romanization" title="w:Hepburn romanization" class="extiw" id="mwAjg">Hepburn romanization</a></b> system is the most common and is used on Wikivoyage as well.  Do not be surprised if you see these words romanized differently elsewhere.</p>
+
+<p id="mwAjk">Also note that there are many <b id="mwAjo">homophones</b> in Japanese, i.e. words with different meanings that have the same pronunciation (like "there", "they're" and "their"). A common trope in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Anime_and_manga_in_Japan" title="Anime and manga in Japan" id="mwAjs">manga</a>, this can be confusing even to native speakers, to the extent that words have to be explained with an alternative reading or need to be drawn. These words may also employ a pitch-accent system to distinguish them, which speakers of non-tonal languages may have difficulty learning to understand.</p>
+<table cellpadding="8" border="0" cellspacing="0" style="color: black; background-color: #EEE;" id="mwAjw">
+<tbody id="mwAj0"><tr id="mwAj4">
+<td style="vertical-align: top; color: black; background-color: #CCC;" id="mwAj8"><i id="mwAkA"><b id="mwAkE">hashi</b></i></td>
+<td id="mwAkI">橋 "bridge"</td>
+<td id="mwAkM">端 "edge"</td>
+<td id="mwAkQ">箸 "chopsticks"</td></tr>
+<tr id="mwAkU">
+<td style="vertical-align: top; color: black; background-color: #CCC;" id="mwAkY"><i id="mwAkc"><b id="mwAkg">noboru</b></i></td>
+<td id="mwAkk">登る "to climb"</td>
+<td id="mwAko">昇る "to ascend"</td>
+<td id="mwAks">上る "to go up"</td></tr>
+</tbody></table>
+<p id="mwAkw">For punctuation, it is very diverse between Japanese and Western-style. </p>
+<table class="wikitable" id="mwAk0">
+<caption id="mwAk4"></caption>
+<tbody id="mwAk8"><tr id="mwAlA"><th id="mwAlE">Western (English)</th>
+<th id="mwAlI">Japanese</th>
+<th id="mwAlM">Note</th></tr>
+<tr id="mwAlQ">
+<td id="mwAlU">.</td>
+<td id="mwAlY">。</td>
+<td id="mwAlc"></td></tr>
+<tr id="mwAlg">
+<td id="mwAlk">,</td>
+<td id="mwAlo">、</td>
+<td id="mwAls"></td></tr>
+<tr id="mwAlw">
+<td id="mwAl0">!</td>
+<td id="mwAl4">！</td>
+<td rowspan="2" id="mwAl8">No formal use in Japanese</td></tr>
+<tr id="mwAmA">
+<td id="mwAmE">?</td>
+<td id="mwAmI">？</td></tr>
+<tr id="mwAmM">
+<td id="mwAmQ"><code id="mwAmU">" "</code> or <code id="mwAmY">' '</code></td>
+<td id="mwAmc">「　」or <code id="mwAmg">『　』〝　〟</code></td>
+<td id="mwAmk"></td></tr>
+</tbody></table>
+
+<section data-mw-section-id="11" id="mwAmo" aria-labelledby="Katakana"><div class="mw-heading mw-heading3"><h3 id="Katakana">Katakana</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=11" title="Edit section: Katakana"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb" id="mwAms"><a href="https://en.wikivoyage.org/wiki/File:Kana_&amp;_Romaji_Chart.svg" class="mw-file-description" id="mwAmw"><img resource="https://en.wikivoyage.org/wiki/File:Kana_&amp;_Romaji_Chart.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kana_%26_Romaji_Chart.svg/500px-Kana_%26_Romaji_Chart.svg.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kana_%26_Romaji_Chart.svg/960px-Kana_%26_Romaji_Chart.svg.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="830" data-file-height="537" data-file-type="drawing" height="259" width="400" class="mw-file-element" id="mwAm0"/></a><figcaption id="mwAm4"><i id="mwAm8">Kana</i> chart</figcaption></figure>
+<p id="mwAnA">Katakana are used to write foreign and loanwords (except for those from Chinese, which are written in kanji) and are hence a good choice for travellers to learn. The katakana set of characters encompasses exactly the same sounds as hiragana; they only look different. The table on the left only reproduces the basic character set and diacritics (カ → ガ). Combinations (キャ) apply just as for hiragana. One additional sound though is ヴ <i id="mwAnE">vu</i> and combinations like ヴェ <i id="mwAnI">ve</i> based on it, accommodating additional foreign sounds.  Every once in a while you may spot additional ingenious combinations or use of diacritics.</p>
+
+<p id="mwAnM">Since Japanese doesn't very well accommodate rapid successions of consonants, the katakana transcription can often only approximate the actual pronunciation of a foreign word. While some words like café (カフェ <i id="mwAnQ">kafe</i>) can be represented quite gracefully, other words like beer (ビール <i id="mwAnU">bīru</i>) or rent-a-car (レンタカー <i id="mwAnY">rentakā</i>) seem slightly strange to the native English speaker. Nonetheless, many English expressions and concepts are used in everyday life, as are a number of German, French, Dutch, Portuguese and Russian loanwords. In many cases, the original words are often abbreviated when used in Japanese, such as <b id="mwAnc">super</b>market (スーパー <i id="mwAng">sūpā</i>), <b id="mwAnk">depart</b>ment store (デパート <i id="mwAno">depāto</i>), <b id="mwAns">remo</b>te <b id="mwAnw">con</b>trol (リモコン <i id="mwAn0">rimokon</i>) or <b id="mwAn4">televi</b>sion (テレビ <i id="mwAn8">terebi</i>). Oftentimes the exact meaning of a word has changed in Japanese (German: <i id="mwAoA">Arbeit</i> → アルバイト <i id="mwAoE">arubaito</i> is used only for part-time work, and Russian: икра <i id="mwAoI">ikra</i> → イクラ <i id="mwAoM">ikura</i> is used only for salmon roe) or a completely new meaning was invented (ワンマンカー <i id="mwAoQ">wanmankā</i> → "one-man car", trains and buses without an inspector, only <i id="mwAoU">one</i> driver), but you can usually at least guess at the meaning.</p>
+
+<p id="mwAoY">Due to post World War II American influences, by far the largest number of non-Chinese loan words in the Japanese language come from American English, but there are also loanwords from other languages: パン from <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Portuguese_phrasebook" title="Portuguese phrasebook" id="mwAoc">Portuguese</a> <i id="mwAog">pão</i> 'bread'; <b id="mwAok">サボ</b>る 'to sabotage' from <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/French_phrasebook" title="French phrasebook" id="mwAoo">French</a> <i id="mwAos">sabotage</i> 'sabotage'.</p>
+
+<p id="mwAow">To identify a katakana word, it's usually helpful to repeat it out loud a few times and to leave out superfluous vowels, especially the 'u' in ス <i id="mwAo0">su</i> and 'o' in ト <i id="mwAo4">to</i>. That way ライス <i id="mwAo8">raisu</i> quickly becomes "rice" and チケット <i id="mwApA">chiketto</i> becomes "ticket". Don't try too hard though, as sometimes original Japanese words are written in katakana as well, similar to the use of uppercase or italic letters in English. In addition, some words were not derived from English but from other languages such as German, French or Dutch.</p>
+
+<p id="mwApE">Just like Japanese words from Chinese, beware of false friends written in katakana. For instance ヘルス <i id="mwApI">herusu</i>, from English "health", is actually a euphemism for prostitution that does not involve actual coitus. If you want to refer to health in the literal sense, the correct term would be 健康 <i id="mwApM">kenkō</i>.</p>
+
+</section></section><section data-mw-section-id="12" id="mwApQ" aria-labelledby="Phrase_list"><div class="mw-heading mw-heading2"><h2 id="Phrase_list">Phrase list</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=12" title="Edit section: Phrase list"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<span class="mw-empty-elt" about="#mwt62" typeof="mw:Transclusion" id="mwApU" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infobox&quot;,&quot;href&quot;:&quot;./Template:Infobox&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Common signs&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;\n; 営業中 (''eigyōchū'') : Open\n; 準備中 (''junbichū'') : Closed\n; 入口 (''iriguchi'') : Entrance\n; 出口 (''deguchi'') : Exit\n; 大・中・小 (''dai / chū / shō'') : Large / Medium / Small\n; 押す (''osu'') : Push\n; 引く (''hiku'') : Pull\n; お手洗い (''o-tearai''), トイレ (''toire''), 化粧室 (''keshō-shitsu'') : Toilet\n; 男 (''otoko''), 殿方 (''tonogata''): Men\n; 女 (''onna''), 婦人 (''fujin'') : Women\n; 禁止 (''kinshi'') : Forbidden\n; 円 (''en'') : Yen&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt63" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt62">
+<tbody><tr><td>
+<div style="font-weight:bold;">Common signs</div>
+<p>
+<br/></p>
+<dl><dt>営業中 (<i>eigyōchū</i>)</dt><dd>Open</dd>
+<dt>準備中 (<i>junbichū</i>)</dt><dd>Closed</dd>
+<dt>入口 (<i>iriguchi</i>)</dt><dd>Entrance</dd>
+<dt>出口 (<i>deguchi</i>)</dt><dd>Exit</dd>
+<dt>大・中・小 (<i>dai / chū / shō</i>)</dt><dd>Large / Medium / Small</dd>
+<dt>押す (<i>osu</i>)</dt><dd>Push</dd>
+<dt>引く (<i>hiku</i>)</dt><dd>Pull</dd>
+<dt>お手洗い (<i>o-tearai</i>), トイレ (<i>toire</i>), 化粧室 (<i>keshō-shitsu</i>)</dt><dd>Toilet</dd>
+<dt>男 (<i>otoko</i>), 殿方 (<i>tonogata</i>)</dt><dd>Men</dd>
+<dt>女 (<i>onna</i>), 婦人 (<i>fujin</i>)</dt><dd>Women</dd>
+<dt>禁止 (<i>kinshi</i>)</dt><dd>Forbidden</dd>
+<dt>円 (<i>en</i>)</dt><dd>Yen</dd></dl></td></tr>
+</tbody></table>
+
+<section data-mw-section-id="13" id="mwApY" aria-labelledby="Basics"><div class="mw-heading mw-heading3"><h3 id="Basics">Basics</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=13" title="Edit section: Basics"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwApc"><dt id="mwApg">Good afternoon.</dt><dd id="mwApk">こんにちは。 <i id="mwApo">Konnichiwa.</i> (<i id="mwAps">kon-nee-chee-wah</i>)</dd>
+<dt id="mwApw">How are you?</dt><dd id="mwAp0">お元気ですか？ <i id="mwAp4">O-genki desu ka?</i> (<i id="mwAp8">Oh-GEN-kee dess-ka?</i>)</dd>
+<dt id="mwAqA">Fine, thank you.</dt><dd id="mwAqE">はい、元気です。 <i id="mwAqI">Hai, genki desu.</i> (<i id="mwAqM">Ha-ee, gen-kee dess</i>)</dd>
+<dt id="mwAqQ">How about you?</dt><dd id="mwAqU">~さんは？ <i id="mwAqY">-san wa?</i> (<i id="mwAqc">-san wa</i>) (insert the person's last name before "san")</dd>
+<dt id="mwAqg">What's your name? (lit. "Your name is...")</dt><dd id="mwAqk">お名前は？ <i id="mwAqo">O-namae wa?</i> (<i id="mwAqs">Oh-nah-mah-eh wah?</i>)</dd>
+<dd id="mwAqw">お名前は何とおっしゃいますか。　<i id="mwAq0">O-namae wa nan to osshaimasu ka?</i> (polite)</dd>
+<dt id="mwAq4">My name is ... .</dt><dd id="mwAq8">... です。 <i id="mwArA">... desu.</i> (<i id="mwArE">... dess.</i>)</dd>
+<dd id="mwArI">... といいます。 <i id="mwArM"> to iimasu.</i></dd>
+<dd id="mwArQ">... と申します。 <i id="mwArU">... to mōshimasu.</i> (polite)</dd>
+<dt id="mwArY">Nice to meet you. (formal)</dt><dd id="mwArc">始めまして。どうぞ宜しくお願いします。 <i id="mwArg">Hajimemashite. Dōzo yoroshiku onegaishimasu.</i> (<i id="mwArk">Hah-jee-meh-mash-teh dohh-zoh yoh-roh-sh-ku oh-neh-gah-ee shee-mah-ss</i>)</dd>
+<dt id="mwAro">Please. (request)</dt><dd id="mwArs">お願いします。 <i id="mwArw">Onegai shimasu.</i> (<i id="mwAr0">oh-neh-gah-ee shee-mahs</i>)</dd>
+<dt id="mwAr4">Please. (offer)</dt><dd id="mwAr8">どうぞ。 <i id="mwAsA">Dōzo.</i> (<i id="mwAsE">Dohh-zoh</i>)</dd>
+<dt id="mwAsI">This person is ... . (when introducing somebody)</dt><dd id="mwAsM">こちらは ... <i id="mwAsQ">Kochira wa ...</i> (<i id="mwAsU">ko-chi-rah wah...</i>)</dd>
+<dt id="mwAsY">Thank you very much. (formal)</dt><dd id="mwAsc">どうもありがとうございました。 <i id="mwAsg">Dōmo arigatō gozaimashita.</i> (<i id="mwAsk">doh-moh ah-ree-GAH-toh go-ZAh-ee-mah-shi-tah</i>)</dd>
+<dt id="mwAso">Thank you. (less formal)</dt><dd id="mwAss">ありがとうございます。 <i id="mwAsw">Arigatō gozaimasu.</i> (<i id="mwAs0">ah-ree-GAH-toh go-ZAh-ee-mahs</i>)</dd>
+<dt id="mwAs4">Thank you. (normal)</dt><dd id="mwAs8">ありがとう。 <i id="mwAtA">Arigatō.</i> (<i id="mwAtE">ah-ree-GAH-toh</i>)</dd>
+<dt id="mwAtI">Thanks. (informal)</dt><dd id="mwAtM">どうも。 <i id="mwAtQ">Dōmo.</i> (<i id="mwAtU">doh-moh</i>)</dd>
+<dt id="mwAtY">Thanks. (informal, Kansai)</dt><dd id="mwAtc">おおきに。 <i id="mwAtg">Ōkini</i> (<i id="mwAtk">ohh-KEE-nee</i>)</dd>
+<dt id="mwAto">You're welcome.</dt><dd id="mwAts">どういたしまして。 <i id="mwAtw">Dō itashimashite.</i> (<i id="mwAt0">doh EE-tah-shee mah-shteh</i>)</dd>
+<dt id="mwAt4">yes</dt><dd id="mwAt8">はい。 <i id="mwAuA">hai</i> (<i id="mwAuE">High</i>)</dd>
+<dt id="mwAuI">no</dt><dd id="mwAuM">いいえ。 <i id="mwAuQ">iie</i> (<i id="mwAuU">EE-eh</i>)</dd>
+<dt id="mwAuY">Excuse me.</dt><dd id="mwAuc">すみません。 <i id="mwAug">Sumimasen.</i> (<i id="mwAuk">soo-mee-mah-sen</i>)</dd>
+<dt id="mwAuo">I'm sorry.</dt><dd id="mwAus">ごめんなさい。 <i id="mwAuw">Gomen nasai.</i> (<i id="mwAu0">goh-men-nah-sah-ee</i>)</dd>
+<dt id="mwAu4">I'm sorry. (informal)</dt><dd id="mwAu8">ごめん <i id="mwAvA">Gomen.</i> (<i id="mwAvE">goh-men</i>)</dd>
+<dt id="mwAvI">Goodbye. (long-term)</dt><dd id="mwAvM">さようなら。 <i id="mwAvQ">Sayōnara.</i> (<i id="mwAvU">sa-YOHH-nah-rah</i>)</dd>
+<dt id="mwAvY">Goodbye. (informal)</dt><dd id="mwAvc">じゃね。 <i id="mwAvg">Ja ne.</i> (<i id="mwAvk">Jah-neh</i>)</dd>
+<dt id="mwAvo">I can't speak Japanese (very well).</dt><dd id="mwAvs">日本語が（よく）話せません。 <i id="mwAvw">Nihongo ga (yoku) hanasemasen.</i> (<i id="mwAv0">nee-hohn-goh gah (yo-koo) hah-nah-seh-mah-sen</i>)</dd>
+<dt id="mwAv4">Do you speak Japanese?</dt><dd id="mwAv8">日本語が話せますか？ <i id="mwAwA">Nihongo ga hanasemasu ka?</i> (<i id="mwAwE">ni-HON-go gah hah-nah-se-mahs-KAH?</i>)</dd>
+<dt id="mwAwI">Yes, a little.</dt><dd id="mwAwM">はい、少し。 <i id="mwAwQ">Hai, sukoshi.</i> (<i id="mwAwU">HIGH sko-shee</i>)</dd>
+<dt id="mwAwY">Do you speak English?</dt><dd id="mwAwc">英語が話せますか？ <i id="mwAwg">Eigo ga hanasemasu ka?</i> (<i id="mwAwk">EHH-goh gah hah-nah-seh-mahs-KAH?</i>)</dd>
+<dt id="mwAwo">Is there someone here who speaks English?</dt><dd id="mwAws">誰か英語が話せますか？ <i id="mwAww">Dareka eigo ga hanasemasu ka?</i> (<i id="mwAw0">dah-reh-kah EHH-goh gah hah-nah-seh-moss-KAH?</i>)</dd>
+<dt id="mwAw4">Please speak slowly.</dt><dd id="mwAw8">ゆっくり話してください。 <i id="mwAxA">Yukkuri hanashite kudasai.</i> (<i id="mwAxE">YOO-kuree hanash-teh koo-dah-sah-ee</i>)</dd>
+<dt id="mwAxI">Please say it again.</dt><dd id="mwAxM">もう一度言ってください。 <i id="mwAxQ">Mō ichido itte kudasai.</i> (<i id="mwAxU">mo EE-chee-doh ee-te koo-dah-sah-ee</i>)</dd>
+<dt id="mwAxY">Please help!</dt><dd id="mwAxc">助けて！ <i id="mwAxg">Tasukete!</i> (<i id="mwAxk">tahs-keh-teh!</i>)</dd>
+<dt id="mwAxo">Look out!</dt><dd id="mwAxs">危ない！ <i id="mwAxw">Abunai!</i> (<i id="mwAx0">ah-boo-NIGH!</i>)</dd>
+<dt id="mwAx4">Good morning.</dt><dd id="mwAx8">お早うございます。 <i id="mwAyA">Ohayō gozaimasu.</i> (<i id="mwAyE">oh-hah-YOH go-zah-ee-mahs</i>)</dd>
+<dt id="mwAyI">Good morning. (informal)</dt><dd id="mwAyM">おはよう。 <i id="mwAyQ">Ohayō.</i></dd>
+<dt id="mwAyU">Good evening.</dt><dd id="mwAyY">こんばんは。 <i id="mwAyc">Kombanwa.</i> (<i id="mwAyg">kohn-bahn-wah</i>)</dd>
+<dt id="mwAyk">Good night (to sleep)</dt><dd id="mwAyo">お休みなさい。 <i id="mwAys">Oyasuminasai.</i> (<i id="mwAyw">oh-yah-soo-mee-nah-sigh</i>)</dd>
+<dt id="mwAy0">Good night (to sleep) (informal)</dt><dd id="mwAy4">お休み。 <i id="mwAy8">Oyasumi.</i></dd>
+<dt id="mwAzA">I don't understand.</dt><dd id="mwAzE">分かりません。 <i id="mwAzI">Wakarimasen.</i> (<i id="mwAzM">wah-kah-ree-mah-sen</i>)</dd>
+<dt id="mwAzQ">I am not Japanese.</dt><dd id="mwAzU">日本人ではありません。 <i id="mwAzY">Nihonjin dewa arimasen.</i> (<i id="mwAzc">nee-hon-jin deh-wah a-ree-ma-sehn</i>)</dd>
+<dt id="mwAzg">Where is the toilet?</dt><dd id="mwAzk">お手洗い・トイレはどこですか？ <i id="mwAzo">Otearai/toire wa doko desu ka?</i> (<i id="mwAzs">Oh-teh-ah-rah-ee/toh-ee-reh wah DOH-koh dess kah?</i>)</dd>
+<dt id="mwAzw">What?</dt><dd id="mwAz0">何？<i id="mwAz4">Nani?</i> (<i id="mwAz8">nah-nee</i>)</dd>
+<dt id="mwA0A">Where?</dt><dd id="mwA0E">どこ？ <i id="mwA0I">Doko?</i> (<i id="mwA0M">doh-koh</i>)</dd>
+<dt id="mwA0Q">Who?</dt><dd id="mwA0U">誰？ <i id="mwA0Y">Dare?</i> (<i id="mwA0c">dah-reh</i>)</dd>
+<dt id="mwA0g">When?</dt><dd id="mwA0k">いつ？ <i id="mwA0o">Itsu?</i> (<i id="mwA0s">it-soo</i>)</dd>
+<dt id="mwA0w">Which?</dt><dd id="mwA00">どれ？ <i id="mwA04">Dore?</i> (<i id="mwA08">doh-reh</i>)</dd>
+<dt id="mwA1A">Why?</dt><dd id="mwA1E">どうして <i id="mwA1I">Dōshite</i> (<i id="mwA1M">doh-sh'teh</i>)</dd>
+<dt id="mwA1Q">How?</dt><dd id="mwA1U">どうやって？ <i id="mwA1Y">Dōyatte</i> (<i id="mwA1c">dohh-yah-teh</i>)</dd>
+<dt id="mwA1g">How much?</dt><dd id="mwA1k">いくら？ <i id="mwA1o">Ikura?</i> (<i id="mwA1s">ee-koo-rah</i>)</dd>
+<dt id="mwA1w">What type of?</dt><dd id="mwA10">どんな？ <i id="mwA14">Donna?</i> (<i id="mwA18">dohn-nah</i>)</dd></dl>
+
+</section><section data-mw-section-id="14" id="mwA2A" aria-labelledby="Problems"><div class="mw-heading mw-heading3"><h3 id="Problems">Problems</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=14" title="Edit section: Problems"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<span class="mw-empty-elt" about="#mwt64" typeof="mw:Transclusion" id="mwA2E" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infobox&quot;,&quot;href&quot;:&quot;./Template:Infobox&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;What part of \&quot;no\&quot; don't you understand?&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;The Japanese are famously reluctant to say the word \&quot;no\&quot;, and in fact the language's closest equivalent, いいえ ''iie'', is largely limited to denying compliments you have received. (\&quot;Your Japanese is excellent! \&quot;''Iie'', it is very bad!\&quot;).  But there are numerous other ways of expressing \&quot;no\&quot;, so here are a few to watch out for.\n\n; いいです。&lt;br/>''Ii desu.''&lt;br/>結構です。&lt;br/>''Kekkō desu.''\n: \&quot;It's good,\&quot; or \&quot;It's excellent.\&quot;  Used when you don't want more beer, don't want your ''bentō'' lunch microwaved, and are generally happy to keep things as they are.  Accompany with teeth-sucking and handwaving to be sure to get your point across - both of these expressions may be interpreted as ''positive'' responses if you don't include enough nonverbal indications to the contrary.\n; ちょっと難しいです･･･&lt;br/>''Chotto muzukashii desu...''\n: Literally \&quot;it's a little difficult\&quot;, but in practice \&quot;it's completely impossible.\&quot;  Often just abbreviated to sucking in air through teeth, saying \&quot;chotto\&quot; and looking pained.  Take the hint.\n; 申し訳ないですが･･･&lt;br/>''Mōshiwakenai desu ga...''\n: \&quot;This is inexcusable but...\&quot; But no. Used by sales clerks and such to tell you that you cannot do or have something.\n; ダメです。&lt;br/>''Dame desu.''\n: \&quot;It's no good.\&quot; Used by equals and superiors to tell you that you cannot do or have something.  The [[Kansai]] equivalent is ''akan''.\n; 違います。&lt;br/>''Chigaimasu.''\n: \&quot;It is different.\&quot;  What they really mean is \&quot;you're wrong\&quot;.  The casual form ''chigau'' and the [[Kansai]] contraction ''chau'' are also much used.\n&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt65" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt64">
+<tbody><tr><td>
+<div style="font-weight:bold;">What part of "no" don't you understand?</div>
+
+<p>The Japanese are famously reluctant to say the word "no", and in fact the language's closest equivalent, いいえ <i>iie</i>, is largely limited to denying compliments you have received. ("Your Japanese is excellent! "<i>Iie</i>, it is very bad!").  But there are numerous other ways of expressing "no", so here are a few to watch out for.</p>
+
+<dl><dt>いいです。<br/><i>Ii desu.</i><br/>結構です。<br/><i>Kekkō desu.</i></dt>
+<dd>"It's good," or "It's excellent."  Used when you don't want more beer, don't want your <i>bentō</i> lunch microwaved, and are generally happy to keep things as they are.  Accompany with teeth-sucking and handwaving to be sure to get your point across - both of these expressions may be interpreted as <i>positive</i> responses if you don't include enough nonverbal indications to the contrary.</dd>
+<dt>ちょっと難しいです･･･<br/><i>Chotto muzukashii desu...</i></dt>
+<dd>Literally "it's a little difficult", but in practice "it's completely impossible."  Often just abbreviated to sucking in air through teeth, saying "chotto" and looking pained.  Take the hint.</dd>
+<dt>申し訳ないですが･･･<br/><i>Mōshiwakenai desu ga...</i></dt>
+<dd>"This is inexcusable but..." But no. Used by sales clerks and such to tell you that you cannot do or have something.</dd>
+<dt>ダメです。<br/><i>Dame desu.</i></dt>
+<dd>"It's no good." Used by equals and superiors to tell you that you cannot do or have something.  The <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Kansai" title="Kansai">Kansai</a> equivalent is <i>akan</i>.</dd>
+<dt>違います。<br/><i>Chigaimasu.</i></dt>
+<dd>"It is different."  What they really mean is "you're wrong".  The casual form <i>chigau</i> and the <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Kansai" title="Kansai">Kansai</a> contraction <i>chau</i> are also much used.</dd></dl></td></tr>
+
+</tbody></table>
+
+<dl id="mwA2I"><dt id="mwA2M">Leave me alone.</dt><dd id="mwA2Q">ほっといてくれ。 <i id="mwA2U">Hottoitekure.</i></dd>
+<dt id="mwA2Y">Don't touch me!</dt><dd id="mwA2c">さわらないで！ <i id="mwA2g">Sawaranaide!</i></dd>
+<dt id="mwA2k">I'll call the police.</dt><dd id="mwA2o">警察をよぶよ！ <i id="mwA2s">Keisatsu o yobu yo!</i></dd>
+<dt id="mwA2w">Police!</dt><dd id="mwA20">警察！ <i id="mwA24">Keisatsu!</i></dd>
+<dt id="mwA28">Stop! Thief!</dt><dd id="mwA3A">動くな！泥棒！ <i id="mwA3E">Ugokuna! Dorobō!</i></dd>
+<dt id="mwA3I">I need your help.</dt><dd id="mwA3M">手伝ってください。 <i id="mwA3Q">Tetsudatte kudasai.</i></dd>
+<dt id="mwA3U">It's an emergency.</dt><dd id="mwA3Y">緊急です。 <i id="mwA3c">Kinkyū desu.</i></dd>
+<dt id="mwA3g">I'm lost.</dt><dd id="mwA3k">道に迷っています。 <i id="mwA3o">Michi ni mayotte imasu.</i></dd>
+<dt id="mwA3s">I lost my bag.</dt><dd id="mwA3w">鞄をなくしました。 <i id="mwA30">Kaban o nakushimashita.</i></dd>
+<dt id="mwA34">I dropped my wallet.</dt><dd id="mwA38">財布をおとしました。 <i id="mwA4A">Saifu o otoshimashita.</i></dd>
+<dt id="mwA4E">I'm sick.</dt><dd id="mwA4I">病気です。 <i id="mwA4M">Byōki desu.</i></dd>
+<dt id="mwA4Q">I don't feel well.</dt><dd id="mwA4U">具合がわるいです。 <i id="mwA4Y">Guai ga warui desu.</i></dd>
+<dt id="mwA4c">I've been injured.</dt><dd id="mwA4g">怪我をしました。 <i id="mwA4k">Kega o shimashita.</i></dd>
+<dt id="mwA4o">Please call a doctor.</dt><dd id="mwA4s">医者を呼んでください。 <i id="mwA4w">Isha o yonde kudasai.</i></dd>
+<dt id="mwA40">Can I use your phone?</dt><dd id="mwA44">電話を使わせていただけますか？ <i id="mwA48">Denwa o tsukawasete itadakemasu ka?</i></dd></dl>
+
+<section data-mw-section-id="15" id="mwA5A" aria-labelledby="Medical_emergencies"><div class="mw-heading mw-heading4"><h4 id="Medical_emergencies">Medical emergencies</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=15" title="Edit section: Medical emergencies"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwA5E"><dt id="mwA5I">I need a doctor.</dt><dd id="mwA5M">医者に見てもらいたいです。 <i id="mwA5Q">Isha ni mite moraitai desu.</i></dd>
+<dt id="mwA5U">Is there a doctor who can speak English?</dt><dd id="mwA5Y">英語の出来る医者はいますか？ <i id="mwA5c">Eigo no dekiru isha wa imasu ka?</i></dd>
+<dt id="mwA5g">Please take me to a doctor.</dt><dd id="mwA5k">医者に連れていって下さい。 <i id="mwA5o">Isha ni tsurete itte kudasai.</i></dd>
+<dt id="mwA5s">My wife/husband/child is sick.</dt><dd id="mwA5w">妻・旦那・子供が病気です。 <i id="mwA50">Tsuma/danna/kodomo ga byōki desu.</i></dd>
+<dt id="mwA54">Please call an ambulance.</dt><dd id="mwA58">救急車を呼んで下さい。 <i id="mwA6A">Kyūkyūsha o yonde kudasai.</i></dd>
+<dt id="mwA6E">I need first aid.</dt><dd id="mwA6I">応急手当をして下さい。 <i id="mwA6M">Ōkyū teate o shite kudasai.</i></dd>
+<dt id="mwA6Q">I need to go to the emergency room.</dt><dd id="mwA6U">救急室に行かなければなりません。 <i id="mwA6Y">Kyūkyūshitsu ni ikanakereba narimasen.</i><br id="mwA6c"/>shorter: 救急室に行かないと。 <i id="mwA6g">Kyūkyūshitsu ni ikanai to.</i></dd>
+<dt id="mwA6k">How long will it take to get better?</dt><dd id="mwA6o">治るのにどの位かかりますか？ <i id="mwA6s">Naoru no ni dono kurai kakarimasu ka?</i></dd>
+<dt id="mwA6w">Where is a pharmacy?</dt><dd id="mwA60">薬局はどこですか？ <i id="mwA64">Yakkyoku wa doko desu ka?</i></dd></dl>
+
+</section><section data-mw-section-id="16" id="mwA68" aria-labelledby="Allergies"><div class="mw-heading mw-heading4"><h4 id="Allergies">Allergies</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=16" title="Edit section: Allergies"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwA7A"><dt id="mwA7E">I'm allergic to ... .</dt><dd id="mwA7I">私は ... アレルギーです。 <i id="mwA7M">Watashi wa ... arerugii desu.</i></dd>
+<dt id="mwA7Q">antibiotics</dt><dd id="mwA7U">抗生物質 <i id="mwA7Y">kōsei busshitsu</i></dd>
+<dt id="mwA7c">aspirin</dt><dd id="mwA7g">アスピリン <i id="mwA7k">asupirin</i></dd>
+<dt id="mwA7o">codeine</dt><dd id="mwA7s">コデイン <i id="mwA7w">kodein</i></dd>
+<dt id="mwA70">dairy products</dt><dd id="mwA74">乳製品 <i id="mwA78">nyūseihin</i></dd>
+<dt id="mwA8A">food coloring</dt><dd id="mwA8E">人工着色料 <i id="mwA8I">jinkō chakushokuryō</i></dd>
+<dt id="mwA8M">fungus</dt><dd id="mwA8Q">菌類 <i id="mwA8U">kinrui</i></dd>
+<dt id="mwA8Y">MSG</dt><dd id="mwA8c">味の素 <i id="mwA8g">ajinomoto</i></dd>
+<dt id="mwA8k">mushrooms</dt><dd id="mwA8o">キノコ <i id="mwA8s">kinoko</i></dd>
+<dt id="mwA8w">peanuts</dt><dd id="mwA80">ピーナッツ <i id="mwA84">pīnattsu</i></dd>
+<dt id="mwA88">penicillin</dt><dd id="mwA9A">ペニシリン <i id="mwA9E">penishirin</i></dd>
+<dt id="mwA9I">pollen</dt><dd id="mwA9M">花粉 <i id="mwA9Q">kafun</i></dd>
+<dt id="mwA9U">seafood</dt><dd id="mwA9Y">魚介類 <i id="mwA9c">gyokairui</i></dd>
+<dt id="mwA9g">sesame</dt><dd id="mwA9k">ゴマ <i id="mwA9o">goma</i></dd>
+<dt id="mwA9s">shellfish</dt><dd id="mwA9w">貝類 <i id="mwA90">kairui</i></dd>
+<dt id="mwA94">tree nuts, fruits or berries</dt><dd id="mwA98">木の実 <i id="mwA-A">kinomi</i></dd>
+<dt id="mwA-E">wheat</dt><dd id="mwA-I">小麦 <i id="mwA-M">komugi</i></dd></dl>
+
+</section><section data-mw-section-id="17" id="mwA-Q" aria-labelledby="Explaining_symptoms"><div class="mw-heading mw-heading4"><h4 id="Explaining_symptoms">Explaining symptoms</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=17" title="Edit section: Explaining symptoms"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<span class="mw-empty-elt" about="#mwt66" typeof="mw:Transclusion" id="mwA-U" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infobox&quot;,&quot;href&quot;:&quot;./Template:Infobox&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Body parts&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;; head : 頭 ''atama''\n; face: 顔 ''kao''\n; eyes: 目 ''me''\n; ears: 耳 ''mimi''\n; nose: 鼻 ''hana''\n; throat: 喉 ''nodo''\n; chin: 顎 ''ago''\n; neck : 首 ''kubi''\n; shoulders: 肩 ''kata''\n; chest: 胸 ''mune''\n; waist: 腰 ''koshi''\n; arms: 腕 ''ude''\n; wrists: 手首 ''tekubi''\n; fingers: 指 ''yubi''\n; hands: 手 ''te''\n; elbow: 肘 ''hiji''\n; buttocks: (お)尻 ''(o)shiri''\n; thigh: 腿 ''momo''\n; knee: 膝 ''hiza''\n; legs, foot: 足 ''ashi''\n; ankle: 足首 ''ashikubi''\n; back: 背中 ''senaka''&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt67" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt66">
+<tbody><tr><td>
+<div style="font-weight:bold;">Body parts</div>
+
+<dl><dt>head</dt><dd>頭 <i>atama</i></dd>
+<dt>face</dt><dd>顔 <i>kao</i></dd>
+<dt>eyes</dt><dd>目 <i>me</i></dd>
+<dt>ears</dt><dd>耳 <i>mimi</i></dd>
+<dt>nose</dt><dd>鼻 <i>hana</i></dd>
+<dt>throat</dt><dd>喉 <i>nodo</i></dd>
+<dt>chin</dt><dd>顎 <i>ago</i></dd>
+<dt>neck</dt><dd>首 <i>kubi</i></dd>
+<dt>shoulders</dt><dd>肩 <i>kata</i></dd>
+<dt>chest</dt><dd>胸 <i>mune</i></dd>
+<dt>waist</dt><dd>腰 <i>koshi</i></dd>
+<dt>arms</dt><dd>腕 <i>ude</i></dd>
+<dt>wrists</dt><dd>手首 <i>tekubi</i></dd>
+<dt>fingers</dt><dd>指 <i>yubi</i></dd>
+<dt>hands</dt><dd>手 <i>te</i></dd>
+<dt>elbow</dt><dd>肘 <i>hiji</i></dd>
+<dt>buttocks</dt><dd>(お)尻 <i>(o)shiri</i></dd>
+<dt>thigh</dt><dd>腿 <i>momo</i></dd>
+<dt>knee</dt><dd>膝 <i>hiza</i></dd>
+<dt>legs, foot</dt><dd>足 <i>ashi</i></dd>
+<dt>ankle</dt><dd>足首 <i>ashikubi</i></dd>
+<dt>back</dt><dd>背中 <i>senaka</i></dd></dl></td></tr>
+</tbody></table>
+
+<dl id="mwA-Y"><dt id="mwA-c">... hurts.</dt><dd id="mwA-g">... が痛い。<i id="mwA-k">... ga itai.</i></dd>
+<dt id="mwA-o">Feeling unwell.</dt><dd id="mwA-s">気分が悪い。 <i id="mwA-w">Kibun ga warui.</i></dd>
+<dt id="mwA-0">Having a fever.</dt><dd id="mwA-4">熱があります。<i id="mwA-8">Netsu ga arimasu.</i></dd>
+<dt id="mwA_A">Coughing a lot.</dt><dd id="mwA_E">咳がでます。<i id="mwA_I">Seki ga demasu.</i></dd>
+<dt id="mwA_M">Feeling listless.</dt><dd id="mwA_Q">体がだるい。<i id="mwA_U">Karada ga darui.</i></dd>
+<dt id="mwA_Y">Feeling nauseated.</dt><dd id="mwA_c">吐き気がします。<i id="mwA_g">Hakike ga shimasu.</i></dd>
+<dt id="mwA_k">Feeling dizzy.</dt><dd id="mwA_o">めまいがします。 <i id="mwA_s">Memai ga shimasu.</i></dd>
+<dt id="mwA_w">Having the chills.</dt><dd id="mwA_0">寒気がします。<i id="mwA_4">Samuke ga shimasu.</i></dd>
+<dt id="mwA_8">Swallowed something.</dt><dd id="mwBAA">何かを呑んでしまいました。 <i id="mwBAE">Nanika o nonde shimaimashita.</i></dd>
+<dt id="mwBAI">Bleeding.</dt><dd id="mwBAM">出血です。 <i id="mwBAQ">Shukketsu desu.</i></dd>
+<dt id="mwBAU">Broken bone.</dt><dd id="mwBAY">骨折です。<i id="mwBAc">Kossetsu desu.</i></dd>
+<dt id="mwBAg">He/she is unconscious.</dt><dd id="mwBAk">意識不明です。<i id="mwBAo">Ishiki fumei desu.</i></dd>
+<dt id="mwBAs">Burned.</dt><dd id="mwBAw">火傷です。 <i id="mwBA0">Yakedo desu.</i></dd>
+<dt id="mwBA4">Trouble breathing.</dt><dd id="mwBA8">呼吸困難です。<i id="mwBBA">Kokyū konnan desu.</i></dd>
+<dt id="mwBBE">Heart attack.</dt><dd id="mwBBI">心臓発作です。<i id="mwBBM">Shinzō hossa desu.</i></dd>
+<dt id="mwBBQ">Vision worsened.</dt><dd id="mwBBU">視力が落ちました。<i id="mwBBY">Shiryoku ga ochimashita.</i></dd>
+<dt id="mwBBc">Cannot hear well.</dt><dd id="mwBBg">耳がよく聞こえません。<i id="mwBBk">Mimi ga yoku kikoemasen.</i></dd>
+<dt id="mwBBo">Nose bleeds a lot.</dt><dd id="mwBBs">鼻血がよくでます。<i id="mwBBw">Hanaji ga yoku demasu.</i></dd></dl>
+
+</section><section data-mw-section-id="18" id="mwBB0" aria-labelledby="Extreme_weather"><div class="mw-heading mw-heading4"><h4 id="Extreme_weather">Extreme weather</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=18" title="Edit section: Extreme weather"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwBB4">Japan has more than its fair share of natural disasters.</p>
+
+<dl id="mwBB8"><dt id="mwBCA">Blizzard</dt><dd id="mwBCE">吹雪 (<i id="mwBCI">fubuki</i>)</dd>
+<dt id="mwBCM">Earthquake</dt><dd id="mwBCQ">地震 (<i id="mwBCU">jishin</i>)</dd>
+<dt id="mwBCY">Flood</dt><dd id="mwBCc">洪水 (<i id="mwBCg">kōzui</i>)</dd>
+<dt id="mwBCk">Landslide</dt><dd id="mwBCo">地滑り (<i id="mwBCs">jisuberi</i>)</dd>
+<dt id="mwBCw">Tsunami</dt><dd id="mwBC0">津波 (<i id="mwBC4">tsunami</i>)</dd>
+<dt id="mwBC8">Typhoon</dt><dd id="mwBDA">台風 (<i id="mwBDE">taifū</i>)</dd>
+<dt id="mwBDI">Volcano eruption</dt><dd id="mwBDM">噴火 (<i id="mwBDQ">funka</i>)</dd></dl>
+
+</section></section><section data-mw-section-id="19" id="mwBDU" aria-labelledby="Numbers"><div class="mw-heading mw-heading3"><h3 id="Numbers">Numbers</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=19" title="Edit section: Numbers"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwBDY">While Arabic (Western) numerals are employed for most uses in Japan, you will occasionally still spot Japanese numerals at eg. markets and the menus of fancy restaurants.  The characters used are nearly identical to Chinese numerals, and like <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Chinese_phrasebook" title="Chinese phrasebook" id="mwBDc">Chinese</a>, Japanese uses groups of 4 digits, not 3. "One million" is thus 百万 (<i id="mwBDg">hyaku-man</i>), literally "hundred ten-thousands".</p>
+
+<p id="mwBDk">There are both native Japanese and Sino-Japanese readings for most numbers, but presented below are the more commonly used Sino-Japanese readings.  Note that, due to superstition (<i id="mwBDo">shi</i> also means "death"), the native Japanese readings <i id="mwBDs">yon</i> and <i id="mwBDw">nana</i> or 4 and 7 are used instead in most situations, though the Sino-Japanese readings <i id="mwBD0">shi</i> and <i id="mwBD4">shichi</i> respectively are more commonly used when counting.</p>
+
+<span class="mw-empty-elt" about="#mwt68" typeof="mw:Transclusion" id="mwBD8" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infobox&quot;,&quot;href&quot;:&quot;./Template:Infobox&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Down for the count&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;When counting objects, Japanese uses special '''counter''' words. For example, \&quot;two ''bottles of'' beer\&quot; is ビール２本 ''biiru nihon'', where ''ni'' is \&quot;two\&quot; and ''-hon'' means \&quot;bottles\&quot;. Unlike in English, where counter words are often optional or non-existent, in Japanese they're mandatory whenever you count something (e.g. 車２台 ''kuruma ni-dai'', two cars; 台 ''dai'' counts machines). Alas, the list of possible counters is vast, but some useful ones include:\n; small roundish objects (apples, sweets) : 個 ''-ko''\n; people : 人 ''-nin'', 名 ''-mei'' (polite), 名様 ''-meisama'' (humble polite; use for others, but not yourself)\n; small animals : 匹 ''-hiki, -biki, -piki''\n; large animals : 頭 ''-tō''\n; flat objects (papers, tickets) : 枚 ''-mai''\n; long objects (bottles, pens): 本 ''-hon, -bon, -pon''\n; cups, glasses: 杯 ''-hai, -bai, -pai''\n; nights of a stay : 泊 ''-haku, -paku''\n; years (age) : 歳 ''-sai''\nNote how many counters change form depending on the previous number: one, two, three glasses are ''ippai'', ''nihai'', ''sanbai'' respectively. There are also a few exceptions: one person and two people are ''hitori'' and ''futari''. 20 years old is usually pronounced ''hatachi''. You'll still be understood if you get these wrong though.\n\nFor numbers from one to nine, an old counting system is often used which applies to virtually any object you may want to count, without the need to attach a specific counter:\n; 1 : 一つ ''hitotsu''\n; 2 : 二つ ''futatsu''\n; 3 : 三つ ''mittsu''\n; 4 : 四つ ''yottsu''\n; 5 : 五つ ''itsutsu''\n; 6 : 六つ ''muttsu''\n; 7 : 七つ ''nanatsu''\n; 8 : 八つ ''yattsu''\n; 9 : 九つ ''kokonotsu''\n; 10 : 十 ''tou''\nIt is always a good idea to use a specific counter whenever possible, but using the generic numbers above is often equally acceptable. This system is rarely used anymore for numbers greater than nine.&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt69" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt68">
+<tbody><tr><td>
+<div style="font-weight:bold;">Down for the count</div>
+
+<p>When counting objects, Japanese uses special <b>counter</b> words. For example, "two <i>bottles of</i> beer" is ビール２本 <i>biiru nihon</i>, where <i>ni</i> is "two" and <i>-hon</i> means "bottles". Unlike in English, where counter words are often optional or non-existent, in Japanese they're mandatory whenever you count something (e.g. 車２台 <i>kuruma ni-dai</i>, two cars; 台 <i>dai</i> counts machines). Alas, the list of possible counters is vast, but some useful ones include:</p>
+<dl><dt>small roundish objects (apples, sweets)</dt><dd>個 <i>-ko</i></dd>
+<dt>people</dt><dd>人 <i>-nin</i>, 名 <i>-mei</i> (polite), 名様 <i>-meisama</i> (humble polite; use for others, but not yourself)</dd>
+<dt>small animals</dt><dd>匹 <i>-hiki, -biki, -piki</i></dd>
+<dt>large animals</dt><dd>頭 <i>-tō</i></dd>
+<dt>flat objects (papers, tickets)</dt><dd>枚 <i>-mai</i></dd>
+<dt>long objects (bottles, pens)</dt><dd>本 <i>-hon, -bon, -pon</i></dd>
+<dt>cups, glasses</dt><dd>杯 <i>-hai, -bai, -pai</i></dd>
+<dt>nights of a stay</dt><dd>泊 <i>-haku, -paku</i></dd>
+<dt>years (age)</dt><dd>歳 <i>-sai</i></dd></dl>
+<p>Note how many counters change form depending on the previous number: one, two, three glasses are <i>ippai</i>, <i>nihai</i>, <i>sanbai</i> respectively. There are also a few exceptions: one person and two people are <i>hitori</i> and <i>futari</i>. 20 years old is usually pronounced <i>hatachi</i>. You'll still be understood if you get these wrong though.</p>
+
+<p>For numbers from one to nine, an old counting system is often used which applies to virtually any object you may want to count, without the need to attach a specific counter:</p>
+<dl><dt>1</dt><dd>一つ <i>hitotsu</i></dd>
+<dt>2</dt><dd>二つ <i>futatsu</i></dd>
+<dt>3</dt><dd>三つ <i>mittsu</i></dd>
+<dt>4</dt><dd>四つ <i>yottsu</i></dd>
+<dt>5</dt><dd>五つ <i>itsutsu</i></dd>
+<dt>6</dt><dd>六つ <i>muttsu</i></dd>
+<dt>7</dt><dd>七つ <i>nanatsu</i></dd>
+<dt>8</dt><dd>八つ <i>yattsu</i></dd>
+<dt>9</dt><dd>九つ <i>kokonotsu</i></dd>
+<dt>10</dt><dd>十 <i>tou</i></dd></dl>
+<p>It is always a good idea to use a specific counter whenever possible, but using the generic numbers above is often equally acceptable. This system is rarely used anymore for numbers greater than nine.</p></td></tr>
+</tbody></table>
+
+<p id="mwBEA">Where they exist, the character(s) after the slash are used in financial contexts, such as when writing cheques and printing banknotes.</p>
+
+<dl id="mwBEE"><dt id="mwBEI">0</dt><dd id="mwBEM">ゼロ (<i id="mwBEQ">zero</i>) or 〇 (<i id="mwBEU">maru</i>) / 零 (<i id="mwBEY">rei</i>) in finance</dd>
+<dt id="mwBEc">1</dt><dd id="mwBEg">一 / 壱 (<i id="mwBEk">ichi</i>)</dd>
+<dt id="mwBEo">2</dt><dd id="mwBEs">二 / 弐 (<i id="mwBEw">ni</i>)</dd>
+<dt id="mwBE0">3</dt><dd id="mwBE4">三 / 参 (<i id="mwBE8">san</i>)</dd>
+<dt id="mwBFA">4</dt><dd id="mwBFE">四 (<i id="mwBFI">yon</i> or <i id="mwBFM">shi</i>)</dd>
+<dt id="mwBFQ">5</dt><dd id="mwBFU">五 (<i id="mwBFY">go</i>)</dd>
+<dt id="mwBFc">6</dt><dd id="mwBFg">六 (<i id="mwBFk">roku</i>)</dd>
+<dt id="mwBFo">7</dt><dd id="mwBFs">七 (<i id="mwBFw">nana</i> or <i id="mwBF0">shichi</i>)</dd>
+<dt id="mwBF4">8</dt><dd id="mwBF8">八 (<i id="mwBGA">hachi</i>)</dd>
+<dt id="mwBGE">9</dt><dd id="mwBGI">九 (<i id="mwBGM">kyū</i>)</dd>
+<dt id="mwBGQ">10</dt><dd id="mwBGU">十 / 拾 (<i id="mwBGY">jū</i>)</dd>
+<dt id="mwBGc">11</dt><dd id="mwBGg">十一 / 拾壱 (<i id="mwBGk">jū-ichi</i>)</dd>
+<dt id="mwBGo">12</dt><dd id="mwBGs">十二 / 拾弐 (<i id="mwBGw">jū-ni</i>)</dd>
+<dt id="mwBG0">13</dt><dd id="mwBG4">十三 / 拾参 (<i id="mwBG8">jū-san</i>)</dd>
+<dt id="mwBHA">14</dt><dd id="mwBHE">十四 / 拾四 (<i id="mwBHI">jū-yon</i>)</dd>
+<dt id="mwBHM">15</dt><dd id="mwBHQ">十五 / 拾五 (<i id="mwBHU">jū-go</i>)</dd>
+<dt id="mwBHY">16</dt><dd id="mwBHc">十六 / 拾六 (<i id="mwBHg">jū-roku</i>)</dd>
+<dt id="mwBHk">17</dt><dd id="mwBHo">十七 / 拾七 ( <i id="mwBHs">jū-nana</i>)</dd>
+<dt id="mwBHw">18</dt><dd id="mwBH0">十八 / 拾八 (<i id="mwBH4">jū-hachi</i>)</dd>
+<dt id="mwBH8">19</dt><dd id="mwBIA">十九 / 拾九 (<i id="mwBIE">jū-kyū</i>/<i id="mwBII">jū-ku</i>)</dd>
+<dt id="mwBIM">20</dt><dd id="mwBIQ">二十 / 弐拾 (<i id="mwBIU">ni-jū</i>)</dd>
+<dt id="mwBIY">21</dt><dd id="mwBIc">二十一 / 弐拾壱 (<i id="mwBIg">ni-jū-ichi</i>)</dd>
+<dt id="mwBIk">22</dt><dd id="mwBIo">二十二 / 弐拾弐 (<i id="mwBIs">ni-jū-ni</i>)</dd>
+<dt id="mwBIw">23</dt><dd id="mwBI0">二十三 / 弐拾参 (<i id="mwBI4">ni-jū-san</i>)</dd>
+<dt id="mwBI8">30</dt><dd id="mwBJA">三十 / 参拾 (<i id="mwBJE">san-jū</i>)</dd>
+<dt id="mwBJI">40</dt><dd id="mwBJM">四十 / 四拾 (<i id="mwBJQ">yon-jū</i>)</dd>
+<dt id="mwBJU">50</dt><dd id="mwBJY">五十 / 五拾 (<i id="mwBJc">go-jū</i>)</dd>
+<dt id="mwBJg">60</dt><dd id="mwBJk">六十 / 六拾 (<i id="mwBJo">roku-jū</i>)</dd>
+<dt id="mwBJs">70</dt><dd id="mwBJw">七十 / 七拾 (<i id="mwBJ0">nana-jū</i>)</dd>
+<dt id="mwBJ4">80</dt><dd id="mwBJ8">八十 / 八拾 (<i id="mwBKA">hachi-jū</i>)</dd>
+<dt id="mwBKE">90</dt><dd id="mwBKI">九十 / 九拾 (<i id="mwBKM">kyū-jū</i>)</dd>
+<dt id="mwBKQ">100</dt><dd id="mwBKU">百 (<i id="mwBKY">hyaku</i>)</dd>
+<dt id="mwBKc">200</dt><dd id="mwBKg">二百 / 弐百 (<i id="mwBKk">nihyaku</i>)</dd>
+<dt id="mwBKo">300</dt><dd id="mwBKs">三百 / 参百 (<i id="mwBKw">sambyaku</i>)</dd>
+<dt id="mwBK0">600</dt><dd id="mwBK4">六百 (<i id="mwBK8">roppyaku</i>)</dd>
+<dt id="mwBLA">800</dt><dd id="mwBLE">八百 (<i id="mwBLI">happyaku</i>)</dd>
+<dt id="mwBLM">1000</dt><dd id="mwBLQ">千 (<i id="mwBLU">sen</i>)</dd>
+<dt id="mwBLY">2000</dt><dd id="mwBLc">二千 / 弐千 (<i id="mwBLg">ni-sen</i>)</dd>
+<dt id="mwBLk">3000</dt><dd id="mwBLo">三千 / 参千 (<i id="mwBLs">san-zen</i>)</dd>
+<dt id="mwBLw">10,000</dt><dd id="mwBL0">一万 / 壱万 (<i id="mwBL4">ichi-man</i>)</dd>
+<dt id="mwBL8">1,000,000</dt><dd id="mwBMA">百万 (<i id="mwBME">hyaku-man</i>)</dd>
+<dt id="mwBMI">100,000,000</dt><dd id="mwBMM">一億 / 壱億 (<i id="mwBMQ">ichi-oku</i>)</dd>
+<dt id="mwBMU">1,000,000,000</dt><dd id="mwBMY">十億 / 拾億 (<i id="mwBMc">jū-oku</i>)</dd>
+<dt id="mwBMg">1,000,000,000,000</dt><dd id="mwBMk">一兆 / 壱兆 (<i id="mwBMo">itchō</i>)</dd>
+<dt id="mwBMs">0.5</dt><dd id="mwBMw">〇・五 (<i id="mwBM0">rei ten go</i>)</dd>
+<dt id="mwBM4">0.56</dt><dd id="mwBM8">〇・五六 (<i id="mwBNA">rei ten go-roku</i>)</dd>
+<dt id="mwBNE">number _____ (<i id="mwBNI">train, bus, etc.</i>)</dt><dd id="mwBNM">_____番 (<i id="mwBNQ">____ ban</i>)</dd>
+<dt id="mwBNU">half</dt><dd id="mwBNY">半分 (<i id="mwBNc">hambun</i>)</dd>
+<dt id="mwBNg">less (few)</dt><dd id="mwBNk">少ない (<i id="mwBNo">sukunai</i>)</dd>
+<dt id="mwBNs">more (many)</dt><dd id="mwBNw">多い (<i id="mwBN0">ōi</i>)</dd></dl>
+
+</section><section data-mw-section-id="20" id="mwBN4" aria-labelledby="Time"><div class="mw-heading mw-heading3"><h3 id="Time">Time</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=20" title="Edit section: Time"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwBN8"><dt id="mwBOA">now</dt><dd id="mwBOE">今 (<i id="mwBOI">ima</i>)</dd>
+<dt id="mwBOM">later</dt><dd id="mwBOQ">後で (<i id="mwBOU">atode</i>)</dd>
+<dt id="mwBOY">before</dt><dd id="mwBOc">前に (<i id="mwBOg">mae ni</i>)</dd>
+<dt id="mwBOk">before ___</dt><dd id="mwBOo">___ の前に (<i id="mwBOs"> ___ no mae ni</i>)</dd>
+<dt id="mwBOw">morning</dt><dd id="mwBO0">朝 (<i id="mwBO4">asa</i>) (colloquial) / 午前 (<i id="mwBO8">gozen</i>) (formal)</dd>
+<dt id="mwBPA">noon</dt><dd id="mwBPE">昼 (<i id="mwBPI">hiru</i> or <i id="mwBPM">o-hiru</i>) / 正午 (<i id="mwBPQ">shōgo</i>)</dd>
+<dt id="mwBPU">afternoon</dt><dd id="mwBPY">昼 (<i id="mwBPc">hiru</i> or <i id="mwBPg">hiruma</i>) (colloquial) / 午後 (<i id="mwBPk">gogo</i>) (formal)</dd>
+<dt id="mwBPo">evening before sunset</dt><dd id="mwBPs">夕方 (<i id="mwBPw">yūgata</i>)</dd>
+<dt id="mwBP0">night or after sunset</dt><dd id="mwBP4">夜 (<i id="mwBP8">yoru</i>)</dd>
+<dt id="mwBQA">midnight or past 12AM</dt><dd id="mwBQE">真夜中 (<i id="mwBQI">mayonaka</i>)</dd></dl>
+
+<section data-mw-section-id="21" id="mwBQM" aria-labelledby="Clock_time"><div class="mw-heading mw-heading4"><h4 id="Clock_time">Clock time</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=21" title="Edit section: Clock time"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwBQQ">Clock times are formed as Chinese numeral plus 時 <i id="mwBQU">ji</i>, for example, <i id="mwBQY">goji</i> 5時/五時 for five o'clock. The exception is four o'clock which is pronounced <i id="mwBQc">yoji</i> (四時) instead of <i id="mwBQg">shiji</i>. You will be understood if you simply substitute <i id="mwBQk">gozen</i> 午前  for "AM" and <i id="mwBQo">gogo</i> 午後 for PM, although other time qualifiers like 朝 <i id="mwBQs">asa</i> for morning, 昼 <i id="mwBQw">hiru</i> for afternoon and 夜 <i id="mwBQ0">yoru</i> for night sound more natural. The 24-hour clock is also commonly used in official contexts such as train schedules. TV schedules occasionally use a modified 24-hour clock, with late night showtimes counted from the previous day, e.g. Monday at 26:00 indicates <b id="mwBQ4">Tuesday</b> at 2:00 AM.</p>
+
+<dl id="mwBQ8"><dt id="mwBRA">six o'clock in the morning</dt><dd id="mwBRE">朝6時 (<i id="mwBRI">asa rokuji</i>)</dd>
+<dt id="mwBRM">nine o'clock AM</dt><dd id="mwBRQ">午前9時 (<i id="mwBRU">gozen kuji</i>)</dd>
+<dt id="mwBRY">noon</dt><dd id="mwBRc">正午 (<i id="mwBRg">shōgo</i>)</dd>
+<dt id="mwBRk">one o'clock PM</dt><dd id="mwBRo">午後1時 (<i id="mwBRs">gogo ichiji.</i>)</dd>
+<dt id="mwBRw">two o'clock PM</dt><dd id="mwBR0">午後2時 (<i id="mwBR4">gogo niji</i>)</dd>
+<dt id="mwBR8">midnight</dt><dd id="mwBSA">夜12時 (<i id="mwBSE">yoru jūniji</i>), 零時 / 0時 (<i id="mwBSI">rēji</i>), 24時(<i id="mwBSM">nijū yo ji</i>)</dd></dl>
+
+</section><section data-mw-section-id="22" id="mwBSQ" aria-labelledby="Duration"><div class="mw-heading mw-heading4"><h4 id="Duration">Duration</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=22" title="Edit section: Duration"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwBSU">Confusingly, the Japanese words for "N days" (long) and "Nth day" are the same, so eg. 二日 <i id="mwBSY">futsuka</i> means both "two days" and "the second day of the month".  (See <a rel="mw:WikiLink" href="#Days_of_the_month" class="mw-selflink-fragment" id="mwBSc">#Days of the month</a> for the full list.)  You can tag on -間 <i id="mwBSg">kan</i> at the end, eg. <i id="mwBSk">futsukakan</i> 二日間, to clarify that you mean "two days long". The exception is 一日, which is read <i id="mwBSo">ichinichi</i> to mean "one day/all day", but <i id="mwBSs">tsuitachi</i> to mean "first day". Also note that 一日間 <i id="mwBSw">ichinichikan</i> is not used, and the term for a duration of one day is simply 一日 <i id="mwBS0">ichinichi</i>.</p>
+
+<dl id="mwBS4"><dt id="mwBS8">_____ second(s)</dt><dd id="mwBTA">_____ 秒 (<i id="mwBTE">byō</i>)</dd>
+<dt id="mwBTI">_____ minute(s)</dt><dd id="mwBTM">_____ 分 (<i id="mwBTQ">fun</i> or <i id="mwBTU">pun</i>)</dd>
+<dt id="mwBTY">_____ hour(s)</dt><dd id="mwBTc">_____ 時間 (<i id="mwBTg">jikan</i>)</dd>
+<dt id="mwBTk">_____ day(s)</dt><dd id="mwBTo">_____ 日間 (<i id="mwBTs">nichikan</i> or <i id="mwBTw">(k)kakan</i>, see note above, except for 一日 (one day))</dd>
+<dt id="mwBT0">_____ week(s)</dt><dd id="mwBT4">_____ 週間 (<i id="mwBT8">shūkan</i>)</dd>
+<dt id="mwBUA">_____ month(s)</dt><dd id="mwBUE">_____ ヶ月 (<i id="mwBUI">kagetsu</i>)</dd>
+<dt id="mwBUM">_____ year(s)</dt><dd id="mwBUQ">_____ 年間 (<i id="mwBUU">nenkan</i>)</dd></dl>
+
+</section><section data-mw-section-id="23" id="mwBUY" aria-labelledby="Days"><div class="mw-heading mw-heading4"><h4 id="Days">Days</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=23" title="Edit section: Days"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwBUc"><dt id="mwBUg">today</dt><dd id="mwBUk">今日 (<i id="mwBUo">kyō</i>)</dd>
+<dt id="mwBUs">yesterday</dt><dd id="mwBUw">昨日 (<i id="mwBU0">kinō</i>)</dd>
+<dt id="mwBU4">the day before yesterday</dt><dd id="mwBU8">おととい (<i id="mwBVA">ototoi</i>)</dd>
+<dt id="mwBVE">tomorrow</dt><dd id="mwBVI">明日 (<i id="mwBVM">ashita</i>) (colloquial) / 明日 (<i id="mwBVQ">asu</i>) (formal)</dd>
+<dt id="mwBVU">the day after tomorrow</dt><dd id="mwBVY">あさって (<i id="mwBVc">asatte</i>)</dd>
+<dt id="mwBVg">_____ days after tomorrow</dt><dd id="mwBVk">_____ 日後 (<i id="mwBVo">nichigo</i> or <i id="mwBVs">(k)kago</i>, see note above)</dd>
+<dt id="mwBVw">this week</dt><dd id="mwBV0">今週 (<i id="mwBV4">konshū</i>)</dd>
+<dt id="mwBV8">last week</dt><dd id="mwBWA">先週 (<i id="mwBWE">senshū</i>)</dd>
+<dt id="mwBWI">next week</dt><dd id="mwBWM">来週 (<i id="mwBWQ">raishū</i>)</dd></dl>
+
+<section data-mw-section-id="24" id="mwBWU" aria-labelledby="Days_of_the_week"><div class="mw-heading mw-heading5"><h5 id="Days_of_the_week">Days of the week</h5><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=24" title="Edit section: Days of the week"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwBWY">The days of the week are named after the sun, the moon and the five elements of Chinese philosophy.</p>
+<dl id="mwBWc"><dt id="mwBWg">Sunday</dt><dd id="mwBWk">日曜日 (<i id="mwBWo">nichiyōbi</i>), abbreviated 日 (<i id="mwBWs">nichi</i>)</dd>
+<dt id="mwBWw">Monday</dt><dd id="mwBW0">月曜日 (<i id="mwBW4">getsuyōbi</i>), abbreviated 月 (<i id="mwBW8">getsu</i>)</dd>
+<dt id="mwBXA">Tuesday</dt><dd id="mwBXE">火曜日 (<i id="mwBXI">kayōbi</i>), abbreviated 火 (<i id="mwBXM">ka</i>)</dd>
+<dt id="mwBXQ">Wednesday</dt><dd id="mwBXU">水曜日 (<i id="mwBXY">suiyōbi</i>), abbreviated 水 (<i id="mwBXc">sui</i>)</dd>
+<dt id="mwBXg">Thursday</dt><dd id="mwBXk">木曜日 (<i id="mwBXo">mokuyōbi</i>), abbreviated 木 (<i id="mwBXs">moku</i>)</dd>
+<dt id="mwBXw">Friday</dt><dd id="mwBX0">金曜日 (<i id="mwBX4">kin'yōbi</i>), abbreviated 金 (<i id="mwBX8">kin</i>)</dd>
+<dt id="mwBYA">Saturday</dt><dd id="mwBYE">土曜日 (<i id="mwBYI">doyōbi</i>), abbreviated 土 (<i id="mwBYM">do</i>)</dd></dl>
+
+</section></section><section data-mw-section-id="25" id="mwBYQ" aria-labelledby="Days_of_the_month"><div class="mw-heading mw-heading4"><h4 id="Days_of_the_month">Days of the month</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=25" title="Edit section: Days of the month"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwBYU">The 1st through the 10th of the month have special names:</p>
+
+<dl id="mwBYY"><dt id="mwBYc">First day of the month</dt><dd id="mwBYg">1日 (<i id="mwBYk">tsu'itachi</i>)</dd>
+<dt id="mwBYo">Second day of the month</dt><dd id="mwBYs">2日 (<i id="mwBYw">futsuka</i>)</dd>
+<dt id="mwBY0">Third day of the month</dt><dd id="mwBY4">3日 (<i id="mwBY8">mikka</i>)</dd>
+<dt id="mwBZA">Fourth day of the month</dt><dd id="mwBZE">4日 (<i id="mwBZI">yokka</i>)</dd>
+<dt id="mwBZM">Fifth day of the month</dt><dd id="mwBZQ">5日 (<i id="mwBZU">itsuka</i>)</dd>
+<dt id="mwBZY">Sixth day of the month</dt><dd id="mwBZc">6日 (<i id="mwBZg">mu'ika</i>)</dd>
+<dt id="mwBZk">Seventh day of the month</dt><dd id="mwBZo">7日 (<i id="mwBZs">nanoka</i>)</dd>
+<dt id="mwBZw">Eighth day of the month</dt><dd id="mwBZ0">8日 (<i id="mwBZ4">yōka</i>)</dd>
+<dt id="mwBZ8">Ninth day of the month</dt><dd id="mwBaA">9日 (<i id="mwBaE">kokonoka</i>)</dd>
+<dt id="mwBaI">Tenth day of the month</dt><dd id="mwBaM">10日 (<i id="mwBaQ">tōka</i>)</dd></dl>
+
+<p id="mwBaU">The other days of the month are more orderly, just add the suffix <i id="mwBaY">-nichi</i> to the ordinal number.  Note that 14, 20, and 24 deviate from this pattern.</p>
+
+<dl id="mwBac"><dt id="mwBag">Eleventh day of the month</dt><dd id="mwBak">11日 (<i id="mwBao">jū'ichinichi</i>)</dd>
+<dt id="mwBas">Fourteenth day of the month</dt><dd id="mwBaw">14日 (<i id="mwBa0">jū'yokka</i>)</dd>
+<dt id="mwBa4">Twentieth day of the month</dt><dd id="mwBa8">20日 (<i id="mwBbA">hatsuka</i>)</dd>
+<dt id="mwBbE">Twenty-fourth day of the month</dt><dd id="mwBbI">24日 (<i id="mwBbM">nijū'yokka</i>)</dd></dl>
+
+</section><section data-mw-section-id="26" id="mwBbQ" aria-labelledby="Months"><div class="mw-heading mw-heading4"><h4 id="Months">Months</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=26" title="Edit section: Months"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwBbU">Months are very orderly in Japanese, just add the suffix <i id="mwBbY">-gatsu</i> to the Sino-Japanese ordinal number.</p>
+
+<dl id="mwBbc"><dt id="mwBbg">January</dt><dd id="mwBbk">1月 (<i id="mwBbo">ichigatsu</i>)</dd>
+<dt id="mwBbs">February</dt><dd id="mwBbw">2月 (<i id="mwBb0">nigatsu</i>)</dd>
+<dt id="mwBb4">March</dt><dd id="mwBb8">3月 (<i id="mwBcA">sangatsu</i>)</dd>
+<dt id="mwBcE">April</dt><dd id="mwBcI">4月 (<i id="mwBcM">shigatsu</i>)</dd>
+<dt id="mwBcQ">May</dt><dd id="mwBcU">5月 (<i id="mwBcY">gogatsu</i>)</dd>
+<dt id="mwBcc">June</dt><dd id="mwBcg">6月 (<i id="mwBck">rokugatsu</i>)</dd>
+<dt id="mwBco">July</dt><dd id="mwBcs">7月 (<i id="mwBcw">shichigatsu</i>)</dd>
+<dt id="mwBc0">August</dt><dd id="mwBc4">8月 (<i id="mwBc8">hachigatsu</i>)</dd>
+<dt id="mwBdA">September</dt><dd id="mwBdE">9月 (<i id="mwBdI">kugatsu</i>)</dd>
+<dt id="mwBdM">October</dt><dd id="mwBdQ">10月 (<i id="mwBdU">jūgatsu</i>)</dd>
+<dt id="mwBdY">November</dt><dd id="mwBdc">11月 (<i id="mwBdg">jūichigatsu</i>)</dd>
+<dt id="mwBdk">December</dt><dd id="mwBdo">12月 (<i id="mwBds">jūnigatsu</i>)</dd></dl>
+
+</section><section data-mw-section-id="27" id="mwBdw" aria-labelledby="Seasons"><div class="mw-heading mw-heading4"><h4 id="Seasons">Seasons</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=27" title="Edit section: Seasons"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwBd0"><dt id="mwBd4">Spring</dt><dd id="mwBd8">春 (<i id="mwBeA">haru</i>)</dd>
+<dt id="mwBeE">Summer</dt><dd id="mwBeI">夏 (<i id="mwBeM">natsu</i>)</dd>
+<dt id="mwBeQ">Rainy season</dt><dd id="mwBeU">梅雨 (<i id="mwBeY">tsuyu</i>, <i id="mwBec">bai'u</i>)</dd>
+<dt id="mwBeg">Autumn</dt><dd id="mwBek">秋 (<i id="mwBeo">aki</i>)</dd>
+<dt id="mwBes">Winter</dt><dd id="mwBew">冬 (<i id="mwBe0">fuyu</i>)</dd></dl>
+
+</section><section data-mw-section-id="28" id="mwBe4" aria-labelledby="Writing_time_and_date"><div class="mw-heading mw-heading4"><h4 id="Writing_time_and_date">Writing time and date</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=28" title="Edit section: Writing time and date"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwBe8">Dates are written in year/month/day (day of week) format, with markers:</p>
+
+<p id="mwBfA">2007年3月21日(火)</p>
+
+<p id="mwBfE">In Japanese, the year is read as an ordinary number with exception of "9 as the last digit". 1999 was "one thousand nine hundred ninety-nine", <i id="mwBfI">sen kyū-hyaku kyū-jū ku nen</i>). It can sometimes be abbreviated to the last two digits (i.e. "ninety-nine", <i id="mwBfM">kyū-jū ku nen</i>), while pronouncing it <i id="mwBfQ">kyū-jū <b id="mwBfU">kyū nen</b></i> refers to "for the duration of 99 years", rather the year.)</p>
+
+<p id="mwBfY">Note that <b id="mwBfc">Imperial era years</b>, based on the name and duration of the current Emperor's reign, are also frequently used.  2020 in the Gregorian calendar corresponds to <b id="mwBfg">Reiwa 2</b> 令和2年, which may be abbreviated as "R2" or 令2.  Dates like "02/03/24" (Reiwa 2, March 24) are also occasionally seen. Meiji, Taishō, Shōwa, and Heisei are used by elderly people or popular on signboards at historical sights. To convert the year into Gregorian calendar:</p>
+<dl id="mwBfk"><dt id="mwBfo">Reiwa 令和 (1 May 2019 <span typeof="mw:Entity" id="mwBfs">–</span>)</dt><dd id="mwBfw">add 2018 to the year in Reiwa, i.e. <i id="mwBf0">Reiwa 3 nen </i> 令和3年 is 2021 in the Gregorian calendar.</dd>
+<dt id="mwBf4">Heisei 平成 (8 January 1989 <span typeof="mw:Entity" id="mwBf8">–</span> 30 April 2019)</dt><dd id="mwBgA">minus 12 from the year in Heisei and add 2000, i.e. <i id="mwBgE">Heisei 12 nen</i> 平成12年 is 2000 in Gregorian calendar.</dd>
+<dt id="mwBgI">Shōwa 昭和 (25 December 1926 <span typeof="mw:Entity" id="mwBgM">–</span> 7 January 1989)</dt><dd id="mwBgQ">plus 1925 to the year in Shōwa, i.e. <i id="mwBgU">Shōwa 45 nen</i> 昭和45年 is 1970 in Gregorian calendar.</dd>
+<dt id="mwBgY">Taishō 大正 (30 July 1912 <span typeof="mw:Entity" id="mwBgc">–</span> 25 December 1926)</dt><dd id="mwBgg">plus 1911 to the year in Taishō, i.e. <i id="mwBgk">Taishō 9 nen</i> 大正9年 is 1920 in Gregorian calendar.</dd>
+<dt id="mwBgo">Meiji 明治 (28 October 1868 <span typeof="mw:Entity" id="mwBgs">–</span> 30 July 1912)</dt><dd id="mwBgw">minus 33 from the year in Meiji and add 1900, i.e. <i id="mwBg0">Meiji 33 nen</i> 明治33年 is 1900 in Gregorian calendar.</dd></dl>
+
+</section></section><section data-mw-section-id="29" id="mwBg4" aria-labelledby="Colors"><div class="mw-heading mw-heading3"><h3 id="Colors">Colors</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=29" title="Edit section: Colors"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwBg8">Many of the English words for colors are widely used and understood by almost all Japanese. These are indicated after the slash.</p>
+
+<p id="mwBhA">Note that some Japanese colors are normally suffixed with <i id="mwBhE">-iro</i> (色) to distinguish between the color and the object.  For example, 茶 <i id="mwBhI">cha</i> means "tea", but 茶色 <i id="mwBhM">chairo</i> means "tea-color" → "brown".</p>
+
+<dl id="mwBhQ"><dt id="mwBhU">black</dt><dd id="mwBhY">黒 / ブラック (<i id="mwBhc">kuro / burakku</i>)</dd>
+<dt id="mwBhg">white</dt><dd id="mwBhk">白 / ホワイト (<i id="mwBho">shiro / howaito</i>)</dd>
+<dt id="mwBhs">gray</dt><dd id="mwBhw">灰(色) / グレー (<i id="mwBh0">hai(iro) / gurē</i>)</dd>
+<dt id="mwBh4">red</dt><dd id="mwBh8">赤 / レッド (<i id="mwBiA">aka / reddo</i>)</dd>
+<dt id="mwBiE">blue</dt><dd id="mwBiI">青 / ブルー (<i id="mwBiM">ao / burū</i>)</dd>
+<dt id="mwBiQ">yellow</dt><dd id="mwBiU">黄(色) / イエロー (<i id="mwBiY">ki(iro) / ierō</i>)</dd>
+<dt id="mwBic">green</dt><dd id="mwBig">緑 / グリーン (<i id="mwBik">midori / guriin</i>)</dd>
+<dt id="mwBio">orange</dt><dd id="mwBis">橙 / オレンジ (<i id="mwBiw">daidai / orenji</i>)</dd>
+<dt id="mwBi0">purple</dt><dd id="mwBi4">紫 / パープル (<i id="mwBi8">murasaki / pāpuru</i>)</dd>
+<dt id="mwBjA">pink</dt><dd id="mwBjE">桃(色) / ピンク (<i id="mwBjI">momo(iro) / pinku</i>)</dd>
+<dt id="mwBjM">brown</dt><dd id="mwBjQ">茶(色) / ブラウン (<i id="mwBjU">cha(iro) / buraun</i>)</dd>
+<dt id="mwBjY">silver</dt><dd id="mwBjc">銀(色) / シルバー (<i id="mwBjg">gin(iro) / sirubā</i>)</dd>
+<dt id="mwBjk">gold</dt><dd id="mwBjo">金(色) / ゴールド (<i id="mwBjs">kin(iro) / gōrudo</i>)</dd></dl>
+
+</section><section data-mw-section-id="30" id="mwBjw" aria-labelledby="Transportation"><div class="mw-heading mw-heading3"><h3 id="Transportation">Transportation</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=30" title="Edit section: Transportation"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<section data-mw-section-id="31" id="mwBj0" aria-labelledby="Bus_and_train"><div class="mw-heading mw-heading4"><h4 id="Bus_and_train">Bus and train</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=31" title="Edit section: Bus and train"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwBj4"><dt id="mwBj8">bus</dt><dd id="mwBkA">バス (<i id="mwBkE">basu</i>)</dd>
+<dt id="mwBkI">train</dt><dd id="mwBkM">電車 (<i id="mwBkQ">densha</i>)</dd>
+<dt id="mwBkU">metro / subway</dt><dd id="mwBkY">地下鉄 (<i id="mwBkc">chikatetsu</i>)</dd>
+<dt id="mwBkg">tram / streetcar</dt><dd id="mwBkk">路面電車 (<i id="mwBko">romendensha</i>)</dd>
+<dt id="mwBks">light rail</dt><dd id="mwBkw">ライトレール (<i id="mwBk0">raito rēru</i>)</dd>
+<dt id="mwBk4">bullet train</dt><dd id="mwBk8">新幹線 (<i id="mwBlA">shinkansen</i>)</dd>
+<dt id="mwBlE">How much is a ticket to _____?</dt><dd id="mwBlI">_____ までいくらですか? (<i id="mwBlM">_____ made ikura desu ka?</i>)</dd>
+<dt id="mwBlQ">One ticket to _____, please.</dt><dd id="mwBlU">_____ まで一枚お願いします。(<i id="mwBlY">_____ made ichimai onegaishimasu.</i>)</dd>
+<dt id="mwBlc">Where does this train/bus go?</dt><dd id="mwBlg">この電車・バスはどこ行きですか? (<i id="mwBlk">Kono densha/basu wa doko yuki desu ka?</i>)</dd>
+<dt id="mwBlo">Where is the train/bus to _____?</dt><dd id="mwBls">_____ 行きの電車・バスはどこですか? (<i id="mwBlw">_____ yuki no densha/basu wa doko desu ka?</i>)</dd>
+<dt id="mwBl0">Does this train/bus stop in _____?</dt><dd id="mwBl4">この電車・バスは _____ に止まりますか? (<i id="mwBl8">Kono densha/basu wa _____ ni tomarimasu ka?</i>)</dd>
+<dt id="mwBmA">When does the train/bus for _____ leave?</dt><dd id="mwBmE">_____ 行きの電車・バスは何時に出発しますか? (<i id="mwBmI">_____ yuki no densha/basu wa nanji ni shuppatsu shimasu ka?</i>)</dd>
+<dt id="mwBmM">When will this train/bus arrive in _____?</dt><dd id="mwBmQ">この電車・バスは何時に _____ に着きますか? (<i id="mwBmU">Kono densha/basu wa nanji ni _____ ni tsukimasu ka?</i>)</dd></dl>
+
+</section><section data-mw-section-id="32" id="mwBmY" aria-labelledby="Directions"><div class="mw-heading mw-heading4"><h4 id="Directions">Directions</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=32" title="Edit section: Directions"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwBmc"><dt id="mwBmg">How do I get to _____?</dt><dd id="mwBmk">_____ はどちらですか? (<i id="mwBmo">_____ wa dochira desu ka?</i>)</dd>
+<dt id="mwBms">...the train station?</dt><dd id="mwBmw">駅...? (<i id="mwBm0">eki...</i>)</dd>
+<dt id="mwBm4">...the bus station?</dt><dd id="mwBm8">バス停...? (<i id="mwBnA">basu tei...</i>)</dd>
+<dt id="mwBnE">...the airport?</dt><dd id="mwBnI">空港...? (<i id="mwBnM">kūkō...</i>)</dd>
+<dt id="mwBnQ">...downtown?</dt><dd id="mwBnU">街の中心...? (<i id="mwBnY">machi no chūshin...</i>)</dd>
+<dt id="mwBnc">...the youth hostel?</dt><dd id="mwBng">ユースホステル...? (<i id="mwBnk">yūsu hosuteru...</i>)</dd>
+<dt id="mwBno">...the _____ hotel?</dt><dd id="mwBns">_____ ホテル...? (<i id="mwBnw">hoteru...</i>)</dd>
+<dt id="mwBn0">...the _____ embassy/consulate?</dt><dd id="mwBn4">_____大使館/領事館...? (<i id="mwBn8">_____ taishikan/ryōjikan...</i>)</dd>
+<dt id="mwBoA">Where are there a lot of _____</dt><dd id="mwBoE">_____が多い所はどこですか? (<i id="mwBoI">_____ga ooi tokoro wa doko desu ka?</i>)</dd>
+<dt id="mwBoM">...lodgings?</dt><dd id="mwBoQ">宿...? (<i id="mwBoU">yado...</i>)</dd>
+<dt id="mwBoY">...restaurants?</dt><dd id="mwBoc">レストラン...? (<i id="mwBog">resutoran...</i>)</dd>
+<dt id="mwBok">...bars?</dt><dd id="mwBoo">バー...? (<i id="mwBos">baa...</i>)</dd>
+<dt id="mwBow">...sites to see?</dt><dd id="mwBo0">見物...? (<i id="mwBo4">mimono...</i>)</dd>
+<dt id="mwBo8">Where is _____?</dt><dd id="mwBpA">_____はどこですか? (<i id="mwBpE">_____ wa doko desu ka?</i>)</dd>
+<dt id="mwBpI">Is it far from here?</dt><dd id="mwBpM">ここから遠いですか? (<i id="mwBpQ">Koko kara tooi desu ka?</i>)</dd>
+<dt id="mwBpU">Please show me on the map.</dt><dd id="mwBpY">地図で指して下さい。 (<i id="mwBpc">Chizu de sashite kudasai.</i>)</dd>
+<dt id="mwBpg">street</dt><dd id="mwBpk">道 (<i id="mwBpo">michi</i>)</dd>
+<dt id="mwBps">Turn left.</dt><dd id="mwBpw">左へ曲がってください。 (<i id="mwBp0">Hidari e magatte kudasai.</i>)</dd>
+<dt id="mwBp4">Turn right.</dt><dd id="mwBp8">右へ曲がってください。(<i id="mwBqA">Migi e magatte kudasai.</i>)</dd>
+<dt id="mwBqE">left</dt><dd id="mwBqI">左 (<i id="mwBqM">hidari</i>)</dd>
+<dt id="mwBqQ">right</dt><dd id="mwBqU">右 (<i id="mwBqY">migi</i>)</dd>
+<dt id="mwBqc">in front of the _____</dt><dd id="mwBqg">_____の前 (<i id="mwBqk">_____ no mae</i>)</dd>
+<dt id="mwBqo">behind the _____</dt><dd id="mwBqs">_____の後ろ (<i id="mwBqw">_____ no ushiro</i>)</dd>
+<dt id="mwBq0">straight ahead</dt><dd id="mwBq4">まっすぐ (<i id="mwBq8">massugu</i>)</dd>
+<dt id="mwBrA">towards the _____</dt><dd id="mwBrE">_____ へ向かって (<i id="mwBrI">e mukatte</i>)</dd>
+<dt id="mwBrM">past the _____</dt><dd id="mwBrQ">_____ の先 (<i id="mwBrU">no saki</i>)</dd>
+<dt id="mwBrY">before the _____</dt><dd id="mwBrc">_____ の前 (<i id="mwBrg">no mae</i>)</dd>
+<dt id="mwBrk">Watch for the _____.</dt><dd id="mwBro">_____が目印です。 (<i id="mwBrs">ga mejirushi desu.</i>)</dd>
+<dt id="mwBrw">intersection</dt><dd id="mwBr0">交差点 (<i id="mwBr4">kōsaten</i>)</dd>
+<dt id="mwBr8">traffic light</dt><dd id="mwBsA">信号　(<i id="mwBsE">shingou</i>)</dd>
+<dt id="mwBsI">inside</dt><dd id="mwBsM">中 (<i id="mwBsQ">naka</i>)</dd>
+<dt id="mwBsU">outside</dt><dd id="mwBsY">外 (<i id="mwBsc">soto</i>)</dd>
+<dt id="mwBsg">north</dt><dd id="mwBsk">北 (<i id="mwBso">kita</i>)</dd>
+<dt id="mwBss">south</dt><dd id="mwBsw">南 (<i id="mwBs0">minami</i>)</dd>
+<dt id="mwBs4">east</dt><dd id="mwBs8">東 (<i id="mwBtA">higashi</i>)</dd>
+<dt id="mwBtE">west</dt><dd id="mwBtI">西 (<i id="mwBtM">nishi</i>)</dd>
+<dt id="mwBtQ">uphill</dt><dd id="mwBtU">上り (<i id="mwBtY">nobori</i>), also used for trains heading towards Tokyo</dd>
+<dt id="mwBtc">downhill</dt><dd id="mwBtg">下り (<i id="mwBtk">kudari</i>), also used for trains coming from Tokyo</dd></dl>
+
+</section><section data-mw-section-id="33" id="mwBto" aria-labelledby="Taxi"><div class="mw-heading mw-heading4"><h4 id="Taxi">Taxi</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=33" title="Edit section: Taxi"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwBts"><dt id="mwBtw">Taxi!</dt><dd id="mwBt0">タクシー! (<i id="mwBt4">takushī!</i>)</dd>
+<dt id="mwBt8">Take me to _____, please.</dt><dd id="mwBuA">_____までお願いします。 (<i id="mwBuE">_____ made onegaishimasu.</i>)</dd>
+<dt id="mwBuI">How much does it cost to get to _____?</dt><dd id="mwBuM">_____ までいくらですか? (<i id="mwBuQ">_____ made ikura desu ka</i>)</dd>
+<dt id="mwBuU">Take me there, please.</dt><dd id="mwBuY">そこまでお願いします。 (<i id="mwBuc">soko made onegaishimasu.</i>)</dd></dl>
+
+</section></section><section data-mw-section-id="34" id="mwBug" aria-labelledby="Lodging"><div class="mw-heading mw-heading3"><h3 id="Lodging">Lodging</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=34" title="Edit section: Lodging"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwBuk"><dt id="mwBuo">Do you have any rooms available?</dt><dd id="mwBus">空いてる部屋ありますか? (<i id="mwBuw">Aiteru heya arimasu ka?</i>)</dd>
+<dt id="mwBu0">How much is a room for one person/two people?</dt><dd id="mwBu4">一人・二人用の部屋はいくらですか? (<i id="mwBu8">Hitori/futari-yō no heya wa ikura desu ka?</i>)</dd>
+<dt id="mwBvA">Is the room Japanese/Western style?</dt><dd id="mwBvE">和室/洋室ですか？ (<i id="mwBvI">Washitsu/yōshitsu desu ka?</i>)</dd>
+<dt id="mwBvM">Does the room come with...</dt><dd id="mwBvQ">部屋は ... 付きですか? (<i id="mwBvU">Heya wa ___ tsuki desu ka?</i>)</dd>
+<dt id="mwBvY">...bedsheets?</dt><dd id="mwBvc">シーツ...? (<i id="mwBvg">shītsu...</i>)</dd>
+<dt id="mwBvk">...a bathroom?</dt><dd id="mwBvo">風呂場...? (<i id="mwBvs">furoba...</i>)</dd>
+<dt id="mwBvw">...a telephone?</dt><dd id="mwBv0">電話...? (<i id="mwBv4">denwa...</i>)</dd>
+<dt id="mwBv8">...a TV?</dt><dd id="mwBwA">テレビ? (<i id="mwBwE">terebi...</i>)</dd>
+<dt id="mwBwI">May I see the room first?</dt><dd id="mwBwM">部屋を見てもいいですか? (<i id="mwBwQ">Heya o mite mo ii desu ka?</i>)</dd>
+<dt id="mwBwU">Do you have anything quieter?</dt><dd id="mwBwY">もっと[静かな]部屋ありますか? (<i id="mwBwc">Motto [shizuka na] heya arimasu ka?</i>)</dd>
+<dt id="mwBwg">...bigger?</dt><dd id="mwBwk">広い...? (<i id="mwBwo">hiroi...</i>)</dd>
+<dt id="mwBws">...cleaner?</dt><dd id="mwBww">きれいな...? (<i id="mwBw0">kirei na...</i>)</dd>
+<dt id="mwBw4">...cheaper?</dt><dd id="mwBw8">安い...? (<i id="mwBxA">yasui...</i>)</dd>
+<dt id="mwBxE">OK, I'll take it.</dt><dd id="mwBxI">はい、これでいいです。(<i id="mwBxM">Hai, kore de ii desu.</i>)</dd>
+<dt id="mwBxQ">I will stay for _____ night(s).</dt><dd id="mwBxU">_____ 晩泊まります。(<i id="mwBxY">____ ban tomarimasu.</i>)</dd>
+<dt id="mwBxc">Do you know another place to stay?</dt><dd id="mwBxg">他の宿はご存知ですか? (<i id="mwBxk">Hoka no yado wa gozonji desu ka?</i>)</dd>
+<dt id="mwBxo">Do you have [a safe?]</dt><dd id="mwBxs">[金庫]ありますか? (<i id="mwBxw">[Kinko] arimasu ka?</i>)</dd>
+<dt id="mwBx0">...lockers?</dt><dd id="mwBx4">戸棚...? (<i id="mwBx8">todana...?</i>)</dd>
+<dt id="mwByA">Is breakfast/supper included?</dt><dd id="mwByE">朝食・夕食は付きますか? (<i id="mwByI">Chōshoku/yūshoku wa tsukimasu ka?</i>)</dd>
+<dt id="mwByM">What time is breakfast/supper?</dt><dd id="mwByQ">朝食・夕食は何時ですか? (<i id="mwByU">Chōshoku/yūshoku wa nanji desu ka?</i>)</dd>
+<dt id="mwByY">Please clean my room.</dt><dd id="mwByc">部屋を掃除してください。 (<i id="mwByg">Heya o sōji shite kudasai.</i>)</dd>
+<dt id="mwByk">Please wake me at _____.</dt><dd id="mwByo">_____ に起こしてください。 (<i id="mwBys">____ ni okoshite kudasai.</i>)</dd>
+<dt id="mwByw">I want to check out.</dt><dd id="mwBy0">チェックアウトです。(<i id="mwBy4">Chekku auto (check out) desu.</i>)</dd></dl>
+
+</section><section data-mw-section-id="35" id="mwBy8" aria-labelledby="Money"><div class="mw-heading mw-heading3"><h3 id="Money">Money</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=35" title="Edit section: Money"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwBzA"><dt id="mwBzE">Do you accept American/Australian/Canadian dollars?</dt><dd id="mwBzI">アメリカ/オーストラリア/カナダドルは使えますか? (<i id="mwBzM">Amerika/ōsutoraria/kanada doru wa tsukaemasu ka?</i>)</dd>
+<dt id="mwBzQ">Do you accept British pounds?</dt><dd id="mwBzU">イギリスポンドは使えますか？ (<i id="mwBzY">Igirisu pondo wa tsukaemasu ka?</i>)</dd>
+<dt id="mwBzc">Do you accept credit cards?</dt><dd id="mwBzg">クレジットカードは使えますか？ (<i id="mwBzk">Kurejitto kaado (credit card) wa tsukaemasu ka?</i>)</dd>
+<dt id="mwBzo">Can you change money for me?</dt><dd id="mwBzs">お金両替できますか？ (<i id="mwBzw">Okane ryōgae dekimasu ka?</i>)</dd>
+<dt id="mwBz0">Where can I get money changed?</dt><dd id="mwBz4">お金はどこで両替できますか？ (<i id="mwBz8">Okane wa doko de ryōgae dekimasu ka?</i>)</dd>
+<dt id="mwB0A">Can you change a traveler's check for me?</dt><dd id="mwB0E">トラベラーズチェックを両替できますか？ (<i id="mwB0I">Torabarāsu chekku (traveler's check) wo ryōgae dekimasu ka?</i>)</dd>
+<dt id="mwB0M">Where can I get a traveler's check changed?</dt><dd id="mwB0Q">トラベラーズチェックはどこで両替できますか？ (<i id="mwB0U">Torabarāzu chekku (traveler's check) wa doko de ryōgae dekimasu ka?</i>)</dd>
+<dt id="mwB0Y">What is the exchange rate?</dt><dd id="mwB0c">為替レートはいくらですか？(<i id="mwB0g">Kawase rēto wa ikura desu ka?</i>)</dd>
+<dt id="mwB0k">Where is an automatic teller machine (ATM)?</dt><dd id="mwB0o">ATM はどこにありますか？ (<i id="mwB0s">ATM wa doko ni arimasuka?</i>)</dd></dl>
+
+</section><section data-mw-section-id="36" id="mwB0w" aria-labelledby="Eating"><div class="mw-heading mw-heading3"><h3 id="Eating">Eating</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=36" title="Edit section: Eating"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<span class="mw-empty-elt" about="#mwt70" typeof="mw:Transclusion" id="mwB00" data-mw='{"parts":[{"template":{"target":{"wt":"infobox","href":"./Template:Infobox"},"params":{"1":{"wt":"What are they yelling at me?"},"2":{"wt":"Most Japanese restaurants show their appreciation for customers by loudly greeting them in unison.  Expect to hear the following:\n; &apos;&apos;Irasshai!&apos;&apos; or &apos;&apos;Irasshaimase!&apos;&apos; : \"Come on in!\", said when a customer walks in. You&apos;re not expected to respond in any way, just take a seat.\n; &apos;&apos;Arigatō gozaimashita!&apos;&apos; : \"Thank you very much!\", said when a customer leaves.\n\nIf your meal was good, thank the chef or staff with &apos;&apos;Gochisōsama deshita&apos;&apos; when leaving, and you&apos;ll get an extra-hearty thank you in return!"}},"i":0}}]}'><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt71" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt70">
+<tbody><tr><td>
+<div style="font-weight:bold;">What are they yelling at me?</div>
+
+<p>Most Japanese restaurants show their appreciation for customers by loudly greeting them in unison.  Expect to hear the following:</p>
+<dl><dt><i>Irasshai!</i> or <i>Irasshaimase!</i></dt><dd>"Come on in!", said when a customer walks in. You're not expected to respond in any way, just take a seat.</dd>
+<dt><i>Arigatō gozaimashita!</i></dt><dd>"Thank you very much!", said when a customer leaves.</dd></dl>
+
+<p>If your meal was good, thank the chef or staff with <i>Gochisōsama deshita</i> when leaving, and you'll get an extra-hearty thank you in return!</p></td></tr>
+</tbody></table>
+
+<dl id="mwB04"><dt id="mwB08">I'm hungry.</dt><dd id="mwB1A">お腹がすきました。 (<i id="mwB1E">Onaka ga sukimashita.</i>)</dd>
+<dt id="mwB1I">A table for one person/two people, please.</dt><dd id="mwB1M">一人・二人です。 (<i id="mwB1Q">Hitori/futari desu.</i>)</dd>
+<dt id="mwB1U">Please bring a menu.</dt><dd id="mwB1Y">メニューを下さい。 (<i id="mwB1c">Menu wo kudasai.</i>)</dd>
+<dt id="mwB1g">Can I look in the kitchen?</dt><dd id="mwB1k">調理場を見てもいいですか？ (<i id="mwB1o">Chōriba wo mite mo ii desu ka?</i>)</dd>
+<dt id="mwB1s">Is there a house specialty?</dt><dd id="mwB1w">お勧めはありますか？ (<i id="mwB10">O-susume wa arimasu ka?</i>)</dd>
+<dt id="mwB14">Is there a local specialty?</dt><dd id="mwB18">この辺の名物はありますか？ (<i id="mwB2A">Kono hen no mēbutsu wa arimasu ka?</i>)</dd>
+<dt id="mwB2E">Please choose for me.</dt><dd id="mwB2I">お任せします。 (<i id="mwB2M">O-makase shimasu.</i>)</dd>
+<dt id="mwB2Q">I'm a vegetarian.</dt><dd id="mwB2U">ベジタリアンです。 (<i id="mwB2Y">Bejitarian desu.</i>)</dd>
+<dt id="mwB2c">I don't eat pork.</dt><dd id="mwB2g">豚肉はだめです。 (<i id="mwB2k">Butaniku wa dame desu.</i>)</dd>
+<dt id="mwB2o">I don't eat beef.</dt><dd id="mwB2s">牛肉はだめです。(<i id="mwB2w">Gyūniku wa dame desu.</i>)</dd>
+<dt id="mwB20">I don't eat raw fish.</dt><dd id="mwB24">生の魚はだめです。(<i id="mwB28">Nama no sakana wa dame desu.</i>)</dd>
+<dt id="mwB3A">Please do not use too much oil.</dt><dd id="mwB3E">油を控えて下さい。(<i id="mwB3I">Abura wo hikaete kudasai.</i>)</dd>
+<dt id="mwB3M">fixed-price meal</dt><dd id="mwB3Q">定食 (<i id="mwB3U">teishoku</i>)</dd>
+<dt id="mwB3Y">à la carte</dt><dd id="mwB3c">一品料理 (<i id="mwB3g">ippinryōri</i>)</dd>
+<dt id="mwB3k">breakfast</dt><dd id="mwB3o">朝食 (<i id="mwB3s">chōshoku</i>) / 朝ご飯 (<i id="mwB3w">asagohan</i>)</dd>
+<dt id="mwB30">lunch</dt><dd id="mwB34">昼食 (<i id="mwB38">chūshoku</i>) / 昼ご飯　(<i id="mwB4A">hirugohan</i>)</dd>
+<dt id="mwB4E">light meal/snack</dt><dd id="mwB4I">軽食 (<i id="mwB4M">keishoku</i>) / おやつ (<i id="mwB4Q">oyatsu</i>)</dd>
+<dt id="mwB4U">supper</dt><dd id="mwB4Y">夕食 (<i id="mwB4c">yūshoku</i>) / 晩ご飯 (<i id="mwB4g">bangohan</i>)</dd>
+<dt id="mwB4k">Please bring _____.</dt><dd id="mwB4o">_____ を下さい。(<i id="mwB4s">_____ wo kudasai.</i>)</dd>
+<dt id="mwB4w">I want a dish containing _____.</dt><dd id="mwB40">_____が入ってるものを下さい。 (<i id="mwB44">____ ga haitteru mono wo kudasai.</i>)</dd>
+<dt id="mwB48">chicken</dt><dd id="mwB5A">鶏肉 (<i id="mwB5E">toriniku</i>) / チキン (<i id="mwB5I">chikin</i>)</dd>
+<dt id="mwB5M">beef</dt><dd id="mwB5Q">牛肉 (<i id="mwB5U">gyūniku</i>) / ビーフ (<i id="mwB5Y">bīfu</i>)</dd>
+<dt id="mwB5c">pork</dt><dd id="mwB5g">豚肉 (<i id="mwB5k">butaniku</i>) / ポーク (<i id="mwB5o">pōku</i>)</dd>
+<dt id="mwB5s">mutton</dt><dd id="mwB5w">マトン (<i id="mwB50">maton</i>) / 羊肉 (<i id="mwB54">yōniku</i>)</dd>
+<dt id="mwB58">lamb</dt><dd id="mwB6A">ラム(肉) (<i id="mwB6E">ramu(-niku)</i>)</dd>
+<dt id="mwB6I">fish</dt><dd id="mwB6M">魚 (<i id="mwB6Q">sakana</i>)</dd>
+<dt id="mwB6U">ham</dt><dd id="mwB6Y">ハム (<i id="mwB6c">hamu</i>)</dd>
+<dt id="mwB6g">sausage</dt><dd id="mwB6k">ソーセージ (<i id="mwB6o">sōsēji</i>)</dd>
+<dt id="mwB6s">cheese</dt><dd id="mwB6w">チーズ (<i id="mwB60">chīzu</i>)</dd>
+<dt id="mwB64">eggs</dt><dd id="mwB68">卵 / 玉子 (<i id="mwB7A">tamago</i>)</dd>
+<dt id="mwB7E">salad</dt><dd id="mwB7I">サラダ (<i id="mwB7M">sarada</i>)</dd>
+<dt id="mwB7Q">(fresh) vegetables</dt><dd id="mwB7U">(新鮮な)野菜 (<i id="mwB7Y"> (shinsen-na) yasai</i>)</dd>
+<dt id="mwB7c">(fresh) fruit</dt><dd id="mwB7g">(新鮮な)果物 (<i id="mwB7k"> (shinsen-na) kudamono</i>)</dd>
+<dt id="mwB7o">bread</dt><dd id="mwB7s">パン (<i id="mwB7w">pan</i>)</dd>
+<dt id="mwB70">toast</dt><dd id="mwB74">トースト (<i id="mwB78">tōsuto</i>)</dd>
+<dt id="mwB8A">noodles</dt><dd id="mwB8E">麺類 (<i id="mwB8I">menrui</i>)</dd>
+<dt id="mwB8M">pasta</dt><dd id="mwB8Q">パスタ (<i id="mwB8U">pasuta</i>)</dd>
+<dt id="mwB8Y">cooked rice</dt><dd id="mwB8c">ご飯 (<i id="mwB8g">gohan</i>)</dd>
+<dt id="mwB8k">raw rice</dt><dd id="mwB8o">米 (<i id="mwB8s">kome</i>)</dd>
+<dt id="mwB8w">soup</dt><dd id="mwB80">スープ<span typeof="mw:DisplaySpace" id="mwB84"> </span>: (<i id="mwB88">sūpu</i>)</dd>
+<dt id="mwB9A">beans</dt><dd id="mwB9E">豆 (<i id="mwB9I">mame</i>)</dd>
+<dt id="mwB9M">May I have a glass/cup of _____?</dt><dd id="mwB9Q">_____ を一杯下さい。 (<i id="mwB9U">____ wo ippai kudasai.</i>)</dd>
+<dt id="mwB9Y">May I have a bottle of _____?</dt><dd id="mwB9c">_____ を一本下さい。 (<i id="mwB9g">_____ wo ippon kudasai.</i>)</dd>
+<dt id="mwB9k">coffee</dt><dd id="mwB9o">コーヒー (<i id="mwB9s">kōhī</i>)</dd>
+<dt id="mwB9w">green tea</dt><dd id="mwB90">緑茶(<i id="mwB94">ryokucha</i>) / お茶 (<i id="mwB98">ocha</i>)</dd>
+<dt id="mwB-A">black tea</dt><dd id="mwB-E">紅茶 (<i id="mwB-I">kōcha</i>)</dd>
+<dt id="mwB-M">juice</dt><dd id="mwB-Q">ジュース(<i id="mwB-U">jūsu</i>) / 果汁 (<i id="mwB-Y">kajū</i>)</dd>
+<dt id="mwB-c">milk</dt><dd id="mwB-g">ミルク (<i id="mwB-k">miruku</i>) / 牛乳 (<i id="mwB-o">gyūnyū</i>) (The latter specifically refers to cow's milk.)</dd>
+<dt id="mwB-s">water</dt><dd id="mwB-w">水 (<i id="mwB-0">mizu</i>)</dd>
+<dt id="mwB-4">beer</dt><dd id="mwB-8">ビール (<i id="mwB_A">bīru</i>)</dd>
+<dt id="mwB_E">red/white wine</dt><dd id="mwB_I">赤/白ワイン (<i id="mwB_M">aka/shiro wain</i>)</dd>
+<dt id="mwB_Q">Do you have _____?</dt><dd id="mwB_U">_____ はありますか? (<i id="mwB_Y">_____ wa arimasu ka?</i>)</dd>
+<dt id="mwB_c">chopsticks</dt><dd id="mwB_g">お箸 (<i id="mwB_k">o-hashi</i>)</dd>
+<dt id="mwB_o">fork</dt><dd id="mwB_s">フォーク (<i id="mwB_w">fōku</i>)</dd>
+<dt id="mwB_0">spoon</dt><dd id="mwB_4">スプーン (<i id="mwB_8">supūn</i>)</dd>
+<dt id="mwCAA">sugar</dt><dd id="mwCAE">砂糖 (<i id="mwCAI">satō</i>)</dd>
+<dt id="mwCAM">salt</dt><dd id="mwCAQ">塩 (<i id="mwCAU">shio</i>)</dd>
+<dt id="mwCAY">black pepper</dt><dd id="mwCAc">胡椒 (<i id="mwCAg">koshō</i>)</dd>
+<dt id="mwCAk">soy sauce</dt><dd id="mwCAo">醤油 (<i id="mwCAs">shōyu</i>)</dd>
+<dt id="mwCAw">ashtray</dt><dd id="mwCA0">灰皿 (<i id="mwCA4">haizara</i>)</dd>
+<dt id="mwCA8">Excuse me, waiter? (<i id="mwCBA">getting attention of server</i>)</dt><dd id="mwCBE">すみません。 (<i id="mwCBI">sumimasen</i>)</dd>
+<dt id="mwCBM">(when starting a meal)</dt><dd id="mwCBQ">いただきます。(itadakimasu)</dd>
+<dt id="mwCBU">It was delicious. (when finishing a meal)</dt><dd id="mwCBY">ご馳走さまでした。 (<i id="mwCBc">Gochisōsama deshita.</i>)</dd>
+<dt id="mwCBg">Please clear the plates.</dt><dd id="mwCBk">お皿を下げてください。 (<i id="mwCBo">Osara o sagete kudasai.</i>)</dd>
+<dt id="mwCBs">The check, please.</dt><dd id="mwCBw">お勘定お願いします。 (<i id="mwCB0">O-kanjo onegaishimasu.</i>) / 会計お願いします。 (<i id="mwCB4">Kaikei onegaishimasu</i>)</dd></dl>
+
+</section><section data-mw-section-id="37" id="mwCB8" aria-labelledby="On_the_phone"><div class="mw-heading mw-heading3"><h3 id="On_the_phone">On the phone</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=37" title="Edit section: On the phone"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwCCA"><dt id="mwCCE">Telephone</dt><dd id="mwCCI">電話 <i id="mwCCM">denwa</i></dd>
+<dt id="mwCCQ">Mobile phone</dt><dd id="mwCCU">携帯(電話)　<i id="mwCCY">kētai</i>(denwa)</dd>
+<dt id="mwCCc">Telephone number</dt><dd id="mwCCg">電話番号 <i id="mwCCk">denwa bangō</i></dd>
+<dt id="mwCCo">Phone book</dt><dd id="mwCCs">電話帳 <i id="mwCCw">denwa chō</i></dd>
+<dt id="mwCC0">Answering machine</dt><dd id="mwCC4">留守番電話 <i id="mwCC8">rusuban denwa</i></dd>
+<dt id="mwCDA">Hello (only on the phone)</dt><dd id="mwCDE">もしもし <i id="mwCDI">moshi moshi</i></dd>
+<dt id="mwCDM">May I speak to ... .</dt><dd id="mwCDQ">... をお願いします。<i id="mwCDU">... wo onegaishimasu.</i></dd>
+<dt id="mwCDY">Is ... there?</dt><dd id="mwCDc">... はいらっしゃいますか？ <i id="mwCDg">... wa irasshaimasu ka?</i></dd>
+<dt id="mwCDk">Who is calling?</dt><dd id="mwCDo">どなたですか？ <i id="mwCDs">Donata desu ka?</i></dd>
+<dt id="mwCDw">One moment, please.</dt><dd id="mwCD0">ちょっとお待ちください。 <i id="mwCD4">Chotto omachi kudasai.</i></dd>
+<dt id="mwCD8">... is not here right now.</dt><dd id="mwCEA">... は今いません。 <i id="mwCEE">... wa ima imasen.</i></dd>
+<dt id="mwCEI">I will call you again later.</dt><dd id="mwCEM">後でまた電話します。 <i id="mwCEQ">Ato de mata denwa shimasu.</i></dd>
+<dt id="mwCEU">I got the wrong number.</dt><dd id="mwCEY">間違えました。 <i id="mwCEc">Machigaemashita.</i></dd>
+<dt id="mwCEg">The line is busy.</dt><dd id="mwCEk">話し中です。 <i id="mwCEo">Hanashichū desu.</i></dd>
+<dt id="mwCEs">What is your phone number?</dt><dd id="mwCEw">電話番号は何番ですか？ <i id="mwCE0">Denwa bangō wa nanban desu ka?</i></dd></dl>
+
+</section><section data-mw-section-id="38" id="mwCE4" aria-labelledby="Bars"><div class="mw-heading mw-heading3"><h3 id="Bars">Bars</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=38" title="Edit section: Bars"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<span class="mw-empty-elt" about="#mwt72" typeof="mw:Transclusion" id="mwCE8" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infobox&quot;,&quot;href&quot;:&quot;./Template:Infobox&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Sake talk&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;Sake, known in Japanese as 日本酒 ''nihonshu'', has a vocabulary all its own.  Here is a brief introduction.\n; ''atsukan'' : 熱燗 Heated sake.  Recommended only in winter with cheap sake.\n; ''nurukan'' : ぬる燗 Heated sake in luke warm temperature below 40C. Recommended for any season with average sake.\n; ''hiya'' : 冷や Sake at room temperature.\nNote: ''ohiya'' お冷や means cold/iced water.\n; ''reishu'' : 冷酒 Chilled sake.  The way to drink better sake.\n; ''choko'' : ちょこ A tiny gulp-sized ceramic cup for sake.\n; ''masu'' : 升 A square wooden box traditionally used to drink chilled sake, also contains one ''gō''.  Drink from the corner. Also used as a \&quot;spiller\&quot; to overflow your glass of ''hiya'' as a compliment. You can prevent to spill by sipping with the masu placed on the table.\n; ''tokkuri'' : 徳利 A small ceramic jug used to pour sake, contains around one or two ''gō/gōs''\n; ''ichigō'' : 一合 The standard measure for servings of sake, around 180 milliliters.\n; ''isshōbin'' : 一升瓶 The standard sake bottle, containing 10 ''gō'', ie. 1.8 liters.\n\n&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt73" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt72">
+<tbody><tr><td>
+<div style="font-weight:bold;">Sake talk</div>
+
+<p>Sake, known in Japanese as 日本酒 <i>nihonshu</i>, has a vocabulary all its own.  Here is a brief introduction.</p>
+<dl><dt><i>atsukan</i></dt><dd>熱燗 Heated sake.  Recommended only in winter with cheap sake.</dd>
+<dt><i>nurukan</i></dt><dd>ぬる燗 Heated sake in luke warm temperature below 40C. Recommended for any season with average sake.</dd>
+<dt><i>hiya</i></dt><dd>冷や Sake at room temperature.</dd></dl>
+<p>Note: <i>ohiya</i> お冷や means cold/iced water.</p>
+<dl><dt><i>reishu</i></dt><dd>冷酒 Chilled sake.  The way to drink better sake.</dd>
+<dt><i>choko</i></dt><dd>ちょこ A tiny gulp-sized ceramic cup for sake.</dd>
+<dt><i>masu</i></dt><dd>升 A square wooden box traditionally used to drink chilled sake, also contains one <i>gō</i>.  Drink from the corner. Also used as a "spiller" to overflow your glass of <i>hiya</i> as a compliment. You can prevent to spill by sipping with the masu placed on the table.</dd>
+<dt><i>tokkuri</i></dt><dd>徳利 A small ceramic jug used to pour sake, contains around one or two <i>gō/gōs</i></dd>
+<dt><i>ichigō</i></dt><dd>一合 The standard measure for servings of sake, around 180 milliliters.</dd>
+<dt><i>isshōbin</i></dt><dd>一升瓶 The standard sake bottle, containing 10 <i>gō</i>, ie. 1.8 liters.</dd></dl>
+<p>
+<br/></p></td></tr>
+</tbody></table>
+
+<dl id="mwCFA"><dt id="mwCFE">Do you serve alcohol?</dt><dd id="mwCFI">お酒ありますか? (<i id="mwCFM">O-sake arimasu ka?</i>)</dd>
+<dt id="mwCFQ">Is there table service?</dt><dd id="mwCFU">テーブルサービスありますか? (<i id="mwCFY">Tēburu sābisu arimasu ka?</i>)</dd>
+<dt id="mwCFc">A beer/two beers, please.</dt><dd id="mwCFg">ビール一杯・二杯下さい。(<i id="mwCFk">Biiru ippai/nihai kudasai.</i>)</dd>
+<dt id="mwCFo">A glass of red/white wine, please.</dt><dd id="mwCFs">赤・白ワイン一杯下さい。(<i id="mwCFw">Aka/shiro wain ippai kudasai.</i>)</dd>
+<dt id="mwCF0">A mug (of beer), please.</dt><dd id="mwCF4">(ビールの)ジョッキ下さい。(<i id="mwCF8">(Bīru no) jokki kudasai.</i>)</dd>
+<dt id="mwCGA">A bottle, please.</dt><dd id="mwCGE">ビン下さい。 (<i id="mwCGI">Bin kudasai.</i>)</dd>
+<dt id="mwCGM">_____ (<i id="mwCGQ">hard liquor</i>) and _____ (<i id="mwCGU">mixer</i>), please.</dt><dd id="mwCGY">_____ と _____ 下さい。(<i id="mwCGc">_____ to _____ kudasai.</i>)</dd>
+<dt id="mwCGg">sake</dt><dd id="mwCGk">日本酒 (<i id="mwCGo">nihonshu</i>)</dd>
+<dt id="mwCGs">Japanese liquor</dt><dd id="mwCGw">焼酎 (<i id="mwCG0">shōchū</i>)</dd>
+<dt id="mwCG4">whiskey</dt><dd id="mwCG8">ウイスキー (<i id="mwCHA">uisukii</i>)</dd>
+<dt id="mwCHE">vodka</dt><dd id="mwCHI">ウォッカ (<i id="mwCHM">wokka</i>)</dd>
+<dt id="mwCHQ">rum</dt><dd id="mwCHU">ラム (<i id="mwCHY">ramu</i>)</dd>
+<dt id="mwCHc">water</dt><dd id="mwCHg">水 (<i id="mwCHk">mizu</i>)</dd>
+<dt id="mwCHo">club soda</dt><dd id="mwCHs">ソーダ (<i id="mwCHw">sōda</i>)</dd>
+<dt id="mwCH0">tonic water</dt><dd id="mwCH4">トニックウォーター (<i id="mwCH8">tonikku wōtā</i>)</dd>
+<dt id="mwCIA">orange juice</dt><dd id="mwCIE">オレンジジュース (<i id="mwCII">orenji jūsu</i>)</dd>
+<dt id="mwCIM">cola (<i id="mwCIQ">soda</i>)</dt><dd id="mwCIU">コーラ (<i id="mwCIY">kōra</i>)</dd>
+<dt id="mwCIc">with ice</dt><dd id="mwCIg">オンザロック (<i id="mwCIk">onzarokku (on the rocks)</i>)</dd>
+<dt id="mwCIo">Do you have any bar snacks?</dt><dd id="mwCIs">おつまみありますか? (<i id="mwCIw">O-tsumami arimasu ka?</i>)</dd>
+<dt id="mwCI0">One more, please.</dt><dd id="mwCI4">もう一つください。 (<i id="mwCI8">Mō hitotsu kudasai.</i>)</dd>
+<dt id="mwCJA">Another round, please.</dt><dd id="mwCJE">みんなに同じものを一杯ずつください。 (<i id="mwCJI">Minna ni onaji mono o ippai zutsu kudasai.</i>)</dd>
+<dt id="mwCJM">When is closing time?</dt><dd id="mwCJQ">閉店は何時ですか? (<i id="mwCJU">Heiten wa nanji desuka?</i>)</dd></dl>
+
+</section><section data-mw-section-id="39" id="mwCJY" aria-labelledby="Shopping"><div class="mw-heading mw-heading3"><h3 id="Shopping">Shopping</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=39" title="Edit section: Shopping"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<span class="mw-empty-elt" about="#mwt74" typeof="mw:Transclusion" id="mwCJc" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infobox&quot;,&quot;href&quot;:&quot;./Template:Infobox&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;O, honorable prefix!&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;Nearly any Japanese word can be prefixed with the respectful tags ''o-'' (お) or ''go-'' (ご or 御), often translated with the unwieldy four-syllable word \&quot;honorable\&quot;.  A few you might expect &amp;mdash; ''o-tōsan'' (お父さん) is \&quot;honorable father\&quot;, and a few you might not &amp;mdash; ''o-shiri'' (お尻) is \&quot;honorable buttocks\&quot;. Most of the time, they're used to emphasize that the speaker is referring to the listener, so if someone enquires if after your honorable health (お元気 ''o-genki'') it's proper to strip off the honorific and reply that you are merely ''genki''.  However, for some words like ''gohan'' (ご飯) \&quot;rice\&quot; and ''ocha'' (お茶) \&quot;tea\&quot;, the prefix is inseparable and should always be used.  In this phrasebook, the prefix is separated with a hyphen if it's optional (''o-kane''), and joined to the word if it's mandatory (''oisha''). &quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt75" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt74">
+<tbody><tr><td>
+<div style="font-weight:bold;">O, honorable prefix!</div>
+
+<p>Nearly any Japanese word can be prefixed with the respectful tags <i>o-</i> (お) or <i>go-</i> (ご or 御), often translated with the unwieldy four-syllable word "honorable".  A few you might expect <span typeof="mw:Entity">—</span> <i>o-tōsan</i> (お父さん) is "honorable father", and a few you might not <span typeof="mw:Entity">—</span> <i>o-shiri</i> (お尻) is "honorable buttocks". Most of the time, they're used to emphasize that the speaker is referring to the listener, so if someone enquires if after your honorable health (お元気 <i>o-genki</i>) it's proper to strip off the honorific and reply that you are merely <i>genki</i>.  However, for some words like <i>gohan</i> (ご飯) "rice" and <i>ocha</i> (お茶) "tea", the prefix is inseparable and should always be used.  In this phrasebook, the prefix is separated with a hyphen if it's optional (<i>o-kane</i>), and joined to the word if it's mandatory (<i>oisha</i>). </p></td></tr>
+</tbody></table>
+
+<dl id="mwCJg"><dt id="mwCJk">Do you have this in my size?</dt><dd id="mwCJo">私のサイズでありますか？ (<i id="mwCJs">Watashi no saizu de arimasu ka?</i>)</dd>
+<dt id="mwCJw">How much is this?</dt><dd id="mwCJ0">いくらですか？ (<i id="mwCJ4">Ikura desu ka?</i>)</dd>
+<dt id="mwCJ8">That's too expensive.</dt><dd id="mwCKA">高過ぎます。 (<i id="mwCKE">Takasugimasu.</i>)</dd>
+<dt id="mwCKI">Would you take _____?</dt><dd id="mwCKM">_____円(で)はどうですか？ (<i id="mwCKQ">_____ yen (de) wa dō desu ka?</i>)</dd>
+<dt id="mwCKU">expensive</dt><dd id="mwCKY">高い (<i id="mwCKc">takai</i>)</dd>
+<dt id="mwCKg">cheap</dt><dd id="mwCKk">安い (<i id="mwCKo">yasui</i>)</dd>
+<dt id="mwCKs">I can't afford it.</dt><dd id="mwCKw">そんなにお金がありません。 (<i id="mwCK0">Sonna ni okane ga arimasen.</i>)</dd>
+<dt id="mwCK4">I don't want it.</dt><dd id="mwCK8">要りません。 (<i id="mwCLA">Irimasen.</i>)</dd>
+<dt id="mwCLE">You're cheating me, aren't you?</dt><dd id="mwCLI">騙してるでしょう？ (<i id="mwCLM">Damashiteru deshō?</i>) <b id="mwCLQ">Use with caution!</b></dd>
+<dt id="mwCLU">I'm not interested.</dt><dd id="mwCLY">興味ありません。 (<i id="mwCLc">Kyōmi arimasen.</i>)</dd>
+<dt id="mwCLg">OK, I'll take it.</dt><dd id="mwCLk">はい、それにします。 (<i id="mwCLo">Hai, sore ni shimasu.</i>)</dd>
+<dt id="mwCLs">Can I have a bag?</dt><dd id="mwCLw">袋を貰えますか？ (<i id="mwCL0">Fukuro o moraemasu ka?</i>) or 袋をください (<i id="mwCL4">Fukuro o kudasai</i>)</dd>
+<dt id="mwCL8">Do you ship (overseas)?</dt><dd id="mwCMA">海外へ発送出来ますか？ (<i id="mwCME">Kaigai e hassō dekimasu ka?</i>)</dd>
+<dt id="mwCMI">I need...</dt><dd id="mwCMM">___が欲しいです。 (<i id="mwCMQ">____ ga hoshii desu.</i>)</dd>
+<dt id="mwCMU">...spectacles.</dt><dd id="mwCMY">眼鏡 (<i id="mwCMc">megane</i>)</dd>
+<dt id="mwCMg">...toothpaste.</dt><dd id="mwCMk">歯磨き粉 (<i id="mwCMo">hamigakiko</i>)</dd>
+<dt id="mwCMs">...a toothbrush.</dt><dd id="mwCMw">歯ブラシ (<i id="mwCM0">ha-burashi</i>)</dd>
+<dt id="mwCM4">...tampons.</dt><dd id="mwCM8">タンポン (<i id="mwCNA">tampon</i>)</dd>
+<dt id="mwCNE">...soap.</dt><dd id="mwCNI">洗剤(<i id="mwCNM">senzai</i>, liquid or powder ), 石鹸 (<i id="mwCNQ">sekken</i>, bar soap)</dd>
+<dt id="mwCNU">...shampoo.</dt><dd id="mwCNY">シャンプー (<i id="mwCNc">shampū</i>)</dd>
+<dt id="mwCNg">...pain reliever. (<i id="mwCNk">e.g., aspirin or ibuprofen</i>)</dt><dd id="mwCNo">鎮痛剤 (<i id="mwCNs">chintsūzai</i>)</dd>
+<dt id="mwCNw">...cold medicine.</dt><dd id="mwCN0">風邪薬 (<i id="mwCN4">kazegusuri</i>)</dd>
+<dt id="mwCN8">...stomach medicine.</dt><dd id="mwCOA">胃腸薬 (<i id="mwCOE">ichōyaku</i>)</dd>
+<dt id="mwCOI">...a razor.</dt><dd id="mwCOM">剃刀 (<i id="mwCOQ">kamisori</i>)</dd>
+<dt id="mwCOU">...an umbrella.</dt><dd id="mwCOY">傘 (<i id="mwCOc">kasa</i>)</dd>
+<dt id="mwCOg">...sunblock lotion.</dt><dd id="mwCOk">日焼け止め (<i id="mwCOo">hiyakedome</i>)</dd>
+<dt id="mwCOs">...a postcard.</dt><dd id="mwCOw">葉書 (<i id="mwCO0">hagaki</i>)</dd>
+<dt id="mwCO4">...postage stamps.</dt><dd id="mwCO8">切手 (<i id="mwCPA">kitte</i>)</dd>
+<dt id="mwCPE">...batteries.</dt><dd id="mwCPI">電池 (<i id="mwCPM">denchi</i>)</dd>
+<dt id="mwCPQ">...writing paper.</dt><dd id="mwCPU">紙 (<i id="mwCPY">kami</i>)</dd>
+<dt id="mwCPc">...a pen.</dt><dd id="mwCPg">ペン (<i id="mwCPk">pen</i>)</dd>
+<dt id="mwCPo">...a pencil.</dt><dd id="mwCPs">鉛筆 (<i id="mwCPw">empitsu</i>)</dd>
+<dt id="mwCP0">...English-language books.</dt><dd id="mwCP4">英語の本 (<i id="mwCP8">eigo no hon</i>)</dd>
+<dt id="mwCQA">...English-language magazines.</dt><dd id="mwCQE">英語の雑誌 (<i id="mwCQI">eigo no zasshi</i>)</dd>
+<dt id="mwCQM">...an English-language newspaper.</dt><dd id="mwCQQ">英字新聞 (<i id="mwCQU">ēji shinbun</i>)</dd>
+<dt id="mwCQY">...a Japanese-English dictionary.</dt><dd id="mwCQc">和英辞典 (<i id="mwCQg">waē jiten</i>)</dd>
+<dt id="mwCQk">...an English-Japanese dictionary.</dt><dd id="mwCQo">英和辞典 (<i id="mwCQs">ēwa jiten</i>)</dd></dl>
+
+</section><section data-mw-section-id="40" id="mwCQw" aria-labelledby="Family"><div class="mw-heading mw-heading3"><h3 id="Family">Family</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=40" title="Edit section: Family"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwCQ0"><dt id="mwCQ4">Are you married?</dt><dd id="mwCQ8">結婚していますか? (<i id="mwCRA">Kekkon shiteimasu ka?</i>)</dd>
+<dt id="mwCRE">I am married.</dt><dd id="mwCRI">結婚しています。 (<i id="mwCRM">Kekkon shiteimasu.</i>)</dd>
+<dt id="mwCRQ">I am single.</dt><dd id="mwCRU">独身です。 (<i id="mwCRY">Dokushin desu</i>)</dd>
+<dt id="mwCRc">Do you have brothers and sisters?</dt><dd id="mwCRg">兄弟はいますか? (<i id="mwCRk">Kyōdai wa imasu ka?</i>)</dd>
+<dt id="mwCRo">Do you have children?</dt><dd id="mwCRs">子供はいますか? (<i id="mwCRw">Kodomo wa imasu ka?</i>)</dd></dl>
+
+<section data-mw-section-id="41" id="mwCR0" aria-labelledby="Talking_about_your_own_family"><div class="mw-heading mw-heading4"><h4 id="Talking_about_your_own_family">Talking about your own family</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=41" title="Edit section: Talking about your own family"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<span class="mw-empty-elt" about="#mwt76" typeof="mw:Transclusion" id="mwCR4" data-mw='{"parts":[{"template":{"target":{"wt":"infobox","href":"./Template:Infobox"},"params":{"1":{"wt":"Family ties"},"2":{"wt":"In Japanese, it&apos;s always important to use less respectful terms for your own family and more respectful terms for another&apos;s family.  Note also that the words for older/younger brother/sister are different."}},"i":0}}]}'><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt77" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt76">
+<tbody><tr><td>
+<div style="font-weight:bold;">Family ties</div>
+
+<p>In Japanese, it's always important to use less respectful terms for your own family and more respectful terms for another's family.  Note also that the words for older/younger brother/sister are different.</p></td></tr>
+</tbody></table>
+
+<dl id="mwCR8"><dt id="mwCSA">Father</dt><dd id="mwCSE">父 (<i id="mwCSI">chichi</i>)</dd>
+<dt id="mwCSM">Mother</dt><dd id="mwCSQ">母 (<i id="mwCSU">haha</i>)</dd>
+<dt id="mwCSY">Older Brother</dt><dd id="mwCSc">兄 (<i id="mwCSg">ani</i>)</dd>
+<dt id="mwCSk">Older Sister</dt><dd id="mwCSo">姉 (<i id="mwCSs">ane</i>)</dd>
+<dt id="mwCSw">Younger Brother</dt><dd id="mwCS0">弟 (<i id="mwCS4">otōto</i>)</dd>
+<dt id="mwCS8">Younger Sister</dt><dd id="mwCTA">妹 (<i id="mwCTE">imōto</i>)</dd>
+<dt id="mwCTI">Grandfather</dt><dd id="mwCTM">祖父 (<i id="mwCTQ">sofu</i>)</dd>
+<dt id="mwCTU">Grandmother</dt><dd id="mwCTY">祖母 (<i id="mwCTc">sobo</i>)</dd>
+<dt id="mwCTg">Uncle</dt><dd id="mwCTk">叔父/伯父 (<i id="mwCTo">oji</i>)</dd>
+<dt id="mwCTs">Aunt</dt><dd id="mwCTw">叔母/伯母 (<i id="mwCT0">oba</i>)</dd>
+<dt id="mwCT4">Husband</dt><dd id="mwCT8">夫 (<i id="mwCUA">otto</i>) / 主人 (<i id="mwCUE">shujin</i>)</dd>
+<dt id="mwCUI">Wife</dt><dd id="mwCUM">妻 (<i id="mwCUQ">tsuma</i>) / 家内 (<i id="mwCUU">kanai</i>)</dd>
+<dt id="mwCUY">Son</dt><dd id="mwCUc">息子 (<i id="mwCUg">musuko</i>)</dd>
+<dt id="mwCUk">Daughter</dt><dd id="mwCUo">娘 (<i id="mwCUs">musume</i>)</dd>
+<dt id="mwCUw">Grandchild</dt><dd id="mwCU0">孫　(<i id="mwCU4">mago</i>)</dd></dl>
+
+</section><section data-mw-section-id="42" id="mwCU8" aria-labelledby="Talking_about_another's_family"><div class="mw-heading mw-heading4"><h4 id="Talking_about_another's_family"><span id="Talking_about_another.27s_family" typeof="mw:FallbackId"></span>Talking about another's family</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=42" title="Edit section: Talking about another's family"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwCVA"><dt id="mwCVE">Father</dt><dd id="mwCVI">お父さん (<i id="mwCVM">otōsan</i>)</dd>
+<dt id="mwCVQ">Mother</dt><dd id="mwCVU">お母さん (<i id="mwCVY">okāsan</i>)</dd>
+<dt id="mwCVc">Older Brother</dt><dd id="mwCVg">お兄さん (<i id="mwCVk">onīsan</i>)</dd>
+<dt id="mwCVo">Older Sister</dt><dd id="mwCVs">お姉さん (<i id="mwCVw">onēsan</i>)</dd>
+<dt id="mwCV0">Younger Brother</dt><dd id="mwCV4">弟さん (<i id="mwCV8">otōtosan</i>)</dd>
+<dt id="mwCWA">Younger Sister</dt><dd id="mwCWE">妹さん (<i id="mwCWI">imōtosan</i>)</dd>
+<dt id="mwCWM">Grandfather</dt><dd id="mwCWQ">おじいさん (<i id="mwCWU">ojīsan</i>)</dd>
+<dt id="mwCWY">Grandmother</dt><dd id="mwCWc">おばあさん (<i id="mwCWg">obāsan</i>)</dd>
+<dt id="mwCWk">Uncle</dt><dd id="mwCWo">おじさん (<i id="mwCWs">ojisan</i>)</dd>
+<dt id="mwCWw">Aunt</dt><dd id="mwCW0">おばさん (<i id="mwCW4">obasan</i>)</dd>
+<dt id="mwCW8">Husband</dt><dd id="mwCXA">ご主人 (<i id="mwCXE">goshujin</i>)</dd>
+<dt id="mwCXI">Wife</dt><dd id="mwCXM">奥さん (<i id="mwCXQ">okusan</i>)</dd>
+<dt id="mwCXU">Son</dt><dd id="mwCXY">息子さん (<i id="mwCXc">musukosan</i>)</dd>
+<dt id="mwCXg">Daughter</dt><dd id="mwCXk">お嬢さん (<i id="mwCXo">ojōsan</i>)</dd>
+<dt id="mwCXs">Grandchild</dt><dd id="mwCXw">お孫さん　(<i id="mwCX0">omagosan</i>)</dd></dl>
+
+</section></section><section data-mw-section-id="43" id="mwCX4" aria-labelledby="Driving"><div class="mw-heading mw-heading3"><h3 id="Driving">Driving</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=43" title="Edit section: Driving"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwCX8"><dt id="mwCYA">I want to rent a car.</dt><dd id="mwCYE">レンタカーお願いします。 (<i id="mwCYI">Rentakā (rent-a-car) onegaishimasu.</i>) 0:01</dd>
+<dt id="mwCYM">Can I get insurance?</dt><dd id="mwCYQ">保険入れますか? (<i id="mwCYU">Hoken hairemasu ka?</i>) 0:12</dd>
+<dt id="mwCYY">Do you have a driver's license?</dt><dd id="mwCYc">免許証を持っていますか? (<i id="mwCYg">Menkyoshō wo motteimasu ka?</i>) 0:38</dd>
+<dt id="mwCYk">stop (<i id="mwCYo">on a street sign</i>)</dt><dd id="mwCYs">止まれ／とまれ (<i id="mwCYw">tomare</i>) 0:40</dd>
+<dt id="mwCY0">one way</dt><dd id="mwCY4">一方通行 (<i id="mwCY8">ippō tsūkō</i>) 0:51</dd>
+<dt id="mwCZA">caution</dt><dd id="mwCZE">徐行 (<i id="mwCZI">jokō</i>) 1:05</dd>
+<dt id="mwCZM">road blocked</dt><dd id="mwCZQ">通行止め (<i id="mwCZU">tsūkōdome</i>) 1:16</dd>
+<dt id="mwCZY">no parking</dt><dd id="mwCZc">駐車禁止 (<i id="mwCZg">chūsha kinshi</i>) 1:20</dd>
+<dt id="mwCZk">speed limit</dt><dd id="mwCZo">制限速度 (<i id="mwCZs">seigen sokudo</i>) 1:23</dd>
+<dt id="mwCZw">gas (<i id="mwCZ0">petrol</i>) station</dt><dd id="mwCZ4">ガソリンスタンド (<i id="mwCZ8">gasorin sutando</i>) 1:40</dd>
+<dt id="mwCaA">petrol</dt><dd id="mwCaE">ガソリン (<i id="mwCaI">gasorin</i>) 52:33</dd>
+<dt id="mwCaM">diesel</dt><dd id="mwCaQ">軽油/ディーゼル (<i id="mwCaU">keiyu / diizeru</i>) 1:02:31</dd></dl>
+
+</section><section data-mw-section-id="44" id="mwCaY" aria-labelledby="Authority"><div class="mw-heading mw-heading3"><h3 id="Authority">Authority</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=44" title="Edit section: Authority"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwCac">In Japan, you can legally be incarcerated for twenty-three (23) days before you are charged, but you do have the right to see a lawyer after the first 48 hours of detention.  Note that if you sign a confession, you <i id="mwCag">will</i> be convicted.</p>
+
+<dl id="mwCak"><dt id="mwCao">I haven't done anything (wrong).</dt><dd id="mwCas">何も(悪いことを)していません。(<i id="mwCaw">Nani mo (warui koto wo) shiteimasen.</i>)</dd>
+<dt id="mwCa0">It was a misunderstanding.</dt><dd id="mwCa4">誤解でした。 (<i id="mwCa8">Gokai deshita.</i>)</dd>
+<dt id="mwCbA">Where are you taking me?</dt><dd id="mwCbE">どこへ連れて行くのですか？ (<i id="mwCbI">Doko e tsurete yukuno desu ka?</i>)</dd>
+<dt id="mwCbM">Am I under arrest?</dt><dd id="mwCbQ">私は逮捕されてるのですか？ (<i id="mwCbU">Watashi wa taiho sareteruno desu ka?</i>)</dd>
+<dt id="mwCbY">I am a citizen of ____.</dt><dd id="mwCbc">____　の国民です。 (<i id="mwCbg">____ no kokumin desu.</i>)</dd>
+<dt id="mwCbk">I want to meet with the ____ embassy.</dt><dd id="mwCbo">____ 大使館と会わせて下さい。 (<i id="mwCbs">____ taishikan to awasete kudasai.</i>)</dd>
+<dt id="mwCbw">I want to meet with a lawyer.</dt><dd id="mwCb0">弁護士と会わせて下さい。(<i id="mwCb4">Bengoshi to awasete kudasai.</i>)</dd>
+<dt id="mwCb8">Can it be settled with a fine?</dt><dd id="mwCcA">罰金で済みますか？ (<i id="mwCcE">Bakkin de sumimasu ka?</i>)<br id="mwCcI"/>Note: You can say this to a traffic cop, but bribery is highly unlikely to work in Japan.</dd></dl>
+
+</section><section data-mw-section-id="45" id="mwCcM" aria-labelledby="Typical_Japanese_expressions"><div class="mw-heading mw-heading3"><h3 id="Typical_Japanese_expressions">Typical Japanese expressions</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=45" title="Edit section: Typical Japanese expressions"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<span class="mw-empty-elt" about="#mwt78" typeof="mw:Transclusion" id="mwCcQ" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infobox&quot;,&quot;href&quot;:&quot;./Template:Infobox&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Four syllable words&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;If words can be shortened, Japanese will inevitably shorten them. Two by two syllables is often the sweet spot, and sometimes it's hard to guess where those came from.\n\n; コンビニ ''konbini'' : → コンビニエンスストア ''konbiniensu sutoa'', convenience store.\n; デジカメ ''deji kame'' : → デジタルカメラ ''dejitaru kamera'', a digital camera.\n; パソコン ''pasokon'' : → パーソナルコンピューター ''pāsonaru konpyūtā'', a personal computer. ノート ''nōto'' stands for notebooks.\n; プリクラ ''purikura'' : → プリントクラブ ''purinto kurabu'' or \&quot;print club\&quot;. A sort of extremely flashy photo booth and a favourite pastime for many.\n; リモコン ''rimokon'' : → リモートコントロール ''rimōto kontorōru'', remote control\n; ケイワイ ''kei wai'' : → 空気読めない '''''k'''ūki '''y'''omenai'', \&quot;can't read the air\&quot;, meaning an unperceptive person who can't read between the lines/can't keep up with a conversation.\n&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt79" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt78">
+<tbody><tr><td>
+<div style="font-weight:bold;">Four syllable words</div>
+
+<p>If words can be shortened, Japanese will inevitably shorten them. Two by two syllables is often the sweet spot, and sometimes it's hard to guess where those came from.</p>
+
+<dl><dt>コンビニ <i>konbini</i></dt><dd>→ コンビニエンスストア <i>konbiniensu sutoa</i>, convenience store.</dd>
+<dt>デジカメ <i>deji kame</i></dt><dd>→ デジタルカメラ <i>dejitaru kamera</i>, a digital camera.</dd>
+<dt>パソコン <i>pasokon</i></dt><dd>→ パーソナルコンピューター <i>pāsonaru konpyūtā</i>, a personal computer. ノート <i>nōto</i> stands for notebooks.</dd>
+<dt>プリクラ <i>purikura</i></dt><dd>→ プリントクラブ <i>purinto kurabu</i> or "print club". A sort of extremely flashy photo booth and a favourite pastime for many.</dd>
+<dt>リモコン <i>rimokon</i></dt><dd>→ リモートコントロール <i>rimōto kontorōru</i>, remote control</dd>
+<dt>ケイワイ <i>kei wai</i></dt><dd>→ 空気読めない <i><b>k</b>ūki <b>y</b>omenai</i>, "can't read the air", meaning an unperceptive person who can't read between the lines/can't keep up with a conversation.</dd></dl></td></tr>
+
+</tbody></table>
+
+<dl id="mwCcU"><dt id="mwCcY">そうですね。 <i id="mwCcc">Sō desu ne.</i></dt><dd id="mwCcg">"That's how it is, isn't it?"<br id="mwCck"/>General agreement. Especially old people can be heard going <i id="mwCco">sō desu ne</i> back and forth quite a few times.</dd>
+<dt id="mwCcs">（大変）お待たせしました。 <i id="mwCcw">(Taihen) omataseshimashita.</i></dt><dd id="mwCc0">"I have made you wait (terribly) long."<br id="mwCc4"/>Used as an excuse after any amount of downtime, even just seconds. Often also used as a starter to get things going again.</dd>
+<dt id="mwCc8">お疲れさまでした。 <i id="mwCdA">Otsukaresama deshita.</i></dt><dd id="mwCdE">"It's been honorably tiresome."<br id="mwCdI"/>To colleagues in the sense of "you gave it all, good work", but more generally at the end of almost any activity.</dd>
+<dt id="mwCdM">頑張って！ <i id="mwCdQ">Ganbatte!</i></dt><dd id="mwCdU">"Give it your best!"<br id="mwCdY"/>Meant to be encouraging and motivating. <b id="mwCdc">頑張れ！ <i id="mwCdg">Ganbare!</i></b> in stronger cheering.</dd>
+<dt id="mwCdk">いただきます。 <i id="mwCdo">Itadakimasu.</i></dt><dd id="mwCds">"I will receive."<br id="mwCdw"/>To yourself before starting to eat or when accepting something offered to you.</dd>
+<dt id="mwCd0">失礼します。 <i id="mwCd4">Shitsurei shimasu.</i></dt><dd id="mwCd8">"I will trouble you." or "I will be impolite."<br id="mwCeA"/>When entering your superiors room or an unfamiliar house, when trying to get someone's attention or generally when interrupting someone.</dd>
+<dt id="mwCeE">失礼しました。 <i id="mwCeI">Shitsurei shimashita.</i></dt><dd id="mwCeM">"I have troubled you." or "Excuse my impoliteness."<br id="mwCeQ"/>When leaving your superiors room or an unfamiliar house or generally as "Sorry to have bothered you, carry on."</dd>
+<dt id="mwCeU">大丈夫。 <i id="mwCeY">Daijōbu.</i></dt><dd id="mwCec">"It is alright."<br id="mwCeg"/>For general reassurance. Used with <i id="mwCek">desu ka?</i> to inquire if something or somebody is alright.</dd>
+<dt id="mwCeo">凄い！ <i id="mwCes">Sugoi!</i></dt><dd id="mwCew">"Great!", "Incredible!"<br id="mwCe0"/>Very popular amongst girls and greatly overused.</dd>
+<dt id="mwCe4">可愛い！ <i id="mwCe8">Kawaii!</i></dt><dd id="mwCfA">"How cute!"<br id="mwCfE"/>See <i id="mwCfI">sugoi</i>.</dd>
+<dt id="mwCfM">ええぇ〜 <i id="mwCfQ">Eee~</i></dt><dd id="mwCfU">"Reallyyyyyyy~?"<br id="mwCfY"/>Almost a standard reaction to any kind of news. Can be lengthened indefinitely and is hence useful to stall for time when thinking about a real answer.</dd>
+<dt id="mwCfc">ウソ！ <i id="mwCfg">Uso!</i></dt><dd id="mwCfk">"Lie!"<br id="mwCfo"/>Doesn't necessarily accuse one of lying, usually used in the sense of "Seriously?!"</dd></dl>
+
+</section><section data-mw-section-id="46" id="mwCfs" aria-labelledby="Honorifics"><div class="mw-heading mw-heading3"><h3 id="Honorifics">Honorifics</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=46" title="Edit section: Honorifics"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwCfw">Japanese makes extensive use of honorific language (敬語 <i id="mwCf0">keigo</i>) when talking to people of higher status. Keigo is famously difficult to master and even Japanese salespeople often need to take special courses to learn to speak correctly. As a foreigner, you will generally not be expected to use keigo, but it is very commonly used in situations like salespeople talking to customers and public announcements, so having at least passive familiarity with the most common <i id="mwCf4">keigo</i> verbs and constructs will come in very useful.</p>
+
+<section data-mw-section-id="47" id="mwCf8" aria-labelledby="Respectful_form"><div class="mw-heading mw-heading4"><h4 id="Respectful_form">Respectful form</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=47" title="Edit section: Respectful form"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwCgA">When talking to someone of higher status than yourself, it is important to use a respectful form (尊敬語 <i id="mwCgE">sonkeigo</i>) when talking about the other person. Generally, this follows the pattern お～になる(<i id="mwCgI">o ~ ni naru</i>), where ～ represents the stem of the basic polite form: eg. to read, 読む(<i id="mwCgM">yomu</i>), basic polite form 読みます(<i id="mwCgQ">yomimasu</i>) becomes お読みになる(<i id="mwCgU">o-yomi-ni-naru</i>). The <i id="mwCgY">naru</i> at the end follows the normal conjugation patterns for <i id="mwCgc">naru</i>, most commonly becoming <i id="mwCgg">narimasu</i> (present) or <i id="mwCgk">narimashita</i> (past). The main exceptions are listed below:</p>
+
+<ul id="mwCgo"><li id="mwCgs">To see: 見る becomes ご覧になる (<i id="mwCgw">goran-ni-naru</i>).</li>
+<li id="mwCg0">To eat/drink: 食べる/飲む becomes 召し上がる (<i id="mwCg4">meshi-agaru</i>).</li>
+<li id="mwCg8">To come/go/be at a place: 来る/行く/いる becomes いらっしゃる (<i id="mwChA">irassharu</i>). (basic polite form いらっしゃいます <i id="mwChE">irasshaimasu</i> and <b id="mwChI">not</b> いらっしゃります)</li>
+<li id="mwChM">To know: 知る becomes ご存知だ (<i id="mwChQ">gozonji-da</i>).</li>
+<li id="mwChU">To give (to yourself): くれる becomes 下さる (<i id="mwChY">kudasaru</i>). (basic polite form 下さいます <i id="mwChc">kudasaimasu</i> and <b id="mwChg">not</b> 下さります)</li>
+<li id="mwChk">To do: する becomes なさる (<i id="mwCho">nasaru</i>). (basic polite form なさいます <i id="mwChs">nasaimasu</i> and <b id="mwChw">not</b> なさります)</li>
+<li id="mwCh0">To say: 言う becomes おっしゃる (<i id="mwCh4">ossharu</i>) (basic polite form おっしゃいます <i id="mwCh8">osshaimasu</i> and <b id="mwCiA">not</b> おっしゃります)</li></ul>
+
+</section><section data-mw-section-id="48" id="mwCiE" aria-labelledby="Humble_form"><div class="mw-heading mw-heading4"><h4 id="Humble_form">Humble form</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=48" title="Edit section: Humble form"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwCiI">When talking about yourself to someone of higher status than you, it is important to put yourself down by using a humble form (謙遜語 <i id="mwCiM">kensongo</i>). Generally this follows the pattern お～する (<i id="mwCiQ">o ~ suru</i>), where ～ reprents the stem of the basic polite form: eg. to borrow, 借りる(<i id="mwCiU">kariru</i>), basic polite form 借ります (<i id="mwCiY">karimasu</i>) becomes お借りする (<i id="mwCic">o-kari-suru</i>). The <i id="mwCig">suru</i> at the end follows the usual conjugation pattern of <i id="mwCik">suru</i>, most commonly becoming <i id="mwCio">shimasu</i> (present) or <i id="mwCis">shimashita</i> (past); for an extra helping of humility, the verb 致す <i id="mwCiw">itasu</i> > 致します <i id="mwCi0">itashimasu</i> can be substituted. The main exceptions are listed below:</p>
+
+<ul id="mwCi4"><li id="mwCi8">To see: 見る becomes 拝見する (<i id="mwCjA">haiken-suru</i>).</li>
+<li id="mwCjE">To come/go: 来る/行く becomes 参る (<i id="mwCjI">mairu</i>).</li>
+<li id="mwCjM">To eat/drink/receive: 食べる/飲む/もらう becomes いただく (<i id="mwCjQ">itadaku</i>)</li>
+<li id="mwCjU">To give: あげる becomes さし上げる (<i id="mwCjY">sashi-ageru</i>).</li>
+<li id="mwCjc">To do: する becomes 致す (<i id="mwCjg">itasu</i>)</li>
+<li id="mwCjk">To know: 知る becomes 存じる (<i id="mwCjo">zonjiru</i>)</li>
+<li id="mwCjs">To say: 言う becomes 申し上げる (<i id="mwCjw">mōshi-ageru</i>)</li>
+<li id="mwCj0">My name is: いう becomes 申す (<i id="mwCj4">mōsu</i>)</li></ul>
+
+</section><section data-mw-section-id="49" id="mwCj8" aria-labelledby="Polite_form"><div class="mw-heading mw-heading4"><h4 id="Polite_form">Polite form</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=49" title="Edit section: Polite form"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwCkA">The third type of keigo is called simply "polite language", or <i id="mwCkE">teineigo</i> (丁寧語).  Whereas respectful and humble language refer to the <i id="mwCkI">subject</i> (you and I), <i id="mwCkM">teineigo</i> is used to simply imply respect to the <i id="mwCkQ">listener</i>.  An example:</p>
+
+<dl id="mwCkU"><dt id="mwCkY">りんごをご覧になりますか？ <i id="mwCkc">Ringo wo goran ni narimasuka?</i></dt><dd id="mwCkg">Can <b id="mwCkk">you see</b> the apple? (<i id="mwCko">respectful</i>)</dd>
+<dt id="mwCks">りんごを拝見します。 <i id="mwCkw">Ringo wo haiken shimasu.</i></dt><dd id="mwCk0"><b id="mwCk4">I see</b> the apple. (<i id="mwCk8">humble</i>)</dd>
+<dt id="mwClA">彼もりんごを見ます。 <i id="mwClE">Kare mo ringo wo mimasu.</i></dt><dd id="mwClI"><b id="mwClM">He also sees</b> the apple. (<i id="mwClQ">polite</i>)</dd></dl>
+
+<p id="mwClU">In fact, the <i id="mwClY">desu</i> copula and the <i id="mwClc">-masu</i> form taught to beginning students of Japanese are both examples of <i id="mwClg">teineigo</i>.  A few verbs and adjectives have special <i id="mwClk">teineigo</i> forms:</p>
+
+<dl id="mwClo"><dt id="mwCls">to be</dt><dd id="mwClw"><i id="mwCl0">aru</i> (ある) → <i id="mwCl4">gozaimasu</i> (ございます)</dd>
+<dt id="mwCl8">to die</dt><dd id="mwCmA"><i id="mwCmE">shinu</i> (死ぬ) → <i id="mwCmI">nakunaru</i> (亡くなる)</dd>
+<dt id="mwCmM">good</dt><dd id="mwCmQ"><i id="mwCmU">ii/yoi</i> (いい/良い) → <i id="mwCmY">yoroshii</i> (よろしい)</dd></dl>
+
+</section></section><section data-mw-section-id="50" id="mwCmc" aria-labelledby="Country_and_territory_names"><div class="mw-heading mw-heading3"><h3 id="Country_and_territory_names">Country and territory names</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=50" title="Edit section: Country and territory names"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwCmg">Country and territory names in Japanese are generally borrowed from their English names and written in katakana. The names of languages are generally formed by adding 語 (<i id="mwCmk">go</i>) to the end of the country name. Only exceptions are mentioned below. Also one-kanji abbreviation for the country name is shown in 「　」:</p>
+<dl id="mwCmo"><dt id="mwCms">アジア <i id="mwCmw">Ajia</i></dt><dd id="mwCm0">Asia　「亜」</dd>
+<dt id="mwCm4">日本 <i id="mwCm8">Nihon/Nippon</i>, 日本国 <i id="mwCnA">Nihon-koku</i></dt><dd id="mwCnE">Japan　「日」</dd>
+<dt id="mwCnI">中国 <i id="mwCnM">Chūgoku</i></dt><dd id="mwCnQ">China (or, confusingly, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Chugoku" title="Chugoku" id="mwCnU">Western Honshu</a>)　「中」</dd>
+<dt id="mwCnY">台湾 <i id="mwCnc">Taiwan</i></dt><dd id="mwCng">Taiwan　「台」</dd>
+<dt id="mwCnk">香港 <i id="mwCno">Honkon</i></dt><dd id="mwCns">Hong Kong　「港」(rare)</dd>
+<dt id="mwCnw">韓国 <i id="mwCn0">Kankoku</i></dt><dd id="mwCn4">South Korea　「韓」</dd>
+<dt id="mwCn8">北朝鮮 <i id="mwCoA">Kitachōsen</i></dt><dd id="mwCoE">North Korea　「朝」</dd>
+<dt id="mwCoI">インド <i id="mwCoM">Indo</i></dt><dd id="mwCoQ">India (not an abbreviation of Indonesia)　「印」</dd>
+<dt id="mwCoU">インドネシア <i id="mwCoY">Indoneshia</i></dt><dd id="mwCoc">Indonesia</dd>
+<dt id="mwCog">タイ <i id="mwCok">Tai</i></dt><dd id="mwCoo">Thailand　「泰」(rare)</dd>
+<dt id="mwCos">トルコ <i id="mwCow">Toruko</i></dt><dd id="mwCo0">Turkey　「土」</dd>
+<dt id="mwCo4">アラブ首長国連邦 <i id="mwCo8">Arabu-shuchōkoku-rempō</i></dt><dd id="mwCpA">United Arab Emirates</dd>
+<dt id="mwCpE">イスラエル <i id="mwCpI">Isuraeru</i></dt><dd id="mwCpM">Israel</dd></dl>
+
+<dl id="mwCpQ"><dt id="mwCpU">ヨーロッパ <i id="mwCpY">Yōroppa</i></dt><dd id="mwCpc">Europe　「欧」</dd>
+<dt id="mwCpg">ドイツ <i id="mwCpk">Doitsu</i> (derived from 'Deutsche')</dt><dd id="mwCpo">Germany　「独」</dd>
+<dt id="mwCps">イギリス <i id="mwCpw">Igirisu</i> (derived from 'English'), 英国 <i id="mwCp0">Eikoku</i> (written)</dt><dd id="mwCp4">United Kingdom　「英」</dd>
+<dt id="mwCp8">フランス <i id="mwCqA">Furansu</i></dt><dd id="mwCqE">France　「仏」</dd>
+<dt id="mwCqI">イタリア <i id="mwCqM">Itaria</i></dt><dd id="mwCqQ">Italy　「伊」</dd>
+<dt id="mwCqU">スペイン <i id="mwCqY">Supein</i></dt><dd id="mwCqc">Spain　「西」</dd>
+<dt id="mwCqg">オランダ <i id="mwCqk">Oranda</i> (derived from 'Holland')</dt><dd id="mwCqo">The Netherlands　「蘭」</dd>
+<dt id="mwCqs">ベルギー　<i id="mwCqw">Berugī</i></dt><dd id="mwCq0">Belgium　「白」(rare)</dd>
+<dt id="mwCq4">ハンガリー <i id="mwCq8">Hangarī</i></dt><dd id="mwCrA">Hungary　「洪」(rare)</dd>
+<dt id="mwCrE">ロシア <i id="mwCrI">Roshia</i></dt><dd id="mwCrM">Russia　「露」</dd></dl>
+
+<dl id="mwCrQ"><dt id="mwCrU">アメリカ <i id="mwCrY">Amerika</i>, 米国 <i id="mwCrc">Beikoku</i> (written)</dt><dd id="mwCrg">United States of America (not the whole American continent)　「米」</dd></dl>
+
+<dl id="mwCrk"><dt id="mwCro">アフリカ <i id="mwCrs">Afurika</i></dt><dd id="mwCrw">Africa</dd>
+<dt id="mwCr0">エジプト <i id="mwCr4">Ejiputo</i></dt><dd id="mwCr8">Egypt</dd>
+<dt id="mwCsA">南アフリカ <i id="mwCsE">Minami-afurika</i></dt><dd id="mwCsI">South Africa</dd>
+<dt id="mwCsM">エチオピア <i id="mwCsQ">Echiopia</i></dt><dd id="mwCsU">Ethiopia</dd></dl>
+
+<dl id="mwCsY"><dt id="mwCsc">オーストラリア <i id="mwCsg">Ōsutoraria</i>, 豪州  <i id="mwCsk">Gōshū</i></dt><dd id="mwCso">Australia　「豪」</dd></dl>
+
+<dl id="mwCss"><dt id="mwCsw">フィリピン <i id="mwCs0">FIripin</i></dt>
+<dd id="mwCs4">Philippines</dd></dl>
+
+</section></section><section data-mw-section-id="51" id="mwCs8" aria-labelledby="Learning_more"><div class="mw-heading mw-heading2"><h2 id="Learning_more">Learning more</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Japanese_phrasebook&amp;action=edit&amp;section=51" title="Edit section: Learning more"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwCtA">For those who want proof of their proficiency in Japanese, there is the <a rel="mw:ExtLink nofollow" href="https://www.jlpt.jp/e/" class="external text" id="mwCtE">Japanese-Language Proficiency Test</a> (JLPT, 日本語能力試験), which is endorsed by the Japanese government, and serves as the Japanese-language equivalent of the TOEFL and IELTS. The test is conducted at 5 levels, with level N5 requiring only a basic level of proficiency to pass, and N1 requiring near-native proficiency. Only reading and listening is tested, and there is no oral examination. Many private Japanese-language courses are geared towards preparing students for this exam.</p>
+
+<ul id="mwCtI"><li id="mwCtM"><a rel="mw:ExtLink nofollow" href="http://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic" class="external text" id="mwCtQ">WWWJDIC</a> <span typeof="mw:Entity" id="mwCtU">—</span> English-Japanese-English dictionary including sentence translation, kanji lookup and place/personal name dictionary</li>
+<li id="mwCtY"><a rel="mw:ExtLink nofollow" href="http://www.guidetojapanese.org/learn/grammar" class="external text" id="mwCtc">Tae Kim's Guide to Japanese Grammar</a> <span typeof="mw:Entity" id="mwCtg">—</span> Comprehensive online/printable grammar guide building up from casual Japanese using first principles (as opposed to working sideways from polite phrasebook Japanese)</li>
+<li id="mwCtk"><a rel="mw:ExtLink nofollow" href="http://japanese.lingualift.com/" class="external text" id="mwCto">Japanese LinguaLift</a> <span typeof="mw:Entity" id="mwCts">—</span>  Learn, review, and practice Japanese in one easy to use package.</li>
+<li id="mwCtw"><a rel="mw:ExtLink nofollow" href="http://www.l-lingo.com/en/learn-japanese/index.html" class="external text" id="mwCt0">L-Lingo Japanese</a><style data-mw-deduplicate="TemplateStyles:r5167228" typeof="mw:Extension/templatestyles mw:Transclusion" about="#mwt80" id="mwCt4" data-mw='{"name":"templatestyles","attrs":{"src":"Dead link/styles.css"},"parts":[{"template":{"target":{"wt":"Dead link","href":"./Template:Dead_link"},"params":{"date":{"wt":"October 2024"},"bot":{"wt":"InternetArchiveBot"}},"i":0}}]}'>.mw-parser-output .error-deadlink{color:red;background:yellow;display:none;white-space:nowrap}</style><sup class="error-deadlink noprint" about="#mwt80"><span typeof="mw:Entity">[</span>dead link<span typeof="mw:Entity">]</span></sup><link rel="mw:PageProp/Category" href="./Category:Articles_with_dead_external_links" about="#mwt80" id="mwCt8"/> <span typeof="mw:Entity" id="mwCuA">—</span> A free 40 lesson online learn Japanese application</li>
+<li id="mwCuE"><a rel="mw:ExtLink nofollow" href="http://www.manythings.org/japanese/" class="external text" id="mwCuI">Charles Kelly's Online Japanese Language Study Materials</a> <span typeof="mw:Entity" id="mwCuM">—</span> A collection of online study aids and quizzes</li>
+<li id="mwCuQ"><a rel="mw:ExtLink nofollow" href="http://www.japanesepod101.com" class="external text" id="mwCuU">Learn Japanese by listening</a> <span typeof="mw:Entity" id="mwCuY">—</span>  Some Japanese lessons in mp3.</li>
+<li id="mwCuc"><a rel="mw:ExtLink nofollow" href="http://learnjapanese.lcweblink.info/" class="external text" id="mwCug">Learn to speak Japanese - One at a Time</a> <span typeof="mw:Entity" id="mwCuk">—</span> Daily Japanese lessons.</li>
+<li id="mwCuo"><a rel="mw:ExtLink nofollow" href="http://jisho.org/" class="external text" id="mwCus">Jisho.org</a> <span typeof="mw:Entity" id="mwCuw">—</span> Another English-Japanese-English dictionary, but, with a deceptively powerful bookmarklet to assist reading kanji on websites.</li>
+<li id="mwCu0"><a rel="mw:ExtLink nofollow" href="http://www.denshi-jisho.com/" class="external text" id="mwCu4">Denshi Jisho</a> The best resource for Japanese electronic dictionaries</li>
+<li id="mwCu8"><a rel="mw:ExtLink nofollow" href="https://www.lingualift.com/blog/best-japanese-learning-resources/" class="external text" id="mwCvA">100 top resources to learn Japanese</a><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5167228" about="#mwt82" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwCvE" data-mw='{"name":"templatestyles","attrs":{"src":"Dead link/styles.css"},"parts":[{"template":{"target":{"wt":"Dead link","href":"./Template:Dead_link"},"params":{"date":{"wt":"August 2026"},"bot":{"wt":"InternetArchiveBot"}},"i":0}}]}'/><sup class="error-deadlink noprint" about="#mwt82"><span typeof="mw:Entity">[</span>dead link<span typeof="mw:Entity">]</span></sup><link rel="mw:PageProp/Category" href="./Category:Articles_with_dead_external_links" about="#mwt82" id="mwCvI"/></li></ul>
+
+<ul id="mwCvM"><li id="mwCvQ"><b id="mwCvU">Remembering the Kanji 1</b> by James W. Heisig (1977) <span typeof="mw:Entity" id="mwCvY">—</span> Extremely well-known book detailing just the <i id="mwCvc">meanings</i> of most kanji and mnemonics to assist with retaining those meanings. Follow-up texts cover Chinese <i id="mwCvg">onyomi</i> readings and all that again for less common naming kanji.</li></ul>
+<p id="mwCvk">
+<br id="mwCvo"/></p>
+<p id="mwCvs">
+<br id="mwCvw"/></p>
+
+<span class="mw-empty-elt" about="#mwt84" typeof="mw:Transclusion" id="mwCv0" data-mw='{"parts":[{"template":{"target":{"wt":"guidephrasebook","href":"./Template:Guidephrasebook"},"params":{},"i":0}}]}'><style data-mw-deduplicate="TemplateStyles:r5169440" typeof="mw:Extension/templatestyles" about="#mwt85" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Article status/style.css"}}'>.mw-parser-output .article-status{width:60%;background:#fff;color:black;margin:0 auto;border:solid 2px lightblue;text-align:center;font-size:90%;font-style:italic}.mw-parser-output .article-status-disambig{border:2px dashed lightblue}.mw-parser-output .article-status-disambig td:first-child{width:48px;text-align:center}.mw-parser-output .article-status-stub{border:1px dotted lightblue;border-collapse:collapse;font-size:0.9em}.mw-parser-output .article-status-outline,.mw-parser-output .article-status-unusable{border-style:dotted}.mw-parser-output .article-status-guide{border-style:solid}.mw-parser-output .article-status-usable{border-style:dashed}.mw-parser-output .article-status-informative{border-style:dashed;border-width:4px}.mw-parser-output .article-status-star{border-style:double;border-width:6px}.mw-parser-output .article-status-extraregion{border-style:dotted;border-width:2px;border-color:lightblue}@media screen{html.skin-theme-clientpref-night .mw-parser-output .article-status{background:inherit;color:inherit}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .article-status{background:inherit;color:inherit}}</style></span><table id="guide_phrasebook" class="article-status noprint article-status-guide" about="#mwt84">
+
+<tbody><tr><td>This  <b>Japanese phrasebook</b><span typeof="mw:Entity"> </span>has <b><a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Wikivoyage:Guide_articles" title="Wikivoyage:Guide articles">guide</a></b> status. It covers all the major topics for traveling without resorting to English. <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Wikivoyage:Plunge_forward" title="Wikivoyage:Plunge forward">Please contribute</a> and help us make it a <b><a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Wikivoyage:Star_articles" title="Wikivoyage:Star articles">star</a></b>!</td></tr>
