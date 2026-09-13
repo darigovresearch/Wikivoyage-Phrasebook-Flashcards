@@ -1,0 +1,772 @@
+<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr" data-mw-parsoid-version="0.24.0.0-alpha21" data-mw-html-version="2.8.0"><section data-mw-section-id="0" id="mwAQ"><p id="mwAg"><span class="countryData" data-country-calling-code="+7" data-local-dialing-code="" data-currency="RUB, ₽" style="display:none;" about="#mwt1" typeof="mw:Transclusion" id="mwAw" data-mw='{"parts":[{"template":{"target":{"wt":"pagebanner ","href":"./Template:Pagebanner"},"params":{"1":{"wt":" Korean Phrasebook banner.jpg"},"caption":{"wt":"\"Departures\" LED-billboard at Daegu railway station"}},"i":0}}]}'></span><meta typeof="mw:Extension/indicator" about="#mwt1" id="mwBA" data-mw='{"name":"indicator","attrs":{"name":"GPX"},"body":{"extsrc":"[[File:GPX Document rev3-20x20.png|20px|link=https://tools.wmflabs.org/wikivoyage/w/poi2gpx.php?print=gpx&amp;lang={{CONTENTLANG}}&amp;name={{FULLPAGENAMEE}}|Download GPX file for this article]]"}}'/><link rel="mw:PageProp/Category" href="./Category:Has_custom_banner" about="#mwt1" id="mwBQ"/>
+<b id="mwBg">Korean</b> (한국어 <i id="mwBw">hangugeo</i> or 한국말 <i id="mwCA">hangugmal</i> in South Korea, 조선어 <i id="mwCQ">chosŏnŏ</i> or 조선말 <i id="mwCg">chosŏnmal</i> in North Korea and China, 우리말 <i id="mwCw">urimal</i> (our language) or 국어 <i id="mwDA">gugeo</i> (national language) as a neutral denomination) is spoken in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/South_Korea" title="South Korea" id="mwDQ">South</a> and <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/North_Korea" title="North Korea" id="mwDg">North Korea</a>, as well as parts of <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Northeast_China" title="Northeast China" id="mwDw">Northeast China</a> (where it is an official language in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Yanbian" title="Yanbian" id="mwEA">Yanbian</a>). It may be distantly related to <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Japanese" title="Japanese" class="mw-redirect" id="mwEQ">Japanese</a>, but is certainly entirely distinct from <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Chinese" title="Chinese" class="mw-redirect" id="mwEg">Chinese</a>, although it uses large amounts of imported Chinese vocabulary.</p>
+
+<p id="mwEw">Depending on which part of Korea you go to different dialects of Korean are spoken. The standard in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/South_Korea" title="South Korea" id="mwFA">South Korea</a> is based on the Seoul dialect, which is spoken in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Seoul" title="Seoul" id="mwFQ">Seoul</a> and <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Gyeonggi" title="Gyeonggi" id="mwFg">Gyeonggi</a> province as well as the city of <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Kaesong" title="Kaesong" id="mwFw">Kaesong</a> in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/North_Korea" title="North Korea" id="mwGA">North Korea</a>, while the standard in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/North_Korea" title="North Korea" id="mwGQ">North Korea</a> is based on the Pyongan dialect, which is spoken in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Pyongyang" title="Pyongyang" id="mwGg">Pyongyang</a> as well as <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/North_Pyongan?action=edit&amp;redlink=1" title="North Pyongan (page does not exist)" class="new" typeof="mw:LocalizedAttrs" id="mwGw" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["North Pyongan"]}}'>North</a> and <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/South_Pyongan?action=edit&amp;redlink=1" title="South Pyongan (page does not exist)" class="new" typeof="mw:LocalizedAttrs" id="mwHA" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["South Pyongan"]}}'>South Pyongan</a> provinces. Other dialects include the Gyeongsang dialect spoken in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Busan" title="Busan" id="mwHQ">Busan</a>, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Daegu" title="Daegu" id="mwHg">Daegu</a>, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Ulsan" title="Ulsan" id="mwHw">Ulsan</a> and the provinces of <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/North_Gyeongsang" title="North Gyeongsang" id="mwIA">North</a> and <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/South_Gyeongsang" title="South Gyeongsang" id="mwIQ">South Gyeongsang</a>, the Jeju dialect spoken on the island of <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Jeju" title="Jeju" id="mwIg">Jeju</a>, and the Hamgyong dialect spoken in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/North_Hamgyong?action=edit&amp;redlink=1" title="North Hamgyong (page does not exist)" class="new" typeof="mw:LocalizedAttrs" id="mwIw" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["North Hamgyong"]}}'>North</a> and <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/South_Hamgyong?action=edit&amp;redlink=1" title="South Hamgyong (page does not exist)" class="new" typeof="mw:LocalizedAttrs" id="mwJA" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["South Hamgyong"]}}'>South Hamgyong</a> provinces. The dialects spoken by the ethnic Korean minority in China also differ by region, with those from <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Jilin" title="Jilin" id="mwJQ">Jilin</a> mainly speaking the Hamgyong dialect, those from <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Liaoning" title="Liaoning" id="mwJg">Liaoning</a> mainly speaking the Pyongan dialect, and those from <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Heilongjiang" title="Heilongjiang" id="mwJw">Heilongjiang</a> mainly speaking the Gyeongsang dialect. This guide is based on the standard in South Korea.</p>
+
+<p id="mwKA">The Korean language is fundamentally the same in North and South Korea, and speakers from both sides of the border are, for the most part, able to understand each other. The main differences lie in the loan words used to represent modern concepts, where South Koreans typically use English words, and North Koreans typically use the corresponding Russian words or create new words instead. The standard form of Korean used by the ethnic Korean minority in China mostly follows the North Korean standard, albeit with a significant number of loan words from Mandarin for modern concepts, though due to the popularity of South Korean dramas, most people also understand South Korean terms.</p>
+
+<figure typeof="mw:File/Thumb" id="mwKQ"><a href="https://en.wikivoyage.org/wiki/File:Sign_Hangul.JPG" class="mw-file-description" id="mwKg"><img resource="https://en.wikivoyage.org/wiki/File:Sign_Hangul.JPG" src="//thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Sign_Hangul.JPG/250px-Sign_Hangul.JPG?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Sign_Hangul.JPG/500px-Sign_Hangul.JPG?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="800" data-file-height="532" data-file-type="bitmap" height="160" width="240" class="mw-file-element" id="mwKw"/></a><figcaption id="mwLA">Handwritten <i id="mwLQ">hangeul</i> in an advertisement</figcaption></figure>
+
+<meta property="mw:PageProp/toc" id="mwLg" data-mw='{"autoGenerated":true}'/></section><section data-mw-section-id="1" id="mwLw" aria-labelledby="Grammar"><div class="mw-heading mw-heading2"><h2 id="Grammar">Grammar</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=1" title="Edit section: Grammar"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwMA">Korean sentence structure is very similar to that of <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Japanese_phrasebook" title="Japanese phrasebook" id="mwMQ">Japanese</a>, so speakers of Japanese will find many aspects of Korean grammar familiar, and vice versa. But there are similar but slight differences to the standardized pronunciations, and the Korean language, even after its simplification in the past century, has a wider library of vowels and consonants than Japanese, hence Japanese speakers may find it difficult to pronounce various words, let alone transcribe them.</p>
+
+<p id="mwMg">Korean word order is subject-object-verb: "I-subject him-object see-verb." Subjects (especially <i id="mwMw">I</i> and <i id="mwNA">you</i>) are often omitted if these are clear from the context. This may seem awkward from an English perspective, but English too has colloquial 1st-person/2nd-person subject omissions, such as "[Are you] Done yet?" or "[I'm] Done." It is a matter of whether sentences are common enough that such lack of subjects doesn't confuse the listener. In turn, some English colloquial sentences without subjects may be confusing from a Korean standpoint.</p>
+
+<p id="mwNQ">There are no articles, genders, or declensions. It has extensive verb conjugations indicating tense and honorific level. There is a handy, universal plural form, but it is very often omitted.</p>
+
+<p id="mwNg">Korean has postpositions instead of prepositions: <i id="mwNw">jip mite</i>, "house below" instead of "below the house."</p>
+
+<p id="mwOA">Koreans refer to each other rather in terms like elder brother, elder sister, younger sibling, uncle, aunt, grandmother, grandfather, manager, teacher etc. (like Nepali or Chinese) than by using the word <i id="mwOQ">you</i>. Additionally, it's not uncommon to refer to yourself by using such an expression ( example: "[I] Father will cook you a nice dinner." Which feels like saying "<i id="mwOg">This</i> father will..."). You can also call somebody an aunt, uncle or brother even if this person is actually not. Many Korean girls call even their boyfriend "oppa" (<i id="mwOw">older brother</i>).</p>
+
+<p id="mwPA">Keep in mind that the words for older brother and older sister differ depending on the gender of the subject. The word for older brother is 형 (<i id="mwPQ">hyeong</i>) if the subject is male, and 오빠 (<i id="mwPg">oppa</i>) if the subject is female, while the word for older sister is 누나 (<i id="mwPw">nuna</i>) if the subject is male, and 언니 (<i id="mwQA">eonni</i>) if the subject is female.</p>
+
+<p id="mwQQ">Depending on the relation to the person you have conversation with, it's necessary to find the correct level of formality and politeness. If the person is considered to be higher in the hierarchy, a very polite and formal form has to be used, while this person will use a more "vernacular" form to address you as a lower person. Koreans often ask very personal questions (about your age, occupation, family status etc.) in order to find out which form they should use when talking to you. This phrasebook assumes the highest formality level in most cases. Not only are words conjugated according to 6 existing levels of formality (but 2 are becoming unused), but a few words will also be replaced with different words altogether. Extremely formal places will often use some Chinese postal words as well.</p>
+
+</section><section data-mw-section-id="2" id="mwQg" aria-labelledby="Pronunciation_guide"><div class="mw-heading mw-heading2"><h2 id="Pronunciation_guide">Pronunciation guide</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=2" title="Edit section: Pronunciation guide"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwQw">The good news is that unlike <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Chinese_phrasebook" title="Chinese phrasebook" id="mwRA">Chinese</a>, Korean is not tonal, so you don't need to worry about changing your pitch to get the meaning right.  The bad news is that Korean has a few too many vowels for comfort and small distinctions between many consonants, so pronouncing things exactly right is still a bit of a challenge.</p>
+
+<p id="mwRQ">This phrasebook uses the <b id="mwRg">Revised Romanization of Korean</b>, which is overwhelmingly the most popular system in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/South_Korea" title="South Korea" id="mwRw">South Korea</a>. The <b id="mwSA">McCune-Reischauer romanization</b>, used in North Korea and older South Korean texts, is noted in parentheses when different.</p>
+
+<section data-mw-section-id="3" id="mwSQ" aria-labelledby="Vowels"><div class="mw-heading mw-heading3"><h3 id="Vowels">Vowels</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=3" title="Edit section: Vowels"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwSg">Korean vowels can be short or long, but this is not indicated in writing and the distinction rarely if ever affects meaning. (example: 밤 bam, pronounced short means "night", pronounced long means "chestnut")</p>
+
+<dl id="mwSw"><dt id="mwTA">a ㅏ</dt><dd id="mwTQ">like 'a' in "f<b id="mwTg">a</b>ther"</dd>
+<dt id="mwTw">o ㅗ</dt><dd id="mwUA">like 'o' in "t<b id="mwUQ">o</b>ne"</dd>
+<dt id="mwUg">eo (ŏ) ㅓ</dt><dd id="mwUw">like the "uh" in "lust"</dd>
+<dt id="mwVA">u ㅜ</dt><dd id="mwVQ">A low sound of "oo" as in "hoop". "woo" (Korean does not distinguish between "oo" and "woo").</dd>
+<dt id="mwVg">eu (ŭ) ㅡ</dt><dd id="mwVw">like 'i' in "cous<b id="mwWA">i</b>n", "dozen". Like the Turkish "ı", Polish "y" or Russian "ы". Kind of similar to the French "eu", but as a clearer, purer vowel sound.</dd>
+<dt id="mwWQ">i ㅣ</dt><dd id="mwWg">like the 'i' in "sh<b id="mwWw">i</b>p" (short) OR the 'ee' in "sh<b id="mwXA">ee</b>p" (long)</dd>
+<dt id="mwXQ">e ㅔ</dt><dd id="mwXg">like the 'e' in "b<b id="mwXw">e</b>d"</dd>
+<dt id="mwYA">ae ㅐ</dt><dd id="mwYQ">similar to the "a" in "hand", "valve", "gas", and "can"</dd></dl>
+
+<ul id="mwYg"><li id="mwYw">note: ㅐ ae is now virtually identically pronounced as ㅔ e. Only rare words are unconsciously pronounced differently like they were half a century ago ("애", or "child" is one such remnant).</li></ul>
+
+</section><section data-mw-section-id="4" id="mwZA" aria-labelledby="Common_diphthongs"><div class="mw-heading mw-heading3"><h3 id="Common_diphthongs">Common diphthongs</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=4" title="Edit section: Common diphthongs"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwZQ">Korean has two standalone diphthongs:</p>
+
+<dl id="mwZg"><dt id="mwZw">oe ㅚ</dt><dd id="mwaA">like 'we' in 'west' (it used to be a different sound, now pronounced the same as ㅞ shown below)</dd>
+<dt id="mwaQ">ui ㅢ</dt><dd id="mwag">like 'ŭ' + 'i'</dd></dl>
+
+<p id="mwaw">In addition, most vowels can be modified by prefixing them with 'y' or 'w':</p>
+
+<dl id="mwbA"><dt id="mwbQ">wa ㅘ</dt><dd id="mwbg">like 'wa' sound in "s<b id="mwbw">ua</b>ve"</dd>
+<dt id="mwcA">wae ㅙ</dt><dd id="mwcQ">like 'wa' in "<b id="mwcg">wa</b>gon". Some would argue there is virtually no difference anymore from ㅞ.</dd>
+<dt id="mwcw">wo ㅝ</dt><dd id="mwdA">like 'wuh' sound in "<b id="mwdQ">wo</b>nder"</dd>
+<dt id="mwdg">wi ㅟ</dt><dd id="mwdw">like "<b id="mweA">we</b>" or 'e' in "sh<b id="mweQ">e</b>" with rounded lips</dd>
+<dt id="mweg">we ㅞ</dt><dd id="mwew">like 'we' in "<b id="mwfA">we</b>st"</dd>
+<dt id="mwfQ">ya ㅑ</dt><dd id="mwfg">like 'ya' in "<b id="mwfw">ya</b>rd"</dd>
+<dt id="mwgA">yo ㅛ</dt><dd id="mwgQ">like 'yo' in "<b id="mwgg">yo</b>semite" or "New <b id="mwgw">Yo</b>rk". <b id="mwhA">Not</b> like "<b id="mwhQ">yaw</b>" or "<b id="mwhg">yo</b>ke".</dd>
+<dt id="mwhw">yeo (yŏ) ㅕ</dt><dd id="mwiA">like 'you' in "<b id="mwiQ">you</b>ng"</dd>
+<dt id="mwig">yu ㅠ</dt><dd id="mwiw">like "<b id="mwjA">you</b>"</dd>
+<dt id="mwjQ">ye ㅖ</dt><dd id="mwjg">like 'ye' in "<b id="mwjw">ye</b>s"</dd>
+<dt id="mwkA">yae ㅒ</dt><dd id="mwkQ">like 'ye' in "<b id="mwkg">ye</b>s"; it has virtually assimiliated to be the same as 'ㅖ'</dd></dl>
+
+<ul id="mwkw"><li id="mwlA">to summarize the assimilated vowel diphthongs mentioned above,</li></ul>
+<p id="mwlQ">ㅙ = ㅚ = ㅞ = 'we' in "<b id="mwlg">we</b>st"
+ㅖ = ㅒ = 'ye' in "<b id="mwlw">ye</b>s"</p>
+
+</section><section data-mw-section-id="5" id="mwmA" aria-labelledby="Consonants"><div class="mw-heading mw-heading3"><h3 id="Consonants">Consonants</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=5" title="Edit section: Consonants"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwmQ">Most Korean consonants come in three versions, namely <b id="mwmg">unaspirated</b> (without a puff of air), <b id="mwmw">aspirated</b> (with a puff of air) and <b id="mwnA">tensed</b> (stressed).  Unaspirated consonants exist in English too, but never alone: compare the sound of 'p' in "pot" (aspirated) and "spot" (unaspirated). Many English speakers find it helpful to pronounce an imperceptible little "m" in front to 'stop' the puff.  Tensing isn't really found in English, but pronouncing the consonant quick and hard is a reasonable substitute.</p>
+
+<dl id="mwnQ"><dt id="mwng">b (p) ㅂ</dt><dd id="mwnw">like 'p' in "spit" (unaspirated)</dd>
+<dt id="mwoA">p (p', ph) ㅍ</dt><dd id="mwoQ">like 'p' in "pig" (aspirated)</dd>
+<dt id="mwog">pp ㅃ</dt><dd id="mwow">tensed 'p', like 'p' in "petit" in French</dd></dl>
+
+<dl id="mwpA"><dt id="mwpQ">d (t) ㄷ</dt><dd id="mwpg">like 't' in "stab" (unaspirated)</dd>
+<dt id="mwpw">t (t', th) ㅌ</dt><dd id="mwqA">like 't' in "top" (aspirated)</dd>
+<dt id="mwqQ">tt ㄸ</dt><dd id="mwqg">tensed 't'</dd></dl>
+
+<dl id="mwqw"><dt id="mwrA">g (k) ㄱ</dt><dd id="mwrQ">like 'k' in "skate" (unaspirated)</dd>
+<dt id="mwrg">k (k', k) ㅋ</dt><dd id="mwrw">like 'c' in "cat" (aspirated)</dd>
+<dt id="mwsA">kk ㄲ</dt><dd id="mwsQ">tensed 'k'</dd></dl>
+
+<dl id="mwsg"><dt id="mwsw">j (ch) ㅈ</dt><dd id="mwtA">like 'g' in "gin" (unaspirated)</dd>
+<dt id="mwtQ">ch (ch') ㅊ</dt><dd id="mwtg">like 'ch' in "chin" (aspirated). Usually pronounced as a light aspirated 't' as a final consonant</dd>
+<dt id="mwtw">jj ㅉ</dt><dd id="mwuA">tensed 'j'</dd></dl>
+
+<dl id="mwuQ"><dt id="mwug">s ㅅ</dt><dd id="mwuw">like 's' in "soon", 'sh' before <i id="mwvA">i</i> or any "y" diphthong. Usually pronounced as a very light 't' as a final consonant</dd>
+<dt id="mwvQ">ss ㅆ</dt><dd id="mwvg">tensed 's', 's' in 'sea', never 'sh'</dd></dl>
+
+<p id="mwvw">Standalone consonants:</p>
+<dl id="mwwA"><dt id="mwwQ">n ㄴ</dt><dd id="mwwg">like 'n' in "nice"</dd>
+<dt id="mwww">m ㅁ</dt><dd id="mwxA">like 'm' in "mother"</dd>
+<dt id="mwxQ">l ㄹ</dt><dd id="mwxg">somewhere between 'l', 'r' and 'n', original sound is 'r' or 'l'. and 'n' sound occurs through initial consonant mutation.</dd>
+<dt id="mwxw">h ㅎ</dt><dd id="mwyA">like 'h' in "help"</dd></dl>
+
+<dl id="mwyQ"><dt id="mwyg">ng ㅇ</dt><dd id="mwyw">like 'ng' in "sing". Unpronounced (placeholder) when at the start of a syllable.</dd></dl>
+
+<p id="mwzA">While the rules above are usually correct for the first consonant, those in the middle of a word are usually (but not always) <b id="mwzQ">voiced</b>, which means that ㅂㄷㅈㄱ turn into English "b", "d", "j" and "k".  The best rule of thumb is to concentrate on remembering that the first consonant is "special" and the rest are more or less as in English: <i id="mwzg">bibimbap</i> (비빔밥) is pronounced "<i id="mwzw">pee</i>-bim-bap", not "<i id="mw0A">bee</i>-bim-bap" or "<i id="mw0Q">p'ee</i>-bim-bap". Also, if one syllable ends with a consonant other than "ng" and is immediately followed by one that starts with a vowel, similar to <i id="mw0g">liaison</i> in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/French_phrasebook" title="French phrasebook" id="mw0w">French</a>, the final consonant of the first syllable is instead pronounced as if it were the initial consonant of the second syllable. If a syllable ends with "h" and is preceded by a syllable that ends in a consonant, the "h" is dropped, and the ending consonant of the previous syllable is pronounced as if it were the initial consonant of the second syllable.</p>
+
+<p id="mw1A">The aspirated spellings with "h" are used only in the official North Korean orthography.</p>
+
+</section><section data-mw-section-id="6" id="mw1Q" aria-labelledby="Loanwords"><div class="mw-heading mw-heading3"><h3 id="Loanwords">Loanwords</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=6" title="Edit section: Loanwords"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mw1g">Native Korean words can end only in vowels or the consonants <i id="mw1w">k</i>, <i id="mw2A">l</i>, <i id="mw2Q">m</i>, <i id="mw2g">n</i>, <i id="mw2w">ng</i>, <i id="mw3A">p</i> or <i id="mw3Q">t</i>, and any words imported into Korean are shoehorned to fit this pattern, usually by padding any errant consonants with the vowel <i id="mw3g">eu</i> (ㅡ).  For example, any English word ending in "t" will be pronounced as <i id="mw3w">teu</i> (트) in Korean, eg. <i id="mw4A">Baeteumaen</i> (배트맨) for "Batman".  In addition, the English sound "f" is turned into <i id="mw4Q">p</i> and has that vowel tacked on, so "golf" becomes <i id="mw4g">golpeu</i> (골프).</p>
+
+</section></section><section data-mw-section-id="7" id="mw4w" aria-labelledby="Written_language"><div class="mw-heading mw-heading2"><h2 id="Written_language">Written language</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=7" title="Edit section: Written language"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="cquote" role="presentation" style="margin: 4px 10px 10px 10px; display: table; border-collapse: collapse; border: none; color: var(--color-base); background-color: transparent; width: auto; " about="#mwt5" typeof="mw:Transclusion" id="mw5A" data-mw='{"parts":[{"template":{"target":{"wt":"quote","href":"./Template:Quote"},"params":{"1":{"wt":"A wise man can acquaint himself with them [hangul] before the morning is over; a stupid man can learn them in the space of ten days."},"author":{"wt":"King Sejong the Great"}},"i":0}}]}'>
+<tbody><tr><td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 5px 0 0 0;">“</td>
+<td style="vertical-align: top; border: none; padding: 0;">A wise man can acquaint himself with them [hangul] before the morning is over; a stupid man can learn them in the space of ten days.</td>
+<td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 0;">”</td></tr>
+<tr>
+<td colspan="3" class="cquotecite" style="border: none; padding-right: 4%; font-size: smaller; text-align: right;"><cite style="font-style: normal;">King Sejong the Great</cite></td></tr>
+</tbody></table>
+<span class="mw-empty-elt" about="#mwt6" typeof="mw:Transclusion" id="mw5Q" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infobox&quot;,&quot;href&quot;:&quot;./Template:Infobox&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Useful Hanja&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;Hangul is the main script used in modern Korea, although the legacy of Hanja from the past remains relevant, and even South Koreans who claim to not know any hanja are usually able to recognize a few basic ones when prompted. You will sometimes see hanja in South Korea, for example at Buddhist temples or in newspaper headlines: \n; 男 (남 ''nam'') : Men\n; 女 (여/녀 ''yeo/nyeo'') : Women\n; 大 (대 ''dae'') : large\n; 中 (중 ''jung'') : center/medium\n; 小 (소 ''so'') : small\n; 水 (수 ''su'') : water\n; 山 (산 ''san'') : mountain\n; 寺 (사 ''sa'') : Buddhist temple\n; 街 (가 ''ga'') : street\n; 美國 (미국 ''miguk''): United States.\n; 英國 (영국 ''yeongguk''): United Kingdom\n; 中國 (중국 ''jungguk''): China\n; 日本 (일본 ''ilbon''): Japan\n; 韓國 (한국 ''hanguk''): South Korea, or the entire Korean peninsula\n; 北韓 (북한 ''bukhan''): North Korea\nThe country names listed above are often shortened to just the first character in newspaper headlines.\n&quot;}},&quot;i&quot;:0}}]}"><style data-mw-deduplicate="TemplateStyles:r5162413" typeof="mw:Extension/templatestyles" about="#mwt7" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'>.mw-parser-output .pp_infobox{color:#333;background-color:#effafa;font-size:90%;border:1px solid #ccc;padding-left:1em;padding-right:1em;text-align:left;width:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .pp_infobox td{color:inherit;background-color:inherit}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .pp_infobox td{color:inherit;background-color:inherit}}</style></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt6">
+<tbody><tr><td>
+<div style="font-weight:bold;">Useful Hanja</div>
+
+<p>Hangul is the main script used in modern Korea, although the legacy of Hanja from the past remains relevant, and even South Koreans who claim to not know any hanja are usually able to recognize a few basic ones when prompted. You will sometimes see hanja in South Korea, for example at Buddhist temples or in newspaper headlines: </p>
+<dl><dt>男 (남 <i>nam</i>)</dt><dd>Men</dd>
+<dt>女 (여/녀 <i>yeo/nyeo</i>)</dt><dd>Women</dd>
+<dt>大 (대 <i>dae</i>)</dt><dd>large</dd>
+<dt>中 (중 <i>jung</i>)</dt><dd>center/medium</dd>
+<dt>小 (소 <i>so</i>)</dt><dd>small</dd>
+<dt>水 (수 <i>su</i>)</dt><dd>water</dd>
+<dt>山 (산 <i>san</i>)</dt><dd>mountain</dd>
+<dt>寺 (사 <i>sa</i>)</dt><dd>Buddhist temple</dd>
+<dt>街 (가 <i>ga</i>)</dt><dd>street</dd>
+<dt>美國 (미국 <i>miguk</i>)</dt><dd>United States.</dd>
+<dt>英國 (영국 <i>yeongguk</i>)</dt><dd>United Kingdom</dd>
+<dt>中國 (중국 <i>jungguk</i>)</dt><dd>China</dd>
+<dt>日本 (일본 <i>ilbon</i>)</dt><dd>Japan</dd>
+<dt>韓國 (한국 <i>hanguk</i>)</dt><dd>South Korea, or the entire Korean peninsula</dd>
+<dt>北韓 (북한 <i>bukhan</i>)</dt><dd>North Korea</dd></dl>
+<p>The country names listed above are often shortened to just the first character in newspaper headlines.</p></td></tr>
+
+</tbody></table>
+<p id="mw5g">Korean is generally written using a native alphabet known as <b id="mw5w">hangul</b> (<b id="mw6A">chosongul</b> in North Korea and China). Designed by King Sejong the Great of the Joseon Dynasty in an attempt to increase literacy rates and rather scary-looking at first, it's in fact a very logical alphabetic writing system <i id="mw6Q">far</i> easier than Chinese characters or even the Japanese <i id="mw6g">kana</i> syllabary, and it's well worth putting in the time to learn them if staying in Korea for more than a day or two.</p>
+
+<p id="mw6w">The basic idea is simple: hangul consists of letters called <i id="mw7A">jamo</i> combined into square blocks, where each block represents a syllable.  The block is always in the order (consonant)-vowel-(consonant), stacked from top to bottom, where ㅇ is used as the first jamo if the first consonant is missing, and the space for the last consonant can be left empty is missing.  For example, the word <i id="mw7Q">Seoul</i> (서울) consists of the syllables <i id="mw7g">seo</i> (ㅅ <i id="mw7w">s</i> plus ㅓ <i id="mw8A">eo</i>, no final consonant) and <i id="mw8Q">ul</i> (ㅇ plus ㅜ <i id="mw8g">u</i> plus ㄹ <i id="mw8w">l</i>).  Tensed consonants are created by doubling the jamo
+(ㅅ <i id="mw9A">s</i> → ㅆ <i id="mw9Q">ss</i>) and <i id="mw9g">y</i>-vowel diphthongs have an extra dash tacked on (ㅏ <i id="mw9w">a</i> → ㅑ <i id="mw-A">ya</i>).  And that's pretty much it!</p>
+
+<p id="mw-Q">Classical Chinese was the literary language in Korea until the fall of the Joseon Dynasty in 1910, and many Korean words can also be written using Chinese characters, known as <b id="mw-g">hanja</b> in Korean. These were abolished in North Korea in 1949 and in South Korea in 1968, though they may still show up in restaurant menus and signs as an aesthetic choice. Otherwise, the few times you might encounter them are in brackets next to the hangul to describe an unfamiliar term or distinguish a term from a homophone, in some newspaper headlines, and in some legal documents.</p>
+
+<span class="mw-empty-elt" about="#mwt8" typeof="mw:Transclusion" id="mw-w" data-mw='{"parts":[{"template":{"target":{"wt":"infobox","href":"./Template:Infobox"},"params":{"1":{"wt":"Importance of Hanja Disambiguation"},"2":{"wt":"In early 2009, approximately 15,500 rail fasteners on [[KTX]] tracks were found defective for failing their waterproof test. Why? Because the hangul terms for \"waterproof\" and \"water-absorption\" are both written  방수, and the contractor didn&apos;t provide hanja disambiguation — which for those terms would be 防水 and 放水, respectively. The manufacturer then used water-absorbent material on the tracks, resulting in thousands of defects."}},"i":0}}]}'><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt9" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt8">
+<tbody><tr><td>
+<div style="font-weight:bold;">Importance of Hanja Disambiguation</div>
+
+<p>In early 2009, approximately 15,500 rail fasteners on <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/KTX" title="KTX" class="mw-redirect">KTX</a> tracks were found defective for failing their waterproof test. Why? Because the hangul terms for "waterproof" and "water-absorption" are both written  방수, and the contractor didn't provide hanja disambiguation — which for those terms would be 防水 and 放水, respectively. The manufacturer then used water-absorbent material on the tracks, resulting in thousands of defects.</p></td></tr>
+</tbody></table>
+
+<p id="mw_A">While Chinese characters are seldom written, many words themselves are simply Chinese loan words written as they are pronounced — not according to the Mandarin pronunciation, but according to the standardized Korean pronunciation of those same characters used in Chinese. Like Greek and Latin words in English, Chinese words are often found in the more formal and less vernacular sciences, and even more so with 19th-century new Chinese words coined by the Japanese, and used in both Korea and China. Japanese, Vietnamese, and Chinese speakers may find some familiarity with some of these overlapping Chinese terms, although pronunciations are different and Koreans only write out sounds and not the original Chinese characters. Although not nearly as much as Cantonese, Korean pronunciation of Chinese words retains more medieval Chinese pronunciations of the Tang dynasty some 1300 years ago, than the Northeast dialect-influenced modern Mandarin.</p>
+
+<p id="mw_Q">Due to American influences since the end of World War II, by far the largest number of non-Chinese loan words in modern Korean as spoken in South Korea come from American English. The Korean words for many modern concepts are essentially the same as the English ones (eg. hotel (호텔), taxi (택시), computer (컴퓨터)), but will be written in hangul. If you can learn how to read hangul, as an English speaker, you will find it surprisingly easy to read many signs.</p>
+
+</section><section data-mw-section-id="8" id="mw_g" aria-labelledby="Regional_differences"><div class="mw-heading mw-heading2"><h2 id="Regional_differences">Regional differences</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=8" title="Edit section: Regional differences"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mw_w">The official pronunciation of words differs somewhat between North Korea and South Korea. One noticeable difference is that for Sino-Korean words, the initial "r" in North Korea typically gets dropped in South Korea when before an "i" or "y", and becomes an initial "n" otherwise, so Korean cold noodles is known as 랭면 <i id="mwAQA">raengmyeon</i> in North Korea, but 냉면 <i id="mwAQE">naengmyeon</i> in South Korea, while the common Korean surname typically transliterated as "Lee" in English is 리 <i id="mwAQI">Ri</i> in North Korea, but 이 <i id="mwAQM">Yi</i> in South Korea. The initial "n" in North Korea gets dropped when before and "i" or "y" in South Korea, so the word for "woman" is 녀자 <i id="mwAQQ">nyeoja</i> in North Korea, but 여자 <i id="mwAQU">yeoja</i> in South Korea.</p>
+
+<p id="mwAQY">In addition to differences in accent, there are some vocabulary differences in the standard form of Korean language between South Korea and North Korea. One of the most noticeable differences is that South Koreans use many loan words from American English due to heavy American influences, while North Koreans will usually coin their own terms, or use loan words from other languages (especially Russian) instead. Some loanwords from a common origin are transliterated differently in the two standard forms. For example "computer" is "컴퓨터" (<i id="mwAQc">keompyuteo</i>) in South Korea and "콤퓨터" (<i id="mwAQg">kompyuteo</i>) in North Korea.</p>
+
+<p id="mwAQk">Ethnic Koreans from China generally follow the North Korean standard, though they are more likely than North Koreans to understand South Korean terms due to the popularity of South Korean dramas and pop culture in China. In addition, many loan words from Mandarin have been incorporated into the Korean language in China.</p>
+<table class="wikitable" id="mwAQo">
+<caption id="mwAQs"></caption>
+<tbody id="mwAQw"><tr id="mwAQ0"><th id="mwAQ4">English</th>
+<th id="mwAQ8">South Korea</th>
+<th id="mwARA">North Korea</th>
+<th id="mwARE">Yanbian</th></tr>
+<tr id="mwARI">
+<td id="mwARM">ballpoint pen</td>
+<td id="mwARQ">볼펜 <i id="mwARU">bolpen</i></td>
+<td id="mwARY">원주필 <i id="mwARc">wonjupil</i></td>
+<td id="mwARg">원주필 <i id="mwARk">wonjupil</i></td></tr>
+<tr id="mwARo">
+<td id="mwARs">tomato</td>
+<td id="mwARw">토마토 <i id="mwAR0">tomato</i></td>
+<td id="mwAR4">일년감 <i id="mwAR8">illyeon'gam</i></td>
+<td id="mwASA">일년감 <i id="mwASE">illyeon'gam</i></td></tr>
+<tr id="mwASI">
+<td id="mwASM">computer</td>
+<td id="mwASQ">컴퓨터 <i id="mwASU">keompyuteo</i></td>
+<td id="mwASY">콤퓨터 <i id="mwASc">kompyuteo</i></td>
+<td id="mwASg">뗀노 <i id="mwASk">ttenno</i></td></tr>
+<tr id="mwASo">
+<td id="mwASs">traditional Korean clothing</td>
+<td id="mwASw">한복 <i id="mwAS0">hanbok</i></td>
+<td id="mwAS4">조선옷 <i id="mwAS8">joseonot</i></td>
+<td id="mwATA">조선옷 <i id="mwATE">joseonot</i></td></tr>
+<tr id="mwATI">
+<td id="mwATM">traditional Korean house</td>
+<td id="mwATQ">한옥 <i id="mwATU">hanok</i></td>
+<td id="mwATY">조선집 <i id="mwATc">joseonjip</i></td>
+<td id="mwATg">조선집 <i id="mwATk">joseonjip</i></td></tr>
+</tbody></table>
+<p id="mwATo">Another noticeable difference between the Korean language in South Korea, and that among the ethnic Korean minority in China is the way in which Chinese place names and personal names are translated. While South Koreans phonetically transliterate the Standard Mandarin names into hangul, ethnic Koreans from China instead use the conventional Sino-Korean readings of the characters that make up their Chinese names. For example, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Beijing" title="Beijing" id="mwATs">Beijing</a> is known to South Koreans as 베이징 (<i id="mwATw">Beijing</i>) but to ethnic Koreans from China as 북경 (<i id="mwAT0">Bukgyeong</i>), while <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Shanghai" title="Shanghai" id="mwAT4">Shanghai</a> is known to South Koreans as 상하이 (<i id="mwAT8">Sanghai</i>) but to ethnic Koreans from China as 상해 (<i id="mwAUA">Sanghae</i>). Therefore, Chinese cities with large ethnic Korean communities usually have a different local Korean name from the South Korean name; for instance, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Yanji" title="Yanji" id="mwAUE">Yanji</a> is known as 연길 (<i id="mwAUI">Yeon-gil</i>) to the local ethnic Koreans, but 옌지 (<i id="mwAUM">Yenji</i>) to South Koreans. As an example for personal names, Chinese president Xi Jinping is 시진핑 (<i id="mwAUQ">Si Jin-ping</i>) to South Koreans but 습근평 (<i id="mwAUU">Seup Geun-pyeong</i>) to ethnic Koreans from China.</p>
+
+</section><section data-mw-section-id="9" id="mwAUY" aria-labelledby="Phrase_list"><div class="mw-heading mw-heading2"><h2 id="Phrase_list">Phrase list</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=9" title="Edit section: Phrase list"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<span class="mw-empty-elt" about="#mwt10" typeof="mw:Transclusion" id="mwAUc" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infobox&quot;,&quot;href&quot;:&quot;./Template:Infobox&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Common signs&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;\nIn the list below, the hanja is written in parentheses next to the hangul for those terms that you might encounter in hanja in day-to-day life. These are among the few basic hanja that are still widely understood by South Koreans today, so you may see them in signs and menus on their own without the corresponding hangul.\n; 열림 (''yeollim'') : Open\n; 닫힘 (''dachim'') : Closed\n; 입구 (入口) (''ipgu'') : Entrance\n; 출구 (出口) (''chulgu'') : Exit\n; 대 (大)・중 (中)・소 (小) (dae / jung / so)\nLarge / Medium / Small\n; 미시오 (''misio'') : Push\n; 당기시오 (''danggisio'') : Pull\n; 화장실 (化粧室) (''hwajangsil'') : Toilet\n; 남 (男) (''nam'') : Men\n; 여/녀 (女) (''yeo''/''nyeo'') : Women\n; 금지 (禁止) (''geumji'') : Forbidden&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt11" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt10">
+<tbody><tr><td>
+<div style="font-weight:bold;">Common signs</div>
+<p>
+<br/>
+In the list below, the hanja is written in parentheses next to the hangul for those terms that you might encounter in hanja in day-to-day life. These are among the few basic hanja that are still widely understood by South Koreans today, so you may see them in signs and menus on their own without the corresponding hangul.</p>
+<dl><dt>열림 (<i>yeollim</i>)</dt><dd>Open</dd>
+<dt>닫힘 (<i>dachim</i>)</dt><dd>Closed</dd>
+<dt>입구 (入口) (<i>ipgu</i>)</dt><dd>Entrance</dd>
+<dt>출구 (出口) (<i>chulgu</i>)</dt><dd>Exit</dd>
+<dt>대 (大)・중 (中)・소 (小) (dae / jung / so)</dt></dl>
+<p>Large / Medium / Small</p>
+<dl><dt>미시오 (<i>misio</i>)</dt><dd>Push</dd>
+<dt>당기시오 (<i>danggisio</i>)</dt><dd>Pull</dd>
+<dt>화장실 (化粧室) (<i>hwajangsil</i>)</dt><dd>Toilet</dd>
+<dt>남 (男) (<i>nam</i>)</dt><dd>Men</dd>
+<dt>여/녀 (女) (<i>yeo</i>/<i>nyeo</i>)</dt><dd>Women</dd>
+<dt>금지 (禁止) (<i>geumji</i>)</dt><dd>Forbidden</dd></dl></td></tr>
+</tbody></table>
+
+<section data-mw-section-id="10" id="mwAUg" aria-labelledby="Basics"><div class="mw-heading mw-heading3"><h3 id="Basics">Basics</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=10" title="Edit section: Basics"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwAUk"><dt id="mwAUo">Hello. (<i id="mwAUs">formal</i>)</dt><dd id="mwAUw">안녕하십니까. (<i id="mwAU0">annyeonghasimnikka</i>) Common in North Korea, Yanbian, provincial South Korea.</dd>
+<dt id="mwAU4">Hello.</dt><dd id="mwAU8">안녕하세요. (<i id="mwAVA">annyeonghaseyo</i>) Common in South Korea. to older people or to the people to meet first</dd>
+<dt id="mwAVE">Hello. (<i id="mwAVI">informal</i>)</dt><dd id="mwAVM">안녕. (<i id="mwAVQ">annyeong</i>) to your friend or younger people</dd>
+<dt id="mwAVU">Hello. (<i id="mwAVY">on the phone</i>)</dt><dd id="mwAVc">여보세요. (<i id="mwAVg">yeoboseyo</i>) when you answer the phone.</dd>
+<dt id="mwAVk">How are you?</dt><dd id="mwAVo">어떻게 지내십니까? (<i id="mwAVs">eotteoke jinaesimnikka?</i>)</dd>
+<dt id="mwAVw">Fine, thank you.</dt><dd id="mwAV0">잘 지냅니다, 감사합니다. (<i id="mwAV4">jal jinaemnida, gamsahamnida</i>)</dd>
+<dt id="mwAV8">What is your name?</dt><dd id="mwAWA">성함이 어떻게 되세요? (<i id="mwAWE">seonghami eotteoke doeseyo?</i>)</dd>
+<dt id="mwAWI">My name is ______ .</dt><dd id="mwAWM">제 이름은 ______입니다. (<i id="mwAWQ">je ireumeun ____imnida</i>)</dd>
+<dt id="mwAWU">Nice to meet you.</dt><dd id="mwAWY">만나서 반갑습니다. (<i id="mwAWc">mannaseo ban-gapseumnida</i>)</dd>
+<dt id="mwAWg">Please.</dt><dd id="mwAWk">부탁합니다. (<i id="mwAWo">butakamnida</i>)</dd>
+<dt id="mwAWs">Thank you.</dt><dd id="mwAWw">감사합니다. (<i id="mwAW0">gamsahamnida</i>)</dd>
+<dt id="mwAW4">You're welcome.</dt><dd id="mwAW8">천만입니다. (<i id="mwAXA">cheonmanimnida</i>)</dd>
+<dt id="mwAXE">Yes.</dt><dd id="mwAXI">예/네. (<i id="mwAXM">ye/ne</i>)</dd>
+<dt id="mwAXQ">No.</dt><dd id="mwAXU">아니요. (<i id="mwAXY">aniyo</i>)</dd>
+<dt id="mwAXc">Excuse me. (<i id="mwAXg">getting attention</i>)</dt><dd id="mwAXk">실례합니다. (<i id="mwAXo">sill(y)e hamnida</i>)</dd>
+<dt id="mwAXs">I'm sorry.</dt><dd id="mwAXw">죄송합니다. (<i id="mwAX0">joesonghamnida</i>) or 미안해 (<i id="mwAX4">mianhae</i>)</dd>
+<dt id="mwAX8">Goodbye</dt><dd id="mwAYA">안녕히 가십시오/계십시오. (<i id="mwAYE">annyeonghi gasipsio/gyesipsio</i>). The former expression is used by the person staying (e.g. the host), the latter by the person leaving (e.g. a guest).</dd>
+<dt id="mwAYI">Goodbye (<i id="mwAYM">informal</i>)</dt><dd id="mwAYQ">안녕. (<i id="mwAYU">annyeong</i>)</dd>
+<dt id="mwAYY">Is there someone here who speaks English?</dt><dd id="mwAYc">여기에 영어를 하시는 분 계십니까? (<i id="mwAYg">yeogie yeong-eoreul hasineun bun gyesimnikka?</i>)</dd>
+<dt id="mwAYk">Please speak slowly.</dt><dd id="mwAYo">천천히 말해 주십시오. (<i id="mwAYs">cheoncheonhi malhae jusipsio</i>)</dd>
+<dt id="mwAYw">Please say it again.</dt><dd id="mwAY0">다시 한번 말해 주십시오. (<i id="mwAY4">dasi hanbeon malhae jusipsio</i>)</dd>
+<dt id="mwAY8">I can't speak {<i id="mwAZA">language</i>} [well].</dt><dd id="mwAZE">저는 {언어를} [잘] 못합니다. (<i id="mwAZI">jeoneun {eoneoreul} [jal] motamnida</i>)</dd>
+<dt id="mwAZM">I can't speak English [well].</dt><dd id="mwAZQ">저는 영어를 [잘] 못합니다. (<i id="mwAZU">jeoneun yeong-eoreul [jal] motamnida</i>)</dd>
+<dt id="mwAZY">Do you speak {<i id="mwAZc">language</i>}?</dt><dd id="mwAZg">____를 하십니까? (<i id="mwAZk">____reul hasimnikka?</i>)
+<dl id="mwAZo"><dt id="mwAZs">English</dt><dd id="mwAZw">영어 (<i id="mwAZ0">Yeong-eo</i>)</dd>
+<dt id="mwAZ4">German</dt><dd id="mwAZ8">독일어 (<i id="mwAaA">Dogireo</i>)</dd>
+<dt id="mwAaE">French</dt><dd id="mwAaI">프랑스어 (<i id="mwAaM">Peurangseueo</i>)</dd>
+<dt id="mwAaQ">Korean</dt><dd id="mwAaU">한국어 (<i id="mwAaY">Han-gugeo</i>) (formal in South Korea) / 한국말  (<i id="mwAac">Hangug-mal</i>) (colloquial in South Korea) / 조선말 (<i id="mwAag">Joseon-mal</i>) (in North Korea and Yanbian)</dd>
+<dt id="mwAak">Chinese</dt><dd id="mwAao">중국어 (<i id="mwAas">Junggugeo</i>) / 중국말 (<i id="mwAaw">Junggugmal</i>)</dd>
+<dt id="mwAa0">Japanese</dt><dd id="mwAa4">일본어 (<i id="mwAa8">Ilboneo</i>)</dd></dl></dd>
+<dt id="mwAbA">Yes, a little.</dt><dd id="mwAbE">네, 조금만요. (<i id="mwAbI">ne, jogeummanyo</i>)</dd>
+<dt id="mwAbM">Help!</dt><dd id="mwAbQ">도와주십시오! (<i id="mwAbU">dowajusipsio!</i>), 도와주세요! (<i id="mwAbY">dowajuseyo!</i>)</dd>
+<dt id="mwAbc">Look out!</dt><dd id="mwAbg">조심하십시오! (<i id="mwAbk">josimhasipsio!</i>), 조심하세요! (<i id="mwAbo">josimhaseyo!</i>)</dd>
+<dt id="mwAbs">Good morning.</dt><dd id="mwAbw">좋은 아침입니다. (<i id="mwAb0">jo-eun achimimnida</i>)</dd>
+<dt id="mwAb4">Good evening.</dt><dd id="mwAb8">좋은 저녁입니다. (<i id="mwAcA">jo-eun jeonyeogimnida</i>)</dd>
+<dt id="mwAcE">Good night.</dt><dd id="mwAcI">좋은 밤입니다. (<i id="mwAcM">jo-eun bamimnida</i>)</dd>
+<dt id="mwAcQ">Good night (<i id="mwAcU">to sleep</i>)</dt><dd id="mwAcY">안녕히 주무십시오. (<i id="mwAcc">annyeonghi jumusipsio</i>)</dd>
+<dt id="mwAcg">I don't understand.</dt><dd id="mwAck">이해가 안 갑니다. (<i id="mwAco">ihaega an gamnida</i>)</dd>
+<dt id="mwAcs">Where is the toilet?</dt><dd id="mwAcw">화장실이 어디에 있습니까? (<i id="mwAc0">hwajangsiri eodie itseumnikka?</i>)</dd>
+<dt id="mwAc4">What?</dt><dd id="mwAc8">무엇입니까? (<i id="mwAdA">mueosimnikka?</i>)</dd>
+<dt id="mwAdE">Where?</dt><dd id="mwAdI">어디입니까? (<i id="mwAdM">eodiimnikka?</i>)</dd>
+<dt id="mwAdQ">Who?</dt><dd id="mwAdU">누구입니까? (<i id="mwAdY">nuguimnikka?</i>)</dd>
+<dt id="mwAdc">When?</dt><dd id="mwAdg">언제입니까? (<i id="mwAdk">eonjeimnikka?</i>)</dd>
+<dt id="mwAdo">Which?</dt><dd id="mwAds">어느 것입니까? (<i id="mwAdw">eoneu geosimnikka?</i>)</dd>
+<dt id="mwAd0">How much?</dt><dd id="mwAd4">얼마나요? (<i id="mwAd8">eolmanayo?</i>)</dd>
+<dt id="mwAeA">How do you say _____ in Korean?</dt><dd id="mwAeE">_____은 한국말로 어떻게 말합니까? (<i id="mwAeI">____eun Han-gungmallo eotteoke malhamnikka?</i>)</dd>
+<dt id="mwAeM">What is this/that called?</dt><dd id="mwAeQ">이것은/저것은 무엇이라고 부릅니까? (<i id="mwAeU">igeoseun/jeogeoseun mueosirago bureumnikka?</i>)</dd></dl>
+
+</section><section data-mw-section-id="11" id="mwAeY" aria-labelledby="Problems"><div class="mw-heading mw-heading3"><h3 id="Problems">Problems</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=11" title="Edit section: Problems"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwAec"><dt id="mwAeg">Leave me alone.</dt><dd id="mwAek">혼자 내버려 두십시오. (<i id="mwAeo">honja naebeoryeo dusipsio</i>)</dd>
+<dt id="mwAes">Don't touch me!</dt><dd id="mwAew">만지지 마십시오! (<i id="mwAe0">manjiji masipsio!</i>), 만지지 마! (<i id="mwAe4">manjiji ma!</i>, informal)</dd>
+<dt id="mwAe8">I'll call the police.</dt><dd id="mwAfA">경찰을 부르겠습니다! (<i id="mwAfE">gyeongchareul bureugetseumnida!</i>)</dd>
+<dt id="mwAfI">Police!</dt><dd id="mwAfM">경찰! (<i id="mwAfQ">gyeongchal!</i>)</dd>
+<dt id="mwAfU">Stop! Thief!</dt><dd id="mwAfY">서라! 도둑이야! (<i id="mwAfc">seora! dodugiya!</i>)</dd>
+<dt id="mwAfg">I need your help.</dt><dd id="mwAfk">당신의 도움이 필요합니다. (<i id="mwAfo">dangsinui doumi piryohamnida</i>)</dd>
+<dt id="mwAfs">It's an emergency.</dt><dd id="mwAfw">응급 상황입니다. (<i id="mwAf0">eunggeup sanghwang-imnida</i>)</dd>
+<dt id="mwAf4">I'm lost.</dt><dd id="mwAf8">길을 잃었습니다. (<i id="mwAgA">gireul ireotseumnida</i>)</dd>
+<dt id="mwAgE">I lost my bag.</dt><dd id="mwAgI">가방을 잃었습니다. (<i id="mwAgM">gabang-eul ireotseumnida</i>)</dd>
+<dt id="mwAgQ">I lost my wallet.</dt><dd id="mwAgU">지갑을 잃었습니다. (<i id="mwAgY">jigabeul ireotseumnida</i>)</dd>
+<dt id="mwAgc">I'm sick.</dt><dd id="mwAgg">아픕니다. (<i id="mwAgk">apeumnida</i>)</dd>
+<dt id="mwAgo">I've been injured.</dt><dd id="mwAgs">상처를 입었습니다. (<i id="mwAgw">sangcheoreul ibeotseumnida</i>)</dd>
+<dt id="mwAg0">I need a doctor.</dt><dd id="mwAg4">의사가 필요합니다. (<i id="mwAg8">uisaga piryohamnida</i>)</dd>
+<dt id="mwAhA">Can I use your phone?</dt><dd id="mwAhE">당신의 전화기를 사용해도 되겠습니까? (dangsinui jeonhwagireul sayonghaedo doegetseumnikka?)</dd></dl>
+
+</section><section data-mw-section-id="12" id="mwAhI" aria-labelledby="Numbers"><div class="mw-heading mw-heading3"><h3 id="Numbers">Numbers</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=12" title="Edit section: Numbers"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAhM">Korean has two sets of numbers, namely <b id="mwAhQ">native</b> Korean numbers and <b id="mwAhU">Sino-Korean</b> numbers (which are borrowed from <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Chinese_phrasebook" title="Chinese phrasebook" id="mwAhY">Chinese</a>). Both come in handy, but in a pinch, the Sino-Korean series is more important to learn.</p>
+
+<section data-mw-section-id="13" id="mwAhc" aria-labelledby="Sino-Korean_numbers"><div class="mw-heading mw-heading4"><h4 id="Sino-Korean_numbers">Sino-Korean numbers</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=13" title="Edit section: Sino-Korean numbers"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAhg">Sino-Korean numbers are used for amounts of <b id="mwAhk">currency</b>, reading a sequence of numbers (e.g. telephone numbers, ID card numbers or serial numbers), floor numbers and the 24-hour clock.</p>
+<figure typeof="mw:File/Thumb" id="mwAho"><a href="https://en.wikivoyage.org/wiki/File:오만원.jpg" class="mw-file-description" id="mwAhs"><img resource="https://en.wikivoyage.org/wiki/File:오만원.jpg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/0/01/%EC%98%A4%EB%A7%8C%EC%9B%90.jpg/500px-%EC%98%A4%EB%A7%8C%EC%9B%90.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/0/01/%EC%98%A4%EB%A7%8C%EC%9B%90.jpg/1280px-%EC%98%A4%EB%A7%8C%EC%9B%90.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="6933" data-file-height="1540" data-file-type="bitmap" height="111" width="500" class="mw-file-element" id="mwAhw"/></a><figcaption id="mwAh0">KRW50,000</figcaption></figure>
+
+<dl id="mwAh4"><dt id="mwAh8">0</dt><dd id="mwAiA">공 (gong) / 영 (yeong)</dd>
+<dt id="mwAiE">1</dt><dd id="mwAiI">일 (il)</dd>
+<dt id="mwAiM">2</dt><dd id="mwAiQ">이 (i)</dd>
+<dt id="mwAiU">3</dt><dd id="mwAiY">삼 (sam)</dd>
+<dt id="mwAic">4</dt><dd id="mwAig">사 (sa)</dd>
+<dt id="mwAik">5</dt><dd id="mwAio">오 (o)</dd>
+<dt id="mwAis">6</dt><dd id="mwAiw">육 (yuk)</dd>
+<dt id="mwAi0">7</dt><dd id="mwAi4">칠 (chil)</dd>
+<dt id="mwAi8">8</dt><dd id="mwAjA">팔 (pal)</dd>
+<dt id="mwAjE">9</dt><dd id="mwAjI">구 (gu)</dd>
+<dt id="mwAjM">10</dt><dd id="mwAjQ">십 (sip)</dd>
+<dt id="mwAjU">11</dt><dd id="mwAjY">십일 (sibil)</dd>
+<dt id="mwAjc">12</dt><dd id="mwAjg">십이 (sibi)</dd>
+<dt id="mwAjk">13</dt><dd id="mwAjo">십삼 (sipsam)</dd>
+<dt id="mwAjs">14</dt><dd id="mwAjw">십사 (sipsa)</dd>
+<dt id="mwAj0">15</dt><dd id="mwAj4">십오 (sibo)</dd>
+<dt id="mwAj8">16</dt><dd id="mwAkA">십육 (simnyuk)</dd>
+<dt id="mwAkE">17</dt><dd id="mwAkI">십칠 (sipchil)</dd>
+<dt id="mwAkM">18</dt><dd id="mwAkQ">십팔 (sippal)</dd>
+<dt id="mwAkU">19</dt><dd id="mwAkY">십구 (sipgu)</dd>
+<dt id="mwAkc">20</dt><dd id="mwAkg">이십 (isip)</dd>
+<dt id="mwAkk">21</dt><dd id="mwAko">이십일 (isibil)</dd>
+<dt id="mwAks">22</dt><dd id="mwAkw">이십이 (isibi)</dd>
+<dt id="mwAk0">23</dt><dd id="mwAk4">이십삼 (isipsam)</dd>
+<dt id="mwAk8">30</dt><dd id="mwAlA">삼십 (samsip)</dd>
+<dt id="mwAlE">40</dt><dd id="mwAlI">사십 (sasip)</dd>
+<dt id="mwAlM">50</dt><dd id="mwAlQ">오십 (osip)</dd>
+<dt id="mwAlU">60</dt><dd id="mwAlY">육십 (yuksip)</dd>
+<dt id="mwAlc">70</dt><dd id="mwAlg">칠십 (chilsip)</dd>
+<dt id="mwAlk">80</dt><dd id="mwAlo">팔십 (palsip)</dd>
+<dt id="mwAls">90</dt><dd id="mwAlw">구십 (gusip)</dd>
+<dt id="mwAl0">100</dt><dd id="mwAl4">백 (baek)</dd>
+<dt id="mwAl8">200</dt><dd id="mwAmA">이백 (ibaek)</dd>
+<dt id="mwAmE">300</dt><dd id="mwAmI">삼백 (sambaek)</dd>
+<dt id="mwAmM">1,000</dt><dd id="mwAmQ">천 (cheon)</dd>
+<dt id="mwAmU">2,000</dt><dd id="mwAmY">이천 (icheon)</dd>
+<dt id="mwAmc">10,000</dt><dd id="mwAmg">만 (man)</dd>
+<dt id="mwAmk">100,000</dt><dd id="mwAmo">십만 (simman)</dd>
+<dt id="mwAms">1,000,000 (one million)</dt><dd id="mwAmw">백만 (baengman)</dd>
+<dt id="mwAm0">10,000,000</dt><dd id="mwAm4">천만 (cheonman)</dd>
+<dt id="mwAm8">100,000,000</dt><dd id="mwAnA">억 (eok)</dd>
+<dt id="mwAnE">1,000,000,000 (one billion)</dt><dd id="mwAnI">십억 (sibeok)</dd>
+<dt id="mwAnM">10,000,000,000</dt><dd id="mwAnQ">백억 (baegeok)</dd>
+<dt id="mwAnU">100,000,000,000</dt><dd id="mwAnY">천억 (cheoneok)</dd>
+<dt id="mwAnc">1,000,000,000,000 (one trillion)</dt><dd id="mwAng">조 (jo)</dd>
+<dt id="mwAnk">10,000,000,000,000</dt><dd id="mwAno">십조 (sipjo)</dd>
+<dt id="mwAns">100,000,000,000,000</dt><dd id="mwAnw">백조 (baekjo)</dd>
+<dt id="mwAn0">1,000,000,000,000,000</dt><dd id="mwAn4">천조 (cheonjo)</dd>
+<dt id="mwAn8">10,000,000,000,000,000</dt><dd id="mwAoA">경 (gyeong)</dd></dl>
+
+<dl id="mwAoE"><dt id="mwAoI">number _____ (train, bus, etc.)</dt><dd id="mwAoM">_____ 번 (열차, 버스, etc.) (<i id="mwAoQ">beon (yeolcha, beoseu, etc.)</i>)</dd>
+<dt id="mwAoU">half</dt><dd id="mwAoY">반 (<i id="mwAoc">ban</i>)</dd>
+<dt id="mwAog">less</dt><dd id="mwAok">덜 (<i id="mwAoo">deol</i>)</dd>
+<dt id="mwAos">more</dt><dd id="mwAow">더 (<i id="mwAo0">deo</i>)</dd></dl>
+
+</section><section data-mw-section-id="14" id="mwAo4" aria-labelledby="Native_Korean_numbers"><div class="mw-heading mw-heading4"><h4 id="Native_Korean_numbers">Native Korean numbers</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=14" title="Edit section: Native Korean numbers"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAo8">Native Korean numbers are used for counting, specifying most quantities (with the relevant <b id="mwApA">counting words</b>) and for hours.</p>
+
+<span class="mw-empty-elt" about="#mwt12" typeof="mw:Transclusion" id="mwApE" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infobox&quot;,&quot;href&quot;:&quot;./Template:Infobox&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Counting words&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;Similar to Chinese and Japanese, Korean uses '''counter''' words when counting objects. For example, \&quot;two beers\&quot; is ''maekju dubyeong'' (맥주 2병), where ''du'' is \&quot;two\&quot; and ''-byeong'' means \&quot;bottles\&quot;. There are many counters, but the most useful ones are ''myeong'' (명) for people, ''jang'' (장) for papers including tickets, and ''gae'' (개) for pretty much anything else (which is not always strictly correct, but will usually be understood and is growing in colloquial usage).\n; objects (apples, sweets) : 개 ''-gae''\n; people : 명 ''-myeong'', 분 ''-bun'' (polite)\n; flat paper-like objects (papers, tickets, pages) : 장 ''-jang''\n; bottles (or other glass or ceramic containers for liquid with a narrow mouth) : 병 ''-byeong''\n; cups, glasses: 잔 ''-jan''\n; animals : 마리 ''-mari''\n; times : 번 ''-beon''\n; machines (cars, computers) : 대 ''-dae''\n; long objects (pens, rifles) : 자루 ''-jaru''\n; books : 권 ''-gwon''\n; small boxes (cigarettes, etc.) : 갑 ''-gap''\n; large boxes : 상자 ''-sangja''\n; trees : 그루 ''-geuru''\n; letters, telegrams, phone calls, e-mails : 통 ''-tong''\n; boats : 척 ''-cheok''\n; bunches of things such as flowers : 송이 ''-song-i''\n; years (age) : 살 ''-sal''\n\nNote that when combined with a counting word, the last letter of numbers 1 through 4 as well as 20 is dropped: one person is ''han myeong'' (''hana''+''myeong''), two tickets is ''du jang'' (''dul''+''jang''), three things is ''se gae'' (''set''+''gae''), four things is ''ne gae'' (''net''+''gae''), twenty things is ''seumu gae'' (''seumul''+''gae'').&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5162413" about="#mwt13" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Infobox/styles.css"}}'/></span><table class="pp_infobox infobox" style="float:right; clear:right; margin-left: 1em; width:40%;" cellpadding="8" cellspacing="1" about="#mwt12">
+<tbody><tr><td>
+<div style="font-weight:bold;">Counting words</div>
+
+<p>Similar to Chinese and Japanese, Korean uses <b>counter</b> words when counting objects. For example, "two beers" is <i>maekju dubyeong</i> (맥주 2병), where <i>du</i> is "two" and <i>-byeong</i> means "bottles". There are many counters, but the most useful ones are <i>myeong</i> (명) for people, <i>jang</i> (장) for papers including tickets, and <i>gae</i> (개) for pretty much anything else (which is not always strictly correct, but will usually be understood and is growing in colloquial usage).</p>
+<dl><dt>objects (apples, sweets)</dt><dd>개 <i>-gae</i></dd>
+<dt>people</dt><dd>명 <i>-myeong</i>, 분 <i>-bun</i> (polite)</dd>
+<dt>flat paper-like objects (papers, tickets, pages)</dt><dd>장 <i>-jang</i></dd>
+<dt>bottles (or other glass or ceramic containers for liquid with a narrow mouth)</dt><dd>병 <i>-byeong</i></dd>
+<dt>cups, glasses</dt><dd>잔 <i>-jan</i></dd>
+<dt>animals</dt><dd>마리 <i>-mari</i></dd>
+<dt>times</dt><dd>번 <i>-beon</i></dd>
+<dt>machines (cars, computers)</dt><dd>대 <i>-dae</i></dd>
+<dt>long objects (pens, rifles)</dt><dd>자루 <i>-jaru</i></dd>
+<dt>books</dt><dd>권 <i>-gwon</i></dd>
+<dt>small boxes (cigarettes, etc.)</dt><dd>갑 <i>-gap</i></dd>
+<dt>large boxes</dt><dd>상자 <i>-sangja</i></dd>
+<dt>trees</dt><dd>그루 <i>-geuru</i></dd>
+<dt>letters, telegrams, phone calls, e-mails</dt><dd>통 <i>-tong</i></dd>
+<dt>boats</dt><dd>척 <i>-cheok</i></dd>
+<dt>bunches of things such as flowers</dt><dd>송이 <i>-song-i</i></dd>
+<dt>years (age)</dt><dd>살 <i>-sal</i></dd></dl>
+
+<p>Note that when combined with a counting word, the last letter of numbers 1 through 4 as well as 20 is dropped: one person is <i>han myeong</i> (<i>hana</i>+<i>myeong</i>), two tickets is <i>du jang</i> (<i>dul</i>+<i>jang</i>), three things is <i>se gae</i> (<i>set</i>+<i>gae</i>), four things is <i>ne gae</i> (<i>net</i>+<i>gae</i>), twenty things is <i>seumu gae</i> (<i>seumul</i>+<i>gae</i>).</p></td></tr>
+</tbody></table>
+
+<dl id="mwApI"><dt id="mwApM">1</dt><dd id="mwApQ">하나 (hana)</dd>
+<dt id="mwApU">2</dt><dd id="mwApY">둘 (dul)</dd>
+<dt id="mwApc">3</dt><dd id="mwApg">셋 (set)</dd>
+<dt id="mwApk">4</dt><dd id="mwApo">넷 (net)</dd>
+<dt id="mwAps">5</dt><dd id="mwApw">다섯 (daseot)</dd>
+<dt id="mwAp0">6</dt><dd id="mwAp4">여섯 (yeoseot)</dd>
+<dt id="mwAp8">7</dt><dd id="mwAqA">일곱 (ilgop)</dd>
+<dt id="mwAqE">8</dt><dd id="mwAqI">여덟 (yeodeol)</dd>
+<dt id="mwAqM">9</dt><dd id="mwAqQ">아홉 (ahop)</dd>
+<dt id="mwAqU">10</dt><dd id="mwAqY">열 (yeol)</dd>
+<dt id="mwAqc">11</dt><dd id="mwAqg">열하나 (yeolhana)</dd>
+<dt id="mwAqk">20</dt><dd id="mwAqo">스물 (seumul)</dd>
+<dt id="mwAqs">30</dt><dd id="mwAqw">서른 (seoreun)</dd>
+<dt id="mwAq0">40</dt><dd id="mwAq4">마흔 (maheun)</dd>
+<dt id="mwAq8">50</dt><dd id="mwArA">쉰 (swin)</dd>
+<dt id="mwArE">60</dt><dd id="mwArI">예순 (yesun)</dd>
+<dt id="mwArM">70</dt><dd id="mwArQ">일흔 (ilheun)</dd>
+<dt id="mwArU">80</dt><dd id="mwArY">여든 (yeodeun)</dd>
+<dt id="mwArc">90</dt><dd id="mwArg">아흔 (aheun)</dd></dl>
+
+<p id="mwArk">Numbers 100 and above are always counted with Sino-Korean numbers in South Korea, whereas North Korean uses a combination in which the part over 100 is read as Sino-Korean and the remaining part is not, e.g. 105 will be 백 다섯.</p>
+
+</section></section><section data-mw-section-id="15" id="mwAro" aria-labelledby="Time"><div class="mw-heading mw-heading3"><h3 id="Time">Time</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=15" title="Edit section: Time"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwArs"><dt id="mwArw">now</dt><dd id="mwAr0">지금 (<i id="mwAr4">jigeum</i>)</dd>
+<dt id="mwAr8">later</dt><dd id="mwAsA">나중에 (<i id="mwAsE">najung-e</i>)</dd>
+<dt id="mwAsI">before</dt><dd id="mwAsM">전에 (<i id="mwAsQ">jeone</i>)</dd>
+<dt id="mwAsU">after</dt><dd id="mwAsY">후에 (<i id="mwAsc">hue</i>)</dd>
+<dt id="mwAsg">morning</dt><dd id="mwAsk">아침 (<i id="mwAso">achim</i>)</dd>
+<dt id="mwAss">afternoon</dt><dd id="mwAsw">오후 (<i id="mwAs0">ohu</i>)</dd>
+<dt id="mwAs4">evening</dt><dd id="mwAs8">저녁 (<i id="mwAtA">jeonyeok</i>)</dd>
+<dt id="mwAtE">night</dt><dd id="mwAtI">밤 (<i id="mwAtM">bam</i>)</dd>
+<dt id="mwAtQ">dawn</dt><dd id="mwAtU">새벽 (<i id="mwAtY">saebyeok</i>)</dd></dl>
+
+<section data-mw-section-id="16" id="mwAtc" aria-labelledby="Clock_time"><div class="mw-heading mw-heading4"><h4 id="Clock_time">Clock time</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=16" title="Edit section: Clock time"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwAtg"><dt id="mwAtk">one o'clock AM</dt><dd id="mwAto">오전 한 시 (<i id="mwAts">ojeon han si</i>)</dd>
+<dt id="mwAtw">two o'clock AM</dt><dd id="mwAt0">오전 두 시 (<i id="mwAt4">ojeon du si</i>)</dd>
+<dt id="mwAt8">noon</dt><dd id="mwAuA">정오 (<i id="mwAuE">jeong-o</i>)</dd>
+<dt id="mwAuI">one o'clock PM</dt><dd id="mwAuM">오후 한 시 (<i id="mwAuQ">ohu han si</i>)</dd>
+<dt id="mwAuU">two o'clock PM</dt><dd id="mwAuY">오후 두 시 (<i id="mwAuc">ohu du si</i>)</dd>
+<dt id="mwAug">midnight</dt><dd id="mwAuk">자정 (<i id="mwAuo">jajeong</i>)</dd></dl>
+
+</section><section data-mw-section-id="17" id="mwAus" aria-labelledby="Duration"><div class="mw-heading mw-heading4"><h4 id="Duration">Duration</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=17" title="Edit section: Duration"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAuw">Sino-Korean numbers are used to count minutes and days, while native Korean numbers are used to count hours. Months and years may be counted using either system, depending on which counter is used, while both systems can be used interchangeably to count weeks. However, durations from 1 day to 10 days, as well as 15 days and 30 days, have special words that are commonly used instead of the regular forms stated here.</p>
+
+<dl id="mwAu0"><dt id="mwAu4">_____ minute(s)</dt><dd id="mwAu8">_____ 분 (<i id="mwAvA">___ bun</i>)</dd>
+<dt id="mwAvE">_____ hour(s)</dt><dd id="mwAvI">_____ 시간 (<i id="mwAvM">___ sigan</i>)</dd>
+<dt id="mwAvQ">_____ day(s)</dt><dd id="mwAvU">_____ 일 (<i id="mwAvY">___ il</i>)</dd>
+<dt id="mwAvc">_____ week(s)</dt><dd id="mwAvg">_____ 주 (<i id="mwAvk">___ ju</i>)  / _____ 주일 (<i id="mwAvo">___ ju-il</i>)</dd>
+<dt id="mwAvs">_____ month(s)</dt><dd id="mwAvw">_____ 달 (<i id="mwAv0">___ dal</i>) /  _____ 개월 (<i id="mwAv4">___ gaewol</i>) <br id="mwAv8"/> <b id="mwAwA">Note</b>: 달 is used with native Korean numbers, while 개월 is used with Sino-Korean numbers</dd>
+<dt id="mwAwE">_____ year(s)</dt><dd id="mwAwI">_____ 년 (<i id="mwAwM">___ nyeon</i>) / _____ 해 (<i id="mwAwQ">___ hae</i>) <br id="mwAwU"/> <b id="mwAwY">Note</b>: 년 is used with Sino-Korean numbers, while 해 is used with native Korean numbers</dd></dl>
+
+<section data-mw-section-id="18" id="mwAwc" aria-labelledby="Number_of_days"><div class="mw-heading mw-heading5"><h5 id="Number_of_days">Number of days</h5><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=18" title="Edit section: Number of days"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwAwg"><dt id="mwAwk">1 day</dt><dd id="mwAwo">하루 (<i id="mwAws">ha-ru</i>)</dd>
+<dt id="mwAww">2 days</dt><dd id="mwAw0">이틀 (<i id="mwAw4">i-teul</i>)</dd>
+<dt id="mwAw8">3 days</dt><dd id="mwAxA">사흘 (<i id="mwAxE">sa-heul</i>)</dd>
+<dt id="mwAxI">4 days</dt><dd id="mwAxM">나흘 (<i id="mwAxQ">na-heul</i>)</dd>
+<dt id="mwAxU">5 days</dt><dd id="mwAxY">닷새 (<i id="mwAxc">dat-sae</i>)</dd>
+<dt id="mwAxg">6 days</dt><dd id="mwAxk">엿새 (<i id="mwAxo">yeot-sae</i>)</dd>
+<dt id="mwAxs">7 days</dt><dd id="mwAxw">이레 (<i id="mwAx0">i-re</i>)</dd>
+<dt id="mwAx4">8 days</dt><dd id="mwAx8">여드레 (<i id="mwAyA">yeo-deu-re</i>)</dd>
+<dt id="mwAyE">9 days</dt><dd id="mwAyI">아흐레 (<i id="mwAyM">a-heu-re</i>)</dd>
+<dt id="mwAyQ">10 days</dt><dd id="mwAyU">열흘 (<i id="mwAyY">yeo-reul</i>)</dd>
+<dt id="mwAyc">15 days</dt><dd id="mwAyg">보름 (<i id="mwAyk">bo-reum</i>)</dd>
+<dt id="mwAyo">30 days</dt><dd id="mwAys">그믐 (<i id="mwAyw">geu-meum</i>)</dd></dl>
+
+</section></section><section data-mw-section-id="19" id="mwAy0" aria-labelledby="Days"><div class="mw-heading mw-heading4"><h4 id="Days">Days</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=19" title="Edit section: Days"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwAy4"><dt id="mwAy8">today</dt><dd id="mwAzA">오늘 (<i id="mwAzE">oneul</i>)</dd>
+<dt id="mwAzI">yesterday</dt><dd id="mwAzM">어제 (<i id="mwAzQ">eoje</i>)</dd>
+<dt id="mwAzU">tomorrow</dt><dd id="mwAzY">내일 (<i id="mwAzc">naeil</i>)</dd>
+<dt id="mwAzg">the day before yesterday</dt><dd id="mwAzk">그저께 (<i id="mwAzo">geujeokke</i>)</dd>
+<dt id="mwAzs">the day after tomorrow</dt><dd id="mwAzw">모레 (<i id="mwAz0">more</i>)</dd>
+<dt id="mwAz4">this week</dt><dd id="mwAz8">이번 주 (<i id="mwA0A">ibeon ju</i>)</dd>
+<dt id="mwA0E">last week</dt><dd id="mwA0I">지난 주 (<i id="mwA0M">jinan ju</i>)</dd>
+<dt id="mwA0Q">next week</dt><dd id="mwA0U">다음 주 (<i id="mwA0Y">da-eum ju</i>)</dd></dl>
+
+</section><section data-mw-section-id="20" id="mwA0c" aria-labelledby="Days_of_the_week"><div class="mw-heading mw-heading4"><h4 id="Days_of_the_week">Days of the week</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=20" title="Edit section: Days of the week"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwA0g"><dt id="mwA0k">Sunday</dt><dd id="mwA0o">일요일 (<i id="mwA0s">iryoil</i>)</dd>
+<dt id="mwA0w">Monday</dt><dd id="mwA00">월요일 (<i id="mwA04">woryoil</i>)</dd>
+<dt id="mwA08">Tuesday</dt><dd id="mwA1A">화요일 (<i id="mwA1E">hwayoil</i>)</dd>
+<dt id="mwA1I">Wednesday</dt><dd id="mwA1M">수요일 (<i id="mwA1Q">suyoil</i>)</dd>
+<dt id="mwA1U">Thursday</dt><dd id="mwA1Y">목요일 (<i id="mwA1c">mogyoil</i>)</dd>
+<dt id="mwA1g">Friday</dt><dd id="mwA1k">금요일 (<i id="mwA1o">geumyoil</i>)</dd>
+<dt id="mwA1s">Saturday</dt><dd id="mwA1w">토요일 (<i id="mwA10">toyoil</i>)</dd></dl>
+
+</section><section data-mw-section-id="21" id="mwA14" aria-labelledby="Days_of_the_month"><div class="mw-heading mw-heading4"><h4 id="Days_of_the_month">Days of the month</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=21" title="Edit section: Days of the month"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwA18">The days of the month in Korean are just the Sino-Korean numbers for 1-31 followed by the word 일 (<i id="mwA2A">il</i>, meaning "day")</p>
+
+<dl id="mwA2E"><dt id="mwA2I">First day of the month</dt><dd id="mwA2M">1일 (<i id="mwA2Q">i-ril</i>)</dd>
+<dt id="mwA2U">Second day of the month</dt><dd id="mwA2Y">2일 (<i id="mwA2c">i-il</i>)</dd>
+<dt id="mwA2g">Third day of the month</dt><dd id="mwA2k">3일 (<i id="mwA2o">sa-mil</i>)</dd>
+<dt id="mwA2s">Fourth day of the month</dt><dd id="mwA2w">4일 (<i id="mwA20">sa-il</i>)</dd></dl>
+
+</section><section data-mw-section-id="22" id="mwA24" aria-labelledby="Months"><div class="mw-heading mw-heading4"><h4 id="Months">Months</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=22" title="Edit section: Months"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwA28">The names of the months in Korean are simply the Sino-Korean numbers 1 through 12 followed by the word 월 (<i id="mwA3A">wol</i>, meaning "month").</p>
+
+<dl id="mwA3E"><dt id="mwA3I">January</dt><dd id="mwA3M">1월 (일월) <i id="mwA3Q">irol</i></dd>
+<dt id="mwA3U">February</dt><dd id="mwA3Y">2월 (이월) <i id="mwA3c">iwol</i></dd>
+<dt id="mwA3g">March</dt><dd id="mwA3k">3월 (삼월) <i id="mwA3o">samwol</i></dd>
+<dt id="mwA3s">April</dt><dd id="mwA3w">4월 (사월) <i id="mwA30">sawol</i></dd>
+<dt id="mwA34">May</dt><dd id="mwA38">5월 (오월) <i id="mwA4A">owol</i></dd>
+<dt id="mwA4E">June*</dt><dd id="mwA4I">6월 (유월) <i id="mwA4M">yuwol</i></dd>
+<dt id="mwA4Q">July</dt><dd id="mwA4U">7월 (칠월) <i id="mwA4Y">chirwol</i></dd>
+<dt id="mwA4c">August</dt><dd id="mwA4g">8월 (팔월) <i id="mwA4k">parwol</i></dd>
+<dt id="mwA4o">September</dt><dd id="mwA4s">9월 (구월) <i id="mwA4w">guwol</i></dd>
+<dt id="mwA40">October*</dt><dd id="mwA44">10월 (시월) <i id="mwA48">siwol</i></dd>
+<dt id="mwA5A">November</dt><dd id="mwA5E">11월 (십일월) <i id="mwA5I">sibirwol</i></dd>
+<dt id="mwA5M">December</dt><dd id="mwA5Q">12월 (십이월) <i id="mwA5U">sibiwol</i></dd></dl>
+<ul id="mwA5Y"><li id="mwA5c">The number component of 6월 and 10월 drop the final consonant for purposes of liaison.</li></ul>
+
+</section><section data-mw-section-id="23" id="mwA5g" aria-labelledby="Writing_time_and_date"><div class="mw-heading mw-heading4"><h4 id="Writing_time_and_date">Writing time and date</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=23" title="Edit section: Writing time and date"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<p id="mwA5k">Koreans generally write the date in yyyy.mm.dd format (e.g. 2006.12.25 for December 25th, 2006).</p>
+
+<dl id="mwA5o"><dt id="mwA5s">October 4th, 2019</dt><dd id="mwA5w"></dd></dl>
+<p id="mwA50">2019년 10월 4일 (이천십구년 시월 사일) <i id="mwA54">icheon-sipgunyeon siwol sa-il</i> (____year, _____month, ____day)</p>
+
+</section></section><section data-mw-section-id="24" id="mwA58" aria-labelledby="Colors"><div class="mw-heading mw-heading3"><h3 id="Colors">Colors</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=24" title="Edit section: Colors"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwA6A"><dt id="mwA6E">black</dt><dd id="mwA6I">검은색 (<i id="mwA6M">geomeunsaek</i>)</dd>
+<dt id="mwA6Q">white</dt><dd id="mwA6U">흰색 (<i id="mwA6Y">huinsaek</i>)</dd>
+<dt id="mwA6c">gray</dt><dd id="mwA6g">회색 (<i id="mwA6k">hoesaek</i>)</dd>
+<dt id="mwA6o">red</dt><dd id="mwA6s">빨간색 (<i id="mwA6w">ppalgansaek</i>) / 붉은색 ( <i id="mwA60">bulgeunsaek</i> )</dd>
+<dt id="mwA64">blue</dt><dd id="mwA68">파란색 (<i id="mwA7A">paransaek</i>) / 푸른색 ( <i id="mwA7E">pureunsaek</i> )</dd>
+<dt id="mwA7I">yellow</dt><dd id="mwA7M">노란색 (<i id="mwA7Q">noransaek</i>)</dd>
+<dt id="mwA7U">green</dt><dd id="mwA7Y">초록색 (<i id="mwA7c">choroksaek</i>)</dd>
+<dt id="mwA7g">orange</dt><dd id="mwA7k">주황색 (<i id="mwA7o">juhwangsaek</i>)</dd>
+<dt id="mwA7s">purple</dt><dd id="mwA7w">자주색 (<i id="mwA70">jajusaek</i>)</dd>
+<dt id="mwA74">brown</dt><dd id="mwA78">갈색 (<i id="mwA8A">galsaek</i>)</dd>
+<dt id="mwA8E">gold</dt><dd id="mwA8I">금색 (<i id="mwA8M">geumsaek</i>)</dd>
+<dt id="mwA8Q">silver</dt><dd id="mwA8U">은색 (<i id="mwA8Y">eunsaek</i>)</dd></dl>
+
+</section><section data-mw-section-id="25" id="mwA8c" aria-labelledby="Transportation"><div class="mw-heading mw-heading3"><h3 id="Transportation">Transportation</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=25" title="Edit section: Transportation"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb" id="mwA8g"><a href="https://en.wikivoyage.org/wiki/File:Old_down_town_(7).JPG" class="mw-file-description" id="mwA8k"><img resource="https://en.wikivoyage.org/wiki/File:Old_down_town_(7).JPG" src="//thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Old_down_town_%287%29.JPG/330px-Old_down_town_%287%29.JPG?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Old_down_town_%287%29.JPG/960px-Old_down_town_%287%29.JPG?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="4912" data-file-height="3264" data-file-type="bitmap" height="199" width="300" class="mw-file-element" id="mwA8o"/></a><figcaption id="mwA8s">Old downtown, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Yongin" title="Yongin" id="mwA8w">Yongin</a></figcaption></figure>
+<section data-mw-section-id="26" id="mwA80" aria-labelledby="Bus_and_train"><div class="mw-heading mw-heading4"><h4 id="Bus_and_train">Bus and train</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=26" title="Edit section: Bus and train"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwA84"><dt id="mwA88">How much is a ticket to _____?</dt><dd id="mwA9A">_____로 가는 표가 얼마입니까? (<i id="mwA9E">_____ro ganeun pyoga eolmaimnikka?</i>)</dd>
+<dt id="mwA9I">One ticket to _____, please.</dt><dd id="mwA9M">_____로 가는 표 한 장이요. (<i id="mwA9Q">_____ro ganeun pyo han jang-iyo</i>)</dd>
+<dt id="mwA9U">Where does this train/bus go?</dt><dd id="mwA9Y">이 기차/버스는 어디로 갑니까? (<i id="mwA9c">i gicha/beoseu-neun eodiro gamnikka?</i>)</dd>
+<dt id="mwA9g">Where is the train/bus to _____?</dt><dd id="mwA9k">_____에 가는 기차/버스는 어디에 있습니까? (<i id="mwA9o">_____e ganeun gicha/beoseuneun eodi-e itseumnikka?</i>)</dd>
+<dt id="mwA9s">Does this train/bus stop in _____?</dt><dd id="mwA9w">이 기차/버스는 _____에 섭니까? (<i id="mwA90">i gicha/beoseu-neun _____e seomnikka?</i>)</dd>
+<dt id="mwA94">When does the train/bus for _____ leave?</dt><dd id="mwA98">_____에 가는 기차/버스는 언제 출발합니까? (<i id="mwA-A">_____e ganeun gicha/beoseu-neun eonje chulbalhamnikka?</i>)</dd>
+<dt id="mwA-E">When will this train/bus arrive in _____?</dt><dd id="mwA-I">이 기차/버스는 _____에 언제 도착합니까? (<i id="mwA-M">i gicha/beoseu-neun _____e eonje dochakamnikka?</i>)</dd></dl>
+
+</section><section data-mw-section-id="27" id="mwA-Q" aria-labelledby="Directions"><div class="mw-heading mw-heading4"><h4 id="Directions">Directions</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=27" title="Edit section: Directions"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb" id="mwA-U"><a href="https://en.wikivoyage.org/wiki/File:Gyeongju_gas_station.JPG" class="mw-file-description" id="mwA-Y"><img resource="https://en.wikivoyage.org/wiki/File:Gyeongju_gas_station.JPG" src="//thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Gyeongju_gas_station.JPG/330px-Gyeongju_gas_station.JPG?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Gyeongju_gas_station.JPG/960px-Gyeongju_gas_station.JPG?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="1000" data-file-height="667" data-file-type="bitmap" height="200" width="300" class="mw-file-element" id="mwA-c"/></a><figcaption id="mwA-g">Gas station with Korean roof, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Gyeongju" title="Gyeongju" id="mwA-k">Gyeongju</a></figcaption></figure>
+<dl id="mwA-o"><dt id="mwA-s">How do I get to _____<span typeof="mw:DisplaySpace" id="mwA-w"> </span>?</dt><dd id="mwA-0">_____에 가려면 어떻게 해야 합니까? (<i id="mwA-4">____e garyeomyeon eotteoke haeya hamnikka?</i>)</dd>
+<dt id="mwA-8">...the train station?</dt><dd id="mwA_A">기차역...? (<i id="mwA_E">gichayeok...?</i>)</dd>
+<dt id="mwA_I">...the bus station?</dt><dd id="mwA_M">버스 정류장...? (<i id="mwA_Q">beoseu jeongnyujang...?</i>)</dd>
+<dt id="mwA_U">...the airport?</dt><dd id="mwA_Y">공항...? (<i id="mwA_c">gonghang...?</i>)</dd>
+<dt id="mwA_g">...downtown?</dt><dd id="mwA_k">시내...? (<i id="mwA_o">sinae...?</i>)</dd>
+<dt id="mwA_s">...the youth hostel?</dt><dd id="mwA_w">유스 호스텔...? (<i id="mwA_0">yuseu hoseutel...?</i>)</dd>
+<dt id="mwA_4">...the _____ hotel?</dt><dd id="mwA_8">_____ 호텔...? (<i id="mwBAA">____ hotel...?</i>)</dd>
+<dt id="mwBAE">...the American/Canadian/Australian/British consulate?</dt><dd id="mwBAI">미국/캐나다/호주/영국 영사관...? (<i id="mwBAM">miguk/kaenada/hoju/yeongguk yeongsagwan...?</i>)</dd>
+<dt id="mwBAQ">Where are there a lot of...</dt><dd id="mwBAU">...이 많은 곳은 어디에 있습니까? (<i id="mwBAY">...i maneun goseun eodie itseumnikka?</i>)</dd>
+<dt id="mwBAc">...hotels?</dt><dd id="mwBAg">호텔...? (<i id="mwBAk">hotel...?</i>)</dd>
+<dt id="mwBAo">...restaurants?</dt><dd id="mwBAs">식당...? (<i id="mwBAw">sikdang...？</i>)</dd>
+<dt id="mwBA0">...bars?</dt><dd id="mwBA4">술집...? (<i id="mwBA8">suljip...？</i>)</dd>
+<dt id="mwBBA">...sites to see?</dt><dd id="mwBBE">볼거리들...? (<i id="mwBBI">bolgeorideul...？</i>)</dd>
+<dt id="mwBBM">Is it far from here?</dt><dd id="mwBBQ">여기서 멉니까? (<i id="mwBBU">yeogiseo meomnikka?</i>)</dd>
+<dt id="mwBBY">Can you show me on the map?</dt><dd id="mwBBc">지도에 보여 주시겠습니까? (<i id="mwBBg">...jido-e boyeo jusigetseumnikka?</i>)</dd>
+<dt id="mwBBk">street</dt><dd id="mwBBo">길 (<i id="mwBBs">gil</i>)</dd>
+<dt id="mwBBw">Turn left.</dt><dd id="mwBB0">왼쪽으로 도십시오. (<i id="mwBB4">oenjjogeuro dosipsio</i>)</dd>
+<dt id="mwBB8">Turn right.</dt><dd id="mwBCA">오른쪽으로 도십시오. (<i id="mwBCE">oreunjjogeuro dosipsio</i>)</dd>
+<dt id="mwBCI">left</dt><dd id="mwBCM">왼쪽 (<i id="mwBCQ">oenjjok</i>)</dd>
+<dt id="mwBCU">right</dt><dd id="mwBCY">오른쪽 (<i id="mwBCc">oreunjjok</i>)</dd>
+<dt id="mwBCg">straight ahead</dt><dd id="mwBCk">곧장 가십시오. (<i id="mwBCo">gotjang gasipsio</i>)</dd>
+<dt id="mwBCs">towards the _____</dt><dd id="mwBCw">_____를 향해. (<i id="mwBC0">_____reul hyanghae</i>)</dd>
+<dt id="mwBC4">past the _____</dt><dd id="mwBC8">_____를 지나. (<i id="mwBDA">_____reul jina</i>)</dd>
+<dt id="mwBDE">before the _____</dt><dd id="mwBDI">_____ 전에. (<i id="mwBDM">_____ jeone</i>)</dd>
+<dt id="mwBDQ">Watch for the _____.</dt><dd id="mwBDU">_____를 기다리십시오. (<i id="mwBDY">_____reul gidarisipsio</i>)</dd>
+<dt id="mwBDc">intersection</dt><dd id="mwBDg">교차로 (<i id="mwBDk">gyocharo</i>)</dd>
+<dt id="mwBDo">highway</dt><dd id="mwBDs">고속도로 (<i id="mwBDw">gosokdoro</i>)</dd>
+<dt id="mwBD0">3-way crossing</dt><dd id="mwBD4">삼거리 (<i id="mwBD8">samgeori</i>)</dd>
+<dt id="mwBEA">4-way crossing</dt><dd id="mwBEE">사거리 (<i id="mwBEI">sageori</i>)</dd>
+<dt id="mwBEM">5-way crossing</dt><dd id="mwBEQ">오거리 (<i id="mwBEU">ogeori</i>)</dd>
+<dt id="mwBEY">north</dt><dd id="mwBEc">북 (<i id="mwBEg">buk</i>)</dd>
+<dt id="mwBEk">south</dt><dd id="mwBEo">남 (<i id="mwBEs">nam</i>)</dd>
+<dt id="mwBEw">east</dt><dd id="mwBE0">동 (<i id="mwBE4">dong</i>)</dd>
+<dt id="mwBE8">west</dt><dd id="mwBFA">서 (<i id="mwBFE">seo</i>)</dd>
+<dt id="mwBFI">uphill</dt><dd id="mwBFM">오르막길 (<i id="mwBFQ">oreumakgil</i>)</dd>
+<dt id="mwBFU">downhill</dt><dd id="mwBFY">내리막길(<i id="mwBFc">naerimakgil</i>)</dd></dl>
+
+</section><section data-mw-section-id="28" id="mwBFg" aria-labelledby="Taxi"><div class="mw-heading mw-heading4"><h4 id="Taxi">Taxi</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=28" title="Edit section: Taxi"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwBFk"><dt id="mwBFo">Taxi!</dt><dd id="mwBFs">택시! (<i id="mwBFw">taeksi!</i>)</dd>
+<dt id="mwBF0">Take me to _____, please.</dt><dd id="mwBF4">_____로 데려가 주십시오. (<i id="mwBF8">____ro deryeoga jusipsio</i>), _____로 가 주세요. (<i id="mwBGA">____ro ga juseyo.</i>)</dd>
+<dt id="mwBGE">How much does it cost to get to _____?</dt><dd id="mwBGI">_____까지는 (요금이) 얼마입니까? (<i id="mwBGM">____kkajineun (yogeumi) eolmaimnikka?</i>)</dd>
+<dt id="mwBGQ">Take me there, please.</dt><dd id="mwBGU">저기에 데려가 주십시오. (<i id="mwBGY">jeogie deryeoga jusipsio'.</i>)</dd></dl>
+
+</section></section><section data-mw-section-id="29" id="mwBGc" aria-labelledby="Lodging"><div class="mw-heading mw-heading3"><h3 id="Lodging">Lodging</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=29" title="Edit section: Lodging"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwBGg"><dt id="mwBGk">Do you have any rooms available?</dt><dd id="mwBGo">방 있습니까? (<i id="mwBGs">bang itseumnikka?</i>)</dd>
+<dt id="mwBGw">How much is a room for one person/two people?</dt><dd id="mwBG0">한 사람/두 사람당 방이 얼마입니까? (<i id="mwBG4">han saram/du saram-dang bang-i eolmaimnikka?</i>)</dd>
+<dt id="mwBG8">Does the room come with...</dt><dd id="mwBHA">그 방에는 ...이/가 있습니까? (<i id="mwBHE">geu bang-eneun ...i/ga itseumnikka?</i>)</dd>
+<dt id="mwBHI">...bedsheets?</dt><dd id="mwBHM">침대보 (<i id="mwBHQ">chimdaebo</i>), 침대 시트 (<i id="mwBHU">chimdae siteu</i>)</dd>
+<dt id="mwBHY">...a bathroom?</dt><dd id="mwBHc">화장실 (<i id="mwBHg">hwajangsil</i>)</dd>
+<dt id="mwBHk">...a telephone?</dt><dd id="mwBHo">전화기 (<i id="mwBHs">jeonhwagi</i>)</dd>
+<dt id="mwBHw">...a TV?</dt><dd id="mwBH0">티비 (<i id="mwBH4">tibi</i>)</dd>
+<dt id="mwBH8">May I see the room first?</dt><dd id="mwBIA">방을 먼저 봐도 되겠습니까? (<i id="mwBIE">bang-eul meonjeo bwado doegetseumnikka?</i>)</dd>
+<dt id="mwBII">Do you have anything...</dt><dd id="mwBIM">... 방 있습니까? (<i id="mwBIQ">...bang itseumnikka?</i>)</dd>
+<dt id="mwBIU">...quieter?</dt><dd id="mwBIY">더 조용한... (<i id="mwBIc">deo joyonghan...</i>)</dd>
+<dt id="mwBIg">...bigger?</dt><dd id="mwBIk">더 큰... (<i id="mwBIo">deo keun...</i>)</dd>
+<dt id="mwBIs">...larger?</dt><dd id="mwBIw">더 넓은... (<i id="mwBI0">deo neolbeun...</i>)</dd>
+<dt id="mwBI4">...cleaner?</dt><dd id="mwBI8">더 깨끗한... (<i id="mwBJA">deo kkaekkeutan...</i>)</dd>
+<dt id="mwBJE">...cheaper?</dt><dd id="mwBJI">더 싼... (<i id="mwBJM">deo ssan...</i>)</dd>
+<dt id="mwBJQ">OK, I'll take it.</dt><dd id="mwBJU">좋습니다, 그것으로 하겠습니다. (<i id="mwBJY">joseumnida, geugeoseuro hagetseumnida</i>)</dd>
+<dt id="mwBJc">I will stay for _____ night(s).</dt><dd id="mwBJg">_____ 밤 묵겠습니다. (<i id="mwBJk">_____ bam mukgetseumnida</i>)</dd>
+<dt id="mwBJo">Can you suggest another hotel?</dt><dd id="mwBJs">다른 호텔을 권해 주시겠습니까? (<i id="mwBJw">dareun hotereul gwonhae jusigetseumnikka?</i>)</dd>
+<dt id="mwBJ0">Do you have a safe?</dt><dd id="mwBJ4">금고 있습니까? (<i id="mwBJ8">geumgo itseumnikka?</i>)</dd>
+<dt id="mwBKA">...lockers?</dt><dd id="mwBKE">...자물쇠? (<i id="mwBKI">...jamulsoe?</i>)</dd>
+<dt id="mwBKM">Is breakfast/supper included?</dt><dd id="mwBKQ">아침식사/저녁식사 가 됩니까? (<i id="mwBKU">achimsiksa/jeonyeoksiksa ga doemnika?</i>)</dd>
+<dt id="mwBKY">What time is breakfast/supper?</dt><dd id="mwBKc">아침식사/저녁식사 는 몇 시입니까? (<i id="mwBKg">achimsiksa/jeonyeoksiksa neun myeot siimnikka?</i>)</dd>
+<dt id="mwBKk">Please clean my room.</dt><dd id="mwBKo">방을 청소해 주십시오. (<i id="mwBKs">bang-eul cheongsohae jusipsio</i>)</dd>
+<dt id="mwBKw">Can you wake me at _____?</dt><dd id="mwBK0">_____ 시에 깨워주시겠습니까? (<i id="mwBK4">_____ si-e kkaewojusigetseumnikka?</i>)</dd>
+<dt id="mwBK8">I want to check out.</dt><dd id="mwBLA">체크 아웃하고 싶습니다. (<i id="mwBLE">chekeu autago sipseumnida</i>)</dd></dl>
+
+</section><section data-mw-section-id="30" id="mwBLI" aria-labelledby="Money"><div class="mw-heading mw-heading3"><h3 id="Money">Money</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=30" title="Edit section: Money"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<dl id="mwBLM"><dt id="mwBLQ">Do you accept American/Australian/Canadian dollars?</dt><dd id="mwBLU">미국/오스트레일리아/캐나다 달러 받으십니까? (<i id="mwBLY">miguk/oseuteureillia/kaenada dalleo badeusimnikka?</i>)</dd>
+<dt id="mwBLc">Do you accept British pounds?</dt><dd id="mwBLg">영국 파운드 받으십니까? (<i id="mwBLk">yeongguk paundeu badeusimnikka?</i>)</dd>
+<dt id="mwBLo">Do you accept credit cards?</dt><dd id="mwBLs">신용 카드 받으십니까? (<i id="mwBLw">sinyong kadeu badeusimnikka?</i>)</dd>
+<dt id="mwBL0">Can you change money for me?</dt><dd id="mwBL4">환전해 주시겠습니까? (<i id="mwBL8">hwanjeonhae jusigetseumnikka?</i>)</dd>
+<dt id="mwBMA">Where can I get money changed?</dt><dd id="mwBME">어디에서 환전할 수 있습니까? (<i id="mwBMI">eodieseo hwanjeonhal su itseumnikka?</i>)</dd>
+<dt id="mwBMM">Can you change a traveler's check for me?</dt><dd id="mwBMQ">여행자 수표를 현금으로 바꿔주시겠습니까? (<i id="mwBMU">yeohaengja supyoreul hyeon-geumeuro bakkwojusigetseumnikka?</i>)</dd>
+<dt id="mwBMY">Where can I get a traveler's check changed?</dt><dd id="mwBMc">어디에서 여행자 수표를 현금으로 바꿀 수 있습니까? (<i id="mwBMg">eodieseo yeohaengja supyoreul hyeon-geumeuro bakkul su itseumnikka?</i>)</dd>
+<dt id="mwBMk">What is the exchange rate?</dt><dd id="mwBMo">환율이 얼마입니까? (<i id="mwBMs">hwanyuri eolmaimnikka?</i>)</dd>
+<dt id="mwBMw">Where is an automatic teller machine (ATM)?</dt><dd id="mwBM0">현금 자동 지급기가 어디에 있습니까? (<i id="mwBM4">hyeon-geum jadong jigeupgiga eodie itseumnikka?</i>)</dd></dl>
+
+</section><section data-mw-section-id="31" id="mwBM8" aria-labelledby="Eating"><div class="mw-heading mw-heading3"><h3 id="Eating">Eating</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=31" title="Edit section: Eating"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb" id="mwBNA"><a href="https://en.wikivoyage.org/wiki/File:Korean_braised_beef_short_ribs-Galbijjim-02.jpg" class="mw-file-description" id="mwBNE"><img resource="https://en.wikivoyage.org/wiki/File:Korean_braised_beef_short_ribs-Galbijjim-02.jpg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Korean_braised_beef_short_ribs-Galbijjim-02.jpg/330px-Korean_braised_beef_short_ribs-Galbijjim-02.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Korean_braised_beef_short_ribs-Galbijjim-02.jpg/960px-Korean_braised_beef_short_ribs-Galbijjim-02.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="1599" data-file-height="1066" data-file-type="bitmap" height="200" width="300" class="mw-file-element" id="mwBNI"/></a><figcaption id="mwBNM">Galbijjim</figcaption></figure>
+<dl id="mwBNQ"><dt id="mwBNU">A table for one person/two people, please.</dt><dd id="mwBNY">한 사람/두 사람 테이블 부탁합니다. (<i id="mwBNc">han saram/du saram teibeul butakamnida</i>)</dd>
+<dt id="mwBNg">Can I look at the menu, please?</dt><dd id="mwBNk">메뉴를 봐도 되겠습니까? (<i id="mwBNo">menyureul bwado doegetseumnikka?</i>)</dd>
+<dt id="mwBNs">Can I look in the kitchen?</dt><dd id="mwBNw">부엌을 봐도 되겠습니까? (<i id="mwBN0">bueokeul bwado doegetseumnikka?</i>)</dd>
+<dt id="mwBN4">Is there a house specialty?</dt><dd id="mwBN8">이 집의 추천 요리가 있습니까? (<i id="mwBOA">i jibui chucheon yoriga itseumnikka?</i>)</dd>
+<dt id="mwBOE">Is there a local specialty?</dt><dd id="mwBOI">이 지역의 대표 요리가 있습니까? (<i id="mwBOM">i jiyeogui daepyo yoriga itseumnikka?</i>)</dd>
+<dt id="mwBOQ">I'm a vegetarian.</dt><dd id="mwBOU">저는 채식주의자입니다. (<i id="mwBOY">jeoneun chaesikjuuijaimnida</i>)</dd>
+<dt id="mwBOc">Because of this, I don't eat the following.</dt><dd id="mwBOg">저는 그래서 이런 것이 들어간 음식을 먹지 않습니다. (<i id="mwBOk">jeoneun geuraeseo ireon geosi deureogan eumsigeul meokji anseumnida</i>)</dd></dl>
+
+<dl id="mwBOo"><dt id="mwBOs">I don't eat pork.</dt><dd id="mwBOw">저는 돼지고기를 먹지 않습니다. (<i id="mwBO0">jeoneun dwaejigogireul meokji anseumnida</i>)</dd>
+<dt id="mwBO4">I don't eat beef.</dt><dd id="mwBO8">저는 소고기를 먹지 않습니다. (<i id="mwBPA">jeoneun sogogireul meokji anseumnida</i>)</dd>
+<dt id="mwBPE">I only eat kosher food.</dt><dd id="mwBPI">저는 코셔 음식만 먹습니다. (<i id="mwBPM">jeoneun Kosyeo eumsingman meokseumnida</i>)</dd>
+<dt id="mwBPQ">Can you make it "lite", please? (<i id="mwBPU">less oil/butter/lard</i>)</dt><dd id="mwBPY">... (<i id="mwBPc">..</i>)</dd>
+<dt id="mwBPg">fixed-price meal</dt><dd id="mwBPk">정가 음식 (<i id="mwBPo">jeongga eumsik</i>)</dd>
+<dt id="mwBPs">à la carte</dt><dd id="mwBPw">... (<i id="mwBP0">..</i>)</dd>
+<dt id="mwBP4">breakfast</dt><dd id="mwBP8">아침 식사 (<i id="mwBQA">achim siksa</i>)</dd>
+<dt id="mwBQE">lunch</dt><dd id="mwBQI">점심 식사 (<i id="mwBQM">jeomsim siksa</i>)</dd>
+<dt id="mwBQQ">tea (<i id="mwBQU">meal</i>)</dt><dd id="mwBQY">차 (<i id="mwBQc">cha</i>)</dd>
+<dt id="mwBQg">supper</dt><dd id="mwBQk">저녁 식사 (<i id="mwBQo">jeonyeok siksa</i>)</dd>
+<dt id="mwBQs">I want _____.</dt><dd id="mwBQw">저는 _____을 원합니다. (<i id="mwBQ0">jeoneun _____eul wonhamnida</i>)</dd>
+<dt id="mwBQ4">I want a dish containing _____.</dt><dd id="mwBQ8">저는 _____[이/가] 들어간 요리를 먹고 싶습니다. (<i id="mwBRA">jeoneun ____[i/ga] deureogan yorireul meokgo sipseumnida</i>)</dd>
+<dt id="mwBRE">meat</dt><dd id="mwBRI">고기 (<i id="mwBRM">gogi</i>)</dd>
+<dt id="mwBRQ">beef</dt><dd id="mwBRU">소고기 (<i id="mwBRY">sogogi</i>)</dd>
+<dt id="mwBRc">pork</dt><dd id="mwBRg">돼지고기 (<i id="mwBRk">dwaejigogi</i>)</dd>
+<dt id="mwBRo">ham/spam</dt><dd id="mwBRs">햄 (<i id="mwBRw">haem</i>)</dd>
+<dt id="mwBR0">bacon</dt><dd id="mwBR4">베이컨/삼겹살[(<i id="mwBR8">beikeon/samgyeopsal</i>)</dd>
+<dt id="mwBSA">sausage</dt><dd id="mwBSE">소시지 (<i id="mwBSI">sosiji</i>)</dd>
+<dt id="mwBSM">chicken</dt><dd id="mwBSQ">닭고기/치킨 (<i id="mwBSU">dakgogi/chikin</i>)</dd>
+<dt id="mwBSY">eggs</dt><dd id="mwBSc">달걀/계란 (<i id="mwBSg">dalgyal/gyeran</i>)</dd>
+<dt id="mwBSk">seafood</dt><dd id="mwBSo">해물 (<i id="mwBSs">haemul</i>)</dd>
+<dt id="mwBSw">fish</dt><dd id="mwBS0">생선 (<i id="mwBS4">saengseon</i>)</dd>
+<dt id="mwBS8">shrimp/prawn</dt><dd id="mwBTA">새우 (<i id="mwBTE">sae-u</i>)</dd>
+<dt id="mwBTI">clam/shellfish</dt><dd id="mwBTM">조개 (<i id="mwBTQ">jogae</i>)</dd>
+<dt id="mwBTU">crab meat</dt><dd id="mwBTY">게살 (<i id="mwBTc">gesal</i>)</dd>
+<dt id="mwBTg">squid/cuttlefish</dt><dd id="mwBTk">오징어 (<i id="mwBTo">ojing-eo</i>)</dd>
+<dt id="mwBTs">baby octopus</dt><dd id="mwBTw">꼴뚜기 (<i id="mwBT0">kkolttugi</i>)</dd>
+<dt id="mwBT4">dairy products</dt><dd id="mwBT8">유제품 (<i id="mwBUA">yujepum</i>)</dd>
+<dt id="mwBUE">milk</dt><dd id="mwBUI">우유 (<i id="mwBUM">uyu</i>)</dd>
+<dt id="mwBUQ">cream</dt><dd id="mwBUU">크림 (<i id="mwBUY">keurim</i>)</dd>
+<dt id="mwBUc">cheese</dt><dd id="mwBUg">치즈 (<i id="mwBUk">chijeu</i>)</dd>
+<dt id="mwBUo">butter</dt><dd id="mwBUs">버터 (<i id="mwBUw">beoteo</i>)</dd>
+<dt id="mwBU0">yogurt</dt><dd id="mwBU4">요구르트 (<i id="mwBU8">yogureuteu</i>)</dd>
+<dt id="mwBVA">mayonnaise</dt><dd id="mwBVE">마요네즈 (<i id="mwBVI">mayonejeu</i>)</dd>
+<dt id="mwBVM">broth</dt><dd id="mwBVQ">국물 (<i id="mwBVU">gungmul</i>)</dd>
+<dt id="mwBVY">(fresh) vegetables</dt><dd id="mwBVc">(신선한) 야채 (<i id="mwBVg">(sinseonhan) yachae</i>)</dd>
+<dt id="mwBVk">(fresh) fruit</dt><dd id="mwBVo">(신선한) 과일 (<i id="mwBVs">(sinseonhan) gwa-il</i>)</dd>
+<dt id="mwBVw">salad</dt><dd id="mwBV0">샐러드 (<i id="mwBV4">saelleodeu</i>)</dd>
+<dt id="mwBV8">bread</dt><dd id="mwBWA">빵 (<i id="mwBWE">ppang</i>)</dd>
+<dt id="mwBWI">toast</dt><dd id="mwBWM">토스트 (<i id="mwBWQ">toseuteu</i>)</dd>
+<dt id="mwBWU">noodles</dt><dd id="mwBWY">국수 (<i id="mwBWc">guksu</i>)</dd>
+<dt id="mwBWg">rice</dt><dd id="mwBWk">밥 (<i id="mwBWo">bap</i>)</dd>
+<dt id="mwBWs">beans</dt><dd id="mwBWw">콩 (<i id="mwBW0">kong</i>)</dd>
+<dt id="mwBW4">May I have a glass of _____?</dt><dd id="mwBW8">_____ 한 잔 주시겠습니까? (<i id="mwBXA">____ han jan jusigetseumnikka?</i>)</dd>
+<dt id="mwBXE">May I have a cup of _____?</dt><dd id="mwBXI">_____ 한 컵 주시겠습니까? (<i id="mwBXM">____ han keop jusigetseumnikka?</i>)</dd>
+<dt id="mwBXQ">May I have a bottle of _____?</dt><dd id="mwBXU">_____ 한 병 주시겠습니까? (<i id="mwBXY">____ han byeong jusigetseumnikka?</i>)</dd>
+<dt id="mwBXc">coffee</dt><dd id="mwBXg">커피 (<i id="mwBXk">keopi</i>)</dd>
+<dt id="mwBXo">tea (<i id="mwBXs">drink</i>)</dt><dd id="mwBXw">차 (<i id="mwBX0">cha</i>)</dd>
+<dt id="mwBX4">juice</dt><dd id="mwBX8">주스 (<i id="mwBYA">juseu</i>)</dd>
+<dt id="mwBYE">(sparkling) water</dt><dd id="mwBYI">탄산수 (<i id="mwBYM">tansansu</i>)</dd>
+<dt id="mwBYQ">water</dt><dd id="mwBYU">물 (<i id="mwBYY">mul</i>)</dd>
+<dt id="mwBYc">beer</dt><dd id="mwBYg">맥주 (<i id="mwBYk">maekju</i>)</dd>
+<dt id="mwBYo">red/white wine</dt><dd id="mwBYs">레드/화이트 와인 (<i id="mwBYw">redeu/hwaiteu wain</i>), 적/백 포도주 (<i id="mwBY0">jeok/baek podoju</i>)</dd>
+<dt id="mwBY4">May I have some _____?</dt><dd id="mwBY8">_____을/를 좀 주시겠습니까? (<i id="mwBZA">____eul/reul jom jusigetseumnikka?</i>)</dd>
+<dt id="mwBZE">salt</dt><dd id="mwBZI">소금 (<i id="mwBZM">sogeum</i>)</dd>
+<dt id="mwBZQ">black pepper</dt><dd id="mwBZU">후추 (<i id="mwBZY">huchu</i>)</dd>
+<dt id="mwBZc">seasoning/sauce</dt><dd id="mwBZg">양념/소스 (<i id="mwBZk">yangnyeom/soseu</i>)</dd>
+<dt id="mwBZo">Excuse me, waiter? (<i id="mwBZs">getting attention of server</i>)</dt><dd id="mwBZw">여기요? (Literally, this means "Here." (<i id="mwBZ0">yeogiyo?</i>))</dd>
+<dt id="mwBZ4">(when starting a meal)</dt><dd id="mwBZ8">잘 먹겠습니다 (<i id="mwBaA">jal meokgetseumnida</i>)</dd>
+<dt id="mwBaE">I'm finished.</dt><dd id="mwBaI">다 먹었습니다. (<i id="mwBaM">da meogeotseumnida</i>)</dd>
+<dt id="mwBaQ">It was delicious.</dt><dd id="mwBaU">맛있었습니다. (<i id="mwBaY">masisseotseumnida</i>)</dd>
+<dt id="mwBac">Please clear the plates.</dt><dd id="mwBag">접시를 치워주십시오. (<i id="mwBak">jeopsireul chiwojusipsio</i>)</dd>
+<dt id="mwBao">The check, please.</dt><dd id="mwBas">계산서 부탁합니다. (<i id="mwBaw">gyesanseo butakamnida</i>)</dd></dl>
+
+</section><section data-mw-section-id="32" id="mwBa0" aria-labelledby="Bars"><div class="mw-heading mw-heading3"><h3 id="Bars">Bars</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=32" title="Edit section: Bars"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwBa4"><dt id="mwBa8">Do you serve alcohol?</dt><dd id="mwBbA">술 팔립니까? (<i id="mwBbE">sul pallimnikka?</i>)</dd>
+<dt id="mwBbI">Is there table service?</dt><dd id="mwBbM">테이블로 갖다주십니까? (<i id="mwBbQ">teibeul-ro gattajusimnikka?</i>)</dd>
+<dt id="mwBbU">A beer/two beers, please.</dt><dd id="mwBbY">맥주 한/두 병 부탁합니다. (<i id="mwBbc">maekju han/du byeong butakamnida</i>)</dd>
+<dt id="mwBbg">A glass of red/white wine, please.</dt><dd id="mwBbk">적/백 포도주 한 잔 부탁합니다. (<i id="mwBbo">jeok/baek podoju han jan butakamnida</i>)</dd>
+<dt id="mwBbs">One liter, please.</dt><dd id="mwBbw">일 리터 부탁합니다. (<i id="mwBb0">il-riteo butakamnida.</i>)</dd>
+<dt id="mwBb4">A bottle, please.</dt><dd id="mwBb8">한 병 부탁합니다. (<i id="mwBcA">han byeong butakamnida</i>)</dd>
+<dt id="mwBcE">_____ (<i id="mwBcI">hard liquor</i>) and _____ (<i id="mwBcM">mixer</i>), please.</dt><dd id="mwBcQ">... (<i id="mwBcU">..</i>)</dd>
+<dt id="mwBcY">whiskey</dt><dd id="mwBcc">위스키 (<i id="mwBcg">wiseuki</i>)</dd>
+<dt id="mwBck">vodka</dt><dd id="mwBco">보드카 (<i id="mwBcs">bodeuka</i>)</dd>
+<dt id="mwBcw">rum</dt><dd id="mwBc0">럼 (<i id="mwBc4">reom</i>)</dd>
+<dt id="mwBc8">water</dt><dd id="mwBdA">물 (<i id="mwBdE">mul</i>)</dd>
+<dt id="mwBdI">club soda</dt><dd id="mwBdM">탄산수 (<i id="mwBdQ">tansansu</i>)</dd>
+<dt id="mwBdU">tonic water</dt><dd id="mwBdY">탄산 음료 (<i id="mwBdc">tansan eumnyo</i>)</dd>
+<dt id="mwBdg">orange juice</dt><dd id="mwBdk">오렌지 주스 (<i id="mwBdo">orenji juseu</i>)</dd>
+<dt id="mwBds">Coke (<i id="mwBdw">soda</i>)</dt><dd id="mwBd0">콜라 (<i id="mwBd4">kolla</i>)</dd>
+<dt id="mwBd8">Do you have any bar snacks?</dt><dd id="mwBeA">안주 있습니까? (<i id="mwBeE">anju isseumnikka?</i>)</dd>
+<dt id="mwBeI">One more, please.</dt><dd id="mwBeM">한 개 더 부탁합니다. (<i id="mwBeQ">han gae deo butakamnida</i>)</dd>
+<dt id="mwBeU">Another round, please.</dt><dd id="mwBeY">한 잔 더 주세요. (<i id="mwBec">han jan deo juseyo</i>)</dd>
+<dt id="mwBeg">When is closing time?</dt><dd id="mwBek">언제 닫으십니까? (<i id="mwBeo">eonje dadeusimnikka?</i>)</dd></dl>
+
+</section><section data-mw-section-id="33" id="mwBes" aria-labelledby="Shopping"><div class="mw-heading mw-heading3"><h3 id="Shopping">Shopping</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=33" title="Edit section: Shopping"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb" id="mwBew"><a href="https://en.wikivoyage.org/wiki/File:Seoul-Namdaemun.Market-05.jpg" class="mw-file-description" id="mwBe0"><img resource="https://en.wikivoyage.org/wiki/File:Seoul-Namdaemun.Market-05.jpg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Seoul-Namdaemun.Market-05.jpg/330px-Seoul-Namdaemun.Market-05.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//upload.wikimedia.org/wikipedia/commons/d/d2/Seoul-Namdaemun.Market-05.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled 2x" data-file-width="800" data-file-height="533" data-file-type="bitmap" height="200" width="300" class="mw-file-element" id="mwBe4"/></a><figcaption id="mwBe8">Namdaemun Market in <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Seoul/Jung" title="Seoul/Jung" id="mwBfA">Seoul</a> is Korea's largest street market.</figcaption></figure>
+<dl id="mwBfE"><dt id="mwBfI">Do you have this in my size?</dt><dd id="mwBfM">이것으로 제 사이즈와 맞는 것 있습니까? (<i id="mwBfQ">igeoseuro je saijeuwa manneun geot itseumnikka?</i>)</dd>
+<dt id="mwBfU">How much is this?</dt><dd id="mwBfY">이것은 얼마입니까? (<i id="mwBfc">igeoseun eolmaimnikka?</i>)</dd>
+<dt id="mwBfg">That's too expensive.</dt><dd id="mwBfk">너무 비쌉니다. (<i id="mwBfo">neomu bissamnida</i>)</dd>
+<dt id="mwBfs">Would you take _____?</dt><dd id="mwBfw">_____ 받으십니까? (<i id="mwBf0">_____ badeusimnikka?</i>), _____도 됩니까? (<i id="mwBf4">_____do doemnikka?</i>)</dd>
+<dt id="mwBf8">expensive</dt><dd id="mwBgA">비싼 (<i id="mwBgE">bissan</i>)</dd>
+<dt id="mwBgI">cheap</dt><dd id="mwBgM">싼 (<i id="mwBgQ">ssan</i>)</dd>
+<dt id="mwBgU">I can't afford it.</dt><dd id="mwBgY">그것을 살 여유가 없습니다. (<i id="mwBgc">geugeoseul sal yeoyuga eopseumnida</i>)</dd>
+<dt id="mwBgg">I don't want it.</dt><dd id="mwBgk">그것을 원하지 않습니다. (<i id="mwBgo">geugeoseul wonhaji anseumnida</i>)</dd>
+<dt id="mwBgs">You're cheating me.</dt><dd id="mwBgw">속이지 마세요. (<i id="mwBg0">sogiji maseyo</i>)</dd>
+<dt id="mwBg4">I'm not interested.</dt><dd id="mwBg8">관심 없습니다. (<i id="mwBhA">gwansim eopseumnida.</i>)</dd>
+<dt id="mwBhE">OK, I'll take it.</dt><dd id="mwBhI">좋습니다, 사겠습니다. (<i id="mwBhM">joseumnida, sagetseumnida</i>)</dd>
+<dt id="mwBhQ">Can I have a bag?</dt><dd id="mwBhU">가방을 살 수 있습니까? (<i id="mwBhY">gabang-eul sal su itseumnikka?</i>)</dd>
+<dt id="mwBhc">Do you ship (overseas)?</dt><dd id="mwBhg">(해외로) 발송합니까? (<i id="mwBhk">(hae-oero) balsonghamnikka?</i>)</dd>
+<dt id="mwBho">I need...</dt><dd id="mwBhs">저는 ...이 필요합니다 (<i id="mwBhw">jeoneun ...i piryohamnida</i>)</dd>
+<dt id="mwBh0">...toothpaste.</dt><dd id="mwBh4">...치약. (<i id="mwBh8">...chiyak</i>)</dd>
+<dt id="mwBiA">...a toothbrush.</dt><dd id="mwBiE">...칫솔. (<i id="mwBiI">...chitsol</i>)</dd>
+<dt id="mwBiM">...tampons.</dt><dd id="mwBiQ">...탐폰. (<i id="mwBiU">...tampon</i>)</dd>
+<dt id="mwBiY">...soap.</dt><dd id="mwBic">...비누. (<i id="mwBig">...binu</i>)</dd>
+<dt id="mwBik">...shampoo.</dt><dd id="mwBio">...샴푸. (<i id="mwBis">...syampu</i>)</dd>
+<dt id="mwBiw">...pain reliever. (<i id="mwBi0">e.g., aspirin or ibuprofen</i>)</dt><dd id="mwBi4">...진통제. (<i id="mwBi8">아스피린 or 항 염증제</i>) (<i id="mwBjA">...jintongje. (aseupirin or hang yeomjeungje)</i>)</dd>
+<dt id="mwBjE">...cold medicine.</dt><dd id="mwBjI">...감기약. (<i id="mwBjM">...gamgiyak</i>)</dd>
+<dt id="mwBjQ">...stomach medicine.</dt><dd id="mwBjU">...위약. (<i id="mwBjY">...wiyak</i>)</dd>
+<dt id="mwBjc">...a razor.</dt><dd id="mwBjg">...면도기. (<i id="mwBjk">...myeondogi</i>)</dd>
+<dt id="mwBjo">...an umbrella.</dt><dd id="mwBjs">...우산. (<i id="mwBjw">...usan</i>)</dd>
+<dt id="mwBj0">...sunblock lotion.</dt><dd id="mwBj4">...햇볕 차단 로션. (<i id="mwBj8">...haeppyeot chadan rosyeon</i>)</dd>
+<dt id="mwBkA">...a postcard.</dt><dd id="mwBkE">...우편엽서. (<i id="mwBkI">...upyeonnyeopseo</i>)</dd>
+<dt id="mwBkM">...postage stamps.</dt><dd id="mwBkQ">...우표. (<i id="mwBkU">...upyo</i>)</dd>
+<dt id="mwBkY">...batteries.</dt><dd id="mwBkc">...전지. (<i id="mwBkg">...jeonji</i>) / 배터리 (<i id="mwBkk">...baeteori</i>)</dd>
+<dt id="mwBko">...writing paper.</dt><dd id="mwBks">...편지지. (<i id="mwBkw">...pyonjiji</i>)</dd>
+<dt id="mwBk0">...a pen.</dt><dd id="mwBk4">...펜. (<i id="mwBk8">...pen</i>)</dd>
+<dt id="mwBlA">...English-language books.</dt><dd id="mwBlE">...영자 책. (<i id="mwBlI">...yeongja chaek</i>), ...영어로 된 책. (<i id="mwBlM">...yeong-eoro doen chaek</i>)</dd>
+<dt id="mwBlQ">...English-language magazines.</dt><dd id="mwBlU">...영자 잡지. (<i id="mwBlY">...yeongja japji</i>), ...영어 잡지. (<i id="mwBlc">...yeong-eo japji</i>)</dd>
+<dt id="mwBlg">...an English-language newspaper.</dt><dd id="mwBlk">...영자 신문. (<i id="mwBlo">...yeongja sinmun</i>), ...영어 신문. (<i id="mwBls">...yeong-eo sinmun</i>)</dd>
+<dt id="mwBlw">...an English-English dictionary.</dt><dd id="mwBl0">...영영 사전. (<i id="mwBl4">...yeong-yeong sajeon</i>)</dd></dl>
+
+</section><section data-mw-section-id="34" id="mwBl8" aria-labelledby="Driving"><div class="mw-heading mw-heading3"><h3 id="Driving">Driving</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=34" title="Edit section: Driving"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<dl id="mwBmA"><dt id="mwBmE">I want to rent a car.</dt><dd id="mwBmI">차를 빌리고 싶습니다. (<i id="mwBmM">chareul billigo sipseumnida</i>)</dd>
+<dt id="mwBmQ">Can I get insurance?</dt><dd id="mwBmU">보험을 들 수 있습니까? (<i id="mwBmY">boheomeul deul su isseumnikka?</i>)</dd>
+<dt id="mwBmc">stop (<i id="mwBmg">on a street sign</i>)</dt><dd id="mwBmk">정지 (<i id="mwBmo">jeongji</i>)</dd>
+<dt id="mwBms">one way</dt><dd id="mwBmw">일방 통행 (<i id="mwBm0">ilbang tonghaeng</i>)</dd>
+<dt id="mwBm4">yield</dt><dd id="mwBm8">양보 (<i id="mwBnA">yangbo</i>)</dd>
+<dt id="mwBnE">danger</dt><dd id="mwBnI">위험 (<i id="mwBnM">wiheom</i>)</dd>
+<dt id="mwBnQ">no parking</dt><dd id="mwBnU">주차 금지 (<i id="mwBnY">jucha geumji</i>)</dd>
+<dt id="mwBnc">speed limit</dt><dd id="mwBng">속도 제한 (<i id="mwBnk">sokdo jehan</i>)</dd>
+<dt id="mwBno">Children Protection Zone</dt><dd id="mwBns">어린이 보호구역 (<i id="mwBnw">eorini bohoguyeok</i>), 어린이보호 (<i id="mwBn0">eoriniboho</i>, usually on signs)</dd>
+<dt id="mwBn4">___ kilometers per hour</dt><dd id="mwBn8">시속 ___킬로미터 (<i id="mwBoA">sisok ___killomiteo</i>)</dd>
+<dt id="mwBoE">gas (<i id="mwBoI">petrol</i>) station</dt><dd id="mwBoM">주유소 (<i id="mwBoQ">juyuso</i>)</dd>
+<dt id="mwBoU">petrol</dt><dd id="mwBoY">휘발유 (<i id="mwBoc">hwiballyu</i>)</dd>
+<dt id="mwBog">diesel</dt><dd id="mwBok">디젤유 (<i id="mwBoo">dijellyu</i>)</dd></dl>
+
+</section><section data-mw-section-id="35" id="mwBos" aria-labelledby="Authorities"><div class="mw-heading mw-heading3"><h3 id="Authorities">Authorities</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=35" title="Edit section: Authorities"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb" id="mwBow"><a href="https://en.wikivoyage.org/wiki/File:Border_guards_(6647232701).jpg" class="mw-file-description" id="mwBo0"><img resource="https://en.wikivoyage.org/wiki/File:Border_guards_(6647232701).jpg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Border_guards_%286647232701%29.jpg/330px-Border_guards_%286647232701%29.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Border_guards_%286647232701%29.jpg/960px-Border_guards_%286647232701%29.jpg?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="3456" data-file-height="2304" data-file-type="bitmap" height="200" width="300" class="mw-file-element" id="mwBo4"/></a><figcaption id="mwBo8">North Korean border guards, <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Panmunjeom" title="Panmunjeom" id="mwBpA">Panmunjeom</a></figcaption></figure>
+<dl id="mwBpE"><dt id="mwBpI">I haven't done anything wrong.</dt><dd id="mwBpM">저는 잘못한 것이 없습니다. (<i id="mwBpQ">jeoneun jalmotan geosi eopseumnida</i>)</dd>
+<dt id="mwBpU">It was a misunderstanding.</dt><dd id="mwBpY">그것은 오해였습니다. (<i id="mwBpc">geugeoseun ohaeyeotseumnida</i>)</dd>
+<dt id="mwBpg">Where are you taking me?</dt><dd id="mwBpk">저를 어디로 데려가십니까? (<i id="mwBpo">jeoreul eodiro deryeogasimnikka?</i>)</dd>
+<dt id="mwBps">Am I under arrest?</dt><dd id="mwBpw">저는 체포됩니까? (<i id="mwBp0">jeoneun chepodoemnikka?</i>)</dd>
+<dt id="mwBp4">I am an American/Australian/British/Canadian citizen.</dt><dd id="mwBp8">저는 미국/호주/영국/캐나다 국민입니다. (<i id="mwBqA">jeoneun miguk/hoju/yeongguk/kaenada gungminimnida</i>)</dd>
+<dt id="mwBqE">I want to talk to the American/Australian/British/Canadian embassy/consulate.</dt><dd id="mwBqI">미국/호주/영국/캐나다 대사관/영사관 에 이야기하고 싶습니다. (<i id="mwBqM">miguk/hoju/yeongguk/kaenada daesagwan/yeongsagwan e iyagihago sipseumnida</i>)</dd>
+<dt id="mwBqQ">I want to talk to a lawyer.</dt><dd id="mwBqU">변호사에게 이야기하고 싶습니다. (<i id="mwBqY">byeonhosa-ege iyagihago sipseumnida</i>)</dd>
+<dt id="mwBqc">Can I just pay a fine now?</dt><dd id="mwBqg">지금 벌금을 내도 되겠습니까? (<i id="mwBqk">jigeum beolgeumeul naedo doegetseumnikka?</i>)</dd></dl>
+
+</section></section><section data-mw-section-id="36" id="mwBqo" aria-labelledby="Learning_more"><div class="mw-heading mw-heading2"><h2 id="Learning_more">Learning more</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=36" title="Edit section: Learning more"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwBqs">For those wishing to assess their Korean language proficiency, the main proficiency test is the Test of Proficiency in Korean (TOPIK). It assesses the language skills of non-native speakers in reading, writing, and listening. TOPIK is administered by the National Institute of International Education (NIIED). The test is divided into two main levels (TOPIK I and TOPIK II), with subdivisions into six levels.</p>
+
+<ul id="mwBqw"><li id="mwBq0"><a rel="mw:ExtLink nofollow" href="https://world.kbs.co.kr/service/contents_list.htm?lang=e&amp;menu_cate=learnkorean" class="external text" id="mwBq4">Learn Korean - KBS World</a></li>
+<li id="mwBq8"><a rel="mw:ExtLink nofollow" href="https://korean.dict.naver.com/koendict/#/main" class="external text" id="mwBrA">Naver Korean-English Dictionary</a></li>
+<li id="mwBrE"><a rel="mw:ExtLink nofollow" href="https://krdict.korean.go.kr/eng/mainAction" class="external text" id="mwBrI">Korean-English Learners' Dictionary</a></li></ul>
+
+</section><section data-mw-section-id="37" id="mwBrM" aria-labelledby="External_links"><div class="mw-heading mw-heading2"><h2 id="External_links">External links</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Korean_phrasebook&amp;action=edit&amp;section=37" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul id="mwBrQ"><li id="mwBrU"><a rel="mw:WikiLink/Interwiki" href="https://en.wikibooks.org/wiki/Korean" title="wikibooks:Korean" class="extiw" id="mwBrY">wikibooks:Korean</a></li>
+<li id="mwBrc"><a rel="mw:WikiLink/Interwiki" href="https://en.wiktionary.org/wiki/Category:Korean%20language" title="wiktionary:Category:Korean language" class="extiw" id="mwBrg">Wiktionary:Korean language</a></li></ul>
+
+<span class="mw-empty-elt" about="#mwt14" typeof="mw:Transclusion" id="mwBrk" data-mw='{"parts":[{"template":{"target":{"wt":"guidephrasebook","href":"./Template:Guidephrasebook"},"params":{},"i":0}}]}'><style data-mw-deduplicate="TemplateStyles:r5169440" typeof="mw:Extension/templatestyles" about="#mwt15" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Article status/style.css"}}'>.mw-parser-output .article-status{width:60%;background:#fff;color:black;margin:0 auto;border:solid 2px lightblue;text-align:center;font-size:90%;font-style:italic}.mw-parser-output .article-status-disambig{border:2px dashed lightblue}.mw-parser-output .article-status-disambig td:first-child{width:48px;text-align:center}.mw-parser-output .article-status-stub{border:1px dotted lightblue;border-collapse:collapse;font-size:0.9em}.mw-parser-output .article-status-outline,.mw-parser-output .article-status-unusable{border-style:dotted}.mw-parser-output .article-status-guide{border-style:solid}.mw-parser-output .article-status-usable{border-style:dashed}.mw-parser-output .article-status-informative{border-style:dashed;border-width:4px}.mw-parser-output .article-status-star{border-style:double;border-width:6px}.mw-parser-output .article-status-extraregion{border-style:dotted;border-width:2px;border-color:lightblue}@media screen{html.skin-theme-clientpref-night .mw-parser-output .article-status{background:inherit;color:inherit}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .article-status{background:inherit;color:inherit}}</style></span><table id="guide_phrasebook" class="article-status noprint article-status-guide" about="#mwt14">
+
+<tbody><tr><td>This  <b>Korean phrasebook</b><span typeof="mw:Entity"> </span>has <b><a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Wikivoyage:Guide_articles" title="Wikivoyage:Guide articles">guide</a></b> status. It covers all the major topics for traveling without resorting to English. <a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Wikivoyage:Plunge_forward" title="Wikivoyage:Plunge forward">Please contribute</a> and help us make it a <b><a rel="mw:WikiLink" href="https://en.wikivoyage.org/wiki/Wikivoyage:Star_articles" title="Wikivoyage:Star articles">star</a></b>!</td></tr>
