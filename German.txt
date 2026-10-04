@@ -1,3 +1,29 @@
+"Introduction (Wikivoyage Phrasebook German)"|"<p>This deck has taken words outlined in the German Phrasebook of the <a href=""https://en.wikivoyage.org/wiki/Phrasebooks"">Wikivoyage Phrasebook</a> pages and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>All the vocabulary from each language has been arranged in a way that can be easily learnt from Anki, separated into decks for each language</li>
+<li>Any updates, corrections or translations to the deck will be available at <a href=""https://github.com/darigovresearch/Wikivoyage-Phrasebook-Flashcards""></a><a href=""https://github.com/darigovresearch/Wikivoyage-Phrasebook-Flashcards"">https://github.com/darigovresearch/Wikivoyage-Phrasebook-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+<li>Modifications from the original work includes typo correction, card merging &amp; consistency consolidation (see the commit history for for the specific changes)</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>Usage</h2>
+<p>If you want to just learn the words, download <a href=""https://apps.ankiweb.net/"">Anki</a> on your device of choice and open the .apkg file to add it into your collection. You can choose to download the whole texbook as a single deck or you can download it a language at a time from the individual language files in the ""APKG"" folder for the relevant language. If you wish to build the deck from scratch you will need to import the .txt file via the desktop with HTML enabled and the separator to be ""|"".</p>
+<p>Watch our video on an Introduction to Anki for a complete overview -&gt; <a href=""https://www.youtube.com/watch?v=Dji_h7PILrw"">https://www.youtube.com/watch?v=Dji_h7PILrw</a></p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this repository is covered by the following licence:</p>
+<p>This work was based on the work <em><strong>Phrasebooks</strong></em> by <a href=""https://en.wikivoyage.org/wiki/Phrasebooks"">Wikivoyage</a>, licensed under a <a href=""https://creativecommons.org/licenses/by-sa/4.0/"">Creative Commons Attribution-ShareAlike License</a>.</p>
+<p>To see this work in full go to <a href=""https://en.wikivoyage.org/wiki/Phrasebooks"">https://en.wikivoyage.org/wiki/Phrasebooks</a></p>
+<hr>
+<b>
+<div align=""center"">
+    The creation, maintenance and continued development of this project is made possible
+    <br>
+    thanks to our <a href=""http://patreon.com/darigovresearch"">Patreon</a> and <a href=""https://www.darigovresearch.com/donate"">Direct</a> supporters!
+    <br>
+    Consider joining them if you think this project has earned it!
+</div>
+</b>"
 <div id=""mw-content-text"" class=""mw-body-content""><div class=""mw-content-ltr mw-parser-output"" lang=""en"" dir=""ltr"" data-mw-parsoid-version=""0.24.0.0-alpha22"" data-mw-html-version=""2.8.0""><section data-mw-section-id=""0"" id=""mwAQ""><dl id=""mwAg""><dd id=""mwAw""><i id=""mwBA"">For a phrasebook specifically about the German dialects spoken in Switzerland, see <a rel=""mw:WikiLink"" href=""https://en.wikivoyage.org/wiki/Swiss-German_phrasebook"" title=""Swiss-German phrasebook"" id=""mwBQ"">Swiss-German phrasebook</a>.</i></dd></dl>
 <p id=""mwBg""><span class=""countryData"" data-country-calling-code=""+7"" data-local-dialing-code="""" data-currency=""RUB, ₽"" style=""display:none;"" about=""#mwt1"" typeof=""mw:Transclusion"" id=""mwBw"" data-mw='{""parts"":[{""template"":{""target"":{""wt"":""pagebanner"",""href"":""./Template:Pagebanner""},""params"":{""1"":{""wt"":""Goethe Faust banner.jpg""}},""i"":0}}]}'></span><meta typeof=""mw:Extension/indicator"" about=""#mwt1"" id=""mwCA"" data-mw='{""name"":""indicator"",""attrs"":{""name"":""GPX""},""body"":{""extsrc"":""[[File:GPX Document rev3-20x20.png|20px|link=https://tools.wmflabs.org/wikivoyage/w/poi2gpx.php?print=gpx&amp;lang={{CONTENTLANG}}&amp;name={{FULLPAGENAMEE}}|Download GPX file for this article]]""}}'/><link rel=""mw:PageProp/Category"" href=""./Category:Has_custom_banner"" about=""#mwt1"" id=""mwCQ""/></p>
 <figure typeof=""mw:File/Thumb"" id=""mwCg""><a href=""https://en.wikivoyage.org/wiki/File:Legal_status_of_German_in_the_world.svg"" class=""mw-file-description"" id=""mwCw""><img resource=""https://en.wikivoyage.org/wiki/File:Legal_status_of_German_in_the_world.svg"" src=""//thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Legal_status_of_German_in_the_world.svg/500px-Legal_status_of_German_in_the_world.svg.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail"" decoding=""async"" loading=""lazy"" srcset=""//thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Legal_status_of_German_in_the_world.svg/1280px-Legal_status_of_German_in_the_world.svg.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x"" data-file-width=""1326"" data-file-height=""601"" data-file-type=""drawing"" height=""227"" width=""500"" class=""mw-file-element"" id=""mwDA""/></a><figcaption id=""mwDQ"">German Speaking Areas.</figcaption></figure>
